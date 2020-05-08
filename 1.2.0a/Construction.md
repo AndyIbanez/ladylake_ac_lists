@@ -1,0 +1,236 @@
+- [ ] Green-apple basic door | 26897
+- [ ] Red zen door | 26942
+- [ ] Black thatch roof | 27018
+- [ ] Purple metal-accent door | 26926
+- [ ] Yellow large mailbox | 27001
+- [ ] Brown cobblestone exterior | 27052
+- [ ] Yellow basic door | 26963
+- [ ] Pink basic door | 26915
+- [ ] Green metal-accent door | 26892
+- [ ] Red-green imperial door | 26943
+- [ ] Pink rustic door | 26920
+- [ ] Green basic door | 26887
+- [ ] Blue basic door | 26861
+- [ ] Green square mailbox | 26982
+- [ ] White imperial door | 26950
+- [ ] Gray iron grill door | 26882
+- [ ] Yellow zen door | 26970
+- [ ] Red windowed door | 26940
+- [ ] White metal-accent door | 26954
+- [ ] Yellow square mailbox | 27003
+- [ ] Maple wooden door | 26909
+- [ ] Yellow ordinary mailbox | 27002
+- [ ] Black common exterior | 27046
+- [ ] Blue windowed door | 26869
+- [ ] Purple iron grill door | 26925
+- [ ] Black imperial door | 26856
+- [ ] Burgundy basic door | 26875
+- [ ] Log staircase | 27008
+- [ ] Ordinary mailbox | 26985
+- [ ] Blue curved shingles | 27020
+- [ ] Zen bridge | 26848
+- [ ] Pink tile roof | 27037
+- [ ] Red latticework door | 26936
+- [ ] Yellow curved shingles | 27042
+- [ ] Green vertical-panes door | 26894
+- [ ] Red fancy door | 26932
+- [ ] Log bridge | 26843
+- [ ] Gray windowed door | 26885
+- [ ] Green imperial door | 26889
+- [ ] Maple iron grill door | 26905
+- [ ] Blue fancy door | 26912
+- [ ] Red tile roof | 27040
+- [ ] Blue latticework door | 26864
+- [ ] Cyan vertical-panes door | 26877
+- [ ] Pink simple door | 26921
+- [ ] Yellow wooden mailbox | 27004
+- [ ] Blue-trim common exterior | 27050
+- [ ] Yellow stucco exterior | 27073
+- [ ] Pale-blue basic door | 26911
+- [ ] Blue vertical-panes door | 26868
+- [ ] Gray-trim common exterior | 27060
+- [ ] White ordinary mailbox | 26997
+- [ ] Purple tile roof | 27038
+- [ ] Red wooden mailbox | 26993
+- [ ] Pale-purple rustic door | 26914
+- [ ] Windowed door | 26961
+- [ ] Beige curved shingles | 27014
+- [ ] Red stone roof | 27039
+- [ ] Black ordinary mailbox | 26973
+- [ ] White basic door | 26947
+- [ ] Grey stone roof | 27032
+- [ ] Natural ramp | 27009
+- [ ] Blue large mailbox | 26975
+- [ ] Green iron grill door | 26891
+- [ ] Yellow simple door | 26968
+- [ ] Gray stucco exterior | 27059
+- [ ] Orange chalet exterior | 27063
+- [ ] Green common door | 26888
+- [ ] Pink windowed door | 26922
+- [ ] Brown latticework door | 26872
+- [ ] Green wooden door | 26896
+- [ ] Square mailbox | 26995
+- [ ] Black tile roof | 27019
+- [ ] Black common door | 26854
+- [ ] Green rustic door | 26893
+- [ ] Deep-green thatch roof | 27025
+- [ ] White simple door | 26956
+- [ ] Blue wooden door | 26870
+- [ ] Pink iron door | 26917
+- [ ] Beige wooden door | 26853
+- [ ] Chalet exterior | 27053
+- [ ] Light-green rustic door | 26904
+- [ ] White-plank ramp | 27012
+- [ ] Wooden mailbox | 27000
+- [ ] Black curved shingles | 27016
+- [ ] Fresh-grass thatch roof | 27026
+- [ ] Blue wooden mailbox | 26978
+- [ ] Dark-brown iron grill door | 26878
+- [ ] Common door | 26876
+- [ ] Brown metal-accent door | 26873
+- [ ] Rustic door | 26944
+- [ ] Blue metal-accent door | 26865
+- [ ] Yellow chalet exterior | 27074
+- [ ] Blue simple door | 26867
+- [ ] Green stone roof | 27030
+- [ ] Purple common door | 26924
+- [ ] Pink wooden door | 26923
+- [ ] Yellow tile roof | 27043
+- [ ] Chic cobblestone exterior | 27054
+- [ ] Maple windowed door | 26908
+- [ ] Pale-blue iron grill door | 26913
+- [ ] Blue steel staircase | 27005
+- [ ] Black stucco exterior | 27047
+- [ ] White wooden mailbox | 26999
+- [ ] Stone bridge | 26845
+- [ ] Wooden door | 26962
+- [ ] Latticework door | 26903
+- [ ] Blue rustic door | 26866
+- [ ] Brick staircase | 27007
+- [ ] Yellow vertical-panes door | 26969
+- [ ] Pink square mailbox | 26988
+- [ ] Black zen door | 26860
+- [ ] Gray simple door | 26884
+- [ ] Green windowed door | 26895
+- [ ] Suspension bridge | 26846
+- [ ] Yellow imperial door | 26966
+- [ ] Golden-brown thatch roof | 27027
+- [ ] White stucco exterior | 27072
+- [ ] Green wooden mailbox | 26983
+- [ ] Maple vertical-panes door | 26907
+- [ ] Orange thatch roof | 27035
+- [ ] Walnut latticework door | 26946
+- [ ] Pink wooden mailbox | 26989
+- [ ] Zen door | 26971
+- [ ] Green cobblestone exterior | 27061
+- [ ] Blue-plank ramp | 27006
+- [ ] Blue iron door | 26863
+- [ ] Black rustic door | 26858
+- [ ] Green-apple common door | 26898
+- [ ] Red-trim common exterior | 27071
+- [ ] Gray iron door | 26881
+- [ ] Red stucco exterior | 27070
+- [ ] Red iron door | 26934
+- [ ] Metal-accent door | 26910
+- [ ] Common exterior | 27056
+- [ ] Brown curved shingles | 27022
+- [ ] Black square mailbox | 26974
+- [ ] White thatch roof | 27041
+- [ ] Brown stone roof | 27023
+- [ ] Green large mailbox | 26980
+- [ ] Beige stone roof | 27015
+- [ ] Brown thatch roof | 27024
+- [ ] Gray common door | 26880
+- [ ] Beige windowed door | 26852
+- [ ] Blue ordinary mailbox | 26976
+- [ ] White common door | 26948
+- [ ] Red chalet exterior | 27067
+- [ ] Pink curved shingles | 27036
+- [ ] Deep-green simple door | 26879
+- [ ] White square mailbox | 26998
+- [ ] Red ordinary mailbox | 26991
+- [ ] Pink ordinary mailbox | 26987
+- [ ] Pink metal-accent door | 26919
+- [ ] Brown imperial door | 26871
+- [ ] Vertical-panes door | 26945
+- [ ] Beige stucco exterior | 27044
+- [ ] Blue stucco exterior | 27049
+- [ ] Brick bridge | 26841
+- [ ] Lacquered zen door | 26902
+- [ ] Red wooden door | 26941
+- [ ] White wooden door | 26959
+- [ ] Pink large mailbox | 26986
+- [ ] Pink stucco exterior | 27066
+- [ ] Blue cobblestone exterior | 27048
+- [ ] Red rustic door | 26938
+- [ ] Red metal-accent door | 26937
+- [ ] Orange cobblestone exterior | 27064
+- [ ] Brown chalet exterior | 27051
+- [ ] Green ordinary mailbox | 26981
+- [ ] Blue square mailbox | 26977
+- [ ] Blue stone roof | 27021
+- [ ] Yellow common door | 26964
+- [ ] Black chalet exterior | 27045
+- [ ] Black stone roof | 27017
+- [ ] Purple wooden door | 26930
+- [ ] Cream chalet exterior | 27057
+- [ ] White zen door | 26960
+- [ ] White iron door | 26951
+- [ ] Beige simple door | 26851
+- [ ] Green tile roof | 27031
+- [ ] Orange curved shingles | 27033
+- [ ] Purple vertical-panes door | 26928
+- [ ] White large mailbox | 26996
+- [ ] Light-blue chalet exterior | 27062
+- [ ] Basic door | 26849
+- [ ] Black fancy door | 26855
+- [ ] Wooden bridge | 26847
+- [ ] Gray thatch roof | 27028
+- [ ] Maple rustic door | 26906
+- [ ] Brown zen door | 26874
+- [ ] Chic wooden mailbox | 26979
+- [ ] Orange stone roof | 27034
+- [ ] Red steel staircase | 27010
+- [ ] Yellow iron door | 26967
+- [ ] Red large mailbox | 26990
+- [ ] Imperial door | 26899
+- [ ] Rustic mailbox | 26994
+- [ ] White vertical-panes door | 26957
+- [ ] Iron grill door | 26901
+- [ ] Gray latticework door | 26883
+- [ ] Pink fancy door | 26916
+- [ ] Gray wooden door | 26886
+- [ ] Blue common door | 26862
+- [ ] Red imperial door | 26933
+- [ ] Red common exterior | 27069
+- [ ] Green iron door | 26890
+- [ ] Red iron grill door | 26935
+- [ ] Yellow common exterior | 27075
+- [ ] White windowed door | 26958
+- [ ] White iron grill door | 26952
+- [ ] Red square mailbox | 26992
+- [ ] Stone staircase | 27011
+- [ ] Blue tile roof | 27076
+- [ ] Purple windowed door | 26929
+- [ ] Pink iron grill door | 26918
+- [ ] Black large mailbox | 26972
+- [ ] Red vertical-panes door | 26939
+- [ ] Red cobblestone exterior | 27068
+- [ ] Green curved shingles | 27029
+- [ ] White rustic door | 26955
+- [ ] Gray cobblestone exterior | 27058
+- [ ] Yellow fancy door | 26965
+- [ ] White latticework door | 26953
+- [ ] Purple simple door | 26927
+- [ ] Black latticework door | 26857
+- [ ] Red zen bridge | 26844
+- [ ] Iron bridge | 26842
+- [ ] White fancy door | 26949
+- [ ] Pink common exterior | 27065
+- [ ] Black vertical-panes door | 26859
+- [ ] Beige basic door | 26850
+- [ ] Cobblestone exterior | 27055
+- [ ] Aqua tile roof | 27013
+- [ ] Red common door | 26931
+- [ ] Large mailbox | 26984
+- [ ] Iron door | 26900

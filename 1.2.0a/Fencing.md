@@ -1,0 +1,19 @@
+- [ ] Zen fence | 23062
+- [ ] Bamboo lattice fence | 23046
+- [ ] Brick fence | 23048
+- [ ] Spiky fence | 23058
+- [ ] Vertical-board fence | 23061
+- [ ] Barbed-wire fence | 23047
+- [ ] Simple wooden fence | 23057
+- [ ] Lattice fence | 23055
+- [ ] Rope fence | 23056
+- [ ] Stone fence | 23059
+- [ ] Imperial fence | 23052
+- [ ] Straw fence | 23060
+- [ ] Iron fence | 23053
+- [ ] Wedding fence | 27108
+- [ ] Corral fence | 23050
+- [ ] Bunny Day fence | 23049
+- [ ] Hedge | 27107
+- [ ] Country fence | 23051
+- [ ] Iron-and-stone fence | 23054
