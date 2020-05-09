@@ -20,9 +20,11 @@ def cleanLine(line)
 	return splatPipe[0]
 end
 
-lines.each do |line|
-	firstPart = line[0..4]
-	if firstPart == "- [ ]"
-		puts cleanLine(line)
+File.open(newFilename, "w") do |file|
+	lines.each do |line|
+		firstPart = line[0..4]
+				if firstPart == "- [ ]"
+			file.write cleanLine(line) + "\n"
+		end
 	end
 end

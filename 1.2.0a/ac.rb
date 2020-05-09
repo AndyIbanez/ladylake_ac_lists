@@ -1,5 +1,7 @@
 #!/usr/bin/ruby
 
+# This script will take in the "items" file from Nook Plaza and then process it to create different Markdown check-list files for each category.
+
 require "JSON"
 require "Set"
 
