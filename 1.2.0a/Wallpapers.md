@@ -1,218 +1,218 @@
-- [ ] Abstract wall | 22502
-- [ ] Ancient wall | 22503
+- [x] Abstract wall | 22502
+- [x] Ancient wall | 22503
 - [ ] Apple wall | 22504
-- [ ] Aqua tile wall | 22505
-- [ ] Arched-window wall | 22506
+- [x] Aqua tile wall | 22505
+- [x] Arched-window wall | 22506
 - [ ] Autumn wall | 22507
-- [ ] Backyard-fence wall | 22508
+- [x] Backyard-fence wall | 22508
 - [ ] Bamboo wall | 22509
 - [ ] Bamboo-grove wall | 22510
-- [ ] Bamboo-screen wall | 22511
-- [ ] Bank-vault wall | 22512
-- [ ] Basic wall | 22513
-- [ ] Beaded-curtain wall | 22514
-- [ ] Beige art-deco wall | 22515
-- [ ] Beige blossoming wall | 22516
+- [x] Bamboo-screen wall | 22511
+- [x] Bank-vault wall | 22512
+- [x] Basic wall | 22513
+- [x] Beaded-curtain wall | 22514
+- [x] Beige art-deco wall | 22515
+- [x] Beige blossoming wall | 22516
 - [ ] Beige desert-tile wall | 22517
-- [ ] Black botanical-tile wall | 22518
-- [ ] Black hallway wall | 22519
-- [ ] Black perforated-board wall | 22520
-- [ ] Black two-toned tile wall | 22521
-- [ ] Black-brick wall | 22522
-- [ ] Black-crown wall | 22523
-- [ ] Blackboard wall | 22524
-- [ ] Blue blossoming wall | 22525
-- [ ] Blue camo wall | 22526
-- [ ] Blue delicate-blooms wall | 22527
-- [ ] Blue desert-tile wall | 22528
-- [ ] Blue diner wall | 22529
+- [x] Black botanical-tile wall | 22518
+- [x] Black hallway wall | 22519
+- [x] Black perforated-board wall | 22520
+- [x] Black two-toned tile wall | 22521
+- [x] Black-brick wall | 22522
+- [x] Black-crown wall | 22523
+- [x] Blackboard wall | 22524
+- [x] Blue blossoming wall | 22525
+- [x] Blue camo wall | 22526
+- [x] Blue delicate-blooms wall | 22527
+- [x] Blue desert-tile wall | 22528
+- [x] Blue diner wall | 22529
 - [ ] Blue flower-print wall | 22530
-- [ ] Blue heart-pattern wall | 22531
-- [ ] Blue honeycomb-tile wall | 22532
-- [ ] Blue intricate wall | 22533
-- [ ] Blue molded-panel wall | 22534
-- [ ] Blue painted-wood wall | 22535
-- [ ] Blue playroom wall | 22536
-- [ ] Blue quilt wall | 22537
-- [ ] Blue shanty wall | 22538
+- [x] Blue heart-pattern wall | 22531
+- [x] Blue honeycomb-tile wall | 22532
+- [x] Blue intricate wall | 22533
+- [x] Blue molded-panel wall | 22534
+- [x] Blue painted-wood wall | 22535
+- [x] Blue playroom wall | 22536
+- [x] Blue quilt wall | 22537
+- [x] Blue shanty wall | 22538
 - [ ] Blue simple-cloth wall | 22539
-- [ ] Blue subway-tile wall | 22540
-- [ ] Blue tile wall | 22541
-- [ ] Blue two-toned tile wall | 22542
-- [ ] Blue-crown wall | 22543
-- [ ] Blue-paint wall | 22544
-- [ ] Blue-rose wall | 22545
+- [x] Blue subway-tile wall | 22540
+- [x] Blue tile wall | 22541
+- [x] Blue two-toned tile wall | 22542
+- [x] Blue-crown wall | 22543
+- [x] Blue-paint wall | 22544
+- [x] Blue-rose wall | 22545
 - [ ] Blue-striped wall | 22546
-- [ ] Botanical-tile wall | 22547
+- [x] Botanical-tile wall | 22547
 - [ ] Brown botanical-tile wall | 22548
-- [ ] Brown diner wall | 22549
-- [ ] Brown hallway wall | 22550
+- [x] Brown diner wall | 22549
+- [x] Brown hallway wall | 22550
 - [ ] Brown herringbone wall | 22551
-- [ ] Brown shanty wall | 22552
+- [x] Brown shanty wall | 22552
 - [ ] Brown wedding wall | 27096
 - [ ] Brown-brick wall | 22553
-- [ ] Brown-crown wall | 22554
-- [ ] Bunny Day wall | 22555
+- [x] Brown-crown wall | 22554
+- [x] Bunny Day wall | 22555
 - [ ] Butterflies wall | 22556
 - [ ] Cabin wall | 22557
-- [ ] Café-curtain wall | 22558
+- [x] Café-curtain wall | 22558
 - [ ] Camo wall | 22559
-- [ ] Chain-link fence | 22560
+- [x] Chain-link fence | 22560
 - [ ] Cherry wall | 22561
-- [ ] Cherry-blossom-trees wall | 22562
-- [ ] Chic tearoom wall | 22563
-- [ ] Chic wall | 22564
-- [ ] Chocolate hallway wall | 22565
-- [ ] Chocolate herringbone wall | 22566
-- [ ] Circuit-board wall | 22567
+- [x] Cherry-blossom-trees wall | 22562
+- [x] Chic tearoom wall | 22563
+- [x] Chic wall | 22564
+- [x] Chocolate hallway wall | 22565
+- [x] Chocolate herringbone wall | 22566
+- [x] Circuit-board wall | 22567
 - [ ] Cityscape wall | 22568
 - [ ] Classic-library wall | 22569
-- [ ] Colorful puzzle wall | 22570
-- [ ] Colorful-tile wall | 22571
-- [ ] Common wall | 22572
-- [ ] Concrete wall | 22573
-- [ ] Construction-site wall | 22574
-- [ ] Crepe-design wall | 22575
-- [ ] Cute blue wall | 22576
-- [ ] Cute red wall | 22577
-- [ ] Cute white wall | 22578
-- [ ] Cute yellow wall | 22579
+- [x] Colorful puzzle wall | 22570
+- [x] Colorful-tile wall | 22571
+- [x] Common wall | 22572
+- [x] Concrete wall | 22573
+- [x] Construction-site wall | 22574
+- [x] Crepe-design wall | 22575
+- [x] Cute blue wall | 22576
+- [x] Cute red wall | 22577
+- [x] Cute white wall | 22578
+- [x] Cute yellow wall | 22579
 - [ ] Dark wooden-mosaic wall | 22580
 - [ ] Dark-chocolate wall | 22581
-- [ ] Desert vista | 22582
-- [ ] Dig-site wall | 22583
-- [ ] Dirt-clod wall | 22584
-- [ ] Dojo wall | 22585
-- [ ] Dungeon wall | 22586
-- [ ] Exquisite wall | 22587
-- [ ] Forest wall | 22588
+- [x] Desert vista | 22582
+- [x] Dig-site wall | 22583
+- [x] Dirt-clod wall | 22584
+- [x] Dojo wall | 22585
+- [x] Dungeon wall | 22586
+- [x] Exquisite wall | 22587
+- [x] Forest wall | 22588
 - [ ] Future-tech wall | 22589
 - [ ] Garbage-heap wall | 22590
 - [ ] Gold-screen wall | 22591
 - [ ] Golden wall | 22592
-- [ ] Gray diner wall | 22593
+- [x] Gray diner wall | 22593
 - [ ] Gray molded-panel wall | 22594
-- [ ] Gray shanty wall | 22595
-- [ ] Gray-striped wall | 22596
-- [ ] Green blossoming wall | 22597
-- [ ] Green delicate-blooms wall | 22598
-- [ ] Green flower-print wall | 22599
+- [x] Gray shanty wall | 22595
+- [x] Gray-striped wall | 22596
+- [x] Green blossoming wall | 22597
+- [x] Green delicate-blooms wall | 22598
+- [x] Green flower-print wall | 22599
 - [ ] Green honeycomb-tile wall | 22600
-- [ ] Green intricate wall | 22601
-- [ ] Green molded-panel wall | 22602
-- [ ] Green painted-wood wall | 22603
-- [ ] Green playroom wall | 22604
+- [x] Green intricate wall | 22601
+- [x] Green molded-panel wall | 22602
+- [x] Green painted-wood wall | 22603
+- [x] Green playroom wall | 22604
 - [ ] Green wedding wall | 27097
-- [ ] Green-paint wall | 22605
-- [ ] Groovy wall | 22606
-- [ ] Harmonious wall | 22607
-- [ ] Heavy-curtain wall | 22608
+- [x] Green-paint wall | 22605
+- [x] Groovy wall | 22606
+- [x] Harmonious wall | 22607
+- [x] Heavy-curtain wall | 22608
 - [ ] Honeycomb wall | 22609
-- [ ] Honeycomb-tile wall | 22610
+- [x] Honeycomb-tile wall | 22610
 - [ ] Ice wall | 22611
 - [ ] Iceberg wall | 22612
-- [ ] Imperial wall | 22613
-- [ ] Industrial wall | 22614
+- [x] Imperial wall | 22613
+- [x] Industrial wall | 22614
 - [ ] Ivy wall | 22615
 - [ ] Jingle wall | 22616
 - [ ] Jungle wall | 22617
-- [ ] Kisses wall | 22618
-- [ ] Laboratory wall | 22619
-- [ ] Lattice wall | 22620
-- [ ] Magma-cavern wall | 22621
-- [ ] Manga-library wall | 22622
-- [ ] Mangrove wall | 22623
-- [ ] Marine pop wall | 22624
+- [x] Kisses wall | 22618
+- [x] Laboratory wall | 22619
+- [x] Lattice wall | 22620
+- [x] Magma-cavern wall | 22621
+- [x] Manga-library wall | 22622
+- [x] Mangrove wall | 22623
+- [x] Marine pop wall | 22624
 - [ ] Meadow vista | 22625
 - [ ] Misty-garden wall | 22626
-- [ ] Mod wall | 22627
-- [ ] Modern shoji-screen wall | 22628
-- [ ] Modern tearoom wall | 22629
+- [x] Mod wall | 22627
+- [x] Modern shoji-screen wall | 22628
+- [x] Modern tearoom wall | 22629
 - [ ] Modern wood wall | 22630
-- [ ] Monochromatic dotted wall | 22631
+- [x] Monochromatic dotted wall | 22631
 - [ ] Monochromatic-tile wall | 22632
 - [ ] Mortar wall | 22633
 - [ ] Mosaic-tile wall | 22634
-- [ ] Mossy-garden wall | 22635
-- [ ] Mush wall | 22636
+- [x] Mossy-garden wall | 22635
+- [x] Mush wall | 22636
 - [ ] Nook Inc. wall | 22637
-- [ ] Ocean-horizon wall | 22638
-- [ ] Office wall | 22639
-- [ ] Old wallpaper | 22640
-- [ ] Olive desert-tile wall | 22641
-- [ ] Orange camo wall | 22642
-- [ ] Orange molded-panel wall | 22643
+- [x] Ocean-horizon wall | 22638
+- [x] Office wall | 22639
+- [x] Old wallpaper | 22640
+- [x] Olive desert-tile wall | 22641
+- [x] Orange camo wall | 22642
+- [x] Orange molded-panel wall | 22643
 - [ ] Orange wall | 22644
-- [ ] Orange-paint wall | 22645
-- [ ] Paintball wall | 22646
-- [ ] Palace wall | 22647
+- [x] Orange-paint wall | 22645
+- [x] Paintball wall | 22646
+- [x] Palace wall | 22647
 - [ ] Party wall | 22648
-- [ ] Pastel dotted wall | 22649
-- [ ] Pastel puzzle wall | 22650
+- [x] Pastel dotted wall | 22649
+- [x] Pastel puzzle wall | 22650
 - [ ] Peach two-toned tile wall | 22651
 - [ ] Peach wall | 22652
 - [ ] Pear wall | 22653
-- [ ] Perforated-board wall | 22654
-- [ ] Pink blossoming wall | 22655
+- [x] Perforated-board wall | 22654
+- [x] Pink blossoming wall | 22655
 - [ ] Pink diner wall | 22656
-- [ ] Pink flower-print wall | 22657
-- [ ] Pink heart-pattern wall | 22658
-- [ ] Pink painted-wood wall | 22659
-- [ ] Pink playroom wall | 22660
-- [ ] Pink quilt wall | 22661
-- [ ] Pink shanty wall | 22662
-- [ ] Pink simple-cloth wall | 22663
-- [ ] Pink-crown wall | 22664
-- [ ] Pink-striped wall | 22665
-- [ ] Purple camo wall | 22666
-- [ ] Purple desert-tile wall | 22667
-- [ ] Purple dotted wall | 22668
+- [x] Pink flower-print wall | 22657
+- [x] Pink heart-pattern wall | 22658
+- [x] Pink painted-wood wall | 22659
+- [x] Pink playroom wall | 22660
+- [x] Pink quilt wall | 22661
+- [x] Pink shanty wall | 22662
+- [x] Pink simple-cloth wall | 22663
+- [x] Pink-crown wall | 22664
+- [x] Pink-striped wall | 22665
+- [x] Purple camo wall | 22666
+- [x] Purple desert-tile wall | 22667
+- [x] Purple dotted wall | 22668
 - [ ] Purple puzzle wall | 22669
-- [ ] Purple quilt wall | 22670
-- [ ] Purple-rose wall | 22671
-- [ ] Rammed-earth wall | 22672
-- [ ] Ramshackle wall | 22673
-- [ ] Red art-deco wall | 22674
-- [ ] Red delicate-blooms wall | 22675
+- [x] Purple quilt wall | 22670
+- [x] Purple-rose wall | 22671
+- [x] Rammed-earth wall | 22672
+- [x] Ramshackle wall | 22673
+- [x] Red art-deco wall | 22674
+- [x] Red delicate-blooms wall | 22675
 - [ ] Red dotted wall | 22676
-- [ ] Red heart-pattern wall | 22677
-- [ ] Red intricate wall | 22678
-- [ ] Red perforated-board wall | 22679
-- [ ] Red two-toned tile wall | 22680
-- [ ] Red-brick wall | 22681
-- [ ] Retro flower-print wall | 22682
+- [x] Red heart-pattern wall | 22677
+- [x] Red intricate wall | 22678
+- [x] Red perforated-board wall | 22679
+- [x] Red two-toned tile wall | 22680
+- [x] Red-brick wall | 22681
+- [x] Retro flower-print wall | 22682
 - [ ] Rice-paddy wall | 22683
-- [ ] Ringside seating | 22684
-- [ ] Rock-climbing wall | 22685
-- [ ] Rose wall | 22686
+- [x] Ringside seating | 22684
+- [x] Rock-climbing wall | 22685
+- [x] Rose wall | 22686
 - [ ] Ruins wall | 22687
 - [ ] Rustic-stone wall | 22688
-- [ ] Sakura-wood wall | 22689
-- [ ] Sci-fi wall | 22690
-- [ ] Screen wall | 22691
-- [ ] Sea view | 22692
-- [ ] Security-monitors wall | 22693
-- [ ] Sepia puzzle wall | 22694
-- [ ] Server-room wall | 22695
-- [ ] Shoji screen | 22696
+- [x] Sakura-wood wall | 22689
+- [x] Sci-fi wall | 22690
+- [x] Screen wall | 22691
+- [x] Sea view | 22692
+- [x] Security-monitors wall | 22693
+- [x] Sepia puzzle wall | 22694
+- [x] Server-room wall | 22695
+- [x] Shoji screen | 22696
 - [ ] Shutter wall | 22697
 - [ ] Ski-slope wall | 22698
-- [ ] Skull wall | 22699
+- [x] Skull wall | 22699
 - [ ] Sky wall | 22700
-- [ ] Skyscraper wall | 22701
+- [x] Skyscraper wall | 22701
 - [ ] Snowflake wall | 22702
-- [ ] Soothing tearoom wall | 22703
+- [x] Soothing tearoom wall | 22703
 - [ ] Stacked-wood wall | 22704
-- [ ] Stadium wall | 22705
-- [ ] Standard tearoom wall | 22706
-- [ ] Starry wall | 22707
-- [ ] Starry-sky wall | 22708
-- [ ] Stately wall | 22709
+- [x] Stadium wall | 22705
+- [x] Standard tearoom wall | 22706
+- [x] Starry wall | 22707
+- [x] Starry-sky wall | 22708
+- [x] Stately wall | 22709
 - [ ] Steel-frame wall | 22710
 - [ ] Stone wall | 22711
-- [ ] Stormy-night wall | 22712
-- [ ] Straw wall | 22713
-- [ ] Strawberry-chocolate wall | 22714
+- [x] Stormy-night wall | 22712
+- [x] Straw wall | 22713
+- [x] Strawberry-chocolate wall | 22714
 - [ ] Street-art wall | 22715
 - [ ] Summit wall | 22716
 - [ ] Tree-lined wall | 22717
@@ -220,28 +220,28 @@
 - [ ] Underwater wall | 22719
 - [ ] Wavy-tile wall | 22720
 - [ ] Wedding-party wall | 27098
-- [ ] Western vista | 22721
-- [ ] White botanical-tile wall | 22722
-- [ ] White delicate-blooms wall | 22723
-- [ ] White hallway wall | 22724
-- [ ] White honeycomb-tile wall | 22725
+- [x] Western vista | 22721
+- [x] White botanical-tile wall | 22722
+- [x] White delicate-blooms wall | 22723
+- [x] White hallway wall | 22724
+- [x] White honeycomb-tile wall | 22725
 - [ ] White painted-wood wall | 22726
-- [ ] White perforated-board wall | 22727
-- [ ] White simple-cloth wall | 22728
-- [ ] White subway-tile wall | 22729
+- [x] White perforated-board wall | 22727
+- [x] White simple-cloth wall | 22728
+- [x] White subway-tile wall | 22729
 - [ ] White wedding wall | 27099
-- [ ] White-brick wall | 22730
-- [ ] White-chocolate wall | 22731
-- [ ] White-rose wall | 22732
+- [x] White-brick wall | 22730
+- [x] White-chocolate wall | 22731
+- [x] White-rose wall | 22732
 - [ ] Wild-wood wall | 22733
-- [ ] Wooden-knot wall | 22734
+- [x] Wooden-knot wall | 22734
 - [ ] Wooden-mosaic wall | 22735
 - [ ] Woodland wall | 22736
 - [ ] Yellow flower-print wall | 22737
-- [ ] Yellow heart-pattern wall | 22738
-- [ ] Yellow intricate wall | 22739
-- [ ] Yellow playroom wall | 22740
-- [ ] Yellow quilt wall | 22741
-- [ ] Yellow simple-cloth wall | 22742
-- [ ] Yellow-paint wall | 22743
-- [ ] Yellow-striped wall | 22744
+- [x] Yellow heart-pattern wall | 22738
+- [x] Yellow intricate wall | 22739
+- [x] Yellow playroom wall | 22740
+- [x] Yellow quilt wall | 22741
+- [x] Yellow simple-cloth wall | 22742
+- [x] Yellow-paint wall | 22743
+- [x] Yellow-striped wall | 22744
