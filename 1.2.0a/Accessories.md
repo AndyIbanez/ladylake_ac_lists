@@ -218,5 +218,5 @@
 - [x] Triangle shades (Green) | 60466
 - [x] Triangle shades (White) | 60467
 - [x] Triangle shades (Black) | 60468
-- [ ] Wooden-frame glasses (Brown) | 60469
-- [ ] Wooden-frame glasses (Dark brown) | 60470
+- [x] Wooden-frame glasses (Brown) | 60469
+- [x] Wooden-frame glasses (Dark brown) | 60470
