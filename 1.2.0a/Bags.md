@@ -1,96 +1,96 @@
-- [ ] Acorn pochette (Brown) | 25053
-- [ ] Basket pack (Green) | 25054
+- [x] Acorn pochette (Brown) | 25053
+- [x] Basket pack (Green) | 25054
 - [ ] Bug cage (Green) | 25055
-- [ ] Bunny Day bag (None) | 25056
+- [x] Bunny Day bag (None) | 25056
 - [ ] Butterfly backpack (Pink) | 25057
-- [ ] Canvas backpack (White) | 25058
-- [ ] Cherry-blossom pochette (Pink) | 25059
+- [x] Canvas backpack (White) | 25058
+- [x] Cherry-blossom pochette (Pink) | 25059
 - [ ] Cloth shoulder bag (Blue) | 61257
-- [ ] Cloth shoulder bag (Orange) | 61258
+- [x] Cloth shoulder bag (Orange) | 61258
 - [ ] Cloth shoulder bag (Ivory) | 61259
 - [ ] Crossbody bag (Green) | 61260
 - [ ] Crossbody bag (Yellow) | 61261
 - [ ] Crossbody bag (White) | 61262
 - [ ] Crossbody bag (Pink) | 61263
 - [ ] Crossbody boston bag (Red) | 61264
-- [ ] Crossbody boston bag (Blue) | 61265
+- [x] Crossbody boston bag (Blue) | 61265
 - [ ] DAL backpack (Blue) | 25063
 - [ ] Dry bag (Yellow) | 61266
 - [ ] Dry bag (Blue) | 61267
 - [ ] Evening bag (Pink) | 61268
-- [ ] Evening bag (Blue) | 61269
-- [ ] Evening bag (Black) | 61270
+- [x] Evening bag (Blue) | 61269
+- [x] Evening bag (Black) | 61270
 - [ ] Extra-large backpack (Red) | 61271
 - [ ] Extra-large backpack (Green) | 61272
 - [ ] Extra-large backpack (Black) | 61273
 - [ ] Extra-large backpack (Blue) | 61274
-- [ ] Faux-fur bag (Pink) | 61275
-- [ ] Faux-fur bag (Purple) | 61276
-- [ ] Fish pochette (Blue) | 25068
-- [ ] Foldover-top backpack (Blue) | 61277
-- [ ] Foldover-top backpack (Gray) | 61278
-- [ ] Foldover-top backpack (Pink) | 61279
-- [ ] Foldover-top backpack (Green) | 61280
-- [ ] Gumdrop shoulder bag (Pop) | 61281
-- [ ] Gumdrop shoulder bag (Cool) | 61282
-- [ ] Hand-knit pouch (Green) | 61283
-- [ ] Hand-knit pouch (Purple) | 61284
+- [x] Faux-fur bag (Pink) | 61275
+- [x] Faux-fur bag (Purple) | 61276
+- [x] Fish pochette (Blue) | 25068
+- [x] Foldover-top backpack (Blue) | 61277
+- [x] Foldover-top backpack (Gray) | 61278
+- [x] Foldover-top backpack (Pink) | 61279
+- [x] Foldover-top backpack (Green) | 61280
+- [x] Gumdrop shoulder bag (Pop) | 61281
+- [x] Gumdrop shoulder bag (Cool) | 61282
+- [x] Hand-knit pouch (Green) | 61283
+- [x] Hand-knit pouch (Purple) | 61284
 - [ ] Hard-shell backpack (Silver) | 61285
-- [ ] Hard-shell backpack (Red) | 61286
-- [ ] Hard-shell backpack (Blue) | 61287
-- [ ] Knapsack (Black) | 61288
-- [ ] Knapsack (Blue) | 61289
-- [ ] Knitted-grass backpack (Green) | 25074
-- [ ] Log pack (Brown) | 25075
+- [x] Hard-shell backpack (Red) | 61286
+- [x] Hard-shell backpack (Blue) | 61287
+- [x] Knapsack (Black) | 61288
+- [x] Knapsack (Blue) | 61289
+- [x] Knitted-grass backpack (Green) | 25074
+- [x] Log pack (Brown) | 25075
 - [ ] Maple-leaf pochette (Red) | 25076
 - [ ] Messenger bag (Green) | 61290
-- [ ] Messenger bag (Orange) | 61291
-- [ ] Messenger bag (Black) | 61292
-- [ ] Mini pleather bag (Black) | 61293
+- [x] Messenger bag (Orange) | 61291
+- [x] Messenger bag (Black) | 61292
+- [x] Mini pleather bag (Black) | 61293
 - [ ] Mini pleather bag (White) | 61294
 - [ ] Mom's knapsack (Polka dots) | 61295
 - [ ] Mom's knapsack (Colorful quilt design) | 61296
-- [ ] Mom's knapsack (Cherries) | 61297
+- [x] Mom's knapsack (Cherries) | 61297
 - [ ] Mom's knapsack (M) | 61298
 - [ ] Mom's knapsack (Denim with stripes) | 61299
 - [ ] Mom's knapsack (Forest print) | 61300
 - [ ] Mom's knapsack (Flowers) | 61301
 - [ ] Mom's knapsack (Chick) | 61302
-- [ ] Nook Inc. knapsack (Brown) | 25080
-- [ ] Outdoor backpack (Navy blue) | 61303
+- [x] Nook Inc. knapsack (Brown) | 25080
+- [x] Outdoor backpack (Navy blue) | 61303
 - [ ] Outdoor backpack (Orange) | 61304
-- [ ] Outdoor backpack (Avocado) | 61305
-- [ ] Pleather crossbody bag (Navy blue) | 61306
+- [x] Outdoor backpack (Avocado) | 61305
+- [x] Pleather crossbody bag (Navy blue) | 61306
 - [ ] Pleather crossbody bag (Black) | 61307
 - [ ] Pleather fringe bag (Camel) | 61308
-- [ ] Pleather fringe bag (White) | 61309
-- [ ] Pleather shoulder bag (Brown) | 61310
-- [ ] Pleather shoulder bag (Navy blue) | 61311
+- [x] Pleather fringe bag (White) | 61309
+- [x] Pleather shoulder bag (Brown) | 61310
+- [x] Pleather shoulder bag (Navy blue) | 61311
 - [ ] Retro sports bag (Red) | 61312
-- [ ] Retro sports bag (Black) | 61313
+- [x] Retro sports bag (Black) | 61313
 - [ ] Retro sports bag (Blue) | 61314
 - [ ] Sacoche bag (Blue) | 61315
 - [ ] Sacoche bag (Red) | 61316
-- [ ] Sacoche bag (Black) | 61317
+- [x] Sacoche bag (Black) | 61317
 - [ ] Shellfish pochette (White) | 25087
 - [ ] Snowflake pochette (White) | 25088
-- [ ] Square backpack (Pink) | 61318
+- [x] Square backpack (Pink) | 61318
 - [ ] Square backpack (Green) | 61319
 - [ ] Square backpack (Yellow) | 61320
 - [ ] Star pochette (Yellow) | 25090
 - [ ] Straw pochette (Brown) | 25091
 - [ ] Studded backpack (Black) | 61321
-- [ ] Studded backpack (White) | 61322
-- [ ] Tackle bag (Blue) | 25093
+- [x] Studded backpack (White) | 61322
+- [x] Tackle bag (Blue) | 25093
 - [ ] Tool bag (Black) | 25094
 - [ ] Town backpack (Blue) | 61323
-- [ ] Town backpack (Red) | 61324
-- [ ] Town backpack (Green) | 61325
-- [ ] Town backpack (Orange) | 61326
-- [ ] Travel pouch (Green) | 61327
-- [ ] Travel pouch (Light blue) | 61328
-- [ ] Travel pouch (Purple) | 61329
-- [ ] Travel pouch (Pink) | 61330
-- [ ] Traveler's backpack (Blue) | 61331
-- [ ] Traveler's backpack (Brown) | 61332
-- [ ] Traveler's backpack (Orange) | 61333
+- [x] Town backpack (Red) | 61324
+- [x] Town backpack (Green) | 61325
+- [x] Town backpack (Orange) | 61326
+- [x] Travel pouch (Green) | 61327
+- [x] Travel pouch (Light blue) | 61328
+- [x] Travel pouch (Purple) | 61329
+- [x] Travel pouch (Pink) | 61330
+- [x] Traveler's backpack (Blue) | 61331
+- [x] Traveler's backpack (Brown) | 61332
+- [x] Traveler's backpack (Orange) | 61333

@@ -26,7 +26,7 @@
 - [x] Blue delicate-blooms wall | 22527
 - [x] Blue desert-tile wall | 22528
 - [x] Blue diner wall | 22529
-- [ ] Blue flower-print wall | 22530
+- [x] Blue flower-print wall | 22530
 - [x] Blue heart-pattern wall | 22531
 - [x] Blue honeycomb-tile wall | 22532
 - [x] Blue intricate wall | 22533

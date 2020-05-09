@@ -65,12 +65,12 @@
 - [x] Eye patch (Black) | 24857
 - [ ] Facial mask (White) | 24858
 - [x] Fake nose (Red) | 24859
-- [ ] Flower sunglasses (Red) | 60334
+- [x] Flower sunglasses (Red) | 60334
 - [x] Flower sunglasses (Orange) | 60335
-- [ ] Flower sunglasses (Blue) | 60336
-- [ ] Flower sunglasses (Purple) | 60337
-- [ ] Flower sunglasses (Green) | 60338
-- [ ] Food mess (Pasta) | 24861
+- [x] Flower sunglasses (Blue) | 60336
+- [x] Flower sunglasses (Purple) | 60337
+- [x] Flower sunglasses (Green) | 60338
+- [x] Food mess (Pasta) | 24861
 - [x] Funny glasses (Brown) | 60339
 - [x] Funny glasses (Pink) | 60340
 - [x] Funny glasses (Blue) | 60341
@@ -140,7 +140,7 @@
 - [x] Pacifier (Baby gray) | 60397
 - [x] Pacifier (Baby blue) | 60398
 - [x] Pacifier (Baby orange) | 60399
-- [ ] Pig nose (Pink) | 24882
+- [x] Pig nose (Pink) | 24882
 - [x] Pilot shades (Black) | 60400
 - [x] Pilot shades (Gold) | 60401
 - [x] Pixel shades (Red) | 60402

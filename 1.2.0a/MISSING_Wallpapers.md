@@ -3,7 +3,6 @@ Autumn wall
 Bamboo wall
 Bamboo-grove wall
 Beige desert-tile wall
-Blue flower-print wall
 Blue simple-cloth wall
 Blue-striped wall
 Brown botanical-tile wall
