@@ -1,80 +1,80 @@
-- [ ] Horned hercules | 25891
-- [ ] Tarantula | 25922
-- [ ] Giant stag | 25879
-- [ ] Red dragonfly | 25912
-- [ ] Madagascan sunset moth | 25895
-- [ ] Rajah Brooke's birdwing | 25911
-- [ ] Stinkbug | 25921
-- [ ] Bell cricket | 25857
-- [ ] Rosalia batesi beetle | 25915
-- [ ] Monarch butterfly | 25901
-- [ ] Wasp | 25929
-- [ ] Tiger butterfly | 25924
-- [ ] Horned atlas | 25888
-- [ ] Saw stag | 25916
-- [ ] Giant water bug | 25880
-- [ ] Dung beetle | 25871
-- [ ] Scarab beetle | 25917
-- [ ] Common butterfly | 25864
-- [ ] Cyclommatus stag | 25866
-- [ ] Mosquito | 25902
-- [ ] Queen Alexandra's birdwing | 25909
-- [ ] Earth-boring dung beetle | 25872
-- [ ] Hermit crab | 25886
-- [ ] Cicada shell | 25861
-- [ ] Common bluebottle | 25863
-- [ ] Paper kite butterfly | 25905
-- [ ] Firefly | 25875
-- [ ] Cricket | 25865
-- [ ] Giant cicada | 25878
 - [ ] Agrias butterfly | 25852
-- [ ] Wharf roach | 25930
-- [ ] Tiger beetle | 25923
-- [ ] Snail | 25919
-- [ ] Ladybug | 25893
-- [ ] Giraffe stag | 25881
-- [ ] Damselfly | 25867
-- [ ] Scorpion | 25918
-- [ ] Spider | 25920
-- [ ] Great purple emperor | 25885
-- [ ] Citrus long-horned beetle | 25862
-- [ ] Miyama stag | 25899
-- [ ] Drone beetle | 25870
-- [ ] Rice grasshopper | 25913
-- [ ] Mole cricket | 25900
-- [ ] Emperor butterfly | 25873
-- [ ] Diving beetle | 25869
-- [ ] Grasshopper | 25884
-- [ ] Mantis | 25897
-- [ ] Walker cicada | 25926
-- [ ] Pill bug | 25907
-- [ ] Horned dynastid | 25889
-- [ ] Brown cicada | 25859
-- [ ] Golden stag | 25882
-- [ ] Evening cicada | 25874
-- [ ] Atlas moth | 25854
-- [ ] Moth | 25903
-- [ ] Goliath beetle | 25883
-- [ ] Long locust | 25894
-- [ ] Peacock butterfly | 25906
-- [ ] Walking leaf | 25927
-- [ ] Yellow butterfly | 25931
-- [ ] Fly | 25877
-- [ ] Honeybee | 25887
-- [ ] Darner dragonfly | 25868
-- [ ] Orchid mantis | 25904
-- [ ] Blue weevil beetle | 25858
-- [ ] Banded dragonfly | 25856
-- [ ] Walking stick | 25928
-- [ ] Pondskater | 25908
-- [ ] Rainbow stag | 25910
-- [ ] Jewel beetle | 25892
-- [ ] Bagworm | 25855
-- [ ] Robust cicada | 25914
-- [ ] Man-faced stink bug | 25896
-- [ ] Violin beetle | 25925
-- [ ] Centipede | 25860
-- [ ] Migratory locust | 25898
-- [ ] Horned elephant | 25890
 - [ ] Ant | 25853
+- [ ] Atlas moth | 25854
+- [ ] Bagworm | 25855
+- [ ] Banded dragonfly | 25856
+- [ ] Bell cricket | 25857
+- [ ] Blue weevil beetle | 25858
+- [ ] Brown cicada | 25859
+- [ ] Centipede | 25860
+- [ ] Cicada shell | 25861
+- [ ] Citrus long-horned beetle | 25862
+- [ ] Common bluebottle | 25863
+- [ ] Common butterfly | 25864
+- [ ] Cricket | 25865
+- [ ] Cyclommatus stag | 25866
+- [ ] Damselfly | 25867
+- [ ] Darner dragonfly | 25868
+- [ ] Diving beetle | 25869
+- [ ] Drone beetle | 25870
+- [ ] Dung beetle | 25871
+- [ ] Earth-boring dung beetle | 25872
+- [ ] Emperor butterfly | 25873
+- [ ] Evening cicada | 25874
+- [ ] Firefly | 25875
 - [ ] Flea | 25876
+- [ ] Fly | 25877
+- [ ] Giant cicada | 25878
+- [ ] Giant stag | 25879
+- [ ] Giant water bug | 25880
+- [ ] Giraffe stag | 25881
+- [ ] Golden stag | 25882
+- [ ] Goliath beetle | 25883
+- [ ] Grasshopper | 25884
+- [ ] Great purple emperor | 25885
+- [ ] Hermit crab | 25886
+- [ ] Honeybee | 25887
+- [ ] Horned atlas | 25888
+- [ ] Horned dynastid | 25889
+- [ ] Horned elephant | 25890
+- [ ] Horned hercules | 25891
+- [ ] Jewel beetle | 25892
+- [ ] Ladybug | 25893
+- [ ] Long locust | 25894
+- [ ] Madagascan sunset moth | 25895
+- [ ] Man-faced stink bug | 25896
+- [ ] Mantis | 25897
+- [ ] Migratory locust | 25898
+- [ ] Miyama stag | 25899
+- [ ] Mole cricket | 25900
+- [ ] Monarch butterfly | 25901
+- [ ] Mosquito | 25902
+- [ ] Moth | 25903
+- [ ] Orchid mantis | 25904
+- [ ] Paper kite butterfly | 25905
+- [ ] Peacock butterfly | 25906
+- [ ] Pill bug | 25907
+- [ ] Pondskater | 25908
+- [ ] Queen Alexandra's birdwing | 25909
+- [ ] Rainbow stag | 25910
+- [ ] Rajah Brooke's birdwing | 25911
+- [ ] Red dragonfly | 25912
+- [ ] Rice grasshopper | 25913
+- [ ] Robust cicada | 25914
+- [ ] Rosalia batesi beetle | 25915
+- [ ] Saw stag | 25916
+- [ ] Scarab beetle | 25917
+- [ ] Scorpion | 25918
+- [ ] Snail | 25919
+- [ ] Spider | 25920
+- [ ] Stinkbug | 25921
+- [ ] Tarantula | 25922
+- [ ] Tiger beetle | 25923
+- [ ] Tiger butterfly | 25924
+- [ ] Violin beetle | 25925
+- [ ] Walker cicada | 25926
+- [ ] Walking leaf | 25927
+- [ ] Walking stick | 25928
+- [ ] Wasp | 25929
+- [ ] Wharf roach | 25930
+- [ ] Yellow butterfly | 25931

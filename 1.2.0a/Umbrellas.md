@@ -1,67 +1,67 @@
-- [ ] Pineapple umbrella | 25145
-- [ ] Striped umbrella | 25157
-- [ ] Cherry umbrella | 25110
-- [ ] Snowflake umbrella | 25154
-- [ ] Gelato umbrella | 25118
-- [ ] Candy umbrella | 25109
+- [ ] Apple umbrella | 25098
+- [ ] Bat umbrella | 25099
+- [ ] Beach umbrella | 25100
+- [ ] Bear umbrella | 25101
 - [ ] Black chic umbrella | 25102
-- [ ] White shiny-bows parasol | 25164
-- [ ] Red chic umbrella | 25152
+- [ ] Black lace umbrella | 25103
+- [ ] Blue dot parasol | 25104
+- [ ] Blue shiny-bows parasol | 25105
+- [ ] Blue umbrella | 25106
+- [ ] Busted umbrella | 25107
+- [ ] Camo umbrella | 25108
+- [ ] Candy umbrella | 25109
+- [ ] Cherry umbrella | 25110
+- [ ] Cherry-blossom umbrella | 25111
+- [ ] DAL umbrella | 25112
+- [ ] Eggy parasol | 25113
+- [ ] Exquisite parasol | 25114
+- [ ] Fairy-tale umbrella | 25115
+- [ ] Fish umbrella | 25116
+- [ ] Frog umbrella | 25117
+- [ ] Gelato umbrella | 25118
+- [ ] Ghost umbrella | 25119
+- [ ] Grape umbrella | 25120
+- [ ] Green chic umbrella | 25121
+- [ ] Green umbrella | 25122
+- [ ] Hydrangea umbrella | 25123
+- [ ] Kabuki umbrella | 25124
+- [ ] Kiwi umbrella | 25125
+- [ ] Lacy parasol | 25126
 - [ ] Ladybug umbrella | 25127
 - [ ] Leaf umbrella | 25128
-- [ ] Purple chic umbrella | 25148
-- [ ] Red umbrella | 25153
-- [ ] Patterned vinyl umbrella | 25140
-- [ ] Camo umbrella | 25108
-- [ ] Ghost umbrella | 25119
-- [ ] Mini-flower-print umbrella | 25133
-- [ ] Bear umbrella | 25101
-- [ ] Frog umbrella | 25117
-- [ ] Busted umbrella | 25107
-- [ ] Exquisite parasol | 25114
-- [ ] Spider umbrella | 25155
-- [ ] Orange umbrella | 25137
-- [ ] Pink shiny-bows parasol | 25146
-- [ ] Fairy-tale umbrella | 25115
-- [ ] Rainbow umbrella | 25150
-- [ ] Sunny parasol | 25158
-- [ ] Panda umbrella | 25138
-- [ ] Toad parasol | 25160
-- [ ] Nook Inc. umbrella | 25136
-- [ ] Paper parasol | 25139
-- [ ] Melon umbrella | 25132
-- [ ] Petal parasol | 25143
-- [ ] Blue shiny-bows parasol | 25105
-- [ ] Lacy parasol | 25126
-- [ ] Bat umbrella | 25099
-- [ ] Hydrangea umbrella | 25123
-- [ ] Green umbrella | 25122
-- [ ] Two-tone umbrella | 25161
-- [ ] Peach umbrella | 25141
 - [ ] Lemon umbrella | 25129
-- [ ] Pear umbrella | 25142
-- [ ] Kiwi umbrella | 25125
-- [ ] Blue dot parasol | 25104
-- [ ] Grape umbrella | 25120
-- [ ] Beach umbrella | 25100
 - [ ] Logo umbrella | 25130
-- [ ] Watermelon umbrella | 25163
-- [ ] Apple umbrella | 25098
-- [ ] Eggy parasol | 25113
-- [ ] DAL umbrella | 25112
-- [ ] Blue umbrella | 25106
-- [ ] Tartan-check umbrella | 25159
-- [ ] Green chic umbrella | 25121
-- [ ] Cherry-blossom umbrella | 25111
-- [ ] Pink umbrella | 25147
-- [ ] Kabuki umbrella | 25124
-- [ ] Raindrop umbrella | 25151
-- [ ] Strawberry umbrella | 25156
-- [ ] Vinyl umbrella | 25162
-- [ ] Black lace umbrella | 25103
-- [ ] Fish umbrella | 25116
-- [ ] Purple shiny-bows parasol | 25149
-- [ ] Mush umbrella | 25135
-- [ ] Picnic umbrella | 25144
 - [ ] Maple-leaf umbrella | 25131
+- [ ] Melon umbrella | 25132
+- [ ] Mini-flower-print umbrella | 25133
 - [ ] Mint umbrella | 25134
+- [ ] Mush umbrella | 25135
+- [ ] Nook Inc. umbrella | 25136
+- [ ] Orange umbrella | 25137
+- [ ] Panda umbrella | 25138
+- [ ] Paper parasol | 25139
+- [ ] Patterned vinyl umbrella | 25140
+- [ ] Peach umbrella | 25141
+- [ ] Pear umbrella | 25142
+- [ ] Petal parasol | 25143
+- [ ] Picnic umbrella | 25144
+- [ ] Pineapple umbrella | 25145
+- [ ] Pink shiny-bows parasol | 25146
+- [ ] Pink umbrella | 25147
+- [ ] Purple chic umbrella | 25148
+- [ ] Purple shiny-bows parasol | 25149
+- [ ] Rainbow umbrella | 25150
+- [ ] Raindrop umbrella | 25151
+- [ ] Red chic umbrella | 25152
+- [ ] Red umbrella | 25153
+- [ ] Snowflake umbrella | 25154
+- [ ] Spider umbrella | 25155
+- [ ] Strawberry umbrella | 25156
+- [ ] Striped umbrella | 25157
+- [ ] Sunny parasol | 25158
+- [ ] Tartan-check umbrella | 25159
+- [ ] Toad parasol | 25160
+- [ ] Two-tone umbrella | 25161
+- [ ] Vinyl umbrella | 25162
+- [ ] Watermelon umbrella | 25163
+- [ ] White shiny-bows parasol | 25164

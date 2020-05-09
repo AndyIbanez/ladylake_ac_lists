@@ -10,7 +10,9 @@ fileContents = File.read("items")
 json = JSON.parse(fileContents)
 
 def processList(objects, categoriesSet, categoriesHash)
-	objects.each { |object|  processObject(object, categoriesSet, categoriesHash) }
+	objects
+	.sort { |o1, o2| o1["content"]["name"] <=> o2["content"]["name"] }
+	.each { |object|  processObject(object, categoriesSet, categoriesHash) }
 end
 
 def processObject(object, categoriesSet, categoriesHash)
@@ -27,10 +29,6 @@ end
 def processGenerealObject(object, categoriesSet, categoriesHash)
 	object["variations"].each { |variation| categoriesHash[catName] << createStringLine(object["content"]["name"], variation["content"]["bodyColor"], variation["content"]["patternColor"], variation["id"]) }
 end
-
-#def processAccessories(object, categoriesSet, categoriesHash, category)
-#	categoriesHash[category] << createStringLine(object["name"], object["content"]["bodyColor"], object["id"])
-#end
 
 def createStringLine(objectName, variation, patternColor, objectId)
 	#puts "THE BODY TITLE " + bodyTitle.to_s

@@ -1,138 +1,130 @@
-- [ ] Candy-skull mask (Purple) | 60305
-- [ ] Candy-skull mask (Orange) | 60306
-- [ ] Candy-skull mask (Blue) | 60307
-- [ ] Pilot shades (Black) | 60400
-- [ ] Pilot shades (Gold) | 60401
-- [ ] Round shades (Black) | 60420
-- [ ] Round shades (Green) | 60421
-- [ ] Round shades (Blue) | 60422
-- [ ] Round shades (Yellow) | 60423
-- [ ] Round shades (Pink) | 60424
-- [ ] Round shades (Red) | 60425
-- [ ] Round shades (White) | 60426
-- [ ] Round shades (Purple) | 60427
-- [ ] Rimmed glasses (Black) | 60415
-- [ ] Rimmed glasses (Gold) | 60416
-- [ ] Rimmed glasses (Gray) | 60417
-- [ ] Rimmed glasses (Brown) | 60418
-- [ ] Rimmed glasses (Purple) | 60419
-- [ ] Square glasses (Brown) | 60443
-- [ ] Square glasses (Black) | 60444
-- [ ] Square glasses (Gray) | 60445
-- [ ] Square glasses (Blue) | 60446
-- [ ] Round tinted shades (Brown) | 60428
-- [ ] Round tinted shades (Light brown) | 60429
-- [ ] Round tinted shades (Dark brown) | 60430
-- [ ] Round tinted shades (Green) | 60431
-- [ ] Sporty shades (Black) | 60438
-- [ ] Sporty shades (White) | 60439
-- [ ] Sporty shades (Pink) | 60440
-- [ ] Sporty shades (Lime) | 60441
-- [ ] Sporty shades (Light blue) | 60442
+- [ ] 3D glasses (White) | 60277
+- [ ] 3D glasses (Black) | 60278
+- [ ] Bandage (Beige) | 24837
+- [ ] Beak (Yellow) | 24838
+- [ ] Birthday shades (Yellow) | 60279
+- [ ] Birthday shades (Pink) | 60280
+- [ ] Birthday shades (Red) | 60281
+- [ ] Birthday shades (Blue) | 60282
+- [ ] Bottom-rimmed glasses (Red) | 60283
+- [ ] Bottom-rimmed glasses (Purple) | 60284
+- [ ] Bottom-rimmed glasses (Green) | 60285
+- [ ] Bottom-rimmed glasses (Blue) | 60286
+- [ ] Bottom-rimmed glasses (Yellow) | 60287
+- [ ] Bottom-rimmed glasses (Pink) | 60288
+- [ ] Bottom-rimmed glasses (Black) | 60289
+- [ ] Browline glasses (Black) | 60290
+- [ ] Browline glasses (Brown) | 60291
+- [ ] Browline glasses (Green) | 60292
+- [ ] Browline glasses (Gray) | 60293
 - [ ] Bubblegum (Pink) | 60294
 - [ ] Bubblegum (Blue) | 60295
 - [ ] Bubblegum (Yellow) | 60296
 - [ ] Bubblegum (Green) | 60297
 - [ ] Bubblegum (White) | 60298
-- [ ] Masquerade mask (Purple) | 60371
-- [ ] Masquerade mask (Black) | 60372
-- [ ] Masquerade mask (Blue) | 60373
-- [ ] Masquerade mask (Red) | 60374
-- [ ] Masquerade mask (Green) | 60375
-- [ ] Masquerade mask (Gold) | 60376
-- [ ] Steampunk glasses (Green) | 60454
-- [ ] Steampunk glasses (Purple) | 60455
-- [ ] Octagonal glasses (Gray) | 60380
-- [ ] Octagonal glasses (Green) | 60381
-- [ ] Octagonal glasses (Purple) | 60382
-- [ ] Octagonal glasses (Gold) | 60383
-- [ ] Octagonal glasses (Black) | 60384
-- [ ] Tiny shades (Gold) | 60456
-- [ ] Tiny shades (Black) | 60457
-- [ ] Tiny shades (Berry red) | 60458
-- [ ] Tortoise specs (Brown) | 60459
-- [ ] Tortoise specs (Beige) | 60460
-- [ ] Tortoise specs (Black) | 60461
-- [ ] Birthday shades (Yellow) | 60279
-- [ ] Birthday shades (Pink) | 60280
-- [ ] Birthday shades (Red) | 60281
-- [ ] Birthday shades (Blue) | 60282
-- [ ] Gas mask (Black) | 60342
-- [ ] Gas mask (Avocado) | 60343
-- [ ] Goggles (Black) | 60344
-- [ ] Goggles (Blue) | 60345
-- [ ] Goggles (Pink) | 60346
-- [ ] Goggles (Green) | 60347
-- [ ] Goggles (Purple) | 60348
-- [ ] Goggles (Red) | 60349
-- [ ] Double-bridge glasses (Gold) | 60320
-- [ ] Double-bridge glasses (Purple) | 60321
-- [ ] Double-bridge glasses (Silver) | 60322
-- [ ] Double-bridge glasses (Blue) | 60323
-- [ ] Dog nose (White) | 60317
-- [ ] Dog nose (Beige) | 60318
-- [ ] Dog nose (Black) | 60319
+- [ ] Bunny nose (Pink) | 60299
+- [ ] Bunny nose (Yellow) | 60300
+- [ ] Bunny nose (White) | 60301
+- [ ] Butterfly shades (Blue) | 60302
+- [ ] Butterfly shades (Red) | 60303
+- [ ] Butterfly shades (Brown) | 60304
+- [ ] Candy-skull mask (Purple) | 60305
+- [ ] Candy-skull mask (Orange) | 60306
+- [ ] Candy-skull mask (Blue) | 60307
+- [ ] Cat nose (White) | 60308
+- [ ] Cat nose (Brown) | 60309
+- [ ] Cat nose (Navy blue) | 60310
+- [ ] Cucumber pack (Green) | 24847
+- [ ] Curly mustache (Black) | 24848
 - [ ] Cyber shades (Red) | 60311
 - [ ] Cyber shades (Black) | 60312
 - [ ] Cyber shades (Silver) | 60313
 - [ ] Cyber shades (Purple) | 60314
 - [ ] Cyber shades (Green) | 60315
 - [ ] Cyber shades (Yellow) | 60316
-- [ ] Cat nose (White) | 60308
-- [ ] Cat nose (Brown) | 60309
-- [ ] Cat nose (Navy blue) | 60310
-- [ ] Butterfly shades (Blue) | 60302
-- [ ] Butterfly shades (Red) | 60303
-- [ ] Butterfly shades (Brown) | 60304
+- [ ] DAL eye mask (Blue) | 24850
+- [ ] DAL sunglasses (Yellow) | 24851
+- [ ] Doctor's mask (White) | 24852
+- [ ] Dog nose (White) | 60317
+- [ ] Dog nose (Beige) | 60318
+- [ ] Dog nose (Black) | 60319
+- [ ] Double-bridge glasses (Gold) | 60320
+- [ ] Double-bridge glasses (Purple) | 60321
+- [ ] Double-bridge glasses (Silver) | 60322
+- [ ] Double-bridge glasses (Blue) | 60323
 - [ ] Drinking-straw glasses (Green) | 60324
 - [ ] Drinking-straw glasses (Blue) | 60325
 - [ ] Drinking-straw glasses (Pink) | 60326
 - [ ] Drinking-straw glasses (White) | 60327
-- [ ] Funny glasses (Brown) | 60339
-- [ ] Funny glasses (Pink) | 60340
-- [ ] Funny glasses (Blue) | 60341
-- [ ] Flower sunglasses (Red) | 60334
-- [ ] Flower sunglasses (Orange) | 60335
-- [ ] Flower sunglasses (Blue) | 60336
-- [ ] Flower sunglasses (Purple) | 60337
-- [ ] Flower sunglasses (Green) | 60338
 - [ ] Eye mask (Blue) | 60328
 - [ ] Eye mask (Pink) | 60329
 - [ ] Eye mask (Gray) | 60330
 - [ ] Eye mask (Green) | 60331
 - [ ] Eye mask (Orange) | 60332
 - [ ] Eye mask (Red) | 60333
-- [ ] Wooden-frame glasses (Brown) | 60469
-- [ ] Wooden-frame glasses (Dark brown) | 60470
+- [ ] Eye patch (Black) | 24857
+- [ ] Facial mask (White) | 24858
+- [ ] Fake nose (Red) | 24859
+- [ ] Flower sunglasses (Red) | 60334
+- [ ] Flower sunglasses (Orange) | 60335
+- [ ] Flower sunglasses (Blue) | 60336
+- [ ] Flower sunglasses (Purple) | 60337
+- [ ] Flower sunglasses (Green) | 60338
+- [ ] Food mess (Pasta) | 24861
+- [ ] Funny glasses (Brown) | 60339
+- [ ] Funny glasses (Pink) | 60340
+- [ ] Funny glasses (Blue) | 60341
+- [ ] Gas mask (Black) | 60342
+- [ ] Gas mask (Avocado) | 60343
+- [ ] Glass-bottle glasses (Black) | 24864
+- [ ] Goatee (Black) | 24865
+- [ ] Goggles (Black) | 60344
+- [ ] Goggles (Blue) | 60345
+- [ ] Goggles (Pink) | 60346
+- [ ] Goggles (Green) | 60347
+- [ ] Goggles (Purple) | 60348
+- [ ] Goggles (Red) | 60349
+- [ ] HMD (White) | 24869
+- [ ] Handlebar mustache (Black) | 24867
+- [ ] Heart shades (Pink) | 60350
+- [ ] Heart shades (Yellow) | 60351
+- [ ] Heart shades (Blue) | 60352
+- [ ] Heart shades (Purple) | 60353
+- [ ] Heart shades (Green) | 60354
+- [ ] Jester's mask (Black) | 60355
+- [ ] Jester's mask (Red) | 60356
+- [ ] Jester's mask (Green) | 60357
+- [ ] Jester's mask (Blue) | 60358
 - [ ] Labelle sunglasses (Twilight) | 60359
 - [ ] Labelle sunglasses (Midnight) | 60360
 - [ ] Labelle sunglasses (Passion) | 60361
 - [ ] Labelle sunglasses (Ocean) | 60362
 - [ ] Labelle sunglasses (Sunset) | 60363
 - [ ] Labelle sunglasses (Love) | 60364
-- [ ] Star shades (Yellow) | 60449
-- [ ] Star shades (Pink) | 60450
-- [ ] Star shades (Blue) | 60451
-- [ ] Star shades (Purple) | 60452
-- [ ] Star shades (Green) | 60453
 - [ ] Ladder shades (Red) | 60365
 - [ ] Ladder shades (Blue) | 60366
 - [ ] Ladder shades (Green) | 60367
 - [ ] Ladder shades (Pink) | 60368
 - [ ] Ladder shades (Yellow) | 60369
 - [ ] Ladder shades (Gold) | 60370
-- [ ] Jester's mask (Black) | 60355
-- [ ] Jester's mask (Red) | 60356
-- [ ] Jester's mask (Green) | 60357
-- [ ] Jester's mask (Blue) | 60358
-- [ ] Heart shades (Pink) | 60350
-- [ ] Heart shades (Yellow) | 60351
-- [ ] Heart shades (Blue) | 60352
-- [ ] Heart shades (Purple) | 60353
-- [ ] Heart shades (Green) | 60354
+- [ ] Leaf (Green) | 24873
+- [ ] Masquerade mask (Purple) | 60371
+- [ ] Masquerade mask (Black) | 60372
+- [ ] Masquerade mask (Blue) | 60373
+- [ ] Masquerade mask (Red) | 60374
+- [ ] Masquerade mask (Green) | 60375
+- [ ] Masquerade mask (Gold) | 60376
 - [ ] Monocle (Black) | 60377
 - [ ] Monocle (Gold) | 60378
 - [ ] Monocle (Silver) | 60379
+- [ ] Night-vision goggles (Black) | 24876
+- [ ] Nook Inc. eye mask (Green) | 24877
+- [ ] Nose drip (Light blue) | 24878
+- [ ] Octagonal glasses (Gray) | 60380
+- [ ] Octagonal glasses (Green) | 60381
+- [ ] Octagonal glasses (Purple) | 60382
+- [ ] Octagonal glasses (Gold) | 60383
+- [ ] Octagonal glasses (Black) | 60384
 - [ ] Oval glasses (Green) | 60385
 - [ ] Oval glasses (Orange) | 60386
 - [ ] Oval glasses (Blue) | 60387
@@ -140,13 +132,6 @@
 - [ ] Oval glasses (Magenta) | 60389
 - [ ] Oval glasses (Mustard) | 60390
 - [ ] Oval glasses (Black) | 60391
-- [ ] Triangle shades (Red) | 60462
-- [ ] Triangle shades (Orange) | 60463
-- [ ] Triangle shades (Blue) | 60464
-- [ ] Triangle shades (Purple) | 60465
-- [ ] Triangle shades (Green) | 60466
-- [ ] Triangle shades (White) | 60467
-- [ ] Triangle shades (Black) | 60468
 - [ ] Pacifier (Baby purple) | 60392
 - [ ] Pacifier (Baby mint) | 60393
 - [ ] Pacifier (Baby yellow) | 60394
@@ -155,68 +140,83 @@
 - [ ] Pacifier (Baby gray) | 60397
 - [ ] Pacifier (Baby blue) | 60398
 - [ ] Pacifier (Baby orange) | 60399
+- [ ] Pig nose (Pink) | 24882
+- [ ] Pilot shades (Black) | 60400
+- [ ] Pilot shades (Gold) | 60401
 - [ ] Pixel shades (Red) | 60402
 - [ ] Pixel shades (Green) | 60403
 - [ ] Pixel shades (Blue) | 60404
 - [ ] Pixel shades (Black) | 60405
-- [ ] Rhinestone shades (Red) | 60412
-- [ ] Rhinestone shades (Ochre) | 60413
-- [ ] Rhinestone shades (Purple) | 60414
-- [ ] Ski goggles (White) | 60432
-- [ ] Ski goggles (Yellow) | 60433
-- [ ] Ski goggles (Purple) | 60434
-- [ ] Ski goggles (Pink) | 60435
-- [ ] Ski goggles (Green) | 60436
-- [ ] Ski goggles (Orange) | 60437
-- [ ] Bottom-rimmed glasses (Red) | 60283
-- [ ] Bottom-rimmed glasses (Purple) | 60284
-- [ ] Bottom-rimmed glasses (Green) | 60285
-- [ ] Bottom-rimmed glasses (Blue) | 60286
-- [ ] Bottom-rimmed glasses (Yellow) | 60287
-- [ ] Bottom-rimmed glasses (Pink) | 60288
-- [ ] Bottom-rimmed glasses (Black) | 60289
-- [ ] Stache & glasses (Black) | 60447
-- [ ] Stache & glasses (Red) | 60448
+- [ ] Pleather mask (Black) | 24885
+- [ ] Post-op patch (White) | 24886
+- [ ] Privacy mask (Black) | 24887
+- [ ] Reflector (Gray) | 24888
 - [ ] Retro shades (Yellow) | 60406
 - [ ] Retro shades (Green) | 60407
 - [ ] Retro shades (Red) | 60408
 - [ ] Retro shades (Purple) | 60409
 - [ ] Retro shades (Blue) | 60410
 - [ ] Retro shades (Gray) | 60411
-- [ ] Browline glasses (Black) | 60290
-- [ ] Browline glasses (Brown) | 60291
-- [ ] Browline glasses (Green) | 60292
-- [ ] Browline glasses (Gray) | 60293
-- [ ] 3D glasses (White) | 60277
-- [ ] 3D glasses (Black) | 60278
-- [ ] Bunny nose (Pink) | 60299
-- [ ] Bunny nose (Yellow) | 60300
-- [ ] Bunny nose (White) | 60301
-- [ ] Bandage (Beige) | 24837
-- [ ] Pleather mask (Black) | 24885
-- [ ] DAL sunglasses (Yellow) | 24851
-- [ ] Facial mask (White) | 24858
-- [ ] Leaf (Green) | 24873
-- [ ] Nook Inc. eye mask (Green) | 24877
-- [ ] Nose drip (Light blue) | 24878
-- [ ] Curly mustache (Black) | 24848
-- [ ] Reflector (Gray) | 24888
-- [ ] Superhero mask (Black) | 24903
-- [ ] Fake nose (Red) | 24859
-- [ ] Pig nose (Pink) | 24882
-- [ ] Privacy mask (Black) | 24887
-- [ ] Sticky rice (White) | 24902
-- [ ] Beak (Yellow) | 24838
-- [ ] Handlebar mustache (Black) | 24867
-- [ ] Post-op patch (White) | 24886
-- [ ] Shattered glasses (Black) | 24895
+- [ ] Rhinestone shades (Red) | 60412
+- [ ] Rhinestone shades (Ochre) | 60413
+- [ ] Rhinestone shades (Purple) | 60414
+- [ ] Rimmed glasses (Black) | 60415
+- [ ] Rimmed glasses (Gold) | 60416
+- [ ] Rimmed glasses (Gray) | 60417
+- [ ] Rimmed glasses (Brown) | 60418
+- [ ] Rimmed glasses (Purple) | 60419
+- [ ] Round shades (Black) | 60420
+- [ ] Round shades (Green) | 60421
+- [ ] Round shades (Blue) | 60422
+- [ ] Round shades (Yellow) | 60423
+- [ ] Round shades (Pink) | 60424
+- [ ] Round shades (Red) | 60425
+- [ ] Round shades (White) | 60426
+- [ ] Round shades (Purple) | 60427
+- [ ] Round tinted shades (Brown) | 60428
+- [ ] Round tinted shades (Light brown) | 60429
+- [ ] Round tinted shades (Dark brown) | 60430
+- [ ] Round tinted shades (Green) | 60431
 - [ ] Rounded beard (Black) | 24894
-- [ ] DAL eye mask (Blue) | 24850
-- [ ] HMD (White) | 24869
-- [ ] Doctor's mask (White) | 24852
-- [ ] Cucumber pack (Green) | 24847
-- [ ] Night-vision goggles (Black) | 24876
-- [ ] Goatee (Black) | 24865
-- [ ] Eye patch (Black) | 24857
-- [ ] Glass-bottle glasses (Black) | 24864
-- [ ] Food mess (Pasta) | 24861
+- [ ] Shattered glasses (Black) | 24895
+- [ ] Ski goggles (White) | 60432
+- [ ] Ski goggles (Yellow) | 60433
+- [ ] Ski goggles (Purple) | 60434
+- [ ] Ski goggles (Pink) | 60435
+- [ ] Ski goggles (Green) | 60436
+- [ ] Ski goggles (Orange) | 60437
+- [ ] Sporty shades (Black) | 60438
+- [ ] Sporty shades (White) | 60439
+- [ ] Sporty shades (Pink) | 60440
+- [ ] Sporty shades (Lime) | 60441
+- [ ] Sporty shades (Light blue) | 60442
+- [ ] Square glasses (Brown) | 60443
+- [ ] Square glasses (Black) | 60444
+- [ ] Square glasses (Gray) | 60445
+- [ ] Square glasses (Blue) | 60446
+- [ ] Stache & glasses (Black) | 60447
+- [ ] Stache & glasses (Red) | 60448
+- [ ] Star shades (Yellow) | 60449
+- [ ] Star shades (Pink) | 60450
+- [ ] Star shades (Blue) | 60451
+- [ ] Star shades (Purple) | 60452
+- [ ] Star shades (Green) | 60453
+- [ ] Steampunk glasses (Green) | 60454
+- [ ] Steampunk glasses (Purple) | 60455
+- [ ] Sticky rice (White) | 24902
+- [ ] Superhero mask (Black) | 24903
+- [ ] Tiny shades (Gold) | 60456
+- [ ] Tiny shades (Black) | 60457
+- [ ] Tiny shades (Berry red) | 60458
+- [ ] Tortoise specs (Brown) | 60459
+- [ ] Tortoise specs (Beige) | 60460
+- [ ] Tortoise specs (Black) | 60461
+- [ ] Triangle shades (Red) | 60462
+- [ ] Triangle shades (Orange) | 60463
+- [ ] Triangle shades (Blue) | 60464
+- [ ] Triangle shades (Purple) | 60465
+- [ ] Triangle shades (Green) | 60466
+- [ ] Triangle shades (White) | 60467
+- [ ] Triangle shades (Black) | 60468
+- [ ] Wooden-frame glasses (Brown) | 60469
+- [ ] Wooden-frame glasses (Dark brown) | 60470

@@ -1,70 +1,70 @@
-- [ ] Warm painting | 27185
-- [ ] Basic painting (fake) | 27132
-- [ ] Serene painting | 27175
-- [ ] Mystic statue | 27160
-- [ ] Famous painting (fake) | 27142
-- [ ] Dynamic painting | 27139
-- [ ] Gallant statue | 27144
-- [ ] Mystic statue (fake) | 27161
-- [ ] Rock-head statue (fake) | 27170
-- [ ] Warrior statue (fake) | 27187
-- [ ] Robust statue | 27167
-- [ ] Quaint painting (fake) | 27166
-- [ ] Detailed painting | 27137
-- [ ] Wild painting left half | 27188
-- [ ] Scenic painting (fake) | 27174
-- [ ] Informative statue (fake) | 27151
-- [ ] Tremendous statue (fake) | 27181
-- [ ] Valiant statue | 27183
-- [ ] Beautiful statue (fake) | 27134
-- [ ] Gallant statue (fake) | 27145
-- [ ] Wistful painting (fake) | 27193
-- [ ] Wild painting right half (fake) | 27191
-- [ ] Beautiful statue | 27133
 - [ ] Academic painting | 27125
-- [ ] Moving painting | 27157
-- [ ] Famous painting | 27141
-- [ ] Valiant statue (fake) | 27184
-- [ ] Jolly painting (fake) | 27153
-- [ ] Jolly painting | 27152
-- [ ] Robust statue (fake) | 27168
-- [ ] Worthy painting | 27194
-- [ ] Scary painting | 27171
-- [ ] Motherly statue | 27155
-- [ ] Perfect painting | 27163
-- [ ] Detailed painting (fake) | 27138
-- [ ] Motherly statue (fake) | 27156
 - [ ] Academic painting (fake) | 27126
-- [ ] Scenic painting | 27173
-- [ ] Graceful painting | 27147
-- [ ] Wistful painting | 27192
-- [ ] Wild painting right half | 27190
-- [ ] Solemn painting | 27178
-- [ ] Amazing painting (fake) | 27128
-- [ ] Great statue | 27149
-- [ ] Ancient statue | 27129
 - [ ] Amazing painting | 27127
-- [ ] Proper painting | 27164
-- [ ] Quaint painting | 27165
-- [ ] Twinkling painting | 27182
-- [ ] Tremendous statue | 27180
-- [ ] Calm painting | 27135
-- [ ] Moving painting (fake) | 27158
-- [ ] Informative statue | 27150
-- [ ] Serene painting (fake) | 27176
-- [ ] Graceful painting (fake) | 27148
-- [ ] Scary painting (fake) | 27172
-- [ ] Flowery painting | 27143
+- [ ] Amazing painting (fake) | 27128
+- [ ] Ancient statue | 27129
 - [ ] Ancient statue (fake) | 27130
 - [ ] Basic painting | 27131
-- [ ] Moody painting | 27154
-- [ ] Rock-head statue | 27169
-- [ ] Familiar statue | 27140
-- [ ] Nice painting | 27162
-- [ ] Glowing painting | 27146
-- [ ] Warrior statue | 27186
-- [ ] Mysterious painting | 27159
-- [ ] Wild painting left half (fake) | 27189
+- [ ] Basic painting (fake) | 27132
+- [ ] Beautiful statue | 27133
+- [ ] Beautiful statue (fake) | 27134
+- [ ] Calm painting | 27135
 - [ ] Common painting | 27136
+- [ ] Detailed painting | 27137
+- [ ] Detailed painting (fake) | 27138
+- [ ] Dynamic painting | 27139
+- [ ] Familiar statue | 27140
+- [ ] Famous painting | 27141
+- [ ] Famous painting (fake) | 27142
+- [ ] Flowery painting | 27143
+- [ ] Gallant statue | 27144
+- [ ] Gallant statue (fake) | 27145
+- [ ] Glowing painting | 27146
+- [ ] Graceful painting | 27147
+- [ ] Graceful painting (fake) | 27148
+- [ ] Great statue | 27149
+- [ ] Informative statue | 27150
+- [ ] Informative statue (fake) | 27151
+- [ ] Jolly painting | 27152
+- [ ] Jolly painting (fake) | 27153
+- [ ] Moody painting | 27154
+- [ ] Motherly statue | 27155
+- [ ] Motherly statue (fake) | 27156
+- [ ] Moving painting | 27157
+- [ ] Moving painting (fake) | 27158
+- [ ] Mysterious painting | 27159
+- [ ] Mystic statue | 27160
+- [ ] Mystic statue (fake) | 27161
+- [ ] Nice painting | 27162
+- [ ] Perfect painting | 27163
+- [ ] Proper painting | 27164
+- [ ] Quaint painting | 27165
+- [ ] Quaint painting (fake) | 27166
+- [ ] Robust statue | 27167
+- [ ] Robust statue (fake) | 27168
+- [ ] Rock-head statue | 27169
+- [ ] Rock-head statue (fake) | 27170
+- [ ] Scary painting | 27171
+- [ ] Scary painting (fake) | 27172
+- [ ] Scenic painting | 27173
+- [ ] Scenic painting (fake) | 27174
+- [ ] Serene painting | 27175
+- [ ] Serene painting (fake) | 27176
 - [ ] Sinking painting | 27177
+- [ ] Solemn painting | 27178
 - [ ] Solemn painting (fake) | 27179
+- [ ] Tremendous statue | 27180
+- [ ] Tremendous statue (fake) | 27181
+- [ ] Twinkling painting | 27182
+- [ ] Valiant statue | 27183
+- [ ] Valiant statue (fake) | 27184
+- [ ] Warm painting | 27185
+- [ ] Warrior statue | 27186
+- [ ] Warrior statue (fake) | 27187
+- [ ] Wild painting left half | 27188
+- [ ] Wild painting left half (fake) | 27189
+- [ ] Wild painting right half | 27190
+- [ ] Wild painting right half (fake) | 27191
+- [ ] Wistful painting | 27192
+- [ ] Wistful painting (fake) | 27193
+- [ ] Worthy painting | 27194

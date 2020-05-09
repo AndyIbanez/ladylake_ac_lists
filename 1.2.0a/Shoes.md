@@ -1,167 +1,7 @@
-- [ ] Kimono sandals (Black) | 60966
-- [ ] Kimono sandals (Red) | 60967
-- [ ] Kimono sandals (Pink) | 60968
-- [ ] Kimono sandals (Dark blue) | 60969
-- [ ] Kimono sandals (Gray) | 60970
-- [ ] Kimono sandals (Purple) | 60971
-- [ ] Kimono sandals (Yellow) | 60972
-- [ ] Kimono sandals (Green) | 60973
-- [ ] Vinyl round-toed pumps (Beige) | 61194
-- [ ] Vinyl round-toed pumps (Mint) | 61195
-- [ ] Vinyl round-toed pumps (Brown) | 61196
-- [ ] Vinyl round-toed pumps (Pink) | 61197
-- [ ] Vinyl round-toed pumps (White) | 61198
-- [ ] Vinyl round-toed pumps (Black) | 61199
-- [ ] Strappy heels (Red) | 61168
-- [ ] Strappy heels (Blue) | 61169
-- [ ] Strappy heels (Gold) | 61170
-- [ ] Strappy heels (Silver) | 61171
-- [ ] Strappy heels (Black) | 61172
-- [ ] Strappy heels (Pink) | 61173
-- [ ] Strappy heels (Green) | 61174
-- [ ] Strappy heels (Purple) | 61175
-- [ ] Comfy sandals (Brown) | 60868
-- [ ] Comfy sandals (White) | 60869
-- [ ] Comfy sandals (Green) | 60870
-- [ ] Comfy sandals (Blue) | 60871
-- [ ] Comfy sandals (Red) | 60872
-- [ ] Comfy sandals (Orange) | 60873
-- [ ] Comfy sandals (Yellow) | 60874
-- [ ] Comfy sandals (Purple) | 60875
-- [ ] Loafers (Brown) | 60996
-- [ ] Loafers (Black) | 60997
-- [ ] Loafers (White) | 60998
-- [ ] Loafers (Pink) | 60999
-- [ ] Loafers (Blue) | 61000
-- [ ] Loafers (Yellow) | 61001
-- [ ] Loafers (Red) | 61002
-- [ ] Mary janes (Black) | 61007
-- [ ] Mary janes (Red) | 61008
-- [ ] Mary janes (White) | 61009
-- [ ] Mary janes (Light blue) | 61010
-- [ ] Mary janes (Yellow) | 61011
-- [ ] Mary janes (Blue) | 61012
-- [ ] Mary janes (Green) | 61013
-- [ ] Mary janes (Pink) | 61014
-- [ ] Slip-on loafers (Yellow) | 61125
-- [ ] Slip-on loafers (Red) | 61126
-- [ ] Slip-on loafers (Blue) | 61127
-- [ ] Slip-on loafers (Green) | 61128
-- [ ] Slip-on loafers (Black) | 61129
-- [ ] Slip-on loafers (Light blue) | 61130
-- [ ] Slip-on loafers (White) | 61131
-- [ ] Slip-on loafers (Beige) | 61132
-- [ ] Business shoes (Black) | 60858
-- [ ] Business shoes (Brown) | 60859
-- [ ] Traditional flower shoes (Red) | 61176
-- [ ] Traditional flower shoes (Pink) | 61177
-- [ ] Traditional flower shoes (Blue) | 61178
-- [ ] Traditional flower shoes (Yellow) | 61179
-- [ ] Traditional flower shoes (Lime) | 61180
-- [ ] Steel-toed boots (Brown) | 61162
-- [ ] Steel-toed boots (Beige) | 61163
-- [ ] Steel-toed boots (Green) | 61164
-- [ ] Steel-toed boots (Black) | 61165
-- [ ] Steel-toed boots (Red) | 61166
-- [ ] Steel-toed boots (Gray) | 61167
-- [ ] Trekking shoes (Orange) | 61181
-- [ ] Trekking shoes (Gray) | 61182
-- [ ] Trekking shoes (Black) | 61183
-- [ ] Trekking shoes (Light blue) | 61184
-- [ ] Trekking shoes (Yellow) | 61185
-- [ ] Trekking shoes (Purple) | 61186
-- [ ] Trekking shoes (White) | 61187
-- [ ] Trekking shoes (Brown) | 61188
-- [ ] Mage's booties (Black) | 61003
-- [ ] Mage's booties (Blue) | 61004
-- [ ] Mage's booties (White) | 61005
-- [ ] Mage's booties (Red) | 61006
-- [ ] Walking shoes (Pink) | 61200
-- [ ] Walking shoes (Beige) | 61201
-- [ ] Walking shoes (Red) | 61202
-- [ ] Labelle pumps (Twilight) | 60974
-- [ ] Labelle pumps (Midnight) | 60975
-- [ ] Labelle pumps (Passion) | 60976
-- [ ] Labelle pumps (Ocean) | 60977
-- [ ] Labelle pumps (Sunset) | 60978
-- [ ] Labelle pumps (Love) | 60979
-- [ ] Faux-suede sneakers (Green) | 60906
-- [ ] Faux-suede sneakers (Navy blue) | 60907
-- [ ] Faux-suede sneakers (Beige) | 60908
-- [ ] Faux-suede sneakers (Orange) | 60909
-- [ ] Faux-suede sneakers (Pink) | 60910
-- [ ] Faux-suede sneakers (Light blue) | 60911
-- [ ] Faux-suede sneakers (Purple) | 60912
-- [ ] Faux-suede sneakers (Berry red) | 60913
-- [ ] Velour boots (Ruby red) | 61189
-- [ ] Velour boots (Gray) | 61190
-- [ ] Velour boots (Brown) | 61191
-- [ ] Velour boots (Blue) | 61192
-- [ ] Velour boots (Mustard) | 61193
-- [ ] Wingtip shoes (Black & white) | 61219
-- [ ] Wingtip shoes (Brown) | 61220
-- [ ] Wingtip shoes (Greige) | 61221
-- [ ] Wingtip shoes (Green) | 61222
-- [ ] Wingtip shoes (Gray) | 61223
-- [ ] Wingtip shoes (Berry red) | 61224
-- [ ] Wingtip shoes (Black) | 61225
-- [ ] Winklepickers (Red) | 61226
-- [ ] Winklepickers (White) | 61227
-- [ ] Winklepickers (Black) | 61228
-- [ ] Winklepickers (Blue) | 61229
-- [ ] Wooden clogs (Yellow) | 61230
-- [ ] Wooden clogs (Blue) | 61231
-- [ ] Wooden clogs (Red) | 61232
-- [ ] Wooden clogs (Green) | 61233
-- [ ] Wooden clogs (Brown) | 61234
-- [ ] Water sandals (Pink) | 61203
-- [ ] Water sandals (Navy blue) | 61204
-- [ ] Water sandals (Red) | 61205
-- [ ] Water sandals (Light blue) | 61206
-- [ ] Water sandals (Orange) | 61207
-- [ ] Water sandals (Purple) | 61208
-- [ ] Water sandals (Green) | 61209
-- [ ] Water sandals (Yellow) | 61210
-- [ ] House slippers (Gray) | 60948
-- [ ] House slippers (Navy blue) | 60949
-- [ ] House slippers (Pink) | 60950
-- [ ] House slippers (Yellow) | 60951
-- [ ] House slippers (Green) | 60952
-- [ ] House slippers (Blue) | 60953
-- [ ] House slippers (Red) | 60954
-- [ ] House slippers (Beige) | 60955
-- [ ] Faux-shearling boots (Beige) | 60901
-- [ ] Faux-shearling boots (Pink) | 60902
-- [ ] Faux-shearling boots (Green) | 60903
-- [ ] Faux-shearling boots (Black) | 60904
-- [ ] Faux-shearling boots (Gray) | 60905
-- [ ] Faux-fur ankle booties (Olive) | 60897
-- [ ] Faux-fur ankle booties (Beige) | 60898
-- [ ] Faux-fur ankle booties (Ruby red) | 60899
-- [ ] Faux-fur ankle booties (Navy blue) | 60900
-- [ ] Paw slippers (Pink) | 61037
-- [ ] Paw slippers (Brown) | 61038
-- [ ] Paw slippers (White) | 61039
-- [ ] Paw slippers (Blue) | 61040
-- [ ] Paw slippers (Black) | 61041
-- [ ] Cross-belt sandals (Green) | 60881
-- [ ] Cross-belt sandals (Pink) | 60882
-- [ ] Cross-belt sandals (Gray) | 60883
-- [ ] Cross-belt sandals (Brown) | 60884
-- [ ] Cross-belt sandals (Black) | 60885
-- [ ] Cross-belt sandals (Purple) | 60886
-- [ ] Labelle sneakers (Twilight) | 60980
-- [ ] Labelle sneakers (Midnight) | 60981
-- [ ] Labelle sneakers (Passion) | 60982
-- [ ] Labelle sneakers (Ocean) | 60983
-- [ ] Labelle sneakers (Sunset) | 60984
-- [ ] Labelle sneakers (Love) | 60985
-- [ ] Leopard pumps (Beige) | 60990
-- [ ] Leopard pumps (Gray) | 60991
-- [ ] Leopard pumps (Blue) | 60992
-- [ ] Leopard pumps (Green) | 60993
-- [ ] Leopard pumps (Purple) | 60994
-- [ ] Leopard pumps (Pink) | 60995
+- [ ] Antique boots (Brown) | 60820
+- [ ] Antique boots (Black) | 60821
+- [ ] Antique boots (Greige) | 60822
+- [ ] Armor shoes (Gray) | 24969
 - [ ] Babouches (Blue) | 60823
 - [ ] Babouches (Orange) | 60824
 - [ ] Babouches (Pink) | 60825
@@ -170,103 +10,6 @@
 - [ ] Babouches (Purple) | 60828
 - [ ] Babouches (Mint) | 60829
 - [ ] Babouches (Red) | 60830
-- [ ] Lace-up boots (Black) | 60986
-- [ ] Lace-up boots (White) | 60987
-- [ ] Lace-up boots (Brown) | 60988
-- [ ] Lace-up boots (Red) | 60989
-- [ ] Moccasin boots (Camel) | 61015
-- [ ] Moccasin boots (Olive) | 61016
-- [ ] Moccasin boots (Beige) | 61017
-- [ ] Moccasin boots (Pink) | 61018
-- [ ] Moccasin boots (Black) | 61019
-- [ ] Moccasin boots (Blue) | 61020
-- [ ] Moccasin boots (Orange) | 61021
-- [ ] Water shoes (Pink) | 61211
-- [ ] Water shoes (Light blue) | 61212
-- [ ] Water shoes (Orange) | 61213
-- [ ] Water shoes (Green) | 61214
-- [ ] Water shoes (Navy blue) | 61215
-- [ ] Water shoes (Yellow) | 61216
-- [ ] Water shoes (Red) | 61217
-- [ ] Water shoes (Black) | 61218
-- [ ] Beaded sandals (Orange) | 60847
-- [ ] Beaded sandals (Purple) | 60848
-- [ ] Beaded sandals (Yellow) | 60849
-- [ ] Beaded sandals (Red) | 60850
-- [ ] Beaded sandals (Green) | 60851
-- [ ] Beaded sandals (Beige) | 60852
-- [ ] Moccasins (Camel) | 61022
-- [ ] Moccasins (Red) | 61023
-- [ ] Moccasins (Light blue) | 61024
-- [ ] Moccasins (White) | 61025
-- [ ] Moccasins (Pink) | 61026
-- [ ] Moccasins (Gray) | 61027
-- [ ] Moccasins (Black) | 61028
-- [ ] Pleather ankle booties (Brown) | 61042
-- [ ] Pleather ankle booties (Black) | 61043
-- [ ] Pleather ankle booties (Green) | 61044
-- [ ] Pleather ankle booties (Mustard) | 61045
-- [ ] Ribbon sandals (Blue) | 61078
-- [ ] Ribbon sandals (White) | 61079
-- [ ] Ribbon sandals (Pink) | 61080
-- [ ] Ribbon sandals (Yellow) | 61081
-- [ ] Ribbon sandals (Green) | 61082
-- [ ] Ribbon sandals (Berry red) | 61083
-- [ ] Ribbon sandals (Black) | 61084
-- [ ] Ribbon sandals (Beige) | 61085
-- [ ] Boots (Green) | 60853
-- [ ] Boots (Black) | 60854
-- [ ] Boots (Blue) | 60855
-- [ ] Boots (Red) | 60856
-- [ ] Boots (Olive) | 60857
-- [ ] Rubber-toe sneakers (Purple) | 61094
-- [ ] Rubber-toe sneakers (Green) | 61095
-- [ ] Rubber-toe sneakers (Yellow) | 61096
-- [ ] Rubber-toe sneakers (Light blue) | 61097
-- [ ] Rubber-toe sneakers (Red) | 61098
-- [ ] Rubber-toe sneakers (Pink) | 61099
-- [ ] Rubber-toe sneakers (Blue) | 61100
-- [ ] Rubber-toe sneakers (Black) | 61101
-- [ ] Outdoor sandals (Green) | 61029
-- [ ] Outdoor sandals (Red) | 61030
-- [ ] Outdoor sandals (Blue) | 61031
-- [ ] Outdoor sandals (Purple) | 61032
-- [ ] Outdoor sandals (Yellow) | 61033
-- [ ] Outdoor sandals (Orange) | 61034
-- [ ] Outdoor sandals (White) | 61035
-- [ ] Outdoor sandals (Black) | 61036
-- [ ] Rain boots (Yellow) | 61065
-- [ ] Rain boots (Green) | 61066
-- [ ] Rain boots (Blue) | 61067
-- [ ] Rain boots (Purple) | 61068
-- [ ] Rain boots (Pink) | 61069
-- [ ] Rain boots (Red) | 61070
-- [ ] Rain boots (Beige) | 61071
-- [ ] Rain boots (Black) | 61072
-- [ ] Flower sandals (Yellow) | 60922
-- [ ] Flower sandals (Pink) | 60923
-- [ ] Flower sandals (Green) | 60924
-- [ ] Flower sandals (Purple) | 60925
-- [ ] Flower sandals (Blue) | 60926
-- [ ] Flower sandals (Black) | 60927
-- [ ] Flower sandals (White) | 60928
-- [ ] Jester's shoes (Purple) | 60956
-- [ ] Jester's shoes (Black) | 60957
-- [ ] Jester's shoes (Red) | 60958
-- [ ] Jester's shoes (Green) | 60959
-- [ ] Work boots (Red) | 61235
-- [ ] Work boots (Purple) | 61236
-- [ ] Work boots (Pink) | 61237
-- [ ] Work boots (Yellow) | 61238
-- [ ] Work boots (White) | 61239
-- [ ] Work boots (Blue) | 61240
-- [ ] Work boots (Green) | 61241
-- [ ] Work boots (Gray) | 61242
-- [ ] Cowboy boots (Brown) | 60876
-- [ ] Cowboy boots (Black) | 60877
-- [ ] Cowboy boots (Ivory) | 60878
-- [ ] Cowboy boots (Pink) | 60879
-- [ ] Cowboy boots (Blue) | 60880
 - [ ] Ballet slippers (Pink) | 60831
 - [ ] Ballet slippers (Mint) | 60832
 - [ ] Ballet slippers (Blue) | 60833
@@ -275,20 +18,27 @@
 - [ ] Ballet slippers (White) | 60836
 - [ ] Ballet slippers (Yellow) | 60837
 - [ ] Ballet slippers (Red) | 60838
-- [ ] Wrestling shoes (Red) | 61243
-- [ ] Wrestling shoes (Blue) | 61244
-- [ ] Wrestling shoes (Green) | 61245
-- [ ] Wrestling shoes (Pink) | 61246
-- [ ] Wrestling shoes (Black) | 61247
-- [ ] Wrestling shoes (Yellow) | 61248
-- [ ] Zori (Black) | 61249
-- [ ] Zori (Gold) | 61250
-- [ ] Zori (Pink) | 61251
-- [ ] Zori (Light pink) | 61252
-- [ ] Zori (Green) | 61253
-- [ ] Zori (White) | 61254
-- [ ] Zori (Aqua) | 61255
-- [ ] Zori (Red) | 61256
+- [ ] Basketball shoes (Red) | 60839
+- [ ] Basketball shoes (Green) | 60840
+- [ ] Basketball shoes (Beige) | 60841
+- [ ] Basketball shoes (Orange) | 60842
+- [ ] Basketball shoes (Blue) | 60843
+- [ ] Basketball shoes (Purple) | 60844
+- [ ] Basketball shoes (Light blue) | 60845
+- [ ] Basketball shoes (Pink) | 60846
+- [ ] Beaded sandals (Orange) | 60847
+- [ ] Beaded sandals (Purple) | 60848
+- [ ] Beaded sandals (Yellow) | 60849
+- [ ] Beaded sandals (Red) | 60850
+- [ ] Beaded sandals (Green) | 60851
+- [ ] Beaded sandals (Beige) | 60852
+- [ ] Boots (Green) | 60853
+- [ ] Boots (Black) | 60854
+- [ ] Boots (Blue) | 60855
+- [ ] Boots (Red) | 60856
+- [ ] Boots (Olive) | 60857
+- [ ] Business shoes (Black) | 60858
+- [ ] Business shoes (Brown) | 60859
 - [ ] Cleats (Blue) | 60860
 - [ ] Cleats (Light blue) | 60861
 - [ ] Cleats (Red) | 60862
@@ -297,6 +47,190 @@
 - [ ] Cleats (Orange) | 60865
 - [ ] Cleats (Green) | 60866
 - [ ] Cleats (Purple) | 60867
+- [ ] Comfy sandals (Brown) | 60868
+- [ ] Comfy sandals (White) | 60869
+- [ ] Comfy sandals (Green) | 60870
+- [ ] Comfy sandals (Blue) | 60871
+- [ ] Comfy sandals (Red) | 60872
+- [ ] Comfy sandals (Orange) | 60873
+- [ ] Comfy sandals (Yellow) | 60874
+- [ ] Comfy sandals (Purple) | 60875
+- [ ] Cowboy boots (Brown) | 60876
+- [ ] Cowboy boots (Black) | 60877
+- [ ] Cowboy boots (Ivory) | 60878
+- [ ] Cowboy boots (Pink) | 60879
+- [ ] Cowboy boots (Blue) | 60880
+- [ ] Cross-belt sandals (Green) | 60881
+- [ ] Cross-belt sandals (Pink) | 60882
+- [ ] Cross-belt sandals (Gray) | 60883
+- [ ] Cross-belt sandals (Brown) | 60884
+- [ ] Cross-belt sandals (Black) | 60885
+- [ ] Cross-belt sandals (Purple) | 60886
+- [ ] Cute sneakers (Light blue) | 60887
+- [ ] Cute sneakers (Green) | 60888
+- [ ] Cute sneakers (Pink) | 60889
+- [ ] Cute sneakers (Yellow) | 60890
+- [ ] Cute sneakers (Purple) | 60891
+- [ ] Cute sneakers (Blue) | 60892
+- [ ] DAL slippers (Blue) | 24981
+- [ ] Earth-egg shoes (None) | 24982
+- [ ] Embroidered shoes (Red) | 60893
+- [ ] Embroidered shoes (White) | 60894
+- [ ] Embroidered shoes (Black) | 60895
+- [ ] Embroidered shoes (Blue) | 60896
+- [ ] Faux-fur ankle booties (Olive) | 60897
+- [ ] Faux-fur ankle booties (Beige) | 60898
+- [ ] Faux-fur ankle booties (Ruby red) | 60899
+- [ ] Faux-fur ankle booties (Navy blue) | 60900
+- [ ] Faux-shearling boots (Beige) | 60901
+- [ ] Faux-shearling boots (Pink) | 60902
+- [ ] Faux-shearling boots (Green) | 60903
+- [ ] Faux-shearling boots (Black) | 60904
+- [ ] Faux-shearling boots (Gray) | 60905
+- [ ] Faux-suede sneakers (Green) | 60906
+- [ ] Faux-suede sneakers (Navy blue) | 60907
+- [ ] Faux-suede sneakers (Beige) | 60908
+- [ ] Faux-suede sneakers (Orange) | 60909
+- [ ] Faux-suede sneakers (Pink) | 60910
+- [ ] Faux-suede sneakers (Light blue) | 60911
+- [ ] Faux-suede sneakers (Purple) | 60912
+- [ ] Faux-suede sneakers (Berry red) | 60913
+- [ ] Flip-flops (Blue) | 60914
+- [ ] Flip-flops (Green) | 60915
+- [ ] Flip-flops (Yellow) | 60916
+- [ ] Flip-flops (White) | 60917
+- [ ] Flip-flops (Orange) | 60918
+- [ ] Flip-flops (Light blue) | 60919
+- [ ] Flip-flops (Pink) | 60920
+- [ ] Flip-flops (Red) | 60921
+- [ ] Flower sandals (Yellow) | 60922
+- [ ] Flower sandals (Pink) | 60923
+- [ ] Flower sandals (Green) | 60924
+- [ ] Flower sandals (Purple) | 60925
+- [ ] Flower sandals (Blue) | 60926
+- [ ] Flower sandals (Black) | 60927
+- [ ] Flower sandals (White) | 60928
+- [ ] Ghillie brogues (Brown) | 60929
+- [ ] Ghillie brogues (Black) | 60930
+- [ ] Ghillie brogues (White) | 60931
+- [ ] Gladiator sandals (Brown) | 60932
+- [ ] Gladiator sandals (Black) | 60933
+- [ ] Gladiator sandals (Red) | 60934
+- [ ] Gold-armor shoes (Gold) | 24991
+- [ ] Hi-tech sneakers (Orange) | 60935
+- [ ] Hi-tech sneakers (Pink) | 60936
+- [ ] Hi-tech sneakers (Green) | 60937
+- [ ] Hi-tech sneakers (Light blue) | 60938
+- [ ] Hi-tech sneakers (Blue) | 60939
+- [ ] High-tops (Gray) | 60940
+- [ ] High-tops (Brown) | 60941
+- [ ] High-tops (Green) | 60942
+- [ ] High-tops (Blue) | 60943
+- [ ] High-tops (Purple) | 60944
+- [ ] High-tops (Red) | 60945
+- [ ] High-tops (Yellow) | 60946
+- [ ] High-tops (White) | 60947
+- [ ] House slippers (Gray) | 60948
+- [ ] House slippers (Navy blue) | 60949
+- [ ] House slippers (Pink) | 60950
+- [ ] House slippers (Yellow) | 60951
+- [ ] House slippers (Green) | 60952
+- [ ] House slippers (Blue) | 60953
+- [ ] House slippers (Red) | 60954
+- [ ] House slippers (Beige) | 60955
+- [ ] Jester's shoes (Purple) | 60956
+- [ ] Jester's shoes (Black) | 60957
+- [ ] Jester's shoes (Red) | 60958
+- [ ] Jester's shoes (Green) | 60959
+- [ ] Kiddie sneakers (Red) | 60960
+- [ ] Kiddie sneakers (Blue) | 60961
+- [ ] Kiddie sneakers (Green) | 60962
+- [ ] Kiddie sneakers (Purple) | 60963
+- [ ] Kiddie sneakers (Silver) | 60964
+- [ ] Kiddie sneakers (Black) | 60965
+- [ ] Kimono sandals (Black) | 60966
+- [ ] Kimono sandals (Red) | 60967
+- [ ] Kimono sandals (Pink) | 60968
+- [ ] Kimono sandals (Dark blue) | 60969
+- [ ] Kimono sandals (Gray) | 60970
+- [ ] Kimono sandals (Purple) | 60971
+- [ ] Kimono sandals (Yellow) | 60972
+- [ ] Kimono sandals (Green) | 60973
+- [ ] Kung-fu shoes (Black) | 24998
+- [ ] Labelle pumps (Twilight) | 60974
+- [ ] Labelle pumps (Midnight) | 60975
+- [ ] Labelle pumps (Passion) | 60976
+- [ ] Labelle pumps (Ocean) | 60977
+- [ ] Labelle pumps (Sunset) | 60978
+- [ ] Labelle pumps (Love) | 60979
+- [ ] Labelle sneakers (Twilight) | 60980
+- [ ] Labelle sneakers (Midnight) | 60981
+- [ ] Labelle sneakers (Passion) | 60982
+- [ ] Labelle sneakers (Ocean) | 60983
+- [ ] Labelle sneakers (Sunset) | 60984
+- [ ] Labelle sneakers (Love) | 60985
+- [ ] Lace-up boots (Black) | 60986
+- [ ] Lace-up boots (White) | 60987
+- [ ] Lace-up boots (Brown) | 60988
+- [ ] Lace-up boots (Red) | 60989
+- [ ] Leaf-egg shoes (None) | 25002
+- [ ] Leopard pumps (Beige) | 60990
+- [ ] Leopard pumps (Gray) | 60991
+- [ ] Leopard pumps (Blue) | 60992
+- [ ] Leopard pumps (Green) | 60993
+- [ ] Leopard pumps (Purple) | 60994
+- [ ] Leopard pumps (Pink) | 60995
+- [ ] Loafers (Brown) | 60996
+- [ ] Loafers (Black) | 60997
+- [ ] Loafers (White) | 60998
+- [ ] Loafers (Pink) | 60999
+- [ ] Loafers (Blue) | 61000
+- [ ] Loafers (Yellow) | 61001
+- [ ] Loafers (Red) | 61002
+- [ ] Mage's booties (Black) | 61003
+- [ ] Mage's booties (Blue) | 61004
+- [ ] Mage's booties (White) | 61005
+- [ ] Mage's booties (Red) | 61006
+- [ ] Mary janes (Black) | 61007
+- [ ] Mary janes (Red) | 61008
+- [ ] Mary janes (White) | 61009
+- [ ] Mary janes (Light blue) | 61010
+- [ ] Mary janes (Yellow) | 61011
+- [ ] Mary janes (Blue) | 61012
+- [ ] Mary janes (Green) | 61013
+- [ ] Mary janes (Pink) | 61014
+- [ ] Moccasin boots (Camel) | 61015
+- [ ] Moccasin boots (Olive) | 61016
+- [ ] Moccasin boots (Beige) | 61017
+- [ ] Moccasin boots (Pink) | 61018
+- [ ] Moccasin boots (Black) | 61019
+- [ ] Moccasin boots (Blue) | 61020
+- [ ] Moccasin boots (Orange) | 61021
+- [ ] Moccasins (Camel) | 61022
+- [ ] Moccasins (Red) | 61023
+- [ ] Moccasins (Light blue) | 61024
+- [ ] Moccasins (White) | 61025
+- [ ] Moccasins (Pink) | 61026
+- [ ] Moccasins (Gray) | 61027
+- [ ] Moccasins (Black) | 61028
+- [ ] Nook Inc. slippers (White) | 25009
+- [ ] Outdoor sandals (Green) | 61029
+- [ ] Outdoor sandals (Red) | 61030
+- [ ] Outdoor sandals (Blue) | 61031
+- [ ] Outdoor sandals (Purple) | 61032
+- [ ] Outdoor sandals (Yellow) | 61033
+- [ ] Outdoor sandals (Orange) | 61034
+- [ ] Outdoor sandals (White) | 61035
+- [ ] Outdoor sandals (Black) | 61036
+- [ ] Paw slippers (Pink) | 61037
+- [ ] Paw slippers (Brown) | 61038
+- [ ] Paw slippers (White) | 61039
+- [ ] Paw slippers (Blue) | 61040
+- [ ] Paw slippers (Black) | 61041
+- [ ] Pleather ankle booties (Brown) | 61042
+- [ ] Pleather ankle booties (Black) | 61043
+- [ ] Pleather ankle booties (Green) | 61044
+- [ ] Pleather ankle booties (Mustard) | 61045
 - [ ] Pleather sneakers (White) | 61046
 - [ ] Pleather sneakers (Black) | 61047
 - [ ] Pleather sneakers (Red) | 61048
@@ -305,6 +239,87 @@
 - [ ] Pleather sneakers (Yellow) | 61051
 - [ ] Pleather sneakers (Light blue) | 61052
 - [ ] Pleather sneakers (Orange) | 61053
+- [ ] Pom-pom boots (Pink) | 61054
+- [ ] Pom-pom boots (Red) | 61055
+- [ ] Pom-pom boots (Yellow) | 61056
+- [ ] Pom-pom boots (Purple) | 61057
+- [ ] Pom-pom boots (Green) | 61058
+- [ ] Pom-pom boots (Blue) | 61059
+- [ ] Pom-pom boots (Black) | 61060
+- [ ] Power boots (Red) | 61061
+- [ ] Power boots (Blue) | 61062
+- [ ] Power boots (Green) | 61063
+- [ ] Power boots (Black) | 61064
+- [ ] Rain boots (Yellow) | 61065
+- [ ] Rain boots (Green) | 61066
+- [ ] Rain boots (Blue) | 61067
+- [ ] Rain boots (Purple) | 61068
+- [ ] Rain boots (Pink) | 61069
+- [ ] Rain boots (Red) | 61070
+- [ ] Rain boots (Beige) | 61071
+- [ ] Rain boots (Black) | 61072
+- [ ] Recycled boots (Brown) | 25017
+- [ ] Restroom slippers (Navy blue) | 61073
+- [ ] Restroom slippers (Red) | 61074
+- [ ] Restroom slippers (Green) | 61075
+- [ ] Restroom slippers (Light blue) | 61076
+- [ ] Restroom slippers (Pink) | 61077
+- [ ] Ribbon sandals (Blue) | 61078
+- [ ] Ribbon sandals (White) | 61079
+- [ ] Ribbon sandals (Pink) | 61080
+- [ ] Ribbon sandals (Yellow) | 61081
+- [ ] Ribbon sandals (Green) | 61082
+- [ ] Ribbon sandals (Berry red) | 61083
+- [ ] Ribbon sandals (Black) | 61084
+- [ ] Ribbon sandals (Beige) | 61085
+- [ ] Rubber-toe high tops (Blue) | 61086
+- [ ] Rubber-toe high tops (Olive) | 61087
+- [ ] Rubber-toe high tops (Beige) | 61088
+- [ ] Rubber-toe high tops (Pink) | 61089
+- [ ] Rubber-toe high tops (Berry red) | 61090
+- [ ] Rubber-toe high tops (Coral) | 61091
+- [ ] Rubber-toe high tops (Ivory) | 61092
+- [ ] Rubber-toe high tops (Black) | 61093
+- [ ] Rubber-toe sneakers (Purple) | 61094
+- [ ] Rubber-toe sneakers (Green) | 61095
+- [ ] Rubber-toe sneakers (Yellow) | 61096
+- [ ] Rubber-toe sneakers (Light blue) | 61097
+- [ ] Rubber-toe sneakers (Red) | 61098
+- [ ] Rubber-toe sneakers (Pink) | 61099
+- [ ] Rubber-toe sneakers (Blue) | 61100
+- [ ] Rubber-toe sneakers (Black) | 61101
+- [ ] Samurai greaves (Red) | 61102
+- [ ] Samurai greaves (Black) | 61103
+- [ ] Samurai greaves (Blue) | 61104
+- [ ] Samurai greaves (White) | 61105
+- [ ] Samurai greaves (Golden yellow) | 61106
+- [ ] Shiny bow platform shoes (Pink) | 61107
+- [ ] Shiny bow platform shoes (Black) | 61108
+- [ ] Shiny bow platform shoes (Red) | 61109
+- [ ] Shiny bow platform shoes (Purple) | 61110
+- [ ] Shiny bow platform shoes (Light blue) | 61111
+- [ ] Shiny bow platform shoes (White) | 61112
+- [ ] Shiny bow platform shoes (Light purple) | 61113
+- [ ] Shower sandals (Black) | 61114
+- [ ] Shower sandals (White) | 61115
+- [ ] Shower sandals (Gold) | 61116
+- [ ] Shower sandals (Red) | 61117
+- [ ] Shower sandals (Blue) | 61118
+- [ ] Ski boots (White) | 61119
+- [ ] Ski boots (Orange) | 61120
+- [ ] Ski boots (Red) | 61121
+- [ ] Ski boots (Lime) | 61122
+- [ ] Ski boots (Light blue) | 61123
+- [ ] Ski boots (Purple) | 61124
+- [ ] Sky-egg shoes (None) | 25026
+- [ ] Slip-on loafers (Yellow) | 61125
+- [ ] Slip-on loafers (Red) | 61126
+- [ ] Slip-on loafers (Blue) | 61127
+- [ ] Slip-on loafers (Green) | 61128
+- [ ] Slip-on loafers (Black) | 61129
+- [ ] Slip-on loafers (Light blue) | 61130
+- [ ] Slip-on loafers (White) | 61131
+- [ ] Slip-on loafers (Beige) | 61132
 - [ ] Slip-on sandals (Light blue) | 61133
 - [ ] Slip-on sandals (Lime) | 61134
 - [ ] Slip-on sandals (Black) | 61135
@@ -318,104 +333,6 @@
 - [ ] Slip-on school shoes (Green) | 61143
 - [ ] Slip-on school shoes (Yellow) | 61144
 - [ ] Slip-on school shoes (Pink) | 61145
-- [ ] Flip-flops (Blue) | 60914
-- [ ] Flip-flops (Green) | 60915
-- [ ] Flip-flops (Yellow) | 60916
-- [ ] Flip-flops (White) | 60917
-- [ ] Flip-flops (Orange) | 60918
-- [ ] Flip-flops (Light blue) | 60919
-- [ ] Flip-flops (Pink) | 60920
-- [ ] Flip-flops (Red) | 60921
-- [ ] Pom-pom boots (Pink) | 61054
-- [ ] Pom-pom boots (Red) | 61055
-- [ ] Pom-pom boots (Yellow) | 61056
-- [ ] Pom-pom boots (Purple) | 61057
-- [ ] Pom-pom boots (Green) | 61058
-- [ ] Pom-pom boots (Blue) | 61059
-- [ ] Pom-pom boots (Black) | 61060
-- [ ] Ghillie brogues (Brown) | 60929
-- [ ] Ghillie brogues (Black) | 60930
-- [ ] Ghillie brogues (White) | 60931
-- [ ] Antique boots (Brown) | 60820
-- [ ] Antique boots (Black) | 60821
-- [ ] Antique boots (Greige) | 60822
-- [ ] Samurai greaves (Red) | 61102
-- [ ] Samurai greaves (Black) | 61103
-- [ ] Samurai greaves (Blue) | 61104
-- [ ] Samurai greaves (White) | 61105
-- [ ] Samurai greaves (Golden yellow) | 61106
-- [ ] Power boots (Red) | 61061
-- [ ] Power boots (Blue) | 61062
-- [ ] Power boots (Green) | 61063
-- [ ] Power boots (Black) | 61064
-- [ ] Restroom slippers (Navy blue) | 61073
-- [ ] Restroom slippers (Red) | 61074
-- [ ] Restroom slippers (Green) | 61075
-- [ ] Restroom slippers (Light blue) | 61076
-- [ ] Restroom slippers (Pink) | 61077
-- [ ] Gladiator sandals (Brown) | 60932
-- [ ] Gladiator sandals (Black) | 60933
-- [ ] Gladiator sandals (Red) | 60934
-- [ ] Embroidered shoes (Red) | 60893
-- [ ] Embroidered shoes (White) | 60894
-- [ ] Embroidered shoes (Black) | 60895
-- [ ] Embroidered shoes (Blue) | 60896
-- [ ] Rubber-toe high tops (Blue) | 61086
-- [ ] Rubber-toe high tops (Olive) | 61087
-- [ ] Rubber-toe high tops (Beige) | 61088
-- [ ] Rubber-toe high tops (Pink) | 61089
-- [ ] Rubber-toe high tops (Berry red) | 61090
-- [ ] Rubber-toe high tops (Coral) | 61091
-- [ ] Rubber-toe high tops (Ivory) | 61092
-- [ ] Rubber-toe high tops (Black) | 61093
-- [ ] Sporty sandals (Red) | 61154
-- [ ] Sporty sandals (Olive) | 61155
-- [ ] Sporty sandals (Blue) | 61156
-- [ ] Sporty sandals (Purple) | 61157
-- [ ] Sporty sandals (Green) | 61158
-- [ ] Sporty sandals (Pink) | 61159
-- [ ] Sporty sandals (Beige) | 61160
-- [ ] Sporty sandals (Gray) | 61161
-- [ ] High-tops (Gray) | 60940
-- [ ] High-tops (Brown) | 60941
-- [ ] High-tops (Green) | 60942
-- [ ] High-tops (Blue) | 60943
-- [ ] High-tops (Purple) | 60944
-- [ ] High-tops (Red) | 60945
-- [ ] High-tops (Yellow) | 60946
-- [ ] High-tops (White) | 60947
-- [ ] Hi-tech sneakers (Orange) | 60935
-- [ ] Hi-tech sneakers (Pink) | 60936
-- [ ] Hi-tech sneakers (Green) | 60937
-- [ ] Hi-tech sneakers (Light blue) | 60938
-- [ ] Hi-tech sneakers (Blue) | 60939
-- [ ] Shiny bow platform shoes (Pink) | 61107
-- [ ] Shiny bow platform shoes (Black) | 61108
-- [ ] Shiny bow platform shoes (Red) | 61109
-- [ ] Shiny bow platform shoes (Purple) | 61110
-- [ ] Shiny bow platform shoes (Light blue) | 61111
-- [ ] Shiny bow platform shoes (White) | 61112
-- [ ] Shiny bow platform shoes (Light purple) | 61113
-- [ ] Basketball shoes (Red) | 60839
-- [ ] Basketball shoes (Green) | 60840
-- [ ] Basketball shoes (Beige) | 60841
-- [ ] Basketball shoes (Orange) | 60842
-- [ ] Basketball shoes (Blue) | 60843
-- [ ] Basketball shoes (Purple) | 60844
-- [ ] Basketball shoes (Light blue) | 60845
-- [ ] Basketball shoes (Pink) | 60846
-- [ ] Cute sneakers (Light blue) | 60887
-- [ ] Cute sneakers (Green) | 60888
-- [ ] Cute sneakers (Pink) | 60889
-- [ ] Cute sneakers (Yellow) | 60890
-- [ ] Cute sneakers (Purple) | 60891
-- [ ] Cute sneakers (Blue) | 60892
-- [ ] Kiddie sneakers (Red) | 60960
-- [ ] Kiddie sneakers (Blue) | 60961
-- [ ] Kiddie sneakers (Green) | 60962
-- [ ] Kiddie sneakers (Purple) | 60963
-- [ ] Kiddie sneakers (Silver) | 60964
-- [ ] Kiddie sneakers (Black) | 60965
 - [ ] Slippers (Gray) | 61146
 - [ ] Slippers (Black) | 61147
 - [ ] Slippers (White) | 61148
@@ -424,31 +341,114 @@
 - [ ] Slippers (Blue) | 61151
 - [ ] Slippers (Red) | 61152
 - [ ] Slippers (Yellow) | 61153
-- [ ] Ski boots (White) | 61119
-- [ ] Ski boots (Orange) | 61120
-- [ ] Ski boots (Red) | 61121
-- [ ] Ski boots (Lime) | 61122
-- [ ] Ski boots (Light blue) | 61123
-- [ ] Ski boots (Purple) | 61124
-- [ ] Shower sandals (Black) | 61114
-- [ ] Shower sandals (White) | 61115
-- [ ] Shower sandals (Gold) | 61116
-- [ ] Shower sandals (Red) | 61117
-- [ ] Shower sandals (Blue) | 61118
-- [ ] Armor shoes (Gray) | 24969
-- [ ] Gold-armor shoes (Gold) | 24991
-- [ ] Nook Inc. slippers (White) | 25009
 - [ ] Space boots (White) | 25031
-- [ ] Sky-egg shoes (None) | 25026
-- [ ] Leaf-egg shoes (None) | 25002
-- [ ] Wedding shoes | 27121
-- [ ] Earth-egg shoes (None) | 24982
-- [ ] Wedding pumps | 27120
-- [ ] Kung-fu shoes (Black) | 24998
-- [ ] Visual-punk boots (Black) | 25040
-- [ ] Water-egg shoes (None) | 25044
-- [ ] Wood-egg shoes (None) | 25047
-- [ ] Recycled boots (Brown) | 25017
-- [ ] Zap boots (White) | 25051
-- [ ] DAL slippers (Blue) | 24981
+- [ ] Sporty sandals (Red) | 61154
+- [ ] Sporty sandals (Olive) | 61155
+- [ ] Sporty sandals (Blue) | 61156
+- [ ] Sporty sandals (Purple) | 61157
+- [ ] Sporty sandals (Green) | 61158
+- [ ] Sporty sandals (Pink) | 61159
+- [ ] Sporty sandals (Beige) | 61160
+- [ ] Sporty sandals (Gray) | 61161
+- [ ] Steel-toed boots (Brown) | 61162
+- [ ] Steel-toed boots (Beige) | 61163
+- [ ] Steel-toed boots (Green) | 61164
+- [ ] Steel-toed boots (Black) | 61165
+- [ ] Steel-toed boots (Red) | 61166
+- [ ] Steel-toed boots (Gray) | 61167
 - [ ] Stone-egg shoes (None) | 25034
+- [ ] Strappy heels (Red) | 61168
+- [ ] Strappy heels (Blue) | 61169
+- [ ] Strappy heels (Gold) | 61170
+- [ ] Strappy heels (Silver) | 61171
+- [ ] Strappy heels (Black) | 61172
+- [ ] Strappy heels (Pink) | 61173
+- [ ] Strappy heels (Green) | 61174
+- [ ] Strappy heels (Purple) | 61175
+- [ ] Traditional flower shoes (Red) | 61176
+- [ ] Traditional flower shoes (Pink) | 61177
+- [ ] Traditional flower shoes (Blue) | 61178
+- [ ] Traditional flower shoes (Yellow) | 61179
+- [ ] Traditional flower shoes (Lime) | 61180
+- [ ] Trekking shoes (Orange) | 61181
+- [ ] Trekking shoes (Gray) | 61182
+- [ ] Trekking shoes (Black) | 61183
+- [ ] Trekking shoes (Light blue) | 61184
+- [ ] Trekking shoes (Yellow) | 61185
+- [ ] Trekking shoes (Purple) | 61186
+- [ ] Trekking shoes (White) | 61187
+- [ ] Trekking shoes (Brown) | 61188
+- [ ] Velour boots (Ruby red) | 61189
+- [ ] Velour boots (Gray) | 61190
+- [ ] Velour boots (Brown) | 61191
+- [ ] Velour boots (Blue) | 61192
+- [ ] Velour boots (Mustard) | 61193
+- [ ] Vinyl round-toed pumps (Beige) | 61194
+- [ ] Vinyl round-toed pumps (Mint) | 61195
+- [ ] Vinyl round-toed pumps (Brown) | 61196
+- [ ] Vinyl round-toed pumps (Pink) | 61197
+- [ ] Vinyl round-toed pumps (White) | 61198
+- [ ] Vinyl round-toed pumps (Black) | 61199
+- [ ] Visual-punk boots (Black) | 25040
+- [ ] Walking shoes (Pink) | 61200
+- [ ] Walking shoes (Beige) | 61201
+- [ ] Walking shoes (Red) | 61202
+- [ ] Water sandals (Pink) | 61203
+- [ ] Water sandals (Navy blue) | 61204
+- [ ] Water sandals (Red) | 61205
+- [ ] Water sandals (Light blue) | 61206
+- [ ] Water sandals (Orange) | 61207
+- [ ] Water sandals (Purple) | 61208
+- [ ] Water sandals (Green) | 61209
+- [ ] Water sandals (Yellow) | 61210
+- [ ] Water shoes (Pink) | 61211
+- [ ] Water shoes (Light blue) | 61212
+- [ ] Water shoes (Orange) | 61213
+- [ ] Water shoes (Green) | 61214
+- [ ] Water shoes (Navy blue) | 61215
+- [ ] Water shoes (Yellow) | 61216
+- [ ] Water shoes (Red) | 61217
+- [ ] Water shoes (Black) | 61218
+- [ ] Water-egg shoes (None) | 25044
+- [ ] Wedding pumps | 27120
+- [ ] Wedding shoes | 27121
+- [ ] Wingtip shoes (Black & white) | 61219
+- [ ] Wingtip shoes (Brown) | 61220
+- [ ] Wingtip shoes (Greige) | 61221
+- [ ] Wingtip shoes (Green) | 61222
+- [ ] Wingtip shoes (Gray) | 61223
+- [ ] Wingtip shoes (Berry red) | 61224
+- [ ] Wingtip shoes (Black) | 61225
+- [ ] Winklepickers (Red) | 61226
+- [ ] Winklepickers (White) | 61227
+- [ ] Winklepickers (Black) | 61228
+- [ ] Winklepickers (Blue) | 61229
+- [ ] Wood-egg shoes (None) | 25047
+- [ ] Wooden clogs (Yellow) | 61230
+- [ ] Wooden clogs (Blue) | 61231
+- [ ] Wooden clogs (Red) | 61232
+- [ ] Wooden clogs (Green) | 61233
+- [ ] Wooden clogs (Brown) | 61234
+- [ ] Work boots (Red) | 61235
+- [ ] Work boots (Purple) | 61236
+- [ ] Work boots (Pink) | 61237
+- [ ] Work boots (Yellow) | 61238
+- [ ] Work boots (White) | 61239
+- [ ] Work boots (Blue) | 61240
+- [ ] Work boots (Green) | 61241
+- [ ] Work boots (Gray) | 61242
+- [ ] Wrestling shoes (Red) | 61243
+- [ ] Wrestling shoes (Blue) | 61244
+- [ ] Wrestling shoes (Green) | 61245
+- [ ] Wrestling shoes (Pink) | 61246
+- [ ] Wrestling shoes (Black) | 61247
+- [ ] Wrestling shoes (Yellow) | 61248
+- [ ] Zap boots (White) | 25051
+- [ ] Zori (Black) | 61249
+- [ ] Zori (Gold) | 61250
+- [ ] Zori (Pink) | 61251
+- [ ] Zori (Light pink) | 61252
+- [ ] Zori (Green) | 61253
+- [ ] Zori (White) | 61254
+- [ ] Zori (Aqua) | 61255
+- [ ] Zori (Red) | 61256
