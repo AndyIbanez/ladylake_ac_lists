@@ -34,7 +34,7 @@
 - [ ] Cat nose (White) | 60308
 - [ ] Cat nose (Brown) | 60309
 - [ ] Cat nose (Navy blue) | 60310
-- [ ] Cucumber pack (Green) | 24847
+- [x] Cucumber pack (Green) | 24847
 - [ ] Curly mustache (Black) | 24848
 - [x] Cyber shades (Red) | 60311
 - [x] Cyber shades (Black) | 60312
@@ -120,11 +120,11 @@
 - [ ] Night-vision goggles (Black) | 24876
 - [ ] Nook Inc. eye mask (Green) | 24877
 - [x] Nose drip (Light blue) | 24878
-- [ ] Octagonal glasses (Gray) | 60380
-- [ ] Octagonal glasses (Green) | 60381
-- [ ] Octagonal glasses (Purple) | 60382
-- [ ] Octagonal glasses (Gold) | 60383
-- [ ] Octagonal glasses (Black) | 60384
+- [x] Octagonal glasses (Gray) | 60380
+- [x] Octagonal glasses (Green) | 60381
+- [x] Octagonal glasses (Purple) | 60382
+- [x] Octagonal glasses (Gold) | 60383
+- [x] Octagonal glasses (Black) | 60384
 - [x] Oval glasses (Green) | 60385
 - [x] Oval glasses (Orange) | 60386
 - [x] Oval glasses (Blue) | 60387
