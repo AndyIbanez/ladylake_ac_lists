@@ -14,7 +14,7 @@
 - [x] Bottom-rimmed glasses (Pink) | 60288
 - [x] Bottom-rimmed glasses (Black) | 60289
 - [ ] Browline glasses (Black) | 60290
-- [ ] Browline glasses (Brown) | 60291
+- [x] Browline glasses (Brown) | 60291
 - [ ] Browline glasses (Green) | 60292
 - [ ] Browline glasses (Gray) | 60293
 - [x] Bubblegum (Pink) | 60294
@@ -31,9 +31,9 @@
 - [ ] Candy-skull mask (Purple) | 60305
 - [x] Candy-skull mask (Orange) | 60306
 - [ ] Candy-skull mask (Blue) | 60307
-- [ ] Cat nose (White) | 60308
-- [ ] Cat nose (Brown) | 60309
-- [ ] Cat nose (Navy blue) | 60310
+- [x] Cat nose (White) | 60308
+- [x] Cat nose (Brown) | 60309
+- [x] Cat nose (Navy blue) | 60310
 - [x] Cucumber pack (Green) | 24847
 - [x] Curly mustache (Black) | 24848
 - [x] Cyber shades (Red) | 60311
@@ -63,7 +63,7 @@
 - [x] Eye mask (Orange) | 60332
 - [x] Eye mask (Red) | 60333
 - [x] Eye patch (Black) | 24857
-- [ ] Facial mask (White) | 24858
+- [x] Facial mask (White) | 24858
 - [x] Fake nose (Red) | 24859
 - [x] Flower sunglasses (Red) | 60334
 - [x] Flower sunglasses (Orange) | 60335
@@ -107,7 +107,7 @@
 - [ ] Ladder shades (Pink) | 60368
 - [ ] Ladder shades (Yellow) | 60369
 - [ ] Ladder shades (Gold) | 60370
-- [ ] Leaf (Green) | 24873
+- [x] Leaf (Green) | 24873
 - [x] Masquerade mask (Purple) | 60371
 - [x] Masquerade mask (Black) | 60372
 - [x] Masquerade mask (Blue) | 60373
@@ -117,7 +117,7 @@
 - [x] Monocle (Black) | 60377
 - [x] Monocle (Gold) | 60378
 - [x] Monocle (Silver) | 60379
-- [ ] Night-vision goggles (Black) | 24876
+- [x] Night-vision goggles (Black) | 24876
 - [ ] Nook Inc. eye mask (Green) | 24877
 - [x] Nose drip (Light blue) | 24878
 - [x] Octagonal glasses (Gray) | 60380
