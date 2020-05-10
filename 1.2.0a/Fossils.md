@@ -1,73 +1,73 @@
-- [ ] Acanthostega | 26012
-- [ ] Amber | 26013
-- [ ] Ammonite | 26014
-- [ ] Ankylo skull | 26015
-- [ ] Ankylo tail | 26016
-- [ ] Ankylo torso | 26017
-- [ ] Anomalocaris | 26018
-- [ ] Archaeopteryx | 26019
-- [ ] Archelon skull | 26020
-- [ ] Archelon tail | 26021
-- [ ] Australopith | 26022
-- [ ] Brachio chest | 26023
-- [ ] Brachio pelvis | 26024
-- [ ] Brachio skull | 26025
-- [ ] Brachio tail | 26026
-- [ ] Coprolite | 26027
-- [ ] Deinony tail | 26028
-- [ ] Deinony torso | 26029
-- [ ] Dimetrodon skull | 26030
-- [ ] Dimetrodon torso | 26031
-- [ ] Dinosaur track | 26032
-- [ ] Diplo chest | 26033
-- [ ] Diplo neck | 26034
-- [ ] Diplo pelvis | 26035
-- [ ] Diplo skull | 26036
-- [ ] Diplo tail | 26037
-- [ ] Diplo tail tip | 26038
-- [ ] Dunkleosteus | 26039
-- [ ] Eusthenopteron | 26040
-- [ ] Iguanodon skull | 26041
-- [ ] Iguanodon tail | 26042
-- [ ] Iguanodon torso | 26043
-- [ ] Juramaia | 26044
-- [ ] Left megalo side | 26045
-- [ ] Left ptera wing | 26046
-- [ ] Left quetzal wing | 26047
-- [ ] Mammoth skull | 26048
-- [ ] Mammoth torso | 26049
-- [ ] Megacero skull | 26050
-- [ ] Megacero tail | 26051
-- [ ] Megacero torso | 26052
-- [ ] Myllokunmingia | 26053
-- [ ] Ophthalmo skull | 26054
-- [ ] Ophthalmo torso | 26055
-- [ ] Pachy skull | 26056
-- [ ] Pachy tail | 26057
-- [ ] Parasaur skull | 26058
-- [ ] Parasaur tail | 26059
-- [ ] Parasaur torso | 26060
-- [ ] Plesio body | 26061
-- [ ] Plesio skull | 26062
-- [ ] Plesio tail | 26063
-- [ ] Ptera body | 26064
-- [ ] Quetzal torso | 26065
-- [ ] Right megalo side | 26066
-- [ ] Right ptera wing | 26067
-- [ ] Right quetzal wing | 26068
-- [ ] Sabertooth skull | 26069
-- [ ] Sabertooth tail | 26070
-- [ ] Shark-tooth pattern | 26071
-- [ ] Spino skull | 26072
-- [ ] Spino tail | 26073
-- [ ] Spino torso | 26074
-- [ ] Stego skull | 26075
-- [ ] Stego tail | 26076
-- [ ] Stego torso | 26077
-- [ ] T. rex skull | 26078
-- [ ] T. rex tail | 26079
-- [ ] T. rex torso | 26080
-- [ ] Tricera skull | 26081
-- [ ] Tricera tail | 26082
-- [ ] Tricera torso | 26083
-- [ ] Trilobite | 26084
+- [x] Acanthostega | 26012
+- [x] Amber | 26013
+- [x] Ammonite | 26014
+- [x] Ankylo skull | 26015
+- [x] Ankylo tail | 26016
+- [x] Ankylo torso | 26017
+- [x] Anomalocaris | 26018
+- [x] Archaeopteryx | 26019
+- [x] Archelon skull | 26020
+- [x] Archelon tail | 26021
+- [x] Australopith | 26022
+- [x] Brachio chest | 26023
+- [x] Brachio pelvis | 26024
+- [x] Brachio skull | 26025
+- [x] Brachio tail | 26026
+- [x] Coprolite | 26027
+- [x] Deinony tail | 26028
+- [x] Deinony torso | 26029
+- [x] Dimetrodon skull | 26030
+- [x] Dimetrodon torso | 26031
+- [x] Dinosaur track | 26032
+- [x] Diplo chest | 26033
+- [x] Diplo neck | 26034
+- [x] Diplo pelvis | 26035
+- [x] Diplo skull | 26036
+- [x] Diplo tail | 26037
+- [x] Diplo tail tip | 26038
+- [x] Dunkleosteus | 26039
+- [x] Eusthenopteron | 26040
+- [x] Iguanodon skull | 26041
+- [x] Iguanodon tail | 26042
+- [x] Iguanodon torso | 26043
+- [x] Juramaia | 26044
+- [x] Left megalo side | 26045
+- [x] Left ptera wing | 26046
+- [x] Left quetzal wing | 26047
+- [x] Mammoth skull | 26048
+- [x] Mammoth torso | 26049
+- [x] Megacero skull | 26050
+- [x] Megacero tail | 26051
+- [x] Megacero torso | 26052
+- [x] Myllokunmingia | 26053
+- [x] Ophthalmo skull | 26054
+- [x] Ophthalmo torso | 26055
+- [x] Pachy skull | 26056
+- [x] Pachy tail | 26057
+- [x] Parasaur skull | 26058
+- [x] Parasaur tail | 26059
+- [x] Parasaur torso | 26060
+- [x] Plesio body | 26061
+- [x] Plesio skull | 26062
+- [x] Plesio tail | 26063
+- [x] Ptera body | 26064
+- [x] Quetzal torso | 26065
+- [x] Right megalo side | 26066
+- [x] Right ptera wing | 26067
+- [x] Right quetzal wing | 26068
+- [x] Sabertooth skull | 26069
+- [x] Sabertooth tail | 26070
+- [x] Shark-tooth pattern | 26071
+- [x] Spino skull | 26072
+- [x] Spino tail | 26073
+- [x] Spino torso | 26074
+- [x] Stego skull | 26075
+- [x] Stego tail | 26076
+- [x] Stego torso | 26077
+- [x] T. rex skull | 26078
+- [x] T. rex tail | 26079
+- [x] T. rex torso | 26080
+- [x] Tricera skull | 26081
+- [x] Tricera tail | 26082
+- [x] Tricera torso | 26083
+- [x] Trilobite | 26084
