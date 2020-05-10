@@ -1,95 +1,95 @@
-- [ ] Agent K.K. | 25165
-- [ ] Aloha K.K. | 25166
-- [ ] Animal City | 25167
-- [ ] Bubblegum K.K. | 25168
-- [ ] Café K.K. | 25169
-- [ ] Comrade K.K. | 25170
-- [ ] DJ K.K. | 25171
-- [ ] Drivin' | 25172
-- [ ] Farewell | 25173
-- [ ] Forest Life | 25174
-- [ ] Go K.K. Rider | 25175
-- [ ] Hypno K.K. | 25176
-- [ ] I Love You | 25177
-- [ ] Imperial K.K. | 25178
-- [ ] K.K. Adventure | 25179
-- [ ] K.K. Aria | 25180
-- [ ] K.K. Ballad | 25181
-- [ ] K.K. Bazaar | 25182
+- [x] Agent K.K. | 25165
+- [x] Aloha K.K. | 25166
+- [x] Animal City | 25167
+- [x] Bubblegum K.K. | 25168
+- [x] Café K.K. | 25169
+- [x] Comrade K.K. | 25170
+- [x] DJ K.K. | 25171
+- [x] Drivin' | 25172
+- [x] Farewell | 25173
+- [x] Forest Life | 25174
+- [x] Go K.K. Rider | 25175
+- [x] Hypno K.K. | 25176
+- [x] I Love You | 25177
+- [x] Imperial K.K. | 25178
+- [x] K.K. Adventure | 25179
+- [x] K.K. Aria | 25180
+- [x] K.K. Ballad | 25181
+- [x] K.K. Bazaar | 25182
 - [ ] K.K. Birthday | 25183
-- [ ] K.K. Blues | 25184
-- [ ] K.K. Bossa | 25185
-- [ ] K.K. Calypso | 25186
-- [ ] K.K. Casbah | 25187
-- [ ] K.K. Chorale | 25188
-- [ ] K.K. Condor | 25189
-- [ ] K.K. Country | 25190
-- [ ] K.K. Cruisin' | 25191
-- [ ] K.K. D&B | 25192
-- [ ] K.K. Dirge | 25193
-- [ ] K.K. Disco | 25194
-- [ ] K.K. Dixie | 25195
-- [ ] K.K. Faire | 25197
-- [ ] K.K. Flamenco | 25198
-- [ ] K.K. Folk | 25199
-- [ ] K.K. Fusion | 25200
-- [ ] K.K. Groove | 25201
-- [ ] K.K. Gumbo | 25202
-- [ ] K.K. House | 25203
-- [ ] K.K. Island | 25204
-- [ ] K.K. Jazz | 25205
-- [ ] K.K. Jongara | 25206
-- [ ] K.K. Lament | 25207
-- [ ] K.K. Love Song | 25208
-- [ ] K.K. Lullaby | 25209
-- [ ] K.K. Mambo | 25210
-- [ ] K.K. Marathon | 25211
-- [ ] K.K. March | 25212
-- [ ] K.K. Mariachi | 25213
-- [ ] K.K. Metal | 25214
-- [ ] K.K. Milonga | 25215
-- [ ] K.K. Moody | 25216
-- [ ] K.K. Oasis | 25217
-- [ ] K.K. Parade | 25218
-- [ ] K.K. Ragtime | 25219
-- [ ] K.K. Rally | 25220
-- [ ] K.K. Reggae | 25221
-- [ ] K.K. Rock | 25222
-- [ ] K.K. Rockabilly | 25223
-- [ ] K.K. Safari | 25224
-- [ ] K.K. Salsa | 25225
-- [ ] K.K. Samba | 25226
-- [ ] K.K. Ska | 25227
-- [ ] K.K. Sonata | 25228
-- [ ] K.K. Song | 25229
-- [ ] K.K. Soul | 25230
-- [ ] K.K. Steppe | 25231
-- [ ] K.K. Stroll | 25232
-- [ ] K.K. Swing | 25233
-- [ ] K.K. Synth | 25234
-- [ ] K.K. Tango | 25235
-- [ ] K.K. Technopop | 25236
-- [ ] K.K. Waltz | 25237
-- [ ] K.K. Western | 25238
-- [ ] K.K. Étude | 25196
-- [ ] King K.K. | 25239
-- [ ] Lucky K.K. | 25240
-- [ ] Marine Song 2001 | 25241
-- [ ] Mountain Song | 25242
-- [ ] Mr. K.K. | 25243
-- [ ] My Place | 25244
-- [ ] Neapolitan | 25245
-- [ ] Only Me | 25246
-- [ ] Pondering | 25247
-- [ ] Rockin' K.K. | 25248
-- [ ] Soulful K.K. | 25249
-- [ ] Space K.K. | 25250
-- [ ] Spring Blossoms | 25251
-- [ ] Stale Cupcakes | 25252
-- [ ] Steep Hill | 25253
-- [ ] Surfin' K.K. | 25254
-- [ ] The K. Funk | 25255
-- [ ] To the Edge | 25256
-- [ ] Two Days Ago | 25257
-- [ ] Wandering | 25258
-- [ ] Welcome Horizons | 25259
+- [x] K.K. Blues | 25184
+- [x] K.K. Bossa | 25185
+- [x] K.K. Calypso | 25186
+- [x] K.K. Casbah | 25187
+- [x] K.K. Chorale | 25188
+- [x] K.K. Condor | 25189
+- [x] K.K. Country | 25190
+- [x] K.K. Cruisin' | 25191
+- [x] K.K. D&B | 25192
+- [x] K.K. Dirge | 25193
+- [x] K.K. Disco | 25194
+- [x] K.K. Dixie | 25195
+- [x] K.K. Faire | 25197
+- [x] K.K. Flamenco | 25198
+- [x] K.K. Folk | 25199
+- [x] K.K. Fusion | 25200
+- [x] K.K. Groove | 25201
+- [x] K.K. Gumbo | 25202
+- [x] K.K. House | 25203
+- [x] K.K. Island | 25204
+- [x] K.K. Jazz | 25205
+- [x] K.K. Jongara | 25206
+- [x] Lament | 25207
+- [x] K.K. Love Song | 25208
+- [x] K.K. Lullaby | 25209
+- [x] K.K. Mambo | 25210
+- [x] K.K. Marathon | 25211
+- [x] K.K. March | 25212
+- [x] K.K. Mariachi | 25213
+- [x] K.K. Metal | 25214
+- [x] K.K. Milonga | 25215
+- [x] K.K. Moody | 25216
+- [x] K.K. Oasis | 25217
+- [x] K.K. Parade | 25218
+- [x] K.K. Ragtime | 25219
+- [x] K.K. Rally | 25220
+- [x] K.K. Reggae | 25221
+- [x] K.K. Rock | 25222
+- [x] K.K. Rockabilly | 25223
+- [x] K.K. Safari | 25224
+- [x] K.K. Salsa | 25225
+- [x] K.K. Samba | 25226
+- [x] K.K. Ska | 25227
+- [x] K.K. Sonata | 25228
+- [x] K.K. Song | 25229
+- [x] K.K. Soul | 25230
+- [x] K.K. Steppe | 25231
+- [x] K.K. Stroll | 25232
+- [x] K.K. Swing | 25233
+- [x] K.K. Synth | 25234
+- [x] K.K. Tango | 25235
+- [x] K.K. Technopop | 25236
+- [x] K.K. Waltz | 25237
+- [x] K.K. Western | 25238
+- [x] K.K. Étude | 25196
+- [x] King K.K. | 25239
+- [x] Lucky K.K. | 25240
+- [x] Marine Song 2001 | 25241
+- [x] Mountain Song | 25242
+- [x] Mr. K.K. | 25243
+- [x] My Place | 25244
+- [x] Neapolitan | 25245
+- [x] Only Me | 25246
+- [x] Pondering | 25247
+- [x] Rockin' K.K. | 25248
+- [x] Soulful K.K. | 25249
+- [x] Space K.K. | 25250
+- [x] Spring Blossoms | 25251
+- [x] Stale Cupcakes | 25252
+- [x] Steep Hill | 25253
+- [x] Surfin' K.K. | 25254
+- [x] The K. Funk | 25255
+- [x] To the Edge | 25256
+- [x] Two Days Ago | 25257
+- [x] Wandering | 25258
+- [x] Welcome Horizons | 25259

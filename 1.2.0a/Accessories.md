@@ -35,7 +35,7 @@
 - [ ] Cat nose (Brown) | 60309
 - [ ] Cat nose (Navy blue) | 60310
 - [x] Cucumber pack (Green) | 24847
-- [ ] Curly mustache (Black) | 24848
+- [x] Curly mustache (Black) | 24848
 - [x] Cyber shades (Red) | 60311
 - [x] Cyber shades (Black) | 60312
 - [x] Cyber shades (Silver) | 60313

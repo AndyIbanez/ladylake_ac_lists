@@ -17,7 +17,7 @@
 - [ ] DAL backpack (Blue) | 25063
 - [ ] Dry bag (Yellow) | 61266
 - [ ] Dry bag (Blue) | 61267
-- [ ] Evening bag (Pink) | 61268
+- [x] Evening bag (Pink) | 61268
 - [x] Evening bag (Blue) | 61269
 - [x] Evening bag (Black) | 61270
 - [ ] Extra-large backpack (Red) | 61271
