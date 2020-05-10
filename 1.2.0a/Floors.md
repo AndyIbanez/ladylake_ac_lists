@@ -95,7 +95,7 @@
 - [ ] Light wood-pattern flooring | 22837
 - [ ] Lobby flooring | 22838
 - [ ] Lunar surface | 22839
-- [ ] Marine pop flooring | 22840
+- [x] Marine pop flooring | 22840
 - [x] Mint dot flooring | 22841
 - [x] Modern wood flooring | 22842
 - [ ] Money flooring | 22843

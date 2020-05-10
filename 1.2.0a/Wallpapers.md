@@ -42,7 +42,7 @@
 - [x] Blue-crown wall | 22543
 - [x] Blue-paint wall | 22544
 - [x] Blue-rose wall | 22545
-- [ ] Blue-striped wall | 22546
+- [x] Blue-striped wall | 22546
 - [x] Botanical-tile wall | 22547
 - [ ] Brown botanical-tile wall | 22548
 - [x] Brown diner wall | 22549
