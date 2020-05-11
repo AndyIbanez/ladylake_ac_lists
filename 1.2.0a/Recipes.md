@@ -3,7 +3,7 @@
 - [x] Angled signpost | 25375
 - [x] Apple chair | 25376
 - [x] Apple dress | 25273
-- [ ] Apple hat | 25328
+- [x] Apple hat | 25328
 - [x] Apple rug | 25676
 - [ ] Apple umbrella | 25736
 - [x] Apple wall | 25809
