@@ -116,7 +116,7 @@
 - [x] Patchwork-tile flooring | 22858
 - [x] Pine-board flooring | 22859
 - [x] Pink-paint flooring | 22860
-- [ ] Purple camo flooring | 22861
+- [x] Purple camo flooring | 22861
 - [x] Purple desert-tile flooring | 22862
 - [x] Purple puzzle flooring | 22863
 - [x] Pyramid tile | 22864
@@ -152,7 +152,7 @@
 - [ ] Starry-sands flooring | 22894
 - [x] Steel flooring | 22895
 - [x] Stone tile | 22896
-- [ ] Stripe flooring | 22897
+- [x] Stripe flooring | 22897
 - [x] Sumo ring | 22898
 - [x] Swamp flooring | 22899
 - [x] Tatami | 22900

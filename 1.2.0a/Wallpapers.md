@@ -13,7 +13,7 @@
 - [x] Beaded-curtain wall | 22514
 - [x] Beige art-deco wall | 22515
 - [x] Beige blossoming wall | 22516
-- [ ] Beige desert-tile wall | 22517
+- [x] Beige desert-tile wall | 22517
 - [x] Black botanical-tile wall | 22518
 - [x] Black hallway wall | 22519
 - [x] Black perforated-board wall | 22520
@@ -174,7 +174,7 @@
 - [x] Ramshackle wall | 22673
 - [x] Red art-deco wall | 22674
 - [x] Red delicate-blooms wall | 22675
-- [ ] Red dotted wall | 22676
+- [x] Red dotted wall | 22676
 - [x] Red heart-pattern wall | 22677
 - [x] Red intricate wall | 22678
 - [x] Red perforated-board wall | 22679
