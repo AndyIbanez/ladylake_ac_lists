@@ -207,7 +207,7 @@
 - [ ] Gold rose wreath | 25772
 - [x] Gold-armor shoes | 25687
 - [x] Gold-screen wall | 25823
-- [ ] Golden arowana model | 25629
+- [x] Golden arowana model | 25629
 - [x] Golden axe | 25705
 - [x] Golden candlestick | 25630
 - [ ] Golden casket | 25451
@@ -477,7 +477,7 @@
 - [x] Standard umbrella stand | 25558
 - [ ] Star clock | 25654
 - [ ] Star head | 25367
-- [ ] Star pochette | 25270
+- [x] Star pochette | 25270
 - [x] Star wand | 25727
 - [ ] Starry garland | 25801
 - [x] Starry wall | 25842

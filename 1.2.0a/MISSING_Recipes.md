@@ -76,7 +76,6 @@ Garden rock
 Gold helmet
 Gold rose crown
 Gold rose wreath
-Golden arowana model
 Golden casket
 Golden dung beetle
 Golden gears
@@ -191,7 +190,6 @@ Stacked-wood wall
 Stall
 Star clock
 Star head
-Star pochette
 Starry garland
 Starry-sands flooring
 Steel-frame wall
