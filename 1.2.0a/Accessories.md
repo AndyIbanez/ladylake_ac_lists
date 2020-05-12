@@ -1,5 +1,5 @@
 - [ ] 3D glasses (White) | 60277
-- [ ] 3D glasses (Black) | 60278
+- [x] 3D glasses (Black) | 60278
 - [x] Bandage (Beige) | 24837
 - [x] Beak (Yellow) | 24838
 - [ ] Birthday shades (Yellow) | 60279
@@ -13,10 +13,10 @@
 - [x] Bottom-rimmed glasses (Yellow) | 60287
 - [x] Bottom-rimmed glasses (Pink) | 60288
 - [x] Bottom-rimmed glasses (Black) | 60289
-- [ ] Browline glasses (Black) | 60290
+- [x] Browline glasses (Black) | 60290
 - [x] Browline glasses (Brown) | 60291
-- [ ] Browline glasses (Green) | 60292
-- [ ] Browline glasses (Gray) | 60293
+- [x] Browline glasses (Green) | 60292
+- [x] Browline glasses (Gray) | 60293
 - [x] Bubblegum (Pink) | 60294
 - [x] Bubblegum (Blue) | 60295
 - [x] Bubblegum (Yellow) | 60296
@@ -147,7 +147,7 @@
 - [x] Pixel shades (Green) | 60403
 - [x] Pixel shades (Blue) | 60404
 - [x] Pixel shades (Black) | 60405
-- [ ] Pleather mask (Black) | 24885
+- [x] Pleather mask (Black) | 24885
 - [x] Post-op patch (White) | 24886
 - [x] Privacy mask (Black) | 24887
 - [x] Reflector (Gray) | 24888
