@@ -2,9 +2,7 @@ Apple wall
 Autumn wall
 Bamboo wall
 Bamboo-grove wall
-Beige desert-tile wall
 Blue simple-cloth wall
-Blue-striped wall
 Brown botanical-tile wall
 Brown herringbone wall
 Brown wedding wall
@@ -44,11 +42,9 @@ Peach wall
 Pear wall
 Pink diner wall
 Purple puzzle wall
-Red dotted wall
 Rice-paddy wall
 Ruins wall
 Rustic-stone wall
-Shutter wall
 Ski-slope wall
 Sky wall
 Snowflake wall

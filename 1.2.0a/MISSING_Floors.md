@@ -21,16 +21,12 @@ Jungle flooring
 Light wood-pattern flooring
 Lobby flooring
 Lunar surface
-Marine pop flooring
 Money flooring
 Monochromatic dot flooring
 Natural-block flooring
 Nook Inc. flooring
 Party flooring
-Purple camo flooring
-Ramshackle flooring
 Rocky-mountain flooring
-Rubber-tile flooring
 Rush tatami flooring
 Saharah's desert
 Sandlot
@@ -39,7 +35,6 @@ Sci-fi flooring
 Simple blue flooring
 Ski-slope flooring
 Starry-sands flooring
-Stripe flooring
 Train-station flooring
 Underwater flooring
 Water flooring

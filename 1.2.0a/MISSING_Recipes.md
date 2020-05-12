@@ -1,4 +1,3 @@
-Apple hat
 Apple umbrella
 Aquarius urn
 Aries rocking chair
