@@ -73,7 +73,7 @@
 - [x] Gray argyle-tile flooring | 22816
 - [x] Gray vinyl flooring | 22817
 - [x] Green floral flooring | 22818
-- [ ] Green honeycomb tile | 22819
+- [x] Green honeycomb tile | 22819
 - [x] Green retro flooring | 22820
 - [x] Green rubber flooring | 22821
 - [x] Green vinyl flooring | 22822
@@ -99,7 +99,7 @@
 - [x] Mint dot flooring | 22841
 - [x] Modern wood flooring | 22842
 - [ ] Money flooring | 22843
-- [ ] Monochromatic dot flooring | 22844
+- [x] Monochromatic dot flooring | 22844
 - [x] Monochromatic tile flooring | 22845
 - [x] Mossy-garden flooring | 22846
 - [ ] Natural-block flooring | 22847
