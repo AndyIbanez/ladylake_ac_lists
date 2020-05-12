@@ -195,7 +195,7 @@
 - [x] Sepia puzzle wall | 22694
 - [x] Server-room wall | 22695
 - [x] Shoji screen | 22696
-- [ ] Shutter wall | 22697
+- [x] Shutter wall | 22697
 - [ ] Ski-slope wall | 22698
 - [x] Skull wall | 22699
 - [ ] Sky wall | 22700

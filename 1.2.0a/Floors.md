@@ -121,7 +121,7 @@
 - [x] Purple puzzle flooring | 22863
 - [x] Pyramid tile | 22864
 - [x] Racetrack flooring | 22865
-- [ ] Ramshackle flooring | 22866
+- [x] Ramshackle flooring | 22866
 - [x] Random-square-tile flooring | 22867
 - [x] Rattan flooring | 22868
 - [x] Red dot flooring | 22869
@@ -130,7 +130,7 @@
 - [ ] Rocky-mountain flooring | 22872
 - [x] Rose flooring | 22873
 - [x] Rosewood flooring | 22874
-- [ ] Rubber-tile flooring | 22875
+- [x] Rubber-tile flooring | 22875
 - [x] Rush tatami | 22876
 - [ ] Rush tatami flooring | 22877
 - [ ] Saharah's desert | 22878
