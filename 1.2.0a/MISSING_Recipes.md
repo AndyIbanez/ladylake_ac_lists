@@ -104,7 +104,6 @@ Lily crown
 Lily wreath
 Log bed
 Lovely cosmos crown
-Lucky gold cat
 Lunar lander
 Magazine rack
 Manhole cover
@@ -165,7 +164,6 @@ Starry-sands flooring
 Stone axe
 Stone lion-dog
 Stone tablet
-Stone wall
 Tabletop festive tree
 Tall lantern
 Tea table

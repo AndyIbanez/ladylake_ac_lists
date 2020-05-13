@@ -47,14 +47,14 @@
 - [ ] Brown botanical-tile wall | 22548
 - [x] Brown diner wall | 22549
 - [x] Brown hallway wall | 22550
-- [ ] Brown herringbone wall | 22551
+- [x] Brown herringbone wall | 22551
 - [x] Brown shanty wall | 22552
 - [ ] Brown wedding wall | 27096
 - [ ] Brown-brick wall | 22553
 - [x] Brown-crown wall | 22554
 - [x] Bunny Day wall | 22555
 - [ ] Butterflies wall | 22556
-- [ ] Cabin wall | 22557
+- [x] Cabin wall | 22557
 - [x] Café-curtain wall | 22558
 - [ ] Camo wall | 22559
 - [x] Chain-link fence | 22560
@@ -77,7 +77,7 @@
 - [x] Cute red wall | 22577
 - [x] Cute white wall | 22578
 - [x] Cute yellow wall | 22579
-- [ ] Dark wooden-mosaic wall | 22580
+- [x] Dark wooden-mosaic wall | 22580
 - [ ] Dark-chocolate wall | 22581
 - [x] Desert vista | 22582
 - [x] Dig-site wall | 22583
@@ -128,10 +128,10 @@
 - [x] Mod wall | 22627
 - [x] Modern shoji-screen wall | 22628
 - [x] Modern tearoom wall | 22629
-- [ ] Modern wood wall | 22630
+- [x] Modern wood wall | 22630
 - [x] Monochromatic dotted wall | 22631
 - [ ] Monochromatic-tile wall | 22632
-- [ ] Mortar wall | 22633
+- [x] Mortar wall | 22633
 - [ ] Mosaic-tile wall | 22634
 - [x] Mossy-garden wall | 22635
 - [x] Mush wall | 22636
@@ -167,7 +167,7 @@
 - [x] Purple camo wall | 22666
 - [x] Purple desert-tile wall | 22667
 - [x] Purple dotted wall | 22668
-- [ ] Purple puzzle wall | 22669
+- [x] Purple puzzle wall | 22669
 - [x] Purple quilt wall | 22670
 - [x] Purple-rose wall | 22671
 - [x] Rammed-earth wall | 22672
@@ -186,7 +186,7 @@
 - [x] Rock-climbing wall | 22685
 - [x] Rose wall | 22686
 - [ ] Ruins wall | 22687
-- [ ] Rustic-stone wall | 22688
+- [x] Rustic-stone wall | 22688
 - [x] Sakura-wood wall | 22689
 - [x] Sci-fi wall | 22690
 - [x] Screen wall | 22691
@@ -209,7 +209,7 @@
 - [x] Starry-sky wall | 22708
 - [x] Stately wall | 22709
 - [ ] Steel-frame wall | 22710
-- [ ] Stone wall | 22711
+- [x] Stone wall | 22711
 - [x] Stormy-night wall | 22712
 - [x] Straw wall | 22713
 - [x] Strawberry-chocolate wall | 22714
@@ -235,7 +235,7 @@
 - [x] White-rose wall | 22732
 - [ ] Wild-wood wall | 22733
 - [x] Wooden-knot wall | 22734
-- [ ] Wooden-mosaic wall | 22735
+- [x] Wooden-mosaic wall | 22735
 - [ ] Woodland wall | 22736
 - [ ] Yellow flower-print wall | 22737
 - [x] Yellow heart-pattern wall | 22738

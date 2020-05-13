@@ -1,7 +1,5 @@
 Backyard lawn
 Bamboo flooring
-Basement flooring
-Blue camo flooring
 Brown wedding flooring
 Colored-leaves flooring
 Concrete flooring
@@ -9,7 +7,6 @@ Dark parquet flooring
 Dirt flooring
 Field flooring
 Floral mosaic-tile flooring
-Forest flooring
 Garbage-heap flooring
 Golden flooring
 Green wedding flooring
@@ -18,7 +15,6 @@ Ice flooring
 Iceberg flooring
 Jungle flooring
 Light wood-pattern flooring
-Lobby flooring
 Lunar surface
 Money flooring
 Natural-block flooring

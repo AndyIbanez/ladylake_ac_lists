@@ -5,13 +5,13 @@
 - [x] Artsy parquet flooring | 22749
 - [ ] Backyard lawn | 22750
 - [ ] Bamboo flooring | 22751
-- [ ] Basement flooring | 22752
+- [x] Basement flooring | 22752
 - [x] Beige desert-tile flooring | 22753
 - [x] Berry-chocolates flooring | 22754
 - [x] Birch flooring | 22755
 - [x] Black iron-parquet flooring | 22756
 - [x] Black-brick flooring | 22757
-- [ ] Blue camo flooring | 22758
+- [x] Blue camo flooring | 22758
 - [x] Blue desert-tile flooring | 22759
 - [x] Blue dot flooring | 22760
 - [x] Blue floral flooring | 22761
@@ -62,7 +62,7 @@
 - [ ] Floral mosaic-tile flooring | 22805
 - [x] Floral rush-mat flooring | 22806
 - [x] Flowing-river flooring | 22807
-- [ ] Forest flooring | 22808
+- [x] Forest flooring | 22808
 - [x] Future-tech flooring | 22809
 - [x] Galaxy flooring | 22810
 - [ ] Garbage-heap flooring | 22811
@@ -93,7 +93,7 @@
 - [x] Light herringbone flooring | 22835
 - [x] Light parquet flooring | 22836
 - [ ] Light wood-pattern flooring | 22837
-- [ ] Lobby flooring | 22838
+- [x] Lobby flooring | 22838
 - [ ] Lunar surface | 22839
 - [x] Marine pop flooring | 22840
 - [x] Mint dot flooring | 22841

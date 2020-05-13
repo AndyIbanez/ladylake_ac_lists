@@ -94,7 +94,7 @@
 - [x] Simple medium blue mat | 23008
 - [x] Simple medium brown mat | 23009
 - [x] Simple medium orange mat | 23010
-- [ ] Simple medium purple mat | 23011
+- [x] Simple medium purple mat | 23011
 - [ ] Simple medium red mat | 23012
 - [x] Simple navy bath mat | 23013
 - [ ] Simple pink bath mat | 23014

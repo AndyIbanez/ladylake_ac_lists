@@ -49,7 +49,6 @@ Red-design kitchen mat
 Rough rug
 Shell rug
 Simple medium avocado mat
-Simple medium purple mat
 Simple medium red mat
 Simple pink bath mat
 Simple small avocado mat

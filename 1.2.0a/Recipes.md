@@ -318,7 +318,7 @@
 - [x] Log stool | 25497
 - [x] Log wall-mounted clock | 25783
 - [ ] Lovely cosmos crown | 25354
-- [ ] Lucky gold cat | 25638
+- [x] Lucky gold cat | 25638
 - [ ] Lunar lander | 25498
 - [x] Lunar rover | 25499
 - [x] Lunar surface | 25318
@@ -493,7 +493,7 @@
 - [x] Stone stool | 25561
 - [x] Stone table | 25562
 - [ ] Stone tablet | 25563
-- [ ] Stone wall | 25845
+- [x] Stone wall | 25845
 - [x] Stone-egg outfit | 25284
 - [x] Stone-egg shell | 25368
 - [x] Stone-egg shoes | 25691
