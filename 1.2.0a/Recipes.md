@@ -202,7 +202,7 @@
 - [x] Giant teddy bear | 25450
 - [x] Gold armor | 25277
 - [x] Gold bars | 25628
-- [ ] Gold helmet | 25347
+- [x] Gold helmet | 25347
 - [ ] Gold rose crown | 25348
 - [ ] Gold rose wreath | 25772
 - [x] Gold-armor shoes | 25687

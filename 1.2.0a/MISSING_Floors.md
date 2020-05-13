@@ -12,7 +12,6 @@ Floral mosaic-tile flooring
 Forest flooring
 Garbage-heap flooring
 Golden flooring
-Green honeycomb tile
 Green wedding flooring
 Honeycomb flooring
 Ice flooring
@@ -22,7 +21,6 @@ Light wood-pattern flooring
 Lobby flooring
 Lunar surface
 Money flooring
-Monochromatic dot flooring
 Natural-block flooring
 Nook Inc. flooring
 Party flooring

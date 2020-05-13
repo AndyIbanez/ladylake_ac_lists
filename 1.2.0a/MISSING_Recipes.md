@@ -72,7 +72,6 @@ Frozen tree
 Frozen-treat set
 Fruit basket
 Garden rock
-Gold helmet
 Gold rose crown
 Gold rose wreath
 Golden casket
