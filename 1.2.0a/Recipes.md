@@ -284,7 +284,7 @@
 - [x] Jungle wall | 25829
 - [ ] Kettle bathtub | 25483
 - [x] Kettlebell | 25636
-- [ ] Key holder | 25780
+- [x] Key holder | 25780
 - [x] Knight's helmet | 25350
 - [x] Knitted-grass backpack | 25265
 - [x] Ladder | 25715
@@ -310,7 +310,7 @@
 - [x] Log chair | 25495
 - [ ] Log decorative shelves | 25490
 - [x] Log dining table | 25491
-- [ ] Log extra-long sofa | 25492
+- [x] Log extra-long sofa | 25492
 - [x] Log garden lounge | 25493
 - [x] Log pack | 25266
 - [x] Log round table | 25494
@@ -470,7 +470,7 @@
 - [ ] Snowperson head | 25366
 - [ ] Space shuttle | 25556
 - [x] Spiky fence | 25299
-- [ ] Stack of books | 25652
+- [x] Stack of books | 25652
 - [ ] Stacked magazines | 25653
 - [ ] Stacked-wood wall | 25841
 - [ ] Stall | 25557
@@ -499,7 +499,7 @@
 - [x] Stone-egg shoes | 25691
 - [x] Straw fence | 25301
 - [x] Straw umbrella hat | 25369
-- [ ] Street piano | 25564
+- [x] Street piano | 25564
 - [x] Succulent plant | 25656
 - [x] Swinging bench | 25565
 - [ ] Tabletop festive tree | 25657

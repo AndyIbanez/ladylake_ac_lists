@@ -33,7 +33,6 @@ Cherry-blossom pochette
 Cherry-blossom pond stone
 Cherry-blossom umbrella
 Cherry-blossom wand
-Cherry-blossom-petal pile
 Cherry-blossom-trees wall
 Chic cosmos wreath
 Chic mum crown
@@ -104,14 +103,10 @@ Iron garden table
 Iron hanger stand
 Iron shelf
 Ironwood DIY workbench
-Ironwood chair
-Ironwood clock
-Ironwood cupboard
 Ironwood low table
 Jail bars
 Jingle wall
 Kettle bathtub
-Key holder
 Large cardboard boxes
 Leaf mask
 Leaf stool
@@ -121,7 +116,6 @@ Lily crown
 Lily wreath
 Log bed
 Log decorative shelves
-Log extra-long sofa
 Lovely cosmos crown
 Lucky gold cat
 Lunar lander
@@ -182,20 +176,17 @@ Snowflake wall
 Snowflake wreath
 Snowperson head
 Space shuttle
-Stack of books
 Stacked magazines
 Stacked-wood wall
 Stall
 Star clock
 Star head
-Starry garland
 Starry-sands flooring
 Steel-frame wall
 Stone axe
 Stone lion-dog
 Stone tablet
 Stone wall
-Street piano
 Tabletop festive tree
 Tall lantern
 Tea table
