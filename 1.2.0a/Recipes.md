@@ -104,7 +104,7 @@
 - [ ] Cherry-blossom pond stone | 25420
 - [ ] Cherry-blossom umbrella | 25738
 - [ ] Cherry-blossom wand | 25697
-- [ ] Cherry-blossom-petal pile | 25421
+- [x] Cherry-blossom-petal pile | 25421
 - [ ] Cherry-blossom-trees wall | 25817
 - [ ] Chic cosmos wreath | 25754
 - [ ] Chic mum crown | 25333
@@ -270,9 +270,9 @@
 - [ ] Ironwood DIY workbench | 25476
 - [x] Ironwood bed | 25472
 - [x] Ironwood cart | 25473
-- [ ] Ironwood chair | 25474
-- [ ] Ironwood clock | 25779
-- [ ] Ironwood cupboard | 25475
+- [x] Ironwood chair | 25474
+- [x] Ironwood clock | 25779
+- [x] Ironwood cupboard | 25475
 - [x] Ironwood dresser | 25477
 - [x] Ironwood kitchenette | 25478
 - [ ] Ironwood low table | 25479
