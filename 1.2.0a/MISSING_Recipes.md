@@ -1,14 +1,9 @@
 Apple umbrella
 Aquarius urn
 Aries rocking chair
-Armor shoes
 Astronaut suit
 Autumn wall
 Bamboo basket
-Bamboo drum
-Bamboo flooring
-Bamboo lunch box
-Bamboo stopblock
 Big festive tree
 Blossom-viewing lantern
 Blue rose crown
@@ -55,7 +50,6 @@ Fancy rose wreath
 Festive top set
 Festive tree
 Firewood
-Flower stand
 Frozen arch
 Frozen bed
 Frozen chair
@@ -75,11 +69,9 @@ Golden dung beetle
 Golden gears
 Golden net
 Golden rod
-Golden seat
 Golden shovel
 Golden toilet
 Golden wand
-Grass standee
 Hanging terrarium
 Holiday candle
 Hyacinth crown
@@ -101,7 +93,6 @@ Iron hanger stand
 Iron shelf
 Ironwood DIY workbench
 Ironwood low table
-Jail bars
 Jingle wall
 Kettle bathtub
 Large cardboard boxes
@@ -130,8 +121,6 @@ Ornament mobile
 Ornament wreath
 Outdoor bath
 Pansy crown
-Peach dress
-Peach surprise box
 Pear umbrella
 Pear wall
 Pile of zen cushions
@@ -146,15 +135,12 @@ Red-leaf pile
 Robot hero
 Rocket
 Rose crown
-Rustic-stone wall
 Sagittarius arrow
 Sakura-wood flooring
 Sakura-wood wall
 Sauna heater
-Scattered papers
 Sci-fi flooring
 Scorpio lamp
-Shell bed
 Shell lamp
 Shell partition
 Shell wand
@@ -171,13 +157,11 @@ Snowflake wall
 Snowflake wreath
 Snowperson head
 Space shuttle
-Stacked magazines
 Stacked-wood wall
 Stall
 Star clock
 Star head
 Starry-sands flooring
-Steel-frame wall
 Stone axe
 Stone lion-dog
 Stone tablet
@@ -187,7 +171,6 @@ Tall lantern
 Tea table
 Terrarium
 Three-tiered snowperson
-Timber doorplate
 Tree branch wreath
 Tree standee
 Tree's bounty arch
@@ -204,12 +187,7 @@ Wave breaker
 Wedding fence
 Wedding wand
 Windflower wreath
-Wooden end table
-Wooden table
-Wooden toolbox
 Wooden-block bed
 Wooden-block bench
-Wooden-block chest
 Wooden-block wall clock
-Wooden-mosaic wall
 Wooden-plank sign

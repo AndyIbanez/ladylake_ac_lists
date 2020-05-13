@@ -9,7 +9,7 @@
 - [x] Apple wall | 25809
 - [ ] Aquarius urn | 25377
 - [ ] Aries rocking chair | 25378
-- [ ] Armor shoes | 25685
+- [x] Armor shoes | 25685
 - [x] Aroma pot | 25609
 - [x] Asteroid | 25379
 - [ ] Astronaut suit | 25380
@@ -20,19 +20,19 @@
 - [x] Bamboo bench | 25382
 - [x] Bamboo candleholder | 25610
 - [x] Bamboo doll | 25383
-- [ ] Bamboo drum | 25611
+- [x] Bamboo drum | 25611
 - [x] Bamboo floor lamp | 25384
-- [ ] Bamboo flooring | 25305
+- [x] Bamboo flooring | 25305
 - [x] Bamboo hat | 25329
 - [x] Bamboo lattice fence | 25287
-- [ ] Bamboo lunch box | 25612
+- [x] Bamboo lunch box | 25612
 - [x] Bamboo noodle slide | 25385
 - [x] Bamboo partition | 25386
 - [x] Bamboo shelf | 25387
 - [x] Bamboo speaker | 25388
 - [x] Bamboo sphere | 25613
 - [x] Bamboo stool | 25389
-- [ ] Bamboo stopblock | 25390
+- [x] Bamboo stopblock | 25390
 - [x] Bamboo wall | 25811
 - [x] Bamboo wall decoration | 25745
 - [x] Bamboo wand | 25695
@@ -173,7 +173,7 @@
 - [x] Flimsy shovel | 25703
 - [x] Flimsy watering can | 25704
 - [x] Floral swag | 25769
-- [ ] Flower stand | 25434
+- [x] Flower stand | 25434
 - [x] Flying saucer | 25435
 - [x] Forest flooring | 25310
 - [x] Forest wall | 25821
@@ -217,7 +217,7 @@
 - [ ] Golden gears | 25773
 - [ ] Golden net | 25706
 - [ ] Golden rod | 25707
-- [ ] Golden seat | 25452
+- [x] Golden seat | 25452
 - [ ] Golden shovel | 25708
 - [x] Golden slingshot | 25709
 - [ ] Golden toilet | 25453
@@ -226,7 +226,7 @@
 - [x] Golden watering can | 25711
 - [x] Gong | 25454
 - [x] Grass skirt | 25271
-- [ ] Grass standee | 25455
+- [x] Grass standee | 25455
 - [x] Green grass skirt | 25272
 - [x] Green-leaf pile | 25456
 - [ ] Hanging terrarium | 25774
@@ -277,7 +277,7 @@
 - [x] Ironwood kitchenette | 25478
 - [ ] Ironwood low table | 25479
 - [x] Ironwood table | 25480
-- [ ] Jail bars | 25481
+- [x] Jail bars | 25481
 - [ ] Jingle wall | 25828
 - [x] Juicy-apple TV | 25482
 - [x] Jungle flooring | 25317
@@ -381,10 +381,10 @@
 - [x] Pansy wreath | 25790
 - [x] Paw-print doorplate | 25791
 - [x] Peach chair | 25524
-- [ ] Peach dress | 25281
+- [x] Peach dress | 25281
 - [x] Peach hat | 25358
 - [x] Peach rug | 25682
-- [ ] Peach surprise box | 25644
+- [x] Peach surprise box | 25644
 - [x] Peach umbrella | 25743
 - [x] Peach wall | 25834
 - [x] Pear bed | 25525
@@ -424,7 +424,7 @@
 - [ ] Rose crown | 25363
 - [x] Rose wand | 25723
 - [x] Rose wreath | 25796
-- [ ] Rustic-stone wall | 25836
+- [x] Rustic-stone wall | 25836
 - [ ] Sagittarius arrow | 25797
 - [ ] Sakura-wood flooring | 25320
 - [ ] Sakura-wood wall | 25837
@@ -432,12 +432,12 @@
 - [x] Satellite | 25540
 - [ ] Sauna heater | 25541
 - [x] Scarecrow | 25542
-- [ ] Scattered papers | 25543
+- [x] Scattered papers | 25543
 - [ ] Sci-fi flooring | 25322
 - [x] Sci-fi wall | 25838
 - [ ] Scorpio lamp | 25649
 - [x] Shell arch | 25544
-- [ ] Shell bed | 25545
+- [x] Shell bed | 25545
 - [x] Shell fountain | 25546
 - [ ] Shell lamp | 25650
 - [ ] Shell partition | 25547
@@ -471,7 +471,7 @@
 - [ ] Space shuttle | 25556
 - [x] Spiky fence | 25299
 - [x] Stack of books | 25652
-- [ ] Stacked magazines | 25653
+- [x] Stacked magazines | 25653
 - [ ] Stacked-wood wall | 25841
 - [ ] Stall | 25557
 - [x] Standard umbrella stand | 25558
@@ -485,7 +485,7 @@
 - [x] Starry-sky wall | 25843
 - [x] Steamer-basket set | 25655
 - [x] Steel flooring | 25325
-- [ ] Steel-frame wall | 25844
+- [x] Steel-frame wall | 25844
 - [x] Stone arch | 25559
 - [ ] Stone axe | 25728
 - [x] Stone fence | 25300
@@ -510,7 +510,7 @@
 - [ ] Terrarium | 25658
 - [ ] Three-tiered snowperson | 25570
 - [x] Tiki torch | 25571
-- [ ] Timber doorplate | 25802
+- [x] Timber doorplate | 25802
 - [x] Tiny library | 25572
 - [x] Tire stack | 25573
 - [x] Tire toy | 25574
@@ -564,30 +564,30 @@
 - [x] Wooden chair | 25587
 - [x] Wooden chest | 25588
 - [x] Wooden double bed | 25589
-- [ ] Wooden end table | 25590
+- [x] Wooden end table | 25590
 - [x] Wooden fish | 25667
 - [x] Wooden full-length mirror | 25591
 - [x] Wooden low table | 25592
 - [x] Wooden mini table | 25593
 - [x] Wooden simple bed | 25594
 - [x] Wooden stool | 25595
-- [ ] Wooden table | 25596
+- [x] Wooden table | 25596
 - [x] Wooden table mirror | 25668
-- [ ] Wooden toolbox | 25669
+- [x] Wooden toolbox | 25669
 - [x] Wooden wardrobe | 25597
 - [x] Wooden waste bin | 25598
 - [ ] Wooden-block bed | 25599
 - [ ] Wooden-block bench | 25600
 - [x] Wooden-block bookshelf | 25601
 - [x] Wooden-block chair | 25602
-- [ ] Wooden-block chest | 25603
+- [x] Wooden-block chest | 25603
 - [x] Wooden-block stereo | 25604
 - [x] Wooden-block stool | 25605
 - [x] Wooden-block table | 25606
 - [x] Wooden-block toy | 25670
 - [ ] Wooden-block wall clock | 25807
 - [x] Wooden-knot wall | 25849
-- [ ] Wooden-mosaic wall | 25850
+- [x] Wooden-mosaic wall | 25850
 - [ ] Wooden-plank sign | 25808
 - [x] Woodland wall | 25851
 - [x] Yellow-leaf pile | 25607
