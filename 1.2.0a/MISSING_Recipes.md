@@ -5,7 +5,6 @@ Armor shoes
 Astronaut suit
 Autumn wall
 Bamboo basket
-Bamboo bench
 Bamboo drum
 Bamboo flooring
 Bamboo lunch box
@@ -15,13 +14,11 @@ Blossom-viewing lantern
 Blue rose crown
 Blue rose wreath
 Bonsai shelf
-Boomerang
 Brick fence
 Bridge construction kit
 Campsite construction kit
 Cancer table
 Capricorn ornament
-Cherry hat
 Cherry lamp
 Cherry rug
 Cherry wall
@@ -115,7 +112,6 @@ Libra scale
 Lily crown
 Lily wreath
 Log bed
-Log decorative shelves
 Lovely cosmos crown
 Lucky gold cat
 Lunar lander
@@ -140,7 +136,6 @@ Pear umbrella
 Pear wall
 Pile of zen cushions
 Pisces lamp
-Plain wooden shop sign
 Pretty cosmos wreath
 Pretty tulip wreath
 Purple hyacinth crown
@@ -208,7 +203,6 @@ Water flooring
 Wave breaker
 Wedding fence
 Wedding wand
-Windflower wand
 Windflower wreath
 Wooden end table
 Wooden table

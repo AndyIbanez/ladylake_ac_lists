@@ -17,7 +17,7 @@
 - [x] Axe | 25694
 - [x] Backyard lawn | 25304
 - [ ] Bamboo basket | 25381
-- [ ] Bamboo bench | 25382
+- [x] Bamboo bench | 25382
 - [x] Bamboo candleholder | 25610
 - [x] Bamboo doll | 25383
 - [ ] Bamboo drum | 25611
@@ -54,7 +54,7 @@
 - [x] Bone doorplate | 25747
 - [x] Bonfire | 25399
 - [ ] Bonsai shelf | 25400
-- [ ] Boomerang | 25748
+- [x] Boomerang | 25748
 - [ ] Brick fence | 25289
 - [x] Brick oven | 25401
 - [x] Brick well | 25402
@@ -90,7 +90,7 @@
 - [x] Cardboard sofa | 25417
 - [x] Cardboard table | 25418
 - [x] Cherry dress | 25274
-- [ ] Cherry hat | 25332
+- [x] Cherry hat | 25332
 - [ ] Cherry lamp | 25752
 - [ ] Cherry rug | 25WAV] Dragon Ball Z - OP1 - CHA-LA HEAD-CHA-LA [Mexican-Spanish]678
 - [x] Cherry speakers | 25616
@@ -308,7 +308,7 @@
 - [ ] Log bed | 25488
 - [x] Log bench | 25489
 - [x] Log chair | 25495
-- [ ] Log decorative shelves | 25490
+- [x] Log decorative shelves | 25490
 - [x] Log dining table | 25491
 - [x] Log extra-long sofa | 25492
 - [x] Log garden lounge | 25493
@@ -400,7 +400,7 @@
 - [ ] Pisces lamp | 25529
 - [x] Pitfall seed | 25675
 - [x] Plain sink | 25530
-- [ ] Plain wooden shop sign | 25531
+- [x] Plain wooden shop sign | 25531
 - [x] Pond stone | 25532
 - [x] Pot | 25646
 - [x] Potted ivy | 25792
@@ -553,7 +553,7 @@
 - [x] Wild-wood wall | 25848
 - [x] Windflower crown | 25372
 - [x] Windflower fan | 25665
-- [ ] Windflower wand | 25734
+- [x] Windflower wand | 25734
 - [ ] Windflower wreath | 25806
 - [x] Wobbling Zipper toy | 25666
 - [x] Wood-egg outfit | 25286
