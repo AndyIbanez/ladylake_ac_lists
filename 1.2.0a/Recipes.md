@@ -479,7 +479,7 @@
 - [ ] Star head | 25367
 - [x] Star pochette | 25270
 - [x] Star wand | 25727
-- [ ] Starry garland | 25801
+- [x] Starry garland | 25801
 - [x] Starry wall | 25842
 - [ ] Starry-sands flooring | 25324
 - [x] Starry-sky wall | 25843

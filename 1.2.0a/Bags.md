@@ -10,7 +10,7 @@
 - [ ] Cloth shoulder bag (Ivory) | 61259
 - [ ] Crossbody bag (Green) | 61260
 - [ ] Crossbody bag (Yellow) | 61261
-- [ ] Crossbody bag (White) | 61262
+- [x] Crossbody bag (White) | 61262
 - [ ] Crossbody bag (Pink) | 61263
 - [ ] Crossbody boston bag (Red) | 61264
 - [x] Crossbody boston bag (Blue) | 61265
@@ -23,7 +23,7 @@
 - [ ] Extra-large backpack (Red) | 61271
 - [ ] Extra-large backpack (Green) | 61272
 - [ ] Extra-large backpack (Black) | 61273
-- [ ] Extra-large backpack (Blue) | 61274
+- [x] Extra-large backpack (Blue) | 61274
 - [x] Faux-fur bag (Pink) | 61275
 - [x] Faux-fur bag (Purple) | 61276
 - [x] Fish pochette (Blue) | 25068
@@ -61,7 +61,7 @@
 - [ ] Outdoor backpack (Orange) | 61304
 - [x] Outdoor backpack (Avocado) | 61305
 - [x] Pleather crossbody bag (Navy blue) | 61306
-- [ ] Pleather crossbody bag (Black) | 61307
+- [x] Pleather crossbody bag (Black) | 61307
 - [ ] Pleather fringe bag (Camel) | 61308
 - [x] Pleather fringe bag (White) | 61309
 - [x] Pleather shoulder bag (Brown) | 61310
