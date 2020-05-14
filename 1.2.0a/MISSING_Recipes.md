@@ -111,7 +111,6 @@ Maple-leaf pochette
 Maple-leaf pond stone
 Maple-leaf umbrella
 Money flooring
-Moon
 Mum crown
 Natural mum wreath
 Orange hat
@@ -121,7 +120,6 @@ Ornament wreath
 Outdoor bath
 Pansy crown
 Pear umbrella
-Pear wall
 Pile of zen cushions
 Pisces lamp
 Pretty cosmos wreath
@@ -166,7 +164,6 @@ Stone lion-dog
 Stone tablet
 Tabletop festive tree
 Tall lantern
-Tea table
 Terrarium
 Three-tiered snowperson
 Tree branch wreath

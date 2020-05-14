@@ -392,7 +392,7 @@
 - [x] Pear hat | 25359
 - [x] Pear rug | 25683
 - [ ] Pear umbrella | 25744
-- [ ] Pear wall | 25835
+- [x] Pear wall | 25835
 - [x] Pear wardrobe | 25526
 - [x] Pile of leaves | 25527
 - [ ] Pile of zen cushions | 25528
@@ -506,7 +506,7 @@
 - [x] Tall garden rock | 25566
 - [ ] Tall lantern | 25567
 - [x] Taurus bathtub | 25568
-- [ ] Tea table | 25569
+- [x] Tea table | 25569
 - [ ] Terrarium | 25658
 - [ ] Three-tiered snowperson | 25570
 - [x] Tiki torch | 25571
