@@ -335,7 +335,7 @@
 - [x] Modeling clay | 25641
 - [x] Modern wood wall | 25831
 - [ ] Money flooring | 25319
-- [ ] Moon | 25504
+- [x] Moon | 25504
 - [x] Mossy garden rock | 25505
 - [x] Mountain standee | 25506
 - [ ] Mum crown | 25355

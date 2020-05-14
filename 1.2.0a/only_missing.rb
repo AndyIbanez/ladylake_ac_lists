@@ -14,7 +14,7 @@ Dir.foreach(".") do |file|
 	unless isMissingFile?(file)
 		newFilename = "MISSING_#{file}"
 		fileName = file
-		
+
 		puts "#{file}"
 
 		fileContents = File.read(fileName)
@@ -24,7 +24,7 @@ Dir.foreach(".") do |file|
 		File.open(newFilename, "w") do |file|
 			lines.each do |line|
 				firstPart = line[0..4]
-						if firstPart == "- [ ]"
+				if firstPart == "- [ ]"
 					file.write cleanLine(line) + "\n"
 				end
 			end
