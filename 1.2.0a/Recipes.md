@@ -468,7 +468,7 @@
 - [ ] Snowflake wall | 25840
 - [ ] Snowflake wreath | 25800
 - [ ] Snowperson head | 25366
-- [ ] Space shuttle | 25556
+- [x] Space shuttle | 25556
 - [x] Spiky fence | 25299
 - [x] Stack of books | 25652
 - [x] Stacked magazines | 25653

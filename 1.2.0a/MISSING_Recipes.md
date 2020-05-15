@@ -153,7 +153,6 @@ Snowflake pochette
 Snowflake wall
 Snowflake wreath
 Snowperson head
-Space shuttle
 Stacked-wood wall
 Stall
 Star clock

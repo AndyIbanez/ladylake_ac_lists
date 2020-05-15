@@ -1,67 +1,67 @@
-- [ ] Apple umbrella | 25098
-- [ ] Bat umbrella | 25099
-- [ ] Beach umbrella | 25100
-- [ ] Bear umbrella | 25101
+- [x] Apple umbrella | 25098
+- [x] Bat umbrella | 25099
+- [x] Beach umbrella | 25100
+- [x] Bear umbrella | 25101
 - [ ] Black chic umbrella | 25102
-- [ ] Black lace umbrella | 25103
-- [ ] Blue dot parasol | 25104
-- [ ] Blue shiny-bows parasol | 25105
-- [ ] Blue umbrella | 25106
-- [ ] Busted umbrella | 25107
-- [ ] Camo umbrella | 25108
-- [ ] Candy umbrella | 25109
-- [ ] Cherry umbrella | 25110
-- [ ] Cherry-blossom umbrella | 25111
+- [x] Black lace umbrella | 25103
+- [x] Blue dot parasol | 25104
+- [x] Blue shiny-bows parasol | 25105
+- [x] Blue umbrella | 25106
+- [x] Busted umbrella | 25107
+- [c] Camo umbrella | 25108
+- [x] Candy umbrella | 25109
+- [x] Cherry umbrella | 25110
+- [x] Cherry-blossom umbrella | 25111
 - [ ] DAL umbrella | 25112
-- [ ] Eggy parasol | 25113
-- [ ] Exquisite parasol | 25114
-- [ ] Fairy-tale umbrella | 25115
-- [ ] Fish umbrella | 25116
-- [ ] Frog umbrella | 25117
-- [ ] Gelato umbrella | 25118
-- [ ] Ghost umbrella | 25119
-- [ ] Grape umbrella | 25120
-- [ ] Green chic umbrella | 25121
-- [ ] Green umbrella | 25122
-- [ ] Hydrangea umbrella | 25123
-- [ ] Kabuki umbrella | 25124
-- [ ] Kiwi umbrella | 25125
-- [ ] Lacy parasol | 25126
+- [x] Eggy parasol | 25113
+- [x] Exquisite parasol | 25114
+- [x] Fairy-tale umbrella | 25115
+- [x] Fish umbrella | 25116
+- [x] Frog umbrella | 25117
+- [x] Gelato umbrella | 25118
+- [x] Ghost umbrella | 25119
+- [x] Grape umbrella | 25120
+- [x] Green chic umbrella | 25121
+- [x] Green umbrella | 25122
+- [x] Hydrangea umbrella | 25123
+- [x] Kabuki umbrella | 25124
+- [x] Kiwi umbrella | 25125
+- [x] Lacy parasol | 25126
 - [ ] Ladybug umbrella | 25127
-- [ ] Leaf umbrella | 25128
-- [ ] Lemon umbrella | 25129
-- [ ] Logo umbrella | 25130
+- [x] Leaf umbrella | 25128
+- [x] Lemon umbrella | 25129
+- [x] Logo umbrella | 25130
 - [ ] Maple-leaf umbrella | 25131
-- [ ] Melon umbrella | 25132
-- [ ] Mini-flower-print umbrella | 25133
-- [ ] Mint umbrella | 25134
-- [ ] Mush umbrella | 25135
-- [ ] Nook Inc. umbrella | 25136
+- [x] Melon umbrella | 25132
+- [x] Mini-flower-print umbrella | 25133
+- [x] Mint umbrella | 25134
+- [x] Mush umbrella | 25135
+- [x] Nook Inc. umbrella | 25136
 - [ ] Orange umbrella | 25137
-- [ ] Panda umbrella | 25138
-- [ ] Paper parasol | 25139
-- [ ] Patterned vinyl umbrella | 25140
-- [ ] Peach umbrella | 25141
-- [ ] Pear umbrella | 25142
-- [ ] Petal parasol | 25143
-- [ ] Picnic umbrella | 25144
-- [ ] Pineapple umbrella | 25145
-- [ ] Pink shiny-bows parasol | 25146
-- [ ] Pink umbrella | 25147
-- [ ] Purple chic umbrella | 25148
-- [ ] Purple shiny-bows parasol | 25149
-- [ ] Rainbow umbrella | 25150
-- [ ] Raindrop umbrella | 25151
-- [ ] Red chic umbrella | 25152
-- [ ] Red umbrella | 25153
-- [ ] Snowflake umbrella | 25154
-- [ ] Spider umbrella | 25155
-- [ ] Strawberry umbrella | 25156
-- [ ] Striped umbrella | 25157
-- [ ] Sunny parasol | 25158
-- [ ] Tartan-check umbrella | 25159
-- [ ] Toad parasol | 25160
-- [ ] Two-tone umbrella | 25161
-- [ ] Vinyl umbrella | 25162
-- [ ] Watermelon umbrella | 25163
-- [ ] White shiny-bows parasol | 25164
+- [x] Panda umbrella | 25138
+- [x] Paper parasol | 25139
+- [x] Patterned vinyl umbrella | 25140
+- [x] Peach umbrella | 25141
+- [x] Pear umbrella | 25142
+- [x] Petal parasol | 25143
+- [x] Picnic umbrella | 25144
+- [x] Pineapple umbrella | 25145
+- [x] Pink shiny-bows parasol | 25146
+- [x] Pink umbrella | 25147
+- [x] Purple chic umbrella | 25148
+- [x] Purple shiny-bows parasol | 25149
+- [x] Rainbow umbrella | 25150
+- [x] Raindrop umbrella | 25151
+- [x] Red chic umbrella | 25152
+- [x] Red umbrella | 25153
+- [x] Snowflake umbrella | 25154
+- [x] Spider umbrella | 25155
+- [x] Strawberry umbrella | 25156
+- [x] Striped umbrella | 25157
+- [x] Sunny parasol | 25158
+- [x] Tartan-check umbrella | 25159
+- [x] Toad parasol | 25160
+- [x] Two-tone umbrella | 25161
+- [x] Vinyl umbrella | 25162
+- [x] Watermelon umbrella | 25163
+- [x] White shiny-bows parasol | 25164
