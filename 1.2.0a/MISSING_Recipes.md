@@ -14,7 +14,6 @@ Bridge construction kit
 Campsite construction kit
 Cancer table
 Capricorn ornament
-Cherry lamp
 Cherry rug
 Cherry wall
 Cherry-blossom bonsai
@@ -31,7 +30,6 @@ Chic mum crown
 Chic rose crown
 Chic windflower wreath
 Colored-leaves flooring
-Cool hyacinth crown
 Cool hyacinth wreath
 Cool windflower crown
 Cool windflower wreath
@@ -183,5 +181,4 @@ Wedding wand
 Windflower wreath
 Wooden-block bed
 Wooden-block bench
-Wooden-block wall clock
 Wooden-plank sign

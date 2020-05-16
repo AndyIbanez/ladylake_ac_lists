@@ -191,8 +191,8 @@
 - [ ] Sporty shades (Lime) | 60441
 - [ ] Sporty shades (Light blue) | 60442
 - [x] Square glasses (Brown) | 60443
-- [ ] Square glasses (Black) | 60444
-- [ ] Square glasses (Gray) | 60445
+- [x] Square glasses (Black) | 60444
+- [x] Square glasses (Gray) | 60445
 - [ ] Square glasses (Blue) | 60446
 - [x] Stache & glasses (Black) | 60447
 - [x] Stache & glasses (Red) | 60448

@@ -91,7 +91,7 @@
 - [x] Cardboard table | 25418
 - [x] Cherry dress | 25274
 - [x] Cherry hat | 25332
-- [ ] Cherry lamp | 25752
+- [x] Cherry lamp | 25752
 - [ ] Cherry rug | 25WAV] Dragon Ball Z - OP1 - CHA-LA HEAD-CHA-LA [Mexican-Spanish]678
 - [x] Cherry speakers | 25616
 - [x] Cherry umbrella | 25737
@@ -119,7 +119,7 @@
 - [x] Coconut juice | 25619
 - [x] Coconut wall planter | 25756
 - [ ] Colored-leaves flooring | 25309
-- [ ] Cool hyacinth crown | 25336
+- [x] Cool hyacinth crown | 25336
 - [ ] Cool hyacinth wreath | 25757
 - [x] Cool pansy crown | 25337
 - [x] Cool pansy wreath | 25758
@@ -585,7 +585,7 @@
 - [x] Wooden-block stool | 25605
 - [x] Wooden-block table | 25606
 - [x] Wooden-block toy | 25670
-- [ ] Wooden-block wall clock | 25807
+- [x] Wooden-block wall clock | 25807
 - [x] Wooden-knot wall | 25849
 - [x] Wooden-mosaic wall | 25850
 - [ ] Wooden-plank sign | 25808
