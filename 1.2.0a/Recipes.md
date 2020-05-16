@@ -133,7 +133,7 @@
 - [x] Country fence | 25292
 - [x] Crescent-moon chair | 25425
 - [x] Crest doorplate | 25761
-- [ ] Crewed spaceship | 25426
+- [x] Crewed spaceship | 25426
 - [x] Cute lily crown | 25340
 - [ ] Cute rose crown | 25341
 - [x] Cutting board | 25620

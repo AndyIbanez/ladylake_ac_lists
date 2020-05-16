@@ -34,7 +34,6 @@ Cool hyacinth wreath
 Cool windflower crown
 Cool windflower wreath
 Cosmos wreath
-Crewed spaceship
 Cute rose crown
 Dark bamboo rug
 Dark cosmos crown

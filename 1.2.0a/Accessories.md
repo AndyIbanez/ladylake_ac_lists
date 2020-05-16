@@ -1,4 +1,4 @@
-- [ ] 3D glasses (White) | 60277
+- [x] 3D glasses (White) | 60277
 - [x] 3D glasses (Black) | 60278
 - [x] Bandage (Beige) | 24837
 - [x] Beak (Yellow) | 24838
@@ -82,7 +82,7 @@
 - [ ] Goggles (Blue) | 60345
 - [ ] Goggles (Pink) | 60346
 - [ ] Goggles (Green) | 60347
-- [ ] Goggles (Purple) | 60348
+- [x] Goggles (Purple) | 60348
 - [ ] Goggles (Red) | 60349
 - [x] HMD (White) | 24869
 - [x] Handlebar mustache (Black) | 24867
@@ -101,7 +101,7 @@
 - [x] Labelle sunglasses (Ocean) | 60362
 - [x] Labelle sunglasses (Sunset) | 60363
 - [x] Labelle sunglasses (Love) | 60364
-- [ ] Ladder shades (Red) | 60365
+- [x] Ladder shades (Red) | 60365
 - [ ] Ladder shades (Blue) | 60366
 - [ ] Ladder shades (Green) | 60367
 - [ ] Ladder shades (Pink) | 60368
@@ -193,7 +193,7 @@
 - [x] Square glasses (Brown) | 60443
 - [x] Square glasses (Black) | 60444
 - [x] Square glasses (Gray) | 60445
-- [ ] Square glasses (Blue) | 60446
+- [x] Square glasses (Blue) | 60446
 - [x] Stache & glasses (Black) | 60447
 - [x] Stache & glasses (Red) | 60448
 - [x] Star shades (Yellow) | 60449
