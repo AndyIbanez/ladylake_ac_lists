@@ -1,11 +1,11 @@
 - [x] Abstract wall | 22502
 - [x] Ancient wall | 22503
-- [ ] Apple wall | 22504
+- [x] Apple wall | 22504
 - [x] Aqua tile wall | 22505
 - [x] Arched-window wall | 22506
 - [ ] Autumn wall | 22507
 - [x] Backyard-fence wall | 22508
-- [ ] Bamboo wall | 22509
+- [x] Bamboo wall | 22509
 - [ ] Bamboo-grove wall | 22510
 - [x] Bamboo-screen wall | 22511
 - [x] Bank-vault wall | 22512
@@ -124,13 +124,13 @@
 - [x] Mangrove wall | 22623
 - [x] Marine pop wall | 22624
 - [ ] Meadow vista | 22625
-- [ ] Misty-garden wall | 22626
+- [x] Misty-garden wall | 22626
 - [x] Mod wall | 22627
 - [x] Modern shoji-screen wall | 22628
 - [x] Modern tearoom wall | 22629
 - [x] Modern wood wall | 22630
 - [x] Monochromatic dotted wall | 22631
-- [ ] Monochromatic-tile wall | 22632
+- [x] Monochromatic-tile wall | 22632
 - [x] Mortar wall | 22633
 - [ ] Mosaic-tile wall | 22634
 - [x] Mossy-garden wall | 22635

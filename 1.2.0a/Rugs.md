@@ -57,12 +57,12 @@
 - [ ] Nook Inc. botanical rug | 22972
 - [ ] Nook Inc. rug | 22973
 - [ ] Nook Inc. silk rug | 22974
-- [ ] Orange rug | 22975
+- [x] Orange rug | 22975
 - [ ] Oval entrance mat | 22976
 - [ ] Peach checked rug | 22977
 - [ ] Peach rug | 22978
 - [ ] Peach stripes rug | 22979
-- [ ] Pear rug | 22980
+- [x] Pear rug | 22980
 - [ ] Pink heart rug | 22981
 - [x] Pink rose rug | 22982
 - [x] Purple Persian rug | 22984

@@ -157,9 +157,9 @@
 - [x] Retro shades (Purple) | 60409
 - [x] Retro shades (Blue) | 60410
 - [x] Retro shades (Gray) | 60411
-- [ ] Rhinestone shades (Red) | 60412
+- [x] Rhinestone shades (Red) | 60412
 - [ ] Rhinestone shades (Ochre) | 60413
-- [ ] Rhinestone shades (Purple) | 60414
+- [x] Rhinestone shades (Purple) | 60414
 - [x] Rimmed glasses (Black) | 60415
 - [x] Rimmed glasses (Gold) | 60416
 - [x] Rimmed glasses (Gray) | 60417

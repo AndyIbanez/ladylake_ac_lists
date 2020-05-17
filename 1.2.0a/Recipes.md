@@ -13,7 +13,7 @@
 - [x] Aroma pot | 25609
 - [x] Asteroid | 25379
 - [ ] Astronaut suit | 25380
-- [ ] Autumn wall | 25810
+- [x] Autumn wall | 25810
 - [x] Axe | 25694
 - [x] Backyard lawn | 25304
 - [ ] Bamboo basket | 25381
@@ -413,7 +413,7 @@
 - [x] Raccoon figurine | 25533
 - [x] Recycled boots | 25689
 - [x] Recycled-can thumb piano | 25647
-- [ ] Red-leaf pile | 25534
+- [x] Red-leaf pile | 25534
 - [x] Ringtoss | 25648
 - [ ] Robot hero | 25535
 - [ ] Rocket | 25536
@@ -504,7 +504,7 @@
 - [x] Swinging bench | 25565
 - [ ] Tabletop festive tree | 25657
 - [x] Tall garden rock | 25566
-- [ ] Tall lantern | 25567
+- [x] Tall lantern | 25567
 - [x] Taurus bathtub | 25568
 - [x] Tea table | 25569
 - [ ] Terrarium | 25658
@@ -519,7 +519,7 @@
 - [x] Trash bags | 25660
 - [ ] Tree branch wreath | 25803
 - [ ] Tree standee | 25575
-- [ ] Tree's bounty arch | 25576
+- [x] Tree's bounty arch | 25576
 - [ ] Tree's bounty big tree | 25577
 - [x] Tree's bounty lamp | 25661
 - [x] Tree's bounty little tree | 25662
