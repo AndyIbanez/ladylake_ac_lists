@@ -1,8 +1,10 @@
 Abstract wall
 Ancient wall
+Apple wall
 Aqua tile wall
 Arched-window wall
 Backyard-fence wall
+Bamboo wall
 Bamboo-screen wall
 Bank-vault wall
 Basic wall
@@ -96,11 +98,13 @@ Magma-cavern wall
 Manga-library wall
 Mangrove wall
 Marine pop wall
+Misty-garden wall
 Mod wall
 Modern shoji-screen wall
 Modern tearoom wall
 Modern wood wall
 Monochromatic dotted wall
+Monochromatic-tile wall
 Mortar wall
 Mossy-garden wall
 Mush wall

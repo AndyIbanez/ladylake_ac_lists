@@ -9,6 +9,7 @@ Apple wall
 Armor shoes
 Aroma pot
 Asteroid
+Autumn wall
 Axe
 Backyard lawn
 Bamboo bench
@@ -76,6 +77,7 @@ Cardboard table
 Cherry dress
 Cherry hat
 Cherry lamp
+Cherry rug
 Cherry speakers
 Cherry umbrella
 Cherry-blossom-petal pile
@@ -87,6 +89,7 @@ Classic-library wall
 Clothesline
 Coconut juice
 Coconut wall planter
+Colored-leaves flooring
 Cool hyacinth crown
 Cool pansy crown
 Cool pansy wreath
@@ -152,6 +155,7 @@ Golden flooring
 Golden seat
 Golden slingshot
 Golden wall
+Golden wand
 Golden watering can
 Gong
 Grass skirt
@@ -219,6 +223,7 @@ Lucky gold cat
 Lunar rover
 Lunar surface
 Manga-library wall
+Maple-leaf umbrella
 Matryoshka
 Medicine
 Medium cardboard boxes
@@ -286,6 +291,7 @@ Potted ivy
 Raccoon figurine
 Recycled boots
 Recycled-can thumb piano
+Red-leaf pile
 Ringtoss
 Rocking chair
 Rocking horse
@@ -343,6 +349,7 @@ Street piano
 Succulent plant
 Swinging bench
 Tall garden rock
+Tall lantern
 Taurus bathtub
 Tea table
 Tiki torch
@@ -353,6 +360,8 @@ Tire toy
 Traditional balancing toy
 Traditional straw coat
 Trash bags
+Tree's bounty arch
+Tree's bounty big tree
 Tree's bounty lamp
 Tree's bounty little tree
 Tree's bounty mobile

@@ -30,12 +30,10 @@ Monochromatic wavy rug
 Nook Inc. botanical rug
 Nook Inc. rug
 Nook Inc. silk rug
-Orange rug
 Oval entrance mat
 Peach checked rug
 Peach rug
 Peach stripes rug
-Pear rug
 Pink heart rug
 Purple shaggy rug
 Red Persian rug

@@ -1,6 +1,4 @@
-Apple wall
 Autumn wall
-Bamboo wall
 Bamboo-grove wall
 Blue simple-cloth wall
 Brown botanical-tile wall
@@ -26,8 +24,6 @@ Ivy wall
 Jingle wall
 Jungle wall
 Meadow vista
-Misty-garden wall
-Monochromatic-tile wall
 Mosaic-tile wall
 Nook Inc. wall
 Orange wall

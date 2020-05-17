@@ -2,7 +2,6 @@ Apple umbrella
 Aquarius urn
 Aries rocking chair
 Astronaut suit
-Autumn wall
 Bamboo basket
 Big festive tree
 Blossom-viewing lantern
@@ -14,7 +13,6 @@ Bridge construction kit
 Campsite construction kit
 Cancer table
 Capricorn ornament
-Cherry rug
 Cherry wall
 Cherry-blossom bonsai
 Cherry-blossom branches
@@ -29,7 +27,6 @@ Chic cosmos wreath
 Chic mum crown
 Chic rose crown
 Chic windflower wreath
-Colored-leaves flooring
 Cool hyacinth wreath
 Cool windflower crown
 Cool windflower wreath
@@ -68,7 +65,6 @@ Golden net
 Golden rod
 Golden shovel
 Golden toilet
-Golden wand
 Hanging terrarium
 Holiday candle
 Hyacinth crown
@@ -106,7 +102,6 @@ Magazine rack
 Manhole cover
 Maple-leaf pochette
 Maple-leaf pond stone
-Maple-leaf umbrella
 Money flooring
 Mum crown
 Natural mum wreath
@@ -125,7 +120,6 @@ Purple hyacinth crown
 Purple hyacinth wreath
 Purple pansy crown
 Purple windflower crown
-Red-leaf pile
 Robot hero
 Rocket
 Rose crown
@@ -159,13 +153,10 @@ Stone axe
 Stone lion-dog
 Stone tablet
 Tabletop festive tree
-Tall lantern
 Terrarium
 Three-tiered snowperson
 Tree branch wreath
 Tree standee
-Tree's bounty arch
-Tree's bounty big tree
 Tropical vista
 Tulip crown
 Tulip wreath

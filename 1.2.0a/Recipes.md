@@ -118,7 +118,7 @@
 - [x] Clothesline | 25423
 - [x] Coconut juice | 25619
 - [x] Coconut wall planter | 25756
-- [ ] Colored-leaves flooring | 25309
+- [x] Colored-leaves flooring | 25309
 - [x] Cool hyacinth crown | 25336
 - [ ] Cool hyacinth wreath | 25757
 - [x] Cool pansy crown | 25337
@@ -520,7 +520,7 @@
 - [ ] Tree branch wreath | 25803
 - [ ] Tree standee | 25575
 - [x] Tree's bounty arch | 25576
-- [ ] Tree's bounty big tree | 25577
+- [x] Tree's bounty big tree | 25577
 - [x] Tree's bounty lamp | 25661
 - [x] Tree's bounty little tree | 25662
 - [x] Tree's bounty mobile | 25804

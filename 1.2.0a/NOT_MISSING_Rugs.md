@@ -25,6 +25,8 @@ Mom's reliable kitchen mat
 Monochromatic dotted rug
 Mush rug
 Natural wooden-deck rug
+Orange rug
+Pear rug
 Pink rose rug
 Purple Persian rug
 Purple heart rug
