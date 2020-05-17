@@ -92,7 +92,7 @@
 - [x] Cherry dress | 25274
 - [x] Cherry hat | 25332
 - [x] Cherry lamp | 25752
-- [ ] Cherry rug | 25WAV] Dragon Ball Z - OP1 - CHA-LA HEAD-CHA-LA [Mexican-Spanish]678
+- [x] Cherry rug | 25678
 - [x] Cherry speakers | 25616
 - [x] Cherry umbrella | 25737
 - [ ] Cherry wall | 25816
@@ -222,7 +222,7 @@
 - [x] Golden slingshot | 25709
 - [ ] Golden toilet | 25453
 - [x] Golden wall | 25824
-- [ ] Golden wand | 25710
+- [x] Golden wand | 25710
 - [x] Golden watering can | 25711
 - [x] Gong | 25454
 - [x] Grass skirt | 25271
@@ -327,7 +327,7 @@
 - [ ] Manhole cover | 25500
 - [ ] Maple-leaf pochette | 25267
 - [ ] Maple-leaf pond stone | 25501
-- [ ] Maple-leaf umbrella | 25740
+- [x] Maple-leaf umbrella | 25740
 - [x] Matryoshka | 25640
 - [x] Medicine | 25674
 - [x] Medium cardboard boxes | 25502
