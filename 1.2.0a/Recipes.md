@@ -5,7 +5,7 @@
 - [x] Apple dress | 25273
 - [x] Apple hat | 25328
 - [x] Apple rug | 25676
-- [ ] Apple umbrella | 25736
+- [x] Apple umbrella | 25736
 - [x] Apple wall | 25809
 - [ ] Aquarius urn | 25377
 - [ ] Aries rocking chair | 25378
@@ -95,7 +95,7 @@
 - [x] Cherry rug | 25678
 - [x] Cherry speakers | 25616
 - [x] Cherry umbrella | 25737
-- [ ] Cherry wall | 25816
+- [x] Cherry wall | 25816
 - [ ] Cherry-blossom bonsai | 25617
 - [ ] Cherry-blossom branches | 25419
 - [ ] Cherry-blossom clock | 25753
@@ -293,7 +293,7 @@
 - [x] Leaf | 25260
 - [x] Leaf campfire | 25485
 - [ ] Leaf mask | 25351
-- [ ] Leaf stool | 25486
+- [x] Leaf stool | 25486
 - [x] Leaf umbrella | 25739
 - [x] Leaf-egg outfit | 25279
 - [x] Leaf-egg shell | 25352
@@ -305,7 +305,7 @@
 - [x] Lily record player | 25487
 - [x] Lily wand | 25716
 - [ ] Lily wreath | 25782
-- [ ] Log bed | 25488
+- [x] Log bed | 25488
 - [x] Log bench | 25489
 - [x] Log chair | 25495
 - [x] Log decorative shelves | 25490
@@ -366,7 +366,7 @@
 - [x] Orange end table | 25519
 - [ ] Orange hat | 25356
 - [x] Orange rug | 25681
-- [ ] Orange umbrella | 25742
+- [x] Orange umbrella | 25742
 - [x] Orange wall | 25833
 - [x] Orange wall-mounted clock | 25787
 - [ ] Ornament mobile | 25788
@@ -430,7 +430,7 @@
 - [ ] Sakura-wood wall | 25837
 - [x] Sandy-beach flooring | 25321
 - [x] Satellite | 25540
-- [ ] Sauna heater | 25541
+- [x] Sauna heater | 25541
 - [x] Scarecrow | 25542
 - [x] Scattered papers | 25543
 - [ ] Sci-fi flooring | 25322
@@ -577,7 +577,7 @@
 - [x] Wooden wardrobe | 25597
 - [x] Wooden waste bin | 25598
 - [ ] Wooden-block bed | 25599
-- [ ] Wooden-block bench | 25600
+- [x] Wooden-block bench | 25600
 - [x] Wooden-block bookshelf | 25601
 - [x] Wooden-block chair | 25602
 - [x] Wooden-block chest | 25603

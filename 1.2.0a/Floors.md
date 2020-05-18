@@ -133,7 +133,7 @@
 - [x] Rubber-tile flooring | 22875
 - [x] Rush tatami | 22876
 - [ ] Rush tatami flooring | 22877
-- [ ] Saharah's desert | 22878
+- [x] Saharah's desert | 22878
 - [x] Sakura-wood flooring | 22879
 - [ ] Sandlot | 22880
 - [ ] Sandy-beach flooring | 22881

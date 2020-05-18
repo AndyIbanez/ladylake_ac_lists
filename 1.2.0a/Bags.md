@@ -76,7 +76,7 @@
 - [ ] Snowflake pochette (White) | 25088
 - [x] Square backpack (Pink) | 61318
 - [ ] Square backpack (Green) | 61319
-- [ ] Square backpack (Yellow) | 61320
+- [x] Square backpack (Yellow) | 61320
 - [ ] Star pochette (Yellow) | 25090
 - [ ] Straw pochette (Brown) | 25091
 - [ ] Studded backpack (Black) | 61321

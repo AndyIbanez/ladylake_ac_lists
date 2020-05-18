@@ -335,7 +335,7 @@
 - [ ] Slip-on school shoes (Pink) | 61145
 - [x] Slippers (Gray) | 61146
 - [x] Slippers (Black) | 61147
-- [ ] Slippers (White) | 61148
+- [x] Slippers (White) | 61148
 - [x] Slippers (Pink) | 61149
 - [ ] Slippers (Green) | 61150
 - [ ] Slippers (Blue) | 61151
