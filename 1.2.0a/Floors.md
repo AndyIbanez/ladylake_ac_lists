@@ -31,7 +31,7 @@
 - [x] Cherry-blossom flooring | 22774
 - [x] Circuit-board flooring | 22775
 - [x] Cloud flooring | 22776
-- [ ] Colored-leaves flooring | 22777
+- [x] Colored-leaves flooring | 22777
 - [x] Colorful mosaic-tile flooring | 22778
 - [x] Colorful puzzle flooring | 22779
 - [x] Colorful tile flooring | 22780

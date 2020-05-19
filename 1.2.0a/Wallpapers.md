@@ -3,7 +3,7 @@
 - [x] Apple wall | 22504
 - [x] Aqua tile wall | 22505
 - [x] Arched-window wall | 22506
-- [ ] Autumn wall | 22507
+- [x] Autumn wall | 22507
 - [x] Backyard-fence wall | 22508
 - [x] Bamboo wall | 22509
 - [ ] Bamboo-grove wall | 22510
@@ -78,7 +78,7 @@
 - [x] Cute white wall | 22578
 - [x] Cute yellow wall | 22579
 - [x] Dark wooden-mosaic wall | 22580
-- [ ] Dark-chocolate wall | 22581
+- [x] Dark-chocolate wall | 22581
 - [x] Desert vista | 22582
 - [x] Dig-site wall | 22583
 - [x] Dirt-clod wall | 22584

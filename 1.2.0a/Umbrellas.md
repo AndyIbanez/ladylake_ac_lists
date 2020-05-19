@@ -31,7 +31,7 @@
 - [x] Leaf umbrella | 25128
 - [x] Lemon umbrella | 25129
 - [x] Logo umbrella | 25130
-- [ ] Maple-leaf umbrella | 25131
+- [x] Maple-leaf umbrella | 25131
 - [x] Melon umbrella | 25132
 - [x] Mini-flower-print umbrella | 25133
 - [x] Mint umbrella | 25134

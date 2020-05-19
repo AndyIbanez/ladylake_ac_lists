@@ -42,7 +42,7 @@
 - [x] Knapsack (Blue) | 61289
 - [x] Knitted-grass backpack (Green) | 25074
 - [x] Log pack (Brown) | 25075
-- [ ] Maple-leaf pochette (Red) | 25076
+- [x] Maple-leaf pochette (Red) | 25076
 - [ ] Messenger bag (Green) | 61290
 - [x] Messenger bag (Orange) | 61291
 - [x] Messenger bag (Black) | 61292
