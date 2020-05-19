@@ -229,6 +229,7 @@ Lunar rover
 Lunar surface
 Manga-library wall
 Maple-leaf pochette
+Maple-leaf pond stone
 Maple-leaf umbrella
 Matryoshka
 Medicine

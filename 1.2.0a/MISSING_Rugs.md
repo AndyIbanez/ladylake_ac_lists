@@ -31,7 +31,6 @@ Nook Inc. botanical rug
 Nook Inc. rug
 Nook Inc. silk rug
 Oval entrance mat
-Peach checked rug
 Peach rug
 Peach stripes rug
 Pink heart rug
@@ -49,7 +48,6 @@ Shell rug
 Simple medium avocado mat
 Simple medium red mat
 Simple pink bath mat
-Simple small avocado mat
 Simple small black mat
 Simple small orange mat
 Simple small red mat

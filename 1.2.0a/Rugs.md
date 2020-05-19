@@ -59,7 +59,7 @@
 - [ ] Nook Inc. silk rug | 22974
 - [x] Orange rug | 22975
 - [ ] Oval entrance mat | 22976
-- [ ] Peach checked rug | 22977
+- [x] Peach checked rug | 22977
 - [ ] Peach rug | 22978
 - [ ] Peach stripes rug | 22979
 - [x] Pear rug | 22980
@@ -98,7 +98,7 @@
 - [ ] Simple medium red mat | 23012
 - [x] Simple navy bath mat | 23013
 - [ ] Simple pink bath mat | 23014
-- [ ] Simple small avocado mat | 23015
+- [x] Simple small avocado mat | 23015
 - [ ] Simple small black mat | 23016
 - [x] Simple small blue mat | 23017
 - [x] Simple small brown mat | 23018

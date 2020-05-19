@@ -26,6 +26,7 @@ Monochromatic dotted rug
 Mush rug
 Natural wooden-deck rug
 Orange rug
+Peach checked rug
 Pear rug
 Pink rose rug
 Purple Persian rug
@@ -47,6 +48,7 @@ Simple medium brown mat
 Simple medium orange mat
 Simple medium purple mat
 Simple navy bath mat
+Simple small avocado mat
 Simple small blue mat
 Simple small brown mat
 Simple small purple mat

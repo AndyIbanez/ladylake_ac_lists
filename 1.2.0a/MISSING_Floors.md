@@ -1,7 +1,6 @@
 Backyard lawn
 Bamboo flooring
 Brown wedding flooring
-Colored-leaves flooring
 Concrete flooring
 Dark parquet flooring
 Dirt flooring

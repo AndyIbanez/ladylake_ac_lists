@@ -326,7 +326,7 @@
 - [x] Manga-library wall | 25830
 - [ ] Manhole cover | 25500
 - [x] Maple-leaf pochette | 25267
-- [ ] Maple-leaf pond stone | 25501
+- [x] Maple-leaf pond stone | 25501
 - [x] Maple-leaf umbrella | 25740
 - [x] Matryoshka | 25640
 - [x] Medicine | 25674

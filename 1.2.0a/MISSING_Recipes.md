@@ -95,7 +95,6 @@ Lovely cosmos crown
 Lunar lander
 Magazine rack
 Manhole cover
-Maple-leaf pond stone
 Money flooring
 Mum crown
 Natural mum wreath

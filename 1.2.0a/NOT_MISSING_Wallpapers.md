@@ -3,6 +3,7 @@ Ancient wall
 Apple wall
 Aqua tile wall
 Arched-window wall
+Autumn wall
 Backyard-fence wall
 Bamboo wall
 Bamboo-screen wall
@@ -67,6 +68,7 @@ Cute red wall
 Cute white wall
 Cute yellow wall
 Dark wooden-mosaic wall
+Dark-chocolate wall
 Desert vista
 Dig-site wall
 Dirt-clod wall

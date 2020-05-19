@@ -27,6 +27,7 @@ Lacy parasol
 Leaf umbrella
 Lemon umbrella
 Logo umbrella
+Maple-leaf umbrella
 Melon umbrella
 Mini-flower-print umbrella
 Mint umbrella

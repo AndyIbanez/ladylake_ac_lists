@@ -1,4 +1,3 @@
-Autumn wall
 Bamboo-grove wall
 Blue simple-cloth wall
 Brown botanical-tile wall
@@ -9,7 +8,6 @@ Camo wall
 Cherry wall
 Cityscape wall
 Classic-library wall
-Dark-chocolate wall
 Future-tech wall
 Garbage-heap wall
 Gold-screen wall

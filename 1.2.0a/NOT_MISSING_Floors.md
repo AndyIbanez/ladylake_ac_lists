@@ -28,6 +28,7 @@ Camo flooring
 Cherry-blossom flooring
 Circuit-board flooring
 Cloud flooring
+Colored-leaves flooring
 Colorful mosaic-tile flooring
 Colorful puzzle flooring
 Colorful tile flooring
