@@ -5,6 +5,7 @@ Apple chair
 Apple dress
 Apple hat
 Apple rug
+Apple umbrella
 Apple wall
 Armor shoes
 Aroma pot
@@ -80,6 +81,7 @@ Cherry lamp
 Cherry rug
 Cherry speakers
 Cherry umbrella
+Cherry wall
 Cherry-blossom-petal pile
 Chic tulip crown
 Chocolate herringbone wall
@@ -169,6 +171,7 @@ Hedge standee
 Honeycomb flooring
 Honeycomb wall
 Hyacinth lamp
+Hyacinth wand
 Imperial fence
 Infused-water dispenser
 Iron armor
@@ -201,6 +204,7 @@ Ladder
 Lattice fence
 Leaf
 Leaf campfire
+Leaf stool
 Leaf umbrella
 Leaf-egg outfit
 Leaf-egg shell
@@ -208,6 +212,7 @@ Leaf-egg shoes
 Light bamboo rug
 Lily record player
 Lily wand
+Log bed
 Log bench
 Log chair
 Log decorative shelves
@@ -223,6 +228,7 @@ Lucky gold cat
 Lunar rover
 Lunar surface
 Manga-library wall
+Maple-leaf pochette
 Maple-leaf umbrella
 Matryoshka
 Medicine
@@ -258,6 +264,7 @@ Old-fashioned washtub
 Orange dress
 Orange end table
 Orange rug
+Orange umbrella
 Orange wall
 Orange wall-mounted clock
 Outdoor picnic set
@@ -302,6 +309,7 @@ Rose wreath
 Rustic-stone wall
 Sandy-beach flooring
 Satellite
+Sauna heater
 Scarecrow
 Scattered papers
 Sci-fi wall
@@ -405,6 +413,7 @@ Wooden table mirror
 Wooden toolbox
 Wooden wardrobe
 Wooden waste bin
+Wooden-block bench
 Wooden-block bookshelf
 Wooden-block chair
 Wooden-block chest

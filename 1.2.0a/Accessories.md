@@ -102,10 +102,10 @@
 - [x] Labelle sunglasses (Sunset) | 60363
 - [x] Labelle sunglasses (Love) | 60364
 - [x] Ladder shades (Red) | 60365
-- [ ] Ladder shades (Blue) | 60366
+- [x] Ladder shades (Blue) | 60366
 - [ ] Ladder shades (Green) | 60367
-- [ ] Ladder shades (Pink) | 60368
-- [ ] Ladder shades (Yellow) | 60369
+- [x] Ladder shades (Pink) | 60368
+- [x] Ladder shades (Yellow) | 60369
 - [ ] Ladder shades (Gold) | 60370
 - [x] Leaf (Green) | 24873
 - [x] Masquerade mask (Purple) | 60371

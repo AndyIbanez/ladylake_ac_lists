@@ -239,7 +239,7 @@
 - [x] Honeycomb wall | 25825
 - [ ] Hyacinth crown | 25349
 - [x] Hyacinth lamp | 25634
-- [ ] Hyacinth wand | 25712
+- [x] Hyacinth wand | 25712
 - [ ] Hyacinth wreath | 25775
 - [ ] Ice flooring | 25315
 - [ ] Ice wall | 25826
@@ -325,7 +325,7 @@
 - [ ] Magazine rack | 25639
 - [x] Manga-library wall | 25830
 - [ ] Manhole cover | 25500
-- [ ] Maple-leaf pochette | 25267
+- [x] Maple-leaf pochette | 25267
 - [ ] Maple-leaf pond stone | 25501
 - [x] Maple-leaf umbrella | 25740
 - [x] Matryoshka | 25640

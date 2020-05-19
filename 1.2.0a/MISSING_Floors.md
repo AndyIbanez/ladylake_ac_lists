@@ -22,7 +22,6 @@ Nook Inc. flooring
 Party flooring
 Rocky-mountain flooring
 Rush tatami flooring
-Saharah's desert
 Sandlot
 Sandy-beach flooring
 Sci-fi flooring

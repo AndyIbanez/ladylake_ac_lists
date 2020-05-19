@@ -109,6 +109,7 @@ Rose flooring
 Rosewood flooring
 Rubber-tile flooring
 Rush tatami
+Saharah's desert
 Sakura-wood flooring
 Scramble crosswalk
 Sepia puzzle flooring

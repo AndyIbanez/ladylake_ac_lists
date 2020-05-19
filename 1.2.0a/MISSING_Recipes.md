@@ -1,4 +1,3 @@
-Apple umbrella
 Aquarius urn
 Aries rocking chair
 Astronaut suit
@@ -13,7 +12,6 @@ Bridge construction kit
 Campsite construction kit
 Cancer table
 Capricorn ornament
-Cherry wall
 Cherry-blossom bonsai
 Cherry-blossom branches
 Cherry-blossom clock
@@ -68,7 +66,6 @@ Golden toilet
 Hanging terrarium
 Holiday candle
 Hyacinth crown
-Hyacinth wand
 Hyacinth wreath
 Ice flooring
 Ice wall
@@ -90,23 +87,19 @@ Jingle wall
 Kettle bathtub
 Large cardboard boxes
 Leaf mask
-Leaf stool
 Leo sculpture
 Libra scale
 Lily crown
 Lily wreath
-Log bed
 Lovely cosmos crown
 Lunar lander
 Magazine rack
 Manhole cover
-Maple-leaf pochette
 Maple-leaf pond stone
 Money flooring
 Mum crown
 Natural mum wreath
 Orange hat
-Orange umbrella
 Ornament mobile
 Ornament wreath
 Outdoor bath
@@ -126,7 +119,6 @@ Rose crown
 Sagittarius arrow
 Sakura-wood flooring
 Sakura-wood wall
-Sauna heater
 Sci-fi flooring
 Scorpio lamp
 Shell lamp
@@ -170,5 +162,4 @@ Wedding fence
 Wedding wand
 Windflower wreath
 Wooden-block bed
-Wooden-block bench
 Wooden-plank sign
