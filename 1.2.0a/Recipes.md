@@ -319,7 +319,7 @@
 - [x] Log wall-mounted clock | 25783
 - [ ] Lovely cosmos crown | 25354
 - [x] Lucky gold cat | 25638
-- [ ] Lunar lander | 25498
+- [x] Lunar lander | 25498
 - [x] Lunar rover | 25499
 - [x] Lunar surface | 25318
 - [ ] Magazine rack | 25639
