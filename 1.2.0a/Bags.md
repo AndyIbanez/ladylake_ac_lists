@@ -78,7 +78,7 @@
 - [ ] Square backpack (Green) | 61319
 - [x] Square backpack (Yellow) | 61320
 - [ ] Star pochette (Yellow) | 25090
-- [ ] Straw pochette (Brown) | 25091
+- [x] Straw pochette (Brown) | 25091
 - [ ] Studded backpack (Black) | 61321
 - [x] Studded backpack (White) | 61322
 - [x] Tackle bag (Blue) | 25093

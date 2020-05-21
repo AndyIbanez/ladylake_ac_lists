@@ -2,10 +2,10 @@
 - [x] 3D glasses (Black) | 60278
 - [x] Bandage (Beige) | 24837
 - [x] Beak (Yellow) | 24838
-- [ ] Birthday shades (Yellow) | 60279
+- [x] Birthday shades (Yellow) | 60279
 - [ ] Birthday shades (Pink) | 60280
 - [ ] Birthday shades (Red) | 60281
-- [ ] Birthday shades (Blue) | 60282
+- [x] Birthday shades (Blue) | 60282
 - [x] Bottom-rimmed glasses (Red) | 60283
 - [x] Bottom-rimmed glasses (Purple) | 60284
 - [x] Bottom-rimmed glasses (Green) | 60285

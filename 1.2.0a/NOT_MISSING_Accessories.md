@@ -2,6 +2,8 @@
 3D glasses (Black)
 Bandage (Beige)
 Beak (Yellow)
+Birthday shades (Yellow)
+Birthday shades (Blue)
 Bottom-rimmed glasses (Red)
 Bottom-rimmed glasses (Purple)
 Bottom-rimmed glasses (Green)

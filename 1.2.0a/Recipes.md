@@ -220,7 +220,7 @@
 - [x] Golden seat | 25452
 - [ ] Golden shovel | 25708
 - [x] Golden slingshot | 25709
-- [ ] Golden toilet | 25453
+- [x] Golden toilet | 25453
 - [x] Golden wall | 25824
 - [x] Golden wand | 25710
 - [x] Golden watering can | 25711
@@ -253,7 +253,7 @@
 - [x] Imperial fence | 25293
 - [x] Infused-water dispenser | 25635
 - [x] Iron armor | 25278
-- [ ] Iron closet | 25464
+- [x] Iron closet | 25464
 - [x] Iron doorplate | 25776
 - [x] Iron fence | 25294
 - [x] Iron frame | 25465
@@ -275,7 +275,7 @@
 - [x] Ironwood cupboard | 25475
 - [x] Ironwood dresser | 25477
 - [x] Ironwood kitchenette | 25478
-- [ ] Ironwood low table | 25479
+- [x] Ironwood low table | 25479
 - [x] Ironwood table | 25480
 - [x] Jail bars | 25481
 - [ ] Jingle wall | 25828
@@ -416,7 +416,7 @@
 - [x] Red-leaf pile | 25534
 - [x] Ringtoss | 25648
 - [ ] Robot hero | 25535
-- [ ] Rocket | 25536
+- [x] Rocket | 25536
 - [x] Rocking chair | 25537
 - [x] Rocking horse | 25538
 - [x] Rope fence | 25297

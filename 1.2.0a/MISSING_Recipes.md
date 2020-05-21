@@ -62,7 +62,6 @@ Golden gears
 Golden net
 Golden rod
 Golden shovel
-Golden toilet
 Hanging terrarium
 Holiday candle
 Hyacinth crown
@@ -76,13 +75,11 @@ Illuminated present
 Illuminated reindeer
 Illuminated snowflakes
 Illuminated tree
-Iron closet
 Iron garden bench
 Iron garden table
 Iron hanger stand
 Iron shelf
 Ironwood DIY workbench
-Ironwood low table
 Jingle wall
 Kettle bathtub
 Large cardboard boxes
@@ -92,7 +89,6 @@ Libra scale
 Lily crown
 Lily wreath
 Lovely cosmos crown
-Lunar lander
 Magazine rack
 Manhole cover
 Money flooring
@@ -113,7 +109,6 @@ Purple hyacinth wreath
 Purple pansy crown
 Purple windflower crown
 Robot hero
-Rocket
 Rose crown
 Sagittarius arrow
 Sakura-wood flooring

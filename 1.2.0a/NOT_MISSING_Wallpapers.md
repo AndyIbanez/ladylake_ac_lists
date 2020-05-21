@@ -174,6 +174,7 @@ Stone wall
 Stormy-night wall
 Straw wall
 Strawberry-chocolate wall
+Wavy-tile wall
 Western vista
 White botanical-tile wall
 White delicate-blooms wall

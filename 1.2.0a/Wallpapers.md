@@ -218,7 +218,7 @@
 - [ ] Tree-lined wall | 22717
 - [ ] Tropical vista | 22718
 - [ ] Underwater wall | 22719
-- [ ] Wavy-tile wall | 22720
+- [x] Wavy-tile wall | 22720
 - [ ] Wedding-party wall | 27098
 - [x] Western vista | 22721
 - [x] White botanical-tile wall | 22722

@@ -156,6 +156,7 @@ Golden dishes
 Golden flooring
 Golden seat
 Golden slingshot
+Golden toilet
 Golden wall
 Golden wand
 Golden watering can
@@ -175,6 +176,7 @@ Hyacinth wand
 Imperial fence
 Infused-water dispenser
 Iron armor
+Iron closet
 Iron doorplate
 Iron fence
 Iron frame
@@ -191,6 +193,7 @@ Ironwood clock
 Ironwood cupboard
 Ironwood dresser
 Ironwood kitchenette
+Ironwood low table
 Ironwood table
 Jail bars
 Juicy-apple TV
@@ -225,6 +228,7 @@ Log stakes
 Log stool
 Log wall-mounted clock
 Lucky gold cat
+Lunar lander
 Lunar rover
 Lunar surface
 Manga-library wall
@@ -301,6 +305,7 @@ Recycled boots
 Recycled-can thumb piano
 Red-leaf pile
 Ringtoss
+Rocket
 Rocking chair
 Rocking horse
 Rope fence

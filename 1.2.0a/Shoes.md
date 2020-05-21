@@ -294,7 +294,7 @@
 - [x] Samurai greaves (White) | 61105
 - [ ] Samurai greaves (Golden yellow) | 61106
 - [ ] Shiny bow platform shoes (Pink) | 61107
-- [ ] Shiny bow platform shoes (Black) | 61108
+- [x] Shiny bow platform shoes (Black) | 61108
 - [ ] Shiny bow platform shoes (Red) | 61109
 - [x] Shiny bow platform shoes (Purple) | 61110
 - [x] Shiny bow platform shoes (Light blue) | 61111

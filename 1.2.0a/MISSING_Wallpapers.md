@@ -42,7 +42,6 @@ Summit wall
 Tree-lined wall
 Tropical vista
 Underwater wall
-Wavy-tile wall
 Wedding-party wall
 White painted-wood wall
 White wedding wall
