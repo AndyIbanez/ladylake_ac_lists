@@ -34,6 +34,7 @@ Purple heart rug
 Red blocks rug
 Red carpet
 Red dotted rug
+Red kilim-style carpet
 Red message mat
 Red rose rug
 Red small round mat

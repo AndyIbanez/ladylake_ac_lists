@@ -82,8 +82,8 @@
 - [ ] Studded backpack (Black) | 61321
 - [x] Studded backpack (White) | 61322
 - [x] Tackle bag (Blue) | 25093
-- [ ] Tool bag (Black) | 25094
-- [ ] Town backpack (Blue) | 61323
+- [x] Tool bag (Black) | 25094
+- [x] Town backpack (Blue) | 61323
 - [x] Town backpack (Red) | 61324
 - [x] Town backpack (Green) | 61325
 - [x] Town backpack (Orange) | 61326

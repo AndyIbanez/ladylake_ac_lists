@@ -5,7 +5,6 @@ Bamboo basket
 Big festive tree
 Blossom-viewing lantern
 Blue rose crown
-Blue rose wreath
 Bonsai shelf
 Brick fence
 Bridge construction kit
@@ -54,10 +53,8 @@ Frozen tree
 Frozen-treat set
 Fruit basket
 Garden rock
-Gold rose crown
 Gold rose wreath
 Golden casket
-Golden dung beetle
 Golden gears
 Golden net
 Golden rod
@@ -78,7 +75,6 @@ Illuminated tree
 Iron garden bench
 Iron garden table
 Iron hanger stand
-Iron shelf
 Ironwood DIY workbench
 Jingle wall
 Kettle bathtub
@@ -91,10 +87,8 @@ Lily wreath
 Lovely cosmos crown
 Magazine rack
 Manhole cover
-Money flooring
 Mum crown
 Natural mum wreath
-Orange hat
 Ornament mobile
 Ornament wreath
 Outdoor bath
@@ -136,15 +130,12 @@ Star clock
 Star head
 Starry-sands flooring
 Stone axe
-Stone lion-dog
 Stone tablet
 Tabletop festive tree
 Terrarium
 Three-tiered snowperson
 Tree branch wreath
-Tree standee
 Tropical vista
-Tulip crown
 Tulip wreath
 Underwater flooring
 Underwater wall

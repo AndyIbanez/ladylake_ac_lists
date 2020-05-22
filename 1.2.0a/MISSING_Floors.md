@@ -21,7 +21,6 @@ Nook Inc. flooring
 Party flooring
 Rocky-mountain flooring
 Rush tatami flooring
-Sandlot
 Sandy-beach flooring
 Sci-fi flooring
 Simple blue flooring

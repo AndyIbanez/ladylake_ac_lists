@@ -93,6 +93,7 @@ Heavy-curtain wall
 Honeycomb-tile wall
 Imperial wall
 Industrial wall
+Ivy wall
 Kisses wall
 Laboratory wall
 Lattice wall
@@ -108,6 +109,7 @@ Modern wood wall
 Monochromatic dotted wall
 Monochromatic-tile wall
 Mortar wall
+Mosaic-tile wall
 Mossy-garden wall
 Mush wall
 Ocean-horizon wall
@@ -174,6 +176,7 @@ Stone wall
 Stormy-night wall
 Straw wall
 Strawberry-chocolate wall
+Summit wall
 Wavy-tile wall
 Western vista
 White botanical-tile wall

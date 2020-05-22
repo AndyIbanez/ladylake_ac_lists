@@ -43,6 +43,7 @@ Beekeeper's hive
 Birdbath
 Birdcage
 Birdhouse
+Blue rose wreath
 Bone doorplate
 Bonfire
 Boomerang
@@ -147,12 +148,14 @@ Giant teddy bear
 Gold armor
 Gold bars
 Gold helmet
+Gold rose crown
 Gold-armor shoes
 Gold-screen wall
 Golden arowana model
 Golden axe
 Golden candlestick
 Golden dishes
+Golden dung beetle
 Golden flooring
 Golden seat
 Golden slingshot
@@ -181,6 +184,7 @@ Iron doorplate
 Iron fence
 Iron frame
 Iron garden chair
+Iron shelf
 Iron wall lamp
 Iron wall rack
 Iron wand
@@ -241,6 +245,7 @@ Medium cardboard boxes
 Mini DIY workbench
 Modeling clay
 Modern wood wall
+Money flooring
 Moon
 Mossy garden rock
 Mountain standee
@@ -268,6 +273,7 @@ Oil-barrel bathtub
 Old-fashioned washtub
 Orange dress
 Orange end table
+Orange hat
 Orange rug
 Orange umbrella
 Orange wall
@@ -351,6 +357,7 @@ Steel flooring
 Steel-frame wall
 Stone arch
 Stone fence
+Stone lion-dog
 Stone stool
 Stone table
 Stone wall
@@ -374,6 +381,7 @@ Tire toy
 Traditional balancing toy
 Traditional straw coat
 Trash bags
+Tree standee
 Tree's bounty arch
 Tree's bounty big tree
 Tree's bounty lamp
@@ -381,6 +389,7 @@ Tree's bounty little tree
 Tree's bounty mobile
 Tree-branch wand
 Trophy case
+Tulip crown
 Tulip surprise box
 Tulip wand
 Ukulele

@@ -73,7 +73,7 @@
 - [x] Red blocks rug | 22987
 - [x] Red carpet | 22988
 - [x] Red dotted rug | 22989
-- [ ] Red kilim-style carpet | 22990
+- [x] Red kilim-style carpet | 22990
 - [ ] Red medium round mat | 22991
 - [x] Red message mat | 22992
 - [x] Red rose rug | 22994

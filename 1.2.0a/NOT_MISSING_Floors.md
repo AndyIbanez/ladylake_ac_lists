@@ -112,6 +112,7 @@ Rubber-tile flooring
 Rush tatami
 Saharah's desert
 Sakura-wood flooring
+Sandlot
 Scramble crosswalk
 Sepia puzzle flooring
 Ship deck

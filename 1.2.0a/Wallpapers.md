@@ -113,7 +113,7 @@
 - [ ] Iceberg wall | 22612
 - [x] Imperial wall | 22613
 - [x] Industrial wall | 22614
-- [ ] Ivy wall | 22615
+- [x] Ivy wall | 22615
 - [ ] Jingle wall | 22616
 - [ ] Jungle wall | 22617
 - [x] Kisses wall | 22618
@@ -132,7 +132,7 @@
 - [x] Monochromatic dotted wall | 22631
 - [x] Monochromatic-tile wall | 22632
 - [x] Mortar wall | 22633
-- [ ] Mosaic-tile wall | 22634
+- [x] Mosaic-tile wall | 22634
 - [x] Mossy-garden wall | 22635
 - [x] Mush wall | 22636
 - [ ] Nook Inc. wall | 22637
@@ -214,7 +214,7 @@
 - [x] Straw wall | 22713
 - [x] Strawberry-chocolate wall | 22714
 - [ ] Street-art wall | 22715
-- [ ] Summit wall | 22716
+- [x] Summit wall | 22716
 - [ ] Tree-lined wall | 22717
 - [ ] Tropical vista | 22718
 - [ ] Underwater wall | 22719

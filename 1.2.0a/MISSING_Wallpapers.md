@@ -18,11 +18,9 @@ Green wedding wall
 Honeycomb wall
 Ice wall
 Iceberg wall
-Ivy wall
 Jingle wall
 Jungle wall
 Meadow vista
-Mosaic-tile wall
 Nook Inc. wall
 Orange wall
 Party wall
@@ -38,7 +36,6 @@ Snowflake wall
 Stacked-wood wall
 Steel-frame wall
 Street-art wall
-Summit wall
 Tree-lined wall
 Tropical vista
 Underwater wall

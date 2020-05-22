@@ -37,7 +37,6 @@ Pink heart rug
 Purple shaggy rug
 Red Persian rug
 Red argyle rug
-Red kilim-style carpet
 Red medium round mat
 Red vinyl sheet
 Red wedding rug
