@@ -324,7 +324,7 @@
 - [x] Lunar surface | 25318
 - [ ] Magazine rack | 25639
 - [x] Manga-library wall | 25830
-- [ ] Manhole cover | 25500
+- [x] Manhole cover | 25500
 - [x] Maple-leaf pochette | 25267
 - [x] Maple-leaf pond stone | 25501
 - [x] Maple-leaf umbrella | 25740
@@ -371,7 +371,7 @@
 - [x] Orange wall-mounted clock | 25787
 - [ ] Ornament mobile | 25788
 - [ ] Ornament wreath | 25789
-- [ ] Outdoor bath | 25520
+- [x] Outdoor bath | 25520
 - [x] Outdoor picnic set | 25521
 - [x] Palm-tree lamp | 25522
 - [x] Pan flute | 25721
@@ -415,7 +415,7 @@
 - [x] Recycled-can thumb piano | 25647
 - [x] Red-leaf pile | 25534
 - [x] Ringtoss | 25648
-- [ ] Robot hero | 25535
+- [x] Robot hero | 25535
 - [x] Rocket | 25536
 - [x] Rocking chair | 25537
 - [x] Rocking horse | 25538
@@ -450,10 +450,10 @@
 - [ ] Shellfish pochette | 25268
 - [x] Shovel | 25725
 - [ ] Signpost | 25550
-- [ ] Silo | 25551
+- [x] Silo | 25551
 - [x] Simple DIY workbench | 25552
 - [x] Simple mum crown | 25364
-- [ ] Simple well | 25553
+- [x] Simple well | 25553
 - [x] Simple wooden fence | 25298
 - [ ] Ski-slope flooring | 25323
 - [ ] Ski-slope wall | 25839
@@ -473,7 +473,7 @@
 - [x] Stack of books | 25652
 - [x] Stacked magazines | 25653
 - [ ] Stacked-wood wall | 25841
-- [ ] Stall | 25557
+- [x] Stall | 25557
 - [x] Standard umbrella stand | 25558
 - [ ] Star clock | 25654
 - [ ] Star head | 25367
@@ -492,7 +492,7 @@
 - [x] Stone lion-dog | 25560
 - [x] Stone stool | 25561
 - [x] Stone table | 25562
-- [ ] Stone tablet | 25563
+- [x] Stone tablet | 25563
 - [x] Stone wall | 25845
 - [x] Stone-egg outfit | 25284
 - [x] Stone-egg shell | 25368
@@ -545,7 +545,7 @@
 - [x] Water-egg shell | 25371
 - [x] Water-egg shoes | 25692
 - [x] Watering can | 25733
-- [ ] Wave breaker | 25582
+- [x] Wave breaker | 25582
 - [ ] Wedding fence | 27123
 - [ ] Wedding wand | 27124
 - [x] Western-style stone | 25583

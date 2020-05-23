@@ -62,7 +62,7 @@
 - [x] Outdoor backpack (Avocado) | 61305
 - [x] Pleather crossbody bag (Navy blue) | 61306
 - [x] Pleather crossbody bag (Black) | 61307
-- [ ] Pleather fringe bag (Camel) | 61308
+- [x] Pleather fringe bag (Camel) | 61308
 - [x] Pleather fringe bag (White) | 61309
 - [x] Pleather shoulder bag (Brown) | 61310
 - [x] Pleather shoulder bag (Navy blue) | 61311
@@ -79,7 +79,7 @@
 - [x] Square backpack (Yellow) | 61320
 - [ ] Star pochette (Yellow) | 25090
 - [x] Straw pochette (Brown) | 25091
-- [ ] Studded backpack (Black) | 61321
+- [x] Studded backpack (Black) | 61321
 - [x] Studded backpack (White) | 61322
 - [x] Tackle bag (Blue) | 25093
 - [x] Tool bag (Black) | 25094
