@@ -138,7 +138,7 @@
 - [ ] Cute rose crown | 25341
 - [x] Cutting board | 25620
 - [x] DIY workbench | 25429
-- [ ] Dark bamboo rug | 25679
+- [x] Dark bamboo rug | 25679
 - [ ] Dark cosmos crown | 25342
 - [ ] Dark lily crown | 25343
 - [ ] Dark lily wreath | 25762
@@ -210,7 +210,7 @@
 - [x] Golden arowana model | 25629
 - [x] Golden axe | 25705
 - [x] Golden candlestick | 25630
-- [ ] Golden casket | 25451
+- [x] Golden casket | 25451
 - [x] Golden dishes | 25631
 - [x] Golden dung beetle | 25632
 - [x] Golden flooring | 25313
@@ -240,7 +240,7 @@
 - [ ] Hyacinth crown | 25349
 - [x] Hyacinth lamp | 25634
 - [x] Hyacinth wand | 25712
-- [ ] Hyacinth wreath | 25775
+- [x] Hyacinth wreath | 25775
 - [ ] Ice flooring | 25315
 - [ ] Ice wall | 25826
 - [ ] Ice wand | 25713
@@ -267,7 +267,7 @@
 - [x] Iron wand | 25714
 - [x] Iron worktable | 25471
 - [x] Iron-and-stone fence | 25295
-- [ ] Ironwood DIY workbench | 25476
+- [x] Ironwood DIY workbench | 25476
 - [x] Ironwood bed | 25472
 - [x] Ironwood cart | 25473
 - [x] Ironwood chair | 25474
@@ -507,7 +507,7 @@
 - [x] Tall lantern | 25567
 - [x] Taurus bathtub | 25568
 - [x] Tea table | 25569
-- [ ] Terrarium | 25658
+- [x] Terrarium | 25658
 - [ ] Three-tiered snowperson | 25570
 - [x] Tiki torch | 25571
 - [x] Timber doorplate | 25802
@@ -576,7 +576,7 @@
 - [x] Wooden toolbox | 25669
 - [x] Wooden wardrobe | 25597
 - [x] Wooden waste bin | 25598
-- [ ] Wooden-block bed | 25599
+- [x] Wooden-block bed | 25599
 - [x] Wooden-block bench | 25600
 - [x] Wooden-block bookshelf | 25601
 - [x] Wooden-block chair | 25602

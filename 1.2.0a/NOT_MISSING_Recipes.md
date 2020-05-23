@@ -107,6 +107,7 @@ Crewed spaceship
 Cute lily crown
 Cutting board
 DIY workbench
+Dark bamboo rug
 Dark rose wreath
 Dark wooden-mosaic wall
 Decoy duck
@@ -154,6 +155,7 @@ Gold-screen wall
 Golden arowana model
 Golden axe
 Golden candlestick
+Golden casket
 Golden dishes
 Golden dung beetle
 Golden flooring
@@ -176,6 +178,7 @@ Honeycomb flooring
 Honeycomb wall
 Hyacinth lamp
 Hyacinth wand
+Hyacinth wreath
 Imperial fence
 Infused-water dispenser
 Iron armor
@@ -190,6 +193,7 @@ Iron wall rack
 Iron wand
 Iron worktable
 Iron-and-stone fence
+Ironwood DIY workbench
 Ironwood bed
 Ironwood cart
 Ironwood chair
@@ -374,6 +378,7 @@ Tall garden rock
 Tall lantern
 Taurus bathtub
 Tea table
+Terrarium
 Tiki torch
 Timber doorplate
 Tiny library
@@ -430,6 +435,7 @@ Wooden table mirror
 Wooden toolbox
 Wooden wardrobe
 Wooden waste bin
+Wooden-block bed
 Wooden-block bench
 Wooden-block bookshelf
 Wooden-block chair

@@ -29,7 +29,6 @@ Cool windflower crown
 Cool windflower wreath
 Cosmos wreath
 Cute rose crown
-Dark bamboo rug
 Dark cosmos crown
 Dark lily crown
 Dark lily wreath
@@ -54,7 +53,6 @@ Frozen-treat set
 Fruit basket
 Garden rock
 Gold rose wreath
-Golden casket
 Golden gears
 Golden net
 Golden rod
@@ -62,7 +60,6 @@ Golden shovel
 Hanging terrarium
 Holiday candle
 Hyacinth crown
-Hyacinth wreath
 Ice flooring
 Ice wall
 Ice wand
@@ -75,7 +72,6 @@ Illuminated tree
 Iron garden bench
 Iron garden table
 Iron hanger stand
-Ironwood DIY workbench
 Jingle wall
 Kettle bathtub
 Large cardboard boxes
@@ -131,7 +127,6 @@ Starry-sands flooring
 Stone axe
 Stone tablet
 Tabletop festive tree
-Terrarium
 Three-tiered snowperson
 Tropical vista
 Tulip wreath
@@ -144,5 +139,4 @@ Wave breaker
 Wedding fence
 Wedding wand
 Windflower wreath
-Wooden-block bed
 Wooden-plank sign
