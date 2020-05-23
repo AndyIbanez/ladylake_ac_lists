@@ -107,7 +107,6 @@ Rose crown
 Sagittarius arrow
 Sakura-wood flooring
 Sakura-wood wall
-Sci-fi flooring
 Scorpio lamp
 Shell lamp
 Shell partition
@@ -134,7 +133,6 @@ Stone tablet
 Tabletop festive tree
 Terrarium
 Three-tiered snowperson
-Tree branch wreath
 Tropical vista
 Tulip wreath
 Underwater flooring

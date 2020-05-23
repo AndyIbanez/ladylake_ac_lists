@@ -324,6 +324,7 @@ Satellite
 Sauna heater
 Scarecrow
 Scattered papers
+Sci-fi flooring
 Sci-fi wall
 Shell arch
 Shell bed
@@ -381,6 +382,7 @@ Tire toy
 Traditional balancing toy
 Traditional straw coat
 Trash bags
+Tree branch wreath
 Tree standee
 Tree's bounty arch
 Tree's bounty big tree

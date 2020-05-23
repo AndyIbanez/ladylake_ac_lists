@@ -35,7 +35,7 @@
 - [x] Gumdrop shoulder bag (Cool) | 61282
 - [x] Hand-knit pouch (Green) | 61283
 - [x] Hand-knit pouch (Purple) | 61284
-- [ ] Hard-shell backpack (Silver) | 61285
+- [x] Hard-shell backpack (Silver) | 61285
 - [x] Hard-shell backpack (Red) | 61286
 - [x] Hard-shell backpack (Blue) | 61287
 - [x] Knapsack (Black) | 61288
@@ -43,7 +43,7 @@
 - [x] Knitted-grass backpack (Green) | 25074
 - [x] Log pack (Brown) | 25075
 - [x] Maple-leaf pochette (Red) | 25076
-- [ ] Messenger bag (Green) | 61290
+- [x] Messenger bag (Green) | 61290
 - [x] Messenger bag (Orange) | 61291
 - [x] Messenger bag (Black) | 61292
 - [x] Mini pleather bag (Black) | 61293

@@ -433,7 +433,7 @@
 - [x] Sauna heater | 25541
 - [x] Scarecrow | 25542
 - [x] Scattered papers | 25543
-- [ ] Sci-fi flooring | 25322
+- [x] Sci-fi flooring | 25322
 - [x] Sci-fi wall | 25838
 - [ ] Scorpio lamp | 25649
 - [x] Shell arch | 25544
@@ -517,7 +517,7 @@
 - [x] Traditional balancing toy | 25659
 - [x] Traditional straw coat | 25735
 - [x] Trash bags | 25660
-- [ ] Tree branch wreath | 25803
+- [x] Tree branch wreath | 25803
 - [x] Tree standee | 25575
 - [x] Tree's bounty arch | 25576
 - [x] Tree's bounty big tree | 25577
