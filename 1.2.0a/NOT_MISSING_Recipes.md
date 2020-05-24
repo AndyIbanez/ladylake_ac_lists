@@ -46,6 +46,7 @@ Birdhouse
 Blue rose wreath
 Bone doorplate
 Bonfire
+Bonsai shelf
 Boomerang
 Brick oven
 Brick well
@@ -108,6 +109,7 @@ Cute lily crown
 Cutting board
 DIY workbench
 Dark bamboo rug
+Dark lily wreath
 Dark rose wreath
 Dark wooden-mosaic wall
 Decoy duck
@@ -122,6 +124,7 @@ Earth-egg shell
 Earth-egg shoes
 Egg party dress
 Egg party hat
+Firewood
 Fish bait
 Fishing rod
 Flat garden rock
@@ -187,6 +190,7 @@ Iron doorplate
 Iron fence
 Iron frame
 Iron garden chair
+Iron hanger stand
 Iron shelf
 Iron wall lamp
 Iron wall rack
@@ -215,6 +219,7 @@ Ladder
 Lattice fence
 Leaf
 Leaf campfire
+Leaf mask
 Leaf stool
 Leaf umbrella
 Leaf-egg outfit
@@ -240,6 +245,7 @@ Lunar lander
 Lunar rover
 Lunar surface
 Manga-library wall
+Manhole cover
 Maple-leaf pochette
 Maple-leaf pond stone
 Maple-leaf umbrella
@@ -282,6 +288,7 @@ Orange rug
 Orange umbrella
 Orange wall
 Orange wall-mounted clock
+Outdoor bath
 Outdoor picnic set
 Palm-tree lamp
 Pan flute
@@ -315,6 +322,7 @@ Recycled boots
 Recycled-can thumb piano
 Red-leaf pile
 Ringtoss
+Robot hero
 Rocket
 Rocking chair
 Rocking horse
@@ -338,8 +346,10 @@ Shell speaker
 Shell stool
 Shell table
 Shovel
+Silo
 Simple DIY workbench
 Simple mum crown
+Simple well
 Simple wooden fence
 Sky-egg outfit
 Sky-egg shell
@@ -351,6 +361,7 @@ Space shuttle
 Spiky fence
 Stack of books
 Stacked magazines
+Stall
 Standard umbrella stand
 Star pochette
 Star wand
@@ -365,6 +376,7 @@ Stone fence
 Stone lion-dog
 Stone stool
 Stone table
+Stone tablet
 Stone wall
 Stone-egg outfit
 Stone-egg shell
@@ -408,6 +420,7 @@ Water-egg outfit
 Water-egg shell
 Water-egg shoes
 Watering can
+Wave breaker
 Western-style stone
 Wild log bench
 Wild-wood wall

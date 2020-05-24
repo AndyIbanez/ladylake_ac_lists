@@ -53,7 +53,7 @@
 - [x] Blue rose wreath | 25746
 - [x] Bone doorplate | 25747
 - [x] Bonfire | 25399
-- [ ] Bonsai shelf | 25400
+- [x] Bonsai shelf | 25400
 - [x] Boomerang | 25748
 - [ ] Brick fence | 25289
 - [x] Brick oven | 25401
@@ -141,7 +141,7 @@
 - [x] Dark bamboo rug | 25679
 - [ ] Dark cosmos crown | 25342
 - [ ] Dark lily crown | 25343
-- [ ] Dark lily wreath | 25762
+- [x] Dark lily wreath | 25762
 - [x] Dark rose wreath | 25763
 - [ ] Dark tulip crown | 25344
 - [ ] Dark tulip wreath | 25764
@@ -163,7 +163,7 @@
 - [ ] Fancy rose wreath | 25768
 - [ ] Festive top set | 25623
 - [ ] Festive tree | 25432
-- [ ] Firewood | 25624
+- [x] Firewood | 25624
 - [x] Fish bait | 25673
 - [x] Fishing rod | 25699
 - [x] Flat garden rock | 25433
@@ -260,7 +260,7 @@
 - [ ] Iron garden bench | 25466
 - [x] Iron garden chair | 25467
 - [ ] Iron garden table | 25468
-- [ ] Iron hanger stand | 25469
+- [x] Iron hanger stand | 25469
 - [x] Iron shelf | 25470
 - [x] Iron wall lamp | 25777
 - [x] Iron wall rack | 25778
@@ -292,7 +292,7 @@
 - [x] Lattice fence | 25296
 - [x] Leaf | 25260
 - [x] Leaf campfire | 25485
-- [ ] Leaf mask | 25351
+- [x] Leaf mask | 25351
 - [x] Leaf stool | 25486
 - [x] Leaf umbrella | 25739
 - [x] Leaf-egg outfit | 25279

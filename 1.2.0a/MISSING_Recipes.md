@@ -5,7 +5,6 @@ Bamboo basket
 Big festive tree
 Blossom-viewing lantern
 Blue rose crown
-Bonsai shelf
 Brick fence
 Bridge construction kit
 Campsite construction kit
@@ -31,7 +30,6 @@ Cosmos wreath
 Cute rose crown
 Dark cosmos crown
 Dark lily crown
-Dark lily wreath
 Dark tulip crown
 Dark tulip wreath
 Fancy lily wreath
@@ -39,7 +37,6 @@ Fancy mum wreath
 Fancy rose wreath
 Festive top set
 Festive tree
-Firewood
 Frozen arch
 Frozen bed
 Frozen chair
@@ -71,23 +68,19 @@ Illuminated snowflakes
 Illuminated tree
 Iron garden bench
 Iron garden table
-Iron hanger stand
 Jingle wall
 Kettle bathtub
 Large cardboard boxes
-Leaf mask
 Leo sculpture
 Libra scale
 Lily crown
 Lily wreath
 Lovely cosmos crown
 Magazine rack
-Manhole cover
 Mum crown
 Natural mum wreath
 Ornament mobile
 Ornament wreath
-Outdoor bath
 Pansy crown
 Pear umbrella
 Pile of zen cushions
@@ -98,7 +91,6 @@ Purple hyacinth crown
 Purple hyacinth wreath
 Purple pansy crown
 Purple windflower crown
-Robot hero
 Rose crown
 Sagittarius arrow
 Sakura-wood flooring
@@ -110,8 +102,6 @@ Shell wand
 Shell wreath
 Shellfish pochette
 Signpost
-Silo
-Simple well
 Ski-slope flooring
 Ski-slope wall
 Snazzy pansy wreath
@@ -120,12 +110,10 @@ Snowflake wall
 Snowflake wreath
 Snowperson head
 Stacked-wood wall
-Stall
 Star clock
 Star head
 Starry-sands flooring
 Stone axe
-Stone tablet
 Tabletop festive tree
 Three-tiered snowperson
 Tropical vista
@@ -135,7 +123,6 @@ Underwater wall
 Virgo harp
 Wand
 Water flooring
-Wave breaker
 Wedding fence
 Wedding wand
 Windflower wreath
