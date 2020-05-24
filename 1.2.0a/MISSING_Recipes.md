@@ -86,7 +86,6 @@ Pear umbrella
 Pile of zen cushions
 Pisces lamp
 Pretty cosmos wreath
-Pretty tulip wreath
 Purple hyacinth crown
 Purple hyacinth wreath
 Purple pansy crown

@@ -405,7 +405,7 @@
 - [x] Pot | 25646
 - [x] Potted ivy | 25792
 - [ ] Pretty cosmos wreath | 25793
-- [ ] Pretty tulip wreath | 25794
+- [x] Pretty tulip wreath | 25794
 - [ ] Purple hyacinth crown | 25360
 - [ ] Purple hyacinth wreath | 25795
 - [ ] Purple pansy crown | 25361
