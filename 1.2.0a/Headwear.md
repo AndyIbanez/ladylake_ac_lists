@@ -1,99 +1,99 @@
-- [ ] Acorn knit cap (Mustard) | 59668
-- [ ] Acorn knit cap (Avocado) | 59669
-- [ ] Acorn knit cap (Berry red) | 59670
-- [ ] Acorn knit cap (Navy blue) | 59671
-- [ ] Acorn knit cap (Cream) | 59672
-- [ ] Acorn knit cap (Chestnut) | 59673
+- [x] Acorn knit cap (Mustard) | 59668
+- [x] Acorn knit cap (Avocado) | 59669
+- [x] Acorn knit cap (Berry red) | 59670
+- [x] Acorn knit cap (Navy blue) | 59671
+- [x] Acorn knit cap (Cream) | 59672
+- [x] Acorn knit cap (Chestnut) | 59673
 - [ ] Alpinist hat (Blue) | 59674
-- [ ] Alpinist hat (Red) | 59675
+- [x] Alpinist hat (Red) | 59675
 - [ ] Alpinist hat (Green) | 59676
 - [ ] Ancient administrator hat (Black) | 24632
-- [ ] Apple hat (Red) | 24633
+- [x] Apple hat (Red) | 24633
 - [ ] Aran-knit cap (Red) | 59677
 - [ ] Aran-knit cap (Blue) | 59678
 - [ ] Aran-knit cap (Green) | 59679
 - [ ] Aran-knit cap (White) | 59680
-- [ ] Baby's hat (Baby purple) | 59681
-- [ ] Baby's hat (Baby yellow) | 59682
-- [ ] Baby's hat (Baby green) | 59683
-- [ ] Baby's hat (Baby pink) | 59684
-- [ ] Baby's hat (Baby gray) | 59685
-- [ ] Baby's hat (Baby blue) | 59686
-- [ ] Baby's hat (Baby orange) | 59687
-- [ ] Baby's hat (Baby mint) | 59688
-- [ ] Balloon hat (Green) | 59689
-- [ ] Balloon hat (Rainbow) | 59690
-- [ ] Balloon hat (Orange) | 59691
-- [ ] Balloon hat (Blue) | 59692
+- [x] Baby's hat (Baby purple) | 59681
+- [x] Baby's hat (Baby yellow) | 59682
+- [x] Baby's hat (Baby green) | 59683
+- [x] Baby's hat (Baby pink) | 59684
+- [x] Baby's hat (Baby gray) | 59685
+- [x] Baby's hat (Baby blue) | 59686
+- [x] Baby's hat (Baby orange) | 59687
+- [x] Baby's hat (Baby mint) | 59688
+- [x] Balloon hat (Green) | 59689
+- [x] Balloon hat (Rainbow) | 59690
+- [x] Balloon hat (Orange) | 59691
+- [x] Balloon hat (Blue) | 59692
 - [ ] Bamboo hat (Beige) | 24637
-- [ ] Barrette (Pink) | 24638
-- [ ] Baseball cap (Navy blue) | 59693
-- [ ] Baseball cap (Green) | 59694
-- [ ] Baseball cap (Orange) | 59695
-- [ ] Baseball cap (Red) | 59696
-- [ ] Baseball cap (Yellow) | 59697
-- [ ] Batter's helmet (Navy blue) | 59698
-- [ ] Batter's helmet (Green) | 59699
-- [ ] Batter's helmet (Orange) | 59700
-- [ ] Batter's helmet (Yellow) | 59701
-- [ ] Batter's helmet (Red) | 59702
+- [x] Barrette (Pink) | 24638
+- [x] Baseball cap (Navy blue) | 59693
+- [x] Baseball cap (Green) | 59694
+- [x] Baseball cap (Orange) | 59695
+- [x] Baseball cap (Red) | 59696
+- [x] Baseball cap (Yellow) | 59697
+- [x] Batter's helmet (Navy blue) | 59698
+- [x] Batter's helmet (Green) | 59699
+- [x] Batter's helmet (Orange) | 59700
+- [x] Batter's helmet (Yellow) | 59701
+- [x] Batter's helmet (Red) | 59702
 - [ ] Bear cap (Brown) | 59703
 - [ ] Bear cap (Black) | 59704
 - [ ] Bear cap (Pink) | 59705
 - [ ] Bear cap (Blue) | 59706
-- [ ] Beret (Berry red) | 59707
-- [ ] Beret (Blue) | 59708
-- [ ] Beret (Green) | 59709
-- [ ] Beret (Mustard) | 59710
-- [ ] Beret (Gray) | 59711
-- [ ] Beret (White) | 59712
+- [x] Beret (Berry red) | 59707
+- [x] Beret (Blue) | 59708
+- [x] Beret (Green) | 59709
+- [x] Beret (Mustard) | 59710
+- [x] Beret (Gray) | 59711
+- [x] Beret (White) | 59712
 - [ ] Bicycle helmet (Red) | 59713
 - [ ] Bicycle helmet (Lime) | 59714
 - [ ] Bicycle helmet (Green) | 59715
 - [ ] Bicycle helmet (Orange) | 59716
 - [ ] Bicycle helmet (Purple) | 59717
-- [ ] Bicycle helmet (Pink) | 59718
+- [x] Bicycle helmet (Pink) | 59718
 - [ ] Bicycle helmet (Navy blue) | 59719
-- [ ] Bicycle helmet (Blue) | 59720
+- [x] Bicycle helmet (Blue) | 59720
 - [ ] Birthday hat (Blue) | 59721
-- [ ] Birthday hat (Yellow) | 59722
+- [x] Birthday hat (Yellow) | 59722
 - [ ] Birthday hat (Pink) | 59723
 - [ ] Blue rose crown (Blue) | 24645
-- [ ] Bowler hat with ribbon (Beige) | 59724
-- [ ] Bowler hat with ribbon (Green) | 59725
-- [ ] Bowler hat with ribbon (Red) | 59726
-- [ ] Bowler hat with ribbon (Pink) | 59727
-- [ ] Bowler hat with ribbon (Blue) | 59728
+- [x] Bowler hat with ribbon (Beige) | 59724
+- [x] Bowler hat with ribbon (Green) | 59725
+- [x] Bowler hat with ribbon (Red) | 59726
+- [x] Bowler hat with ribbon (Pink) | 59727
+- [x] Bowler hat with ribbon (Blue) | 59728
 - [ ] Bridal veil () | 27117
-- [ ] Bun wig (Pink) | 59729
-- [ ] Bun wig (White) | 59730
-- [ ] Bun wig (Purple) | 59731
-- [ ] Bun wig (Green) | 59732
-- [ ] Bun wig (Orange) | 59733
-- [ ] Bun wig (Blue) | 59734
-- [ ] Bun wig (Mustard) | 59735
-- [ ] Bunny Day crown | 24648
+- [x] Bun wig (Pink) | 59729
+- [x] Bun wig (White) | 59730
+- [x] Bun wig (Purple) | 59731
+- [x] Bun wig (Green) | 59732
+- [x] Bun wig (Orange) | 59733
+- [x] Bun wig (Blue) | 59734
+- [x] Bun wig (Mustard) | 59735
+- [x] Bunny Day crown | 24648
 - [ ] Bunny ears (Pink) | 59736
-- [ ] Bunny ears (Red) | 59737
+- [x] Bunny ears (Red) | 59737
 - [ ] Bunny ears (Light blue) | 59738
-- [ ] Bunny ears (Black) | 59739
-- [ ] Bunny hood (Yellow) | 59740
-- [ ] Bunny hood (White) | 59741
-- [ ] Bunny hood (Pink) | 59742
-- [ ] Captain's hat (White) | 24651
-- [ ] Cat cap (Brown) | 59743
-- [ ] Cat cap (White) | 59744
-- [ ] Cat cap (Navy blue) | 59745
+- [x] Bunny ears (Black) | 59739
+- [x] Bunny hood (Yellow) | 59740
+- [x] Bunny hood (White) | 59741
+- [x] Bunny hood (Pink) | 59742
+- [x] Captain's hat (White) | 24651
+- [x] Cat cap (Brown) | 59743
+- [x] Cat cap (White) | 59744
+- [x] Cat cap (Navy blue) | 59745
 - [ ] Catcher's mask (Navy blue) | 59746
 - [ ] Catcher's mask (Green) | 59747
 - [ ] Catcher's mask (Orange) | 59748
 - [ ] Catcher's mask (Yellow) | 59749
-- [ ] Catcher's mask (Red) | 59750
-- [ ] Cavalier hat (Red) | 59751
-- [ ] Cavalier hat (Green) | 59752
-- [ ] Cavalier hat (Blue) | 59753
+- [x] Catcher's mask (Red) | 59750
+- [x] Cavalier hat (Red) | 59751
+- [x] Cavalier hat (Green) | 59752
+- [x] Cavalier hat (Blue) | 59753
 - [ ] Chef's hat (White) | 24655
-- [ ] Cherry hat (Red) | 24656
+- [x] Cherry hat (Red) | 24656
 - [ ] Chic mum crown (Colorful) | 24657
 - [ ] Chic rose crown (Purple) | 24658
 - [ ] Chic tulip crown (Colorful) | 24659
@@ -104,69 +104,69 @@
 - [ ] Colorful striped knit cap (Red) | 59757
 - [ ] Colorful striped knit cap (Purple) | 59758
 - [ ] Colorful striped knit cap (Light blue) | 59759
-- [ ] Combat helmet (Avocado) | 59760
-- [ ] Combat helmet (Brown) | 59761
-- [ ] Composer's wig (Hair Color) | 24663
+- [x] Combat helmet (Avocado) | 59760
+- [x] Combat helmet (Brown) | 59761
+- [x] Composer's wig (Hair Color) | 24663
 - [ ] Cool hyacinth crown (Blue) | 24664
 - [ ] Cool pansy crown (Colorful) | 24665
 - [ ] Cool windflower crown (Colorful) | 24666
 - [ ] Cosmos crown (Colorful) | 24667
-- [ ] Crown (Gold) | 24668
+- [x] Crown (Gold) | 24668
 - [ ] Cute lily crown (Colorful) | 24669
 - [ ] Cute rose crown (Colorful) | 24670
-- [ ] Cycling cap (Blue) | 59762
-- [ ] Cycling cap (Yellow & avocado) | 59763
-- [ ] Cycling cap (Red & green) | 59764
-- [ ] Cycling cap (Red) | 59765
-- [ ] Cycling cap (Lime & purple) | 59766
-- [ ] Cycling cap (Blue & purple) | 59767
-- [ ] Cycling cap (Black & blue) | 59768
-- [ ] Cycling cap (Black & red) | 59769
-- [ ] DAL cap (Blue) | 24672
-- [ ] DJ cap (Blue) | 59783
-- [ ] DJ cap (Pink) | 59784
-- [ ] DJ cap (Orange) | 59785
-- [ ] DJ cap (Black) | 59786
-- [ ] Dandy hat (Blue) | 59770
-- [ ] Dandy hat (Green) | 59771
+- [x] Cycling cap (Blue) | 59762
+- [x] Cycling cap (Yellow & avocado) | 59763
+- [x] Cycling cap (Red & green) | 59764
+- [x] Cycling cap (Red) | 59765
+- [x] Cycling cap (Lime & purple) | 59766
+- [x] Cycling cap (Blue & purple) | 59767
+- [x] Cycling cap (Black & blue) | 59768
+- [x] Cycling cap (Black & red) | 59769
+- [x] DAL cap (Blue) | 24672
+- [x] DJ cap (Blue) | 59783
+- [x] DJ cap (Pink) | 59784
+- [x] DJ cap (Orange) | 59785
+- [x] DJ cap (Black) | 59786
+- [x] Dandy hat (Blue) | 59770
+- [x] Dandy hat (Green) | 59771
 - [ ] Dandy hat (Purple) | 59772
 - [ ] Dandy hat (Gray) | 59773
-- [ ] Dandy hat (White) | 59774
+- [x] Dandy hat (White) | 59774
 - [ ] Dandy hat (Camel) | 59775
 - [ ] Dark cosmos crown (Dark red) | 24674
 - [ ] Dark lily crown (Dark red) | 24675
 - [ ] Dark tulip crown (Dark red) | 24676
-- [ ] Denim cap (Blue) | 59776
-- [ ] Denim cap (Light blue) | 59777
-- [ ] Denim cap (Black) | 59778
-- [ ] Denim cap (White) | 59779
+- [x] Denim cap (Blue) | 59776
+- [x] Denim cap (Light blue) | 59777
+- [x] Denim cap (Black) | 59778
+- [x] Denim cap (White) | 59779
 - [ ] Detective hat (Brown) | 59780
 - [ ] Detective hat (Gray) | 59781
 - [ ] Detective hat (Beige) | 59782
-- [ ] Do-rag (Blue) | 59787
-- [ ] Do-rag (Red) | 59788
-- [ ] Do-rag (Pink) | 59789
-- [ ] Do-rag (Black) | 59790
-- [ ] Do-rag (Purple) | 59791
-- [ ] Do-rag (Green) | 59792
-- [ ] Do-rag (Yellow) | 59793
-- [ ] Do-rag (Beige) | 59794
-- [ ] Dotted shower cap (Pink) | 59795
-- [ ] Dotted shower cap (Blue) | 59796
-- [ ] Earth-egg shell (None) | 24682
-- [ ] Egg party hat (None) | 24683
-- [ ] Eggshell (White) | 24684
-- [ ] Elder mask (White) | 24685
-- [ ] Elegant hat (Purple) | 59797
-- [ ] Elegant hat (White) | 59798
-- [ ] Elegant hat (Black) | 59799
-- [ ] Elegant hat (Green) | 59800
-- [ ] Elegant hat (Red) | 59801
+- [x] Do-rag (Blue) | 59787
+- [x] Do-rag (Red) | 59788
+- [x] Do-rag (Pink) | 59789
+- [x] Do-rag (Black) | 59790
+- [x] Do-rag (Purple) | 59791
+- [x] Do-rag (Green) | 59792
+- [x] Do-rag (Yellow) | 59793
+- [x] Do-rag (Beige) | 59794
+- [x] Dotted shower cap (Pink) | 59795
+- [x] Dotted shower cap (Blue) | 59796
+- [x] Earth-egg shell (None) | 24682
+- [x] Egg party hat (None) | 24683
+- [x] Eggshell (White) | 24684
+- [x] Elder mask (White) | 24685
+- [x] Elegant hat (Purple) | 59797
+- [x] Elegant hat (White) | 59798
+- [x] Elegant hat (Black) | 59799
+- [x] Elegant hat (Green) | 59800
+- [x] Elegant hat (Red) | 59801
 - [ ] Explorer's hat (Beige) | 59802
 - [ ] Explorer's hat (Blue) | 59803
 - [ ] Explorer's hat (Avocado) | 59804
 - [ ] Explorer's hat (Camel) | 59805
-- [ ] Fairy-tale hood (Pink) | 59806
+- [x] Fairy-tale hood (Pink) | 59806
 - [ ] Fairy-tale hood (Yellow) | 59807
 - [ ] Fairy-tale hood (Green) | 59808
 - [ ] Fairy-tale hood (Blue) | 59809
@@ -174,35 +174,35 @@
 - [ ] Fairy-tale hood (Light blue) | 59811
 - [ ] Fairy-tale hood (Light green) | 59812
 - [ ] Fairy-tale hood (Orange) | 59813
-- [ ] Faux-fur hat (Beige) | 59814
+- [x] Faux-fur hat (Beige) | 59814
 - [ ] Faux-fur hat (Brown) | 59815
 - [ ] Faux-fur hat (Gray) | 59816
 - [ ] Faux-fur hat (Black) | 59817
-- [ ] Faux-fur hat (Pink) | 59818
+- [x] Faux-fur hat (Pink) | 59818
 - [ ] Faux-fur hat (White) | 59819
 - [ ] Faux-fur hat (Red) | 59820
-- [ ] Fedora (Beige) | 59821
-- [ ] Fedora (Black) | 59822
-- [ ] Fedora (Green) | 59823
-- [ ] Fedora (Gray) | 59824
-- [ ] Fedora (White) | 59825
-- [ ] Fedora (Red) | 59826
-- [ ] Firefighter's hat (Flame orange) | 59827
-- [ ] Firefighter's hat (Brown) | 59828
-- [ ] Firefighter's hat (Lime yellow) | 59829
-- [ ] Firefighter's hat (Black) | 59830
-- [ ] Firefighter's hat (Avocado) | 59831
-- [ ] Flashy hairpin (Blue) | 59832
-- [ ] Flashy hairpin (Black) | 59833
-- [ ] Flashy hairpin (Purple) | 59834
-- [ ] Flashy hairpin (Orange) | 59835
-- [ ] Flashy hairpin (Green) | 59836
-- [ ] Flashy hairpin (White) | 59837
-- [ ] Flashy hairpin (Pink) | 59838
+- [x] Fedora (Beige) | 59821
+- [x] Fedora (Black) | 59822
+- [x] Fedora (Green) | 59823
+- [x] Fedora (Gray) | 59824
+- [x] Fedora (White) | 59825
+- [x] Fedora (Red) | 59826
+- [x] Firefighter's hat (Flame orange) | 59827
+- [x] Firefighter's hat (Brown) | 59828
+- [x] Firefighter's hat (Lime yellow) | 59829
+- [x] Firefighter's hat (Black) | 59830
+- [x] Firefighter's hat (Avocado) | 59831
+- [x] Flashy hairpin (Blue) | 59832
+- [x] Flashy hairpin (Black) | 59833
+- [x] Flashy hairpin (Purple) | 59834
+- [x] Flashy hairpin (Orange) | 59835
+- [x] Flashy hairpin (Green) | 59836
+- [x] Flashy hairpin (White) | 59837
+- [x] Flashy hairpin (Pink) | 59838
 - [ ] Floral hairpin (Green) | 59839
 - [ ] Floral hairpin (Yellow) | 59840
 - [ ] Floral hairpin (Purple) | 59841
-- [ ] Floral hairpin (Pink) | 59842
+- [x] Floral hairpin (Pink) | 59842
 - [ ] Floral hairpin (Blue) | 59843
 - [ ] Football helmet (White) | 59844
 - [ ] Football helmet (Yellow) | 59845
@@ -212,55 +212,55 @@
 - [ ] Football helmet (Red) | 59849
 - [ ] Football helmet (Green) | 59850
 - [ ] Football helmet (Black) | 59851
-- [ ] Fox mask (White) | 59852
-- [ ] Fox mask (Black) | 59853
-- [ ] Frog cap (Green) | 59854
-- [ ] Frog cap (Blue) | 59855
-- [ ] Frog cap (Red) | 59856
-- [ ] Frog cap (Yellow) | 59857
+- [x] Fox mask (White) | 59852
+- [x] Fox mask (Black) | 59853
+- [x] Frog cap (Green) | 59854
+- [x] Frog cap (Blue) | 59855
+- [x] Frog cap (Red) | 59856
+- [x] Frog cap (Yellow) | 59857
 - [ ] Frugal hat (Brown) | 59858
-- [ ] Frugal hat (Green) | 59859
+- [x] Frugal hat (Green) | 59859
 - [ ] Frugal hat (Blue-gray) | 59860
-- [ ] Geisha wig (Pink) | 59861
+- [x] Geisha wig (Pink) | 59861
 - [ ] Geisha wig (Golden yellow) | 59862
 - [ ] Geisha wig (Green) | 59863
 - [ ] Geisha wig (Blue) | 59864
 - [ ] Geisha wig (Purple) | 59865
 - [ ] Geisha wig (Black) | 59866
 - [ ] Geisha wig (Red) | 59867
-- [ ] Giant ribbon (Green) | 59868
-- [ ] Giant ribbon (Blue) | 59869
-- [ ] Giant ribbon (Yellow) | 59870
-- [ ] Giant ribbon (Orange) | 59871
-- [ ] Giant ribbon (Pink) | 59872
-- [ ] Giant ribbon (White) | 59873
-- [ ] Giant ribbon (Black) | 59874
-- [ ] Giant ribbon (Red) | 59875
-- [ ] Glengarry (Black) | 24700
+- [x] Giant ribbon (Green) | 59868
+- [x] Giant ribbon (Blue) | 59869
+- [x] Giant ribbon (Yellow) | 59870
+- [x] Giant ribbon (Orange) | 59871
+- [x] Giant ribbon (Pink) | 59872
+- [x] Giant ribbon (White) | 59873
+- [x] Giant ribbon (Black) | 59874
+- [x] Giant ribbon (Red) | 59875
+- [x] Glengarry (Black) | 24700
 - [ ] Gold helmet (Gold) | 24701
-- [ ] Gold rose crown (Gold) | 24702
-- [ ] Gothic headdress (Black) | 59876
-- [ ] Gothic headdress (Red) | 59877
-- [ ] Gothic headdress (Pink) | 59878
-- [ ] Gothic headdress (Blue) | 59879
-- [ ] Gothic headdress (Light purple) | 59880
-- [ ] Gothic headdress (Purple) | 59881
+- [x] Gold rose crown (Gold) | 24702
+- [x] Gothic headdress (Black) | 59876
+- [x] Gothic headdress (Red) | 59877
+- [x] Gothic headdress (Pink) | 59878
+- [x] Gothic headdress (Blue) | 59879
+- [x] Gothic headdress (Light purple) | 59880
+- [x] Gothic headdress (Purple) | 59881
 - [ ] Grape hat (Purple) | 24704
-- [ ] Halo (Gold) | 24705
+- [x] Halo (Gold) | 24705
 - [ ] Handmade crown | 27118
-- [ ] Headband (Blue) | 59882
-- [ ] Headband (Purple) | 59883
-- [ ] Headband (Green) | 59884
-- [ ] Headband (Pink) | 59885
+- [x] Headband (Blue) | 59882
+- [x] Headband (Purple) | 59883
+- [x] Headband (Green) | 59884
+- [x] Headband (Pink) | 59885
 - [ ] Headgear (Red) | 59886
 - [ ] Headgear (Blue) | 59887
 - [ ] Headgear (Green) | 59888
-- [ ] Headkerchief (Green) | 24708
-- [ ] Heart hairpin (Red) | 59889
-- [ ] Heart hairpin (Green) | 59890
-- [ ] Heart hairpin (Blue) | 59891
-- [ ] Heart hairpin (Black) | 59892
-- [ ] Heart hairpin (Pink) | 59893
+- [x] Headkerchief (Green) | 24708
+- [x] Heart hairpin (Red) | 59889
+- [x] Heart hairpin (Green) | 59890
+- [x] Heart hairpin (Blue) | 59891
+- [x] Heart hairpin (Black) | 59892
+- [x] Heart hairpin (Pink) | 59893
 - [ ] Helmet with goggles (Pink) | 59894
 - [ ] Helmet with goggles (Green) | 59895
 - [ ] Helmet with goggles (Purple) | 59896
@@ -270,33 +270,33 @@
 - [ ] Helmet with goggles (Black) | 59900
 - [ ] Helmet with goggles (Yellow) | 59901
 - [ ] Hibiscus hairpin (Yellow) | 59902
-- [ ] Hibiscus hairpin (White) | 59903
-- [ ] Hibiscus hairpin (Red) | 59904
-- [ ] Hibiscus hairpin (Pink) | 59905
+- [x] Hibiscus hairpin (White) | 59903
+- [x] Hibiscus hairpin (Red) | 59904
+- [x] Hibiscus hairpin (Pink) | 59905
 - [ ] Hockey mask (White) | 24712
-- [ ] Hot-dog hood (Red) | 24713
+- [x] Hot-dog hood (Red) | 24713
 - [ ] Hyacinth crown (Red) | 24714
 - [ ] Imitation cow skull (White) | 24715
-- [ ] Imp hood (Black) | 59906
-- [ ] Imp hood (Red) | 59907
-- [ ] Jester's cap (Black & white) | 59908
-- [ ] Jester's cap (Red & blue) | 59909
-- [ ] Jester's cap (Green & red) | 59910
-- [ ] Jester's cap (Purple & yellow) | 59911
-- [ ] Jockey's helmet (Pink) | 59912
-- [ ] Jockey's helmet (Orange) | 59913
-- [ ] Jockey's helmet (Green) | 59914
-- [ ] Jockey's helmet (Yellow) | 59915
-- [ ] Jockey's helmet (Blue) | 59916
-- [ ] Jockey's helmet (Red) | 59917
-- [ ] Jockey's helmet (Black) | 59918
-- [ ] Jockey's helmet (White) | 59919
+- [x] Imp hood (Black) | 59906
+- [x] Imp hood (Red) | 59907
+- [x] Jester's cap (Black & white) | 59908
+- [x] Jester's cap (Red & blue) | 59909
+- [x] Jester's cap (Green & red) | 59910
+- [x] Jester's cap (Purple & yellow) | 59911
+- [x] Jockey's helmet (Pink) | 59912
+- [x] Jockey's helmet (Orange) | 59913
+- [x] Jockey's helmet (Green) | 59914
+- [x] Jockey's helmet (Yellow) | 59915
+- [x] Jockey's helmet (Blue) | 59916
+- [x] Jockey's helmet (Red) | 59917
+- [x] Jockey's helmet (Black) | 59918
+- [x] Jockey's helmet (White) | 59919
 - [ ] Kaffiyeh (White) | 59920
 - [ ] Kaffiyeh (Red) | 59921
 - [ ] Kaffiyeh (Black) | 59922
 - [ ] Kappa cap (Green) | 59923
 - [ ] Kappa cap (Pink) | 59924
-- [ ] Kiwi hat (Green) | 24721
+- [x] Kiwi hat (Green) | 24721
 - [ ] Knight's helmet (Gray) | 24722
 - [ ] Knit cap with earflaps (Ruby red) | 59925
 - [ ] Knit cap with earflaps (Moss green) | 59926
@@ -305,48 +305,48 @@
 - [ ] Knit cap with earflaps (Blue) | 59929
 - [ ] Knit cap with earflaps (Pink) | 59930
 - [ ] Knit cap with earflaps (Green) | 59931
-- [ ] Knit hat (White) | 59932
-- [ ] Knit hat (Gray) | 59933
-- [ ] Knit hat (Ochre) | 59934
-- [ ] Knit hat (Red) | 59935
-- [ ] Knit hat (Blue) | 59936
-- [ ] Knit hat (Green) | 59937
-- [ ] Knit hat (Pink) | 59938
-- [ ] Knit hat (Black) | 59939
-- [ ] Labelle cap (Passion) | 59940
-- [ ] Labelle cap (Ocean) | 59941
-- [ ] Labelle cap (Sunset) | 59942
-- [ ] Labelle cap (Twilight) | 59943
-- [ ] Labelle cap (Love) | 59944
-- [ ] Labelle cap (Midnight) | 59945
-- [ ] Labelle hat (Twilight) | 59946
-- [ ] Labelle hat (Midnight) | 59947
-- [ ] Labelle hat (Passion) | 59948
-- [ ] Labelle hat (Ocean) | 59949
-- [ ] Labelle hat (Sunset) | 59950
-- [ ] Labelle hat (Love) | 59951
+- [x] Knit hat (White) | 59932
+- [x] Knit hat (Gray) | 59933
+- [x] Knit hat (Ochre) | 59934
+- [x] Knit hat (Red) | 59935
+- [x] Knit hat (Blue) | 59936
+- [x] Knit hat (Green) | 59937
+- [x] Knit hat (Pink) | 59938
+- [x] Knit hat (Black) | 59939
+- [x] Labelle cap (Passion) | 59940
+- [x] Labelle cap (Ocean) | 59941
+- [x] Labelle cap (Sunset) | 59942
+- [x] Labelle cap (Twilight) | 59943
+- [x] Labelle cap (Love) | 59944
+- [x] Labelle cap (Midnight) | 59945
+- [x] Labelle hat (Twilight) | 59946
+- [x] Labelle hat (Midnight) | 59947
+- [x] Labelle hat (Passion) | 59948
+- [x] Labelle hat (Ocean) | 59949
+- [x] Labelle hat (Sunset) | 59950
+- [x] Labelle hat (Love) | 59951
 - [ ] Leaf mask (Green) | 24727
-- [ ] Leaf-egg shell (None) | 24728
+- [x] Leaf-egg shell (None) | 24728
 - [ ] Lettered cap (Beige) | 59952
 - [ ] Lettered cap (Olive) | 59953
 - [ ] Lettered cap (Red) | 59954
 - [ ] Lily crown (Colorful) | 24730
 - [ ] Lovely cosmos crown (Colorful) | 24731
-- [ ] Mage's hat (Blue) | 59955
-- [ ] Mage's hat (White) | 59956
-- [ ] Mage's hat (Red) | 59957
-- [ ] Mage's hat (Black) | 59958
-- [ ] Matanpushi (Brown) | 59959
-- [ ] Matanpushi (Red) | 59960
-- [ ] Matanpushi (Blue) | 59961
+- [x] Mage's hat (Blue) | 59955
+- [x] Mage's hat (White) | 59956
+- [x] Mage's hat (Red) | 59957
+- [x] Mage's hat (Black) | 59958
+- [x] Matanpushi (Brown) | 59959
+- [x] Matanpushi (Red) | 59960
+- [x] Matanpushi (Blue) | 59961
 - [ ] Matronly bun (Hair Color) | 24734
 - [ ] Mesh cap (Red) | 59962
-- [ ] Mesh cap (Pink) | 59963
-- [ ] Mesh cap (Green) | 59964
+- [x] Mesh cap (Pink) | 59963
+- [x] Mesh cap (Green) | 59964
 - [ ] Mesh cap (Orange) | 59965
 - [ ] Mesh cap (Purple) | 59966
-- [ ] Mesh cap (Yellow) | 59967
-- [ ] Mesh cap (Black) | 59968
+- [x] Mesh cap (Yellow) | 59967
+- [x] Mesh cap (Black) | 59968
 - [ ] Milkmaid hat (White) | 24736
 - [ ] Mohawk wig (Hair Color) | 24737
 - [ ] Mum crown (Colorful) | 24738
@@ -368,7 +368,7 @@
 - [ ] New Year's silk hat (Yellow) | 59983
 - [ ] New Year's silk hat (Green) | 59984
 - [ ] Ninja hood (Dark blue) | 59985
-- [ ] Ninja hood (Gray) | 59986
+- [x] Ninja hood (Gray) | 59986
 - [ ] Ninja hood (Red) | 59987
 - [ ] Ninja hood (Purple) | 59988
 - [ ] Ninja hood (Aqua) | 59989
@@ -376,63 +376,63 @@
 - [ ] Ninja hood (Yellow) | 59991
 - [ ] Ninja hood (Orange) | 59992
 - [ ] Noh mask (White) | 24743
-- [ ] Nook Inc. bandanna (Yellow) | 24744
+- [x] Nook Inc. bandanna (Yellow) | 24744
 - [ ] Nook Inc. cap (Green) | 24745
-- [ ] Nurse's cap (Pink) | 59993
+- [x] Nurse's cap (Pink) | 59993
 - [ ] Nurse's cap (White) | 59994
 - [ ] Nurse's cap (Blue) | 59995
 - [ ] OK Motors cap | 24747
 - [ ] Orange hat (Orange) | 24748
-- [ ] Outback hat (Brown) | 59996
-- [ ] Outback hat (Beige) | 59997
-- [ ] Outback hat (Red) | 59998
-- [ ] Outback hat (Pink) | 59999
-- [ ] Outback hat (White) | 60000
-- [ ] Outdoor hat (Red) | 60001
-- [ ] Outdoor hat (Yellow) | 60002
-- [ ] Outdoor hat (Light blue) | 60003
-- [ ] Outdoor hat (Green) | 60004
-- [ ] Outdoor hat (Beige) | 60005
-- [ ] Outdoor hat (Orange) | 60006
-- [ ] Outdoor hat (Blue) | 60007
-- [ ] Outdoor hat (Purple) | 60008
+- [x] Outback hat (Brown) | 59996
+- [x] Outback hat (Beige) | 59997
+- [x] Outback hat (Red) | 59998
+- [x] Outback hat (Pink) | 59999
+- [x] Outback hat (White) | 60000
+- [x] Outdoor hat (Red) | 60001
+- [x] Outdoor hat (Yellow) | 60002
+- [x] Outdoor hat (Light blue) | 60003
+- [x] Outdoor hat (Green) | 60004
+- [x] Outdoor hat (Beige) | 60005
+- [x] Outdoor hat (Orange) | 60006
+- [x] Outdoor hat (Blue) | 60007
+- [x] Outdoor hat (Purple) | 60008
 - [ ] Paintball mask (Black) | 60009
 - [ ] Paintball mask (White) | 60010
 - [ ] Paintball mask (Olive) | 60011
 - [ ] Paintball mask (Yellow) | 60012
-- [ ] Paisley bandanna (Blue) | 60013
-- [ ] Paisley bandanna (Yellow) | 60014
-- [ ] Paisley bandanna (Black) | 60015
-- [ ] Paisley bandanna (Green) | 60016
-- [ ] Paisley bandanna (Orange) | 60017
-- [ ] Paisley bandanna (Pink) | 60018
-- [ ] Paisley bandanna (Purple) | 60019
-- [ ] Paisley bandanna (Red) | 60020
+- [x] Paisley bandanna (Blue) | 60013
+- [x] Paisley bandanna (Yellow) | 60014
+- [x] Paisley bandanna (Black) | 60015
+- [x] Paisley bandanna (Green) | 60016
+- [x] Paisley bandanna (Orange) | 60017
+- [x] Paisley bandanna (Pink) | 60018
+- [x] Paisley bandanna (Purple) | 60019
+- [x] Paisley bandanna (Red) | 60020
 - [ ] Pansy crown (Colorful) | 24753
-- [ ] Paper bag (Beige) | 24754
+- [x] Paper bag (Beige) | 24754
 - [ ] Paperboy cap (Brown) | 60021
 - [ ] Paperboy cap (Gray) | 60022
-- [ ] Paperboy cap (Green) | 60023
+- [x] Paperboy cap (Green) | 60023
 - [ ] Paperboy cap (Blue) | 60024
 - [ ] Paperboy cap (Red) | 60025
-- [ ] Patchwork tulip hat (Pink) | 60026
+- [x] Patchwork tulip hat (Pink) | 60026
 - [ ] Patchwork tulip hat (Blue) | 60027
 - [ ] Patchwork tulip hat (Yellow) | 60028
-- [ ] Peach hat (Peach) | 24757
-- [ ] Pear hat (Green) | 24758
+- [x] Peach hat (Peach) | 24757
+- [x] Pear hat (Green) | 24758
 - [ ] Pigtail (Hair Color) | 24759
-- [ ] Pilot's cap (Black) | 60029
-- [ ] Pilot's cap (Avocado) | 60030
-- [ ] Pilot's cap (Brown) | 60031
+- [x] Pilot's cap (Black) | 60029
+- [x] Pilot's cap (Avocado) | 60030
+- [x] Pilot's cap (Brown) | 60031
 - [ ] Pilot's hat (Navy blue) | 60032
 - [ ] Pilot's hat (Black) | 60033
 - [ ] Pilot's hat (Light blue) | 60034
 - [ ] Pineapple cap (Yellow) | 24762
-- [ ] Plain cap (Gray) | 60035
-- [ ] Plain cap (Beige) | 60036
-- [ ] Plain cap (Red) | 60037
-- [ ] Plain cap (Blue) | 60038
-- [ ] Plain cap (Green) | 60039
+- [x] Plain cap (Gray) | 60035
+- [x] Plain cap (Beige) | 60036
+- [x] Plain cap (Red) | 60037
+- [x] Plain cap (Blue) | 60038
+- [x] Plain cap (Green) | 60039
 - [ ] Police cap (Navy blue) | 24764
 - [ ] Pom casquette (White) | 60040
 - [ ] Pom casquette (Brown) | 60041
@@ -440,76 +440,76 @@
 - [ ] Pom casquette (Green) | 60043
 - [ ] Pom casquette (Blue) | 60044
 - [ ] Pom casquette (Gray) | 60045
-- [ ] Pompadour wig (Hair Color) | 24766
-- [ ] Power helmet (Red) | 60046
-- [ ] Power helmet (Blue) | 60047
-- [ ] Power helmet (Green) | 60048
-- [ ] Power helmet (Black) | 60049
+- [x] Pompadour wig (Hair Color) | 24766
+- [x] Power helmet (Red) | 60046
+- [x] Power helmet (Blue) | 60047
+- [x] Power helmet (Green) | 60048
+- [x] Power helmet (Black) | 60049
 - [ ] Purple hyacinth crown (Purple) | 24768
 - [ ] Purple pansy crown (Purple) | 24769
 - [ ] Purple windflower crown (Purple) | 24770
-- [ ] Racing helmet (Red) | 60050
-- [ ] Racing helmet (White) | 60051
-- [ ] Racing helmet (Black) | 60052
-- [ ] Racing helmet (Blue) | 60053
-- [ ] Racing helmet (Pink) | 60054
-- [ ] Racing helmet (Green) | 60055
-- [ ] Racing helmet (Purple) | 60056
-- [ ] Racing helmet (Light blue) | 60057
-- [ ] Rain hat (Green) | 60058
-- [ ] Rain hat (Pink) | 60059
-- [ ] Rain hat (Blue) | 60060
-- [ ] Rain hat (Red) | 60061
-- [ ] Rain hat (Black) | 60062
-- [ ] Rain hat (Purple) | 60063
-- [ ] Rain hat (Beige) | 60064
-- [ ] Rain hat (Yellow) | 60065
-- [ ] Ribbon (Blue) | 60066
-- [ ] Ribbon (Yellow) | 60067
-- [ ] Ribbon (Orange) | 60068
-- [ ] Ribbon (Pink) | 60069
-- [ ] Ribbon (White) | 60070
-- [ ] Ribbon (Black) | 60071
-- [ ] Ribbon (Green) | 60072
-- [ ] Ribbon (Red) | 60073
+- [x] Racing helmet (Red) | 60050
+- [x] Racing helmet (White) | 60051
+- [x] Racing helmet (Black) | 60052
+- [x] Racing helmet (Blue) | 60053
+- [x] Racing helmet (Pink) | 60054
+- [x] Racing helmet (Green) | 60055
+- [x] Racing helmet (Purple) | 60056
+- [x] Racing helmet (Light blue) | 60057
+- [x] Rain hat (Green) | 60058
+- [x] Rain hat (Pink) | 60059
+- [x] Rain hat (Blue) | 60060
+- [x] Rain hat (Red) | 60061
+- [x] Rain hat (Black) | 60062
+- [x] Rain hat (Purple) | 60063
+- [x] Rain hat (Beige) | 60064
+- [x] Rain hat (Yellow) | 60065
+- [x] Ribbon (Blue) | 60066
+- [x] Ribbon (Yellow) | 60067
+- [x] Ribbon (Orange) | 60068
+- [x] Ribbon (Pink) | 60069
+- [x] Ribbon (White) | 60070
+- [x] Ribbon (Black) | 60071
+- [x] Ribbon (Green) | 60072
+- [x] Ribbon (Red) | 60073
 - [ ] Ribboned garden hat (Blue) | 60074
 - [ ] Ribboned garden hat (Pink) | 60075
 - [ ] Ribboned garden hat (Black) | 60076
 - [ ] Ribboned garden hat (Brown) | 60077
-- [ ] Ribboned straw hat (Light blue) | 60078
-- [ ] Ribboned straw hat (Pink) | 60079
-- [ ] Ribboned straw hat (Black) | 60080
+- [x] Ribboned straw hat (Light blue) | 60078
+- [x] Ribboned straw hat (Pink) | 60079
+- [x] Ribboned straw hat (Black) | 60080
 - [ ] Rose crown (Colorful) | 24776
-- [ ] Royal crown (Red) | 24777
-- [ ] Safety helmet (Orange) | 60081
-- [ ] Safety helmet (Yellow) | 60082
-- [ ] Safety helmet (Green) | 60083
-- [ ] Safety helmet (Black) | 60084
-- [ ] Safety helmet (Blue) | 60085
-- [ ] Sailor's hat (White) | 60086
-- [ ] Sailor's hat (Navy blue) | 60087
+- [x] Royal crown (Red) | 24777
+- [x] Safety helmet (Orange) | 60081
+- [x] Safety helmet (Yellow) | 60082
+- [x] Safety helmet (Green) | 60083
+- [x] Safety helmet (Black) | 60084
+- [x] Safety helmet (Blue) | 60085
+- [x] Sailor's hat (White) | 60086
+- [x] Sailor's hat (Navy blue) | 60087
 - [ ] Sailor's hat (Blue) | 60088
-- [ ] Samurai helmet (Golden yellow) | 60089
-- [ ] Samurai helmet (Black) | 60090
-- [ ] Samurai helmet (Blue) | 60091
-- [ ] Samurai helmet (White) | 60092
-- [ ] Samurai helmet (Red) | 60093
+- [x] Samurai helmet (Golden yellow) | 60089
+- [x] Samurai helmet (Black) | 60090
+- [x] Samurai helmet (Blue) | 60091
+- [x] Samurai helmet (White) | 60092
+- [x] Samurai helmet (Red) | 60093
 - [ ] Samurai wig (Hair Color) | 24781
-- [ ] Scholar's hat (Red) | 60094
-- [ ] Scholar's hat (Green) | 60095
-- [ ] Scholar's hat (Blue) | 60096
-- [ ] Scholar's hat (Yellow) | 60097
+- [x] Scholar's hat (Red) | 60094
+- [x] Scholar's hat (Green) | 60095
+- [x] Scholar's hat (Blue) | 60096
+- [x] Scholar's hat (Yellow) | 60097
 - [ ] School hat (Navy blue) | 60098
-- [ ] School hat (Yellow) | 60099
-- [ ] Shallow knit cap (Green) | 60100
-- [ ] Shallow knit cap (Beige) | 60101
-- [ ] Shallow knit cap (Navy blue) | 60102
-- [ ] Shallow knit cap (Red) | 60103
-- [ ] Shallow knit cap (Purple) | 60104
-- [ ] Shallow knit cap (Gray) | 60105
-- [ ] Shallow knit cap (Brown) | 60106
-- [ ] Sheep hood (White) | 60107
-- [ ] Sheep hood (Pink) | 60108
+- [x] School hat (Yellow) | 60099
+- [x] Shallow knit cap (Green) | 60100
+- [x] Shallow knit cap (Beige) | 60101
+- [x] Shallow knit cap (Navy blue) | 60102
+- [x] Shallow knit cap (Red) | 60103
+- [x] Shallow knit cap (Purple) | 60104
+- [x] Shallow knit cap (Gray) | 60105
+- [x] Shallow knit cap (Brown) | 60106
+- [x] Sheep hood (White) | 60107
+- [x] Sheep hood (Pink) | 60108
 - [ ] Sheep hood (Light blue) | 60109
 - [ ] Sheep hood (Brown) | 60110
 - [ ] Silk hat (Green) | 60111
@@ -520,18 +520,18 @@
 - [ ] Skateboarding helmet (Orange) | 60115
 - [ ] Skateboarding helmet (White) | 60116
 - [ ] Skateboarding helmet (Light blue) | 60117
-- [ ] Skateboarding helmet (Olive) | 60118
+- [x] Skateboarding helmet (Olive) | 60118
 - [ ] Skateboarding helmet (Gray) | 60119
 - [ ] Skeleton hood (White) | 24789
-- [ ] Ski mask (Green) | 60120
-- [ ] Ski mask (Black) | 60121
-- [ ] Ski mask (Lime) | 60122
-- [ ] Ski mask (Red) | 60123
-- [ ] Ski mask (Blue) | 60124
-- [ ] Sky-egg shell (None) | 24791
-- [ ] Small silk hat (Purple) | 60125
-- [ ] Small silk hat (Black) | 60126
-- [ ] Small silk hat (Red) | 60127
+- [x] Ski mask (Green) | 60120
+- [x] Ski mask (Black) | 60121
+- [x] Ski mask (Lime) | 60122
+- [x] Ski mask (Red) | 60123
+- [x] Ski mask (Blue) | 60124
+- [x] Sky-egg shell (None) | 24791
+- [x] Small silk hat (Purple) | 60125
+- [x] Small silk hat (Black) | 60126
+- [x] Small silk hat (Red) | 60127
 - [ ] Snowperson head (White) | 24793
 - [ ] Snowy knit cap (Brown) | 60128
 - [ ] Snowy knit cap (Pink) | 60129
@@ -547,10 +547,10 @@
 - [ ] Soft-serve hat (Green tea) | 60139
 - [ ] Soft-serve hat (Pale sky) | 60140
 - [ ] Soft-serve hat (Vanilla) | 60141
-- [ ] Soft-serve hat (Purple sweet potato) | 60142
+- [x] Soft-serve hat (Purple sweet potato) | 60142
 - [ ] Soft-serve hat (Black sesame) | 60143
 - [ ] Sombrero (Natural & red) | 60144
-- [ ] Sombrero (Green) | 60145
+- [x] Sombrero (Green) | 60145
 - [ ] Sombrero (White) | 60146
 - [ ] Sombrero (Red) | 60147
 - [ ] Sombrero (Blue) | 60148
@@ -558,21 +558,21 @@
 - [ ] Sombrero (Natural & green) | 60150
 - [ ] Sombrero (Navy blue) | 60151
 - [ ] Space helmet (White) | 24797
-- [ ] Sports cap (White & blue) | 60152
-- [ ] Sports cap (Red) | 60153
-- [ ] Sports cap (White & red) | 60154
-- [ ] Sports cap (Blue) | 60155
-- [ ] Stagehand hat (Black) | 24799
+- [x] Sports cap (White & blue) | 60152
+- [x] Sports cap (Red) | 60153
+- [x] Sports cap (White & red) | 60154
+- [x] Sports cap (Blue) | 60155
+- [x] Stagehand hat (Black) | 24799
 - [ ] Star hairpin (Purple) | 60156
 - [ ] Star hairpin (Mint) | 60157
 - [ ] Star hairpin (Black) | 60158
 - [ ] Star hairpin (Pink) | 60159
-- [ ] Star hairpin (Yellow) | 60160
+- [x] Star hairpin (Yellow) | 60160
 - [ ] Star head (Yellow) | 24801
-- [ ] Stone-egg shell (None) | 24802
+- [x] Stone-egg shell (None) | 24802
 - [ ] Straw boater (Beige) | 60161
 - [ ] Straw boater (Light brown) | 60162
-- [ ] Straw boater (Brown) | 60163
+- [x] Straw boater (Brown) | 60163
 - [ ] Straw boater (Dark brown) | 60164
 - [ ] Straw boater (Monotone) | 60165
 - [ ] Straw boater (Cream) | 60166
@@ -582,17 +582,17 @@
 - [ ] Straw hat (Red) | 60170
 - [ ] Straw hat (Brown) | 60171
 - [ ] Straw umbrella hat (Brown) | 24805
-- [ ] Strawberry hat (Red) | 24806
-- [ ] Student cap (Berry red) | 60172
-- [ ] Student cap (Green) | 60173
-- [ ] Student cap (Black) | 60174
-- [ ] Student cap (White) | 60175
-- [ ] Student cap (Purple) | 60176
-- [ ] Student cap (Gray) | 60177
-- [ ] Student cap (Blue) | 60178
+- [x] Strawberry hat (Red) | 24806
+- [x] Student cap (Berry red) | 60172
+- [x] Student cap (Green) | 60173
+- [x] Student cap (Black) | 60174
+- [x] Student cap (White) | 60175
+- [x] Student cap (Purple) | 60176
+- [x] Student cap (Gray) | 60177
+- [x] Student cap (Blue) | 60178
 - [ ] Summer-solstice crown | 27119
-- [ ] Sushi chef hat (Dark blue) | 60179
-- [ ] Sushi chef hat (White) | 60180
+- [x] Sushi chef hat (Dark blue) | 60179
+- [x] Sushi chef hat (White) | 60180
 - [ ] Swimming cap (Light blue) | 60181
 - [ ] Swimming cap (Red) | 60182
 - [ ] Swimming cap (White) | 60183
@@ -603,96 +603,96 @@
 - [ ] Swimming cap (Yellow) | 60188
 - [ ] Tam-o'-shanter (Gray) | 60189
 - [ ] Tam-o'-shanter (Blue) | 60190
-- [ ] Tam-o'-shanter (Green) | 60191
+- [x] Tam-o'-shanter (Green) | 60191
 - [ ] Tam-o'-shanter (Red) | 60192
-- [ ] Terry-cloth do-rag (White) | 60193
+- [x] Terry-cloth do-rag (White) | 60193
 - [ ] Terry-cloth do-rag (Black) | 60194
 - [ ] Terry-cloth do-rag (Blue) | 60195
 - [ ] Terry-cloth do-rag (Brown) | 60196
 - [ ] Terry-cloth do-rag (Yellow) | 60197
 - [ ] Terry-cloth do-rag (Berry red) | 60198
-- [ ] Terry-cloth nightcap (Blue) | 60199
-- [ ] Terry-cloth nightcap (Green) | 60200
-- [ ] Terry-cloth nightcap (Orange) | 60201
-- [ ] Terry-cloth nightcap (Pink) | 60202
-- [ ] Terry-cloth nightcap (Cream) | 60203
-- [ ] Terry-cloth nightcap (Purple) | 60204
-- [ ] Terry-cloth nightcap (Lime) | 60205
-- [ ] Terry-cloth nightcap (Light blue) | 60206
-- [ ] Tiara (Rose gold) | 60207
-- [ ] Tiara (Gold) | 60208
-- [ ] Tiara (Silver) | 60209
-- [ ] Tiara hair (Rose gold) | 60210
-- [ ] Tiara hair (Silver) | 60211
-- [ ] Tiara hair (Gold) | 60212
-- [ ] Top hat (Black) | 60213
-- [ ] Top hat (White) | 60214
-- [ ] Top hat (Brown) | 60215
-- [ ] Top hat (Purple) | 60216
-- [ ] Top hat (Red) | 60217
-- [ ] Top hat (Blue) | 60218
+- [x] Terry-cloth nightcap (Blue) | 60199
+- [x] Terry-cloth nightcap (Green) | 60200
+- [x] Terry-cloth nightcap (Orange) | 60201
+- [x] Terry-cloth nightcap (Pink) | 60202
+- [x] Terry-cloth nightcap (Cream) | 60203
+- [x] Terry-cloth nightcap (Purple) | 60204
+- [x] Terry-cloth nightcap (Lime) | 60205
+- [x] Terry-cloth nightcap (Light blue) | 60206
+- [x] Tiara (Rose gold) | 60207
+- [x] Tiara (Gold) | 60208
+- [x] Tiara (Silver) | 60209
+- [x] Tiara hair (Rose gold) | 60210
+- [x] Tiara hair (Silver) | 60211
+- [x] Tiara hair (Gold) | 60212
+- [x] Top hat (Black) | 60213
+- [x] Top hat (White) | 60214
+- [x] Top hat (Brown) | 60215
+- [x] Top hat (Purple) | 60216
+- [x] Top hat (Red) | 60217
+- [x] Top hat (Blue) | 60218
 - [ ] Tropical hat (Yellow) | 60219
-- [ ] Tropical hat (Mint) | 60220
-- [ ] Tropical hat (Pink) | 60221
-- [ ] Tropical hat (White) | 60222
+- [x] Tropical hat (Mint) | 60220
+- [x] Tropical hat (Pink) | 60221
+- [x] Tropical hat (White) | 60222
 - [ ] Tropical hat (Blue) | 60223
 - [ ] Tubeteika (Red) | 60224
 - [ ] Tubeteika (Blue) | 60225
 - [ ] Tubeteika (Camel) | 60226
 - [ ] Tubeteika (Purple) | 60227
 - [ ] Tulip crown (Colorful) | 24818
-- [ ] Tulip hat (Orange) | 60228
-- [ ] Tulip hat (Brown) | 60229
-- [ ] Tulip hat (Camel) | 60230
+- [x] Tulip hat (Orange) | 60228
+- [x] Tulip hat (Brown) | 60229
+- [x] Tulip hat (Camel) | 60230
 - [ ] Turban (Blue) | 60231
 - [ ] Turban (Pink) | 60232
 - [ ] Turban (Yellow) | 60233
 - [ ] Turban (Purple) | 60234
-- [ ] Tweed cap (Brown) | 60235
-- [ ] Tweed cap (Blue) | 60236
-- [ ] Tweed cap (Green) | 60237
+- [x] Tweed cap (Brown) | 60235
+- [x] Tweed cap (Blue) | 60236
+- [x] Tweed cap (Green) | 60237
 - [ ] Veil (Blue) | 60238
 - [ ] Veil (Purple) | 60239
 - [ ] Veil (Pink) | 60240
 - [ ] Veil (Yellow) | 60241
-- [ ] Veiled gardening hat (Pink) | 60242
-- [ ] Veiled gardening hat (Blue) | 60243
-- [ ] Veiled gardening hat (Orange) | 60244
-- [ ] Veiled gardening hat (Green) | 60245
-- [ ] Veiled gardening hat (Purple) | 60246
-- [ ] Viking helmet (Blue) | 60247
+- [x] Veiled gardening hat (Pink) | 60242
+- [x] Veiled gardening hat (Blue) | 60243
+- [x] Veiled gardening hat (Orange) | 60244
+- [x] Veiled gardening hat (Green) | 60245
+- [x] Veiled gardening hat (Purple) | 60246
+- [x] Viking helmet (Blue) | 60247
 - [ ] Viking helmet (Brown) | 60248
-- [ ] Viking helmet (Gray) | 60249
-- [ ] Visual-punk wig (Hair Color) | 24825
-- [ ] Water-egg shell (None) | 24826
+- [x] Viking helmet (Gray) | 60249
+- [x] Visual-punk wig (Hair Color) | 24825
+- [x] Water-egg shell (None) | 24826
 - [ ] Watermelon hat (Red) | 24827
-- [ ] Welding mask (Red) | 24828
+- [x] Welding mask (Red) | 24828
 - [ ] Wide-brim straw hat (Beige) | 60250
 - [ ] Wide-brim straw hat (White) | 60251
-- [ ] Wide-brim straw hat (Black) | 60252
+- [x] Wide-brim straw hat (Black) | 60252
 - [ ] Windflower crown (Colorful) | 24830
-- [ ] Wizard's cap (Purple) | 60253
-- [ ] Wizard's cap (Blue) | 60254
-- [ ] Wood-egg shell (None) | 24832
-- [ ] Wrestling mask (Blue) | 60255
-- [ ] Wrestling mask (Red) | 60256
-- [ ] Wrestling mask (Green) | 60257
-- [ ] Wrestling mask (Pink) | 60258
-- [ ] Wrestling mask (Black) | 60259
-- [ ] Wrestling mask (Yellow) | 60260
+- [x] Wizard's cap (Purple) | 60253
+- [x] Wizard's cap (Blue) | 60254
+- [x] Wood-egg shell (None) | 24832
+- [x] Wrestling mask (Blue) | 60255
+- [x] Wrestling mask (Red) | 60256
+- [x] Wrestling mask (Green) | 60257
+- [x] Wrestling mask (Pink) | 60258
+- [x] Wrestling mask (Black) | 60259
+- [x] Wrestling mask (Yellow) | 60260
 - [ ] Zap helmet (White) | 60261
 - [ ] Zap helmet (Pink) | 60262
 - [ ] Zap helmet (Blue) | 60263
 - [ ] Zap helmet (Green) | 60264
 - [ ] Zap helmet (Red) | 60265
-- [ ] Zap helmet (Yellow) | 60266
+- [x] Zap helmet (Yellow) | 60266
 - [ ] Zap helmet (Black) | 60267
 - [ ] Zap helmet (Silver) | 60268
 - [ ] Zen hair clip (Aqua) | 60269
 - [ ] Zen hair clip (Dark blue) | 60270
-- [ ] Zen hair clip (Golden yellow) | 60271
-- [ ] Zen hair clip (Purple) | 60272
-- [ ] Zen hair clip (Pink) | 60273
+- [x] Zen hair clip (Golden yellow) | 60271
+- [x] Zen hair clip (Purple) | 60272
+- [x] Zen hair clip (Pink) | 60273
 - [ ] Zen hair clip (Green) | 60274
 - [ ] Zen hair clip (Sky blue) | 60275
-- [ ] Zen hair clip (Red) | 60276
+- [x] Zen hair clip (Red) | 60276
