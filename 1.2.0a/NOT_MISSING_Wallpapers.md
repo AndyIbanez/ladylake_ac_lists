@@ -191,6 +191,7 @@ White-chocolate wall
 White-rose wall
 Wooden-knot wall
 Wooden-mosaic wall
+Yellow flower-print wall
 Yellow heart-pattern wall
 Yellow intricate wall
 Yellow playroom wall

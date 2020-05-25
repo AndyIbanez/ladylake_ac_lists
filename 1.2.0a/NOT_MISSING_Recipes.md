@@ -10,6 +10,7 @@ Apple wall
 Armor shoes
 Aroma pot
 Asteroid
+Astronaut suit
 Autumn wall
 Axe
 Backyard lawn

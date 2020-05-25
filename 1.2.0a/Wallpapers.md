@@ -237,7 +237,7 @@
 - [x] Wooden-knot wall | 22734
 - [x] Wooden-mosaic wall | 22735
 - [ ] Woodland wall | 22736
-- [ ] Yellow flower-print wall | 22737
+- [x] Yellow flower-print wall | 22737
 - [x] Yellow heart-pattern wall | 22738
 - [x] Yellow intricate wall | 22739
 - [x] Yellow playroom wall | 22740

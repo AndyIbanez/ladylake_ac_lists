@@ -44,4 +44,3 @@ White painted-wood wall
 White wedding wall
 Wild-wood wall
 Woodland wall
-Yellow flower-print wall

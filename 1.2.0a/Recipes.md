@@ -12,7 +12,7 @@
 - [x] Armor shoes | 25685
 - [x] Aroma pot | 25609
 - [x] Asteroid | 25379
-- [ ] Astronaut suit | 25380
+- [x] Astronaut suit | 25380
 - [x] Autumn wall | 25810
 - [x] Axe | 25694
 - [x] Backyard lawn | 25304

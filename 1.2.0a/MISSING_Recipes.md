@@ -1,6 +1,5 @@
 Aquarius urn
 Aries rocking chair
-Astronaut suit
 Bamboo basket
 Big festive tree
 Blossom-viewing lantern
