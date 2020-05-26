@@ -5,13 +5,13 @@
 - [ ] Butterfly backpack (Pink) | 25057
 - [x] Canvas backpack (White) | 25058
 - [x] Cherry-blossom pochette (Pink) | 25059
-- [ ] Cloth shoulder bag (Blue) | 61257
+- [x] Cloth shoulder bag (Blue) | 61257
 - [x] Cloth shoulder bag (Orange) | 61258
 - [ ] Cloth shoulder bag (Ivory) | 61259
 - [ ] Crossbody bag (Green) | 61260
 - [ ] Crossbody bag (Yellow) | 61261
 - [x] Crossbody bag (White) | 61262
-- [ ] Crossbody bag (Pink) | 61263
+- [x] Crossbody bag (Pink) | 61263
 - [ ] Crossbody boston bag (Red) | 61264
 - [x] Crossbody boston bag (Blue) | 61265
 - [ ] DAL backpack (Blue) | 25063

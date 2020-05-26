@@ -347,7 +347,7 @@
 - [ ] Mesh cap (Purple) | 59966
 - [x] Mesh cap (Yellow) | 59967
 - [x] Mesh cap (Black) | 59968
-- [ ] Milkmaid hat (White) | 24736
+- [x] Milkmaid hat (White) | 24736
 - [ ] Mohawk wig (Hair Color) | 24737
 - [ ] Mum crown (Colorful) | 24738
 - [ ] Mummy mask (White) | 24739

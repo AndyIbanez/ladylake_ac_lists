@@ -475,7 +475,7 @@
 - [ ] Stacked-wood wall | 25841
 - [x] Stall | 25557
 - [x] Standard umbrella stand | 25558
-- [ ] Star clock | 25654
+- [x] Star clock | 25654
 - [ ] Star head | 25367
 - [x] Star pochette | 25270
 - [x] Star wand | 25727
