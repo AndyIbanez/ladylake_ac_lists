@@ -25,7 +25,6 @@ Chic windflower wreath
 Cool hyacinth wreath
 Cool windflower crown
 Cool windflower wreath
-Cosmos wreath
 Cute rose crown
 Dark cosmos crown
 Dark lily crown
@@ -49,7 +48,6 @@ Frozen-treat set
 Fruit basket
 Garden rock
 Gold rose wreath
-Golden gears
 Golden net
 Golden rod
 Golden shovel
@@ -66,7 +64,6 @@ Illuminated reindeer
 Illuminated snowflakes
 Illuminated tree
 Iron garden bench
-Iron garden table
 Jingle wall
 Kettle bathtub
 Large cardboard boxes
@@ -108,7 +105,6 @@ Snowflake wall
 Snowflake wreath
 Snowperson head
 Stacked-wood wall
-Star clock
 Star head
 Starry-sands flooring
 Stone axe

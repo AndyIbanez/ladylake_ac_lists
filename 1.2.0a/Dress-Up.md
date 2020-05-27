@@ -250,7 +250,7 @@
 - [ ] Fancy kimono (Aqua) | 59043
 - [ ] Fancy kimono (Pale orange) | 59044
 - [ ] Fancy party dress (Blue) | 59045
-- [ ] Fancy party dress (Pink) | 59046
+- [x] Fancy party dress (Pink) | 59046
 - [x] Fancy party dress (Green) | 59047
 - [x] Fancy party dress (Beige) | 59048
 - [x] Farmer overalls (Gray) | 59049
@@ -587,7 +587,7 @@
 - [ ] Painter's coverall (White) | 59359
 - [x] Pajama dress (Green) | 59360
 - [ ] Pajama dress (Gray) | 59361
-- [ ] Pajama dress (Berry red) | 59362
+- [x] Pajama dress (Berry red) | 59362
 - [ ] Pajama dress (Brown) | 59363
 - [ ] Pajama dress (Navy blue) | 59364
 - [ ] Palatial tank dress (White) | 24547

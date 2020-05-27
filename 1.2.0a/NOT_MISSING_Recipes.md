@@ -102,6 +102,7 @@ Corral fence
 Cosmos crown
 Cosmos shower
 Cosmos wand
+Cosmos wreath
 Country fence
 Crescent-moon chair
 Crest doorplate
@@ -163,6 +164,7 @@ Golden casket
 Golden dishes
 Golden dung beetle
 Golden flooring
+Golden gears
 Golden seat
 Golden slingshot
 Golden toilet
@@ -191,6 +193,7 @@ Iron doorplate
 Iron fence
 Iron frame
 Iron garden chair
+Iron garden table
 Iron hanger stand
 Iron shelf
 Iron wall lamp
@@ -365,6 +368,7 @@ Stack of books
 Stacked magazines
 Stall
 Standard umbrella stand
+Star clock
 Star pochette
 Star wand
 Starry garland

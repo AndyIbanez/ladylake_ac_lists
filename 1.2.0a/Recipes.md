@@ -129,7 +129,7 @@
 - [x] Cosmos crown | 25339
 - [x] Cosmos shower | 25424
 - [x] Cosmos wand | 25698
-- [ ] Cosmos wreath | 25760
+- [x] Cosmos wreath | 25760
 - [x] Country fence | 25292
 - [x] Crescent-moon chair | 25425
 - [x] Crest doorplate | 25761
@@ -214,7 +214,7 @@
 - [x] Golden dishes | 25631
 - [x] Golden dung beetle | 25632
 - [x] Golden flooring | 25313
-- [ ] Golden gears | 25773
+- [x] Golden gears | 25773
 - [ ] Golden net | 25706
 - [ ] Golden rod | 25707
 - [x] Golden seat | 25452
@@ -259,7 +259,7 @@
 - [x] Iron frame | 25465
 - [ ] Iron garden bench | 25466
 - [x] Iron garden chair | 25467
-- [ ] Iron garden table | 25468
+- [x] Iron garden table | 25468
 - [x] Iron hanger stand | 25469
 - [x] Iron shelf | 25470
 - [x] Iron wall lamp | 25777
