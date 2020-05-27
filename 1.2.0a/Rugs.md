@@ -10,7 +10,7 @@
 - [ ] Blue dotted rug | 22925
 - [ ] Blue kilim-style carpet | 22926
 - [x] Blue kitchen mat | 22927
-- [ ] Blue medium round mat | 22928
+- [x] Blue medium round mat | 22928
 - [ ] Blue message mat | 22929
 - [x] Blue shaggy rug | 22931
 - [ ] Blue small round mat | 22932
@@ -84,7 +84,7 @@
 - [ ] Red-and-blue checked rug | 22998
 - [ ] Red-design kitchen mat | 22999
 - [x] Retro dotted rug | 23000
-- [ ] Rough rug | 23001
+- [x] Rough rug | 23001
 - [x] Rubber mud mat | 23002
 - [x] Shanty mat | 23003
 - [ ] Shell rug | 23004
@@ -116,7 +116,7 @@
 - [x] White simple medium mat | 23030
 - [x] White simple small mat | 23031
 - [ ] White wedding rug | 27106
-- [ ] White wooden-deck rug | 23032
+- [x] White wooden-deck rug | 23032
 - [x] Yellow Persian rug | 23040
 - [ ] Yellow argyle rug | 23033
 - [x] Yellow blocks rug | 23034

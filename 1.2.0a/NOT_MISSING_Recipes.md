@@ -231,6 +231,7 @@ Leaf-egg outfit
 Leaf-egg shell
 Leaf-egg shoes
 Light bamboo rug
+Lily crown
 Lily record player
 Lily wand
 Log bed
@@ -371,6 +372,7 @@ Stacked magazines
 Stall
 Standard umbrella stand
 Star clock
+Star head
 Star pochette
 Star wand
 Starry garland

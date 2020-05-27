@@ -215,7 +215,7 @@
 - [ ] Dollhouse dress (Purple) | 59012
 - [ ] Dollhouse dress (Sky blue) | 59013
 - [ ] Dollhouse dress (Light blue) | 59014
-- [ ] Dragon suit (Yellow) | 24452
+- [x] Dragon suit (Yellow) | 24452
 - [x] Dreamy dress (Pink) | 59015
 - [x] Dreamy dress (Yellow) | 59016
 - [x] Dreamy dress (Blue) | 59017
@@ -403,8 +403,8 @@
 - [x] Jockey uniform (Double sash) | 59187
 - [ ] Jockey uniform (Vertical stripes) | 59188
 - [ ] Jockey uniform (Zigzag) | 59189
-- [ ] Judogi (White) | 59190
-- [ ] Judogi (Blue) | 59191
+- [x] Judogi (White) | 59190
+- [x] Judogi (Blue) | 59191
 - [x] Jumper work suit (Red) | 59192
 - [ ] Jumper work suit (Orange) | 59193
 - [ ] Jumper work suit (Blue) | 59194
@@ -809,7 +809,7 @@
 - [ ] Stylish jumpsuit (Avocado) | 59575
 - [ ] Stylish jumpsuit (Pink) | 59576
 - [ ] Suit of lights (Green) | 59577
-- [ ] Suit of lights (Pink) | 59578
+- [x] Suit of lights (Pink) | 59578
 - [x] Suit of lights (Black) | 59579
 - [ ] Suit of lights (Red) | 59580
 - [ ] Suit of lights (Blue) | 59581

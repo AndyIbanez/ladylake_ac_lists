@@ -181,7 +181,7 @@
 - [x] Red two-toned tile wall | 22680
 - [x] Red-brick wall | 22681
 - [x] Retro flower-print wall | 22682
-- [ ] Rice-paddy wall | 22683
+- [x] Rice-paddy wall | 22683
 - [x] Ringside seating | 22684
 - [x] Rock-climbing wall | 22685
 - [x] Rose wall | 22686
@@ -198,7 +198,7 @@
 - [x] Shutter wall | 22697
 - [ ] Ski-slope wall | 22698
 - [x] Skull wall | 22699
-- [ ] Sky wall | 22700
+- [x] Sky wall | 22700
 - [x] Skyscraper wall | 22701
 - [ ] Snowflake wall | 22702
 - [x] Soothing tearoom wall | 22703
@@ -215,7 +215,7 @@
 - [x] Strawberry-chocolate wall | 22714
 - [ ] Street-art wall | 22715
 - [x] Summit wall | 22716
-- [ ] Tree-lined wall | 22717
+- [x] Tree-lined wall | 22717
 - [ ] Tropical vista | 22718
 - [ ] Underwater wall | 22719
 - [x] Wavy-tile wall | 22720

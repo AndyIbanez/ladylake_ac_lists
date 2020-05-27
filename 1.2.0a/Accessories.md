@@ -103,10 +103,10 @@
 - [x] Labelle sunglasses (Love) | 60364
 - [x] Ladder shades (Red) | 60365
 - [x] Ladder shades (Blue) | 60366
-- [ ] Ladder shades (Green) | 60367
+- [x] Ladder shades (Green) | 60367
 - [x] Ladder shades (Pink) | 60368
 - [x] Ladder shades (Yellow) | 60369
-- [ ] Ladder shades (Gold) | 60370
+- [x] Ladder shades (Gold) | 60370
 - [x] Leaf (Green) | 24873
 - [x] Masquerade mask (Purple) | 60371
 - [x] Masquerade mask (Black) | 60372
@@ -158,7 +158,7 @@
 - [x] Retro shades (Blue) | 60410
 - [x] Retro shades (Gray) | 60411
 - [x] Rhinestone shades (Red) | 60412
-- [ ] Rhinestone shades (Ochre) | 60413
+- [x] Rhinestone shades (Ochre) | 60413
 - [x] Rhinestone shades (Purple) | 60414
 - [x] Rimmed glasses (Black) | 60415
 - [x] Rimmed glasses (Gold) | 60416

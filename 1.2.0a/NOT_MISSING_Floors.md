@@ -107,6 +107,7 @@ Rattan flooring
 Red dot flooring
 Red-and-black vinyl flooring
 Red-brick flooring
+Rocky-mountain flooring
 Rose flooring
 Rosewood flooring
 Rubber-tile flooring

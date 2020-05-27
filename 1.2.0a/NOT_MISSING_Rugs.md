@@ -4,6 +4,7 @@ Blue Persian rug
 Blue argyle rug
 Blue blocks rug
 Blue kitchen mat
+Blue medium round mat
 Blue shaggy rug
 Blue wavy rug
 Blue-design kitchen mat
@@ -40,6 +41,7 @@ Red rose rug
 Red small round mat
 Red wavy rug
 Retro dotted rug
+Rough rug
 Rubber mud mat
 Shanty mat
 Simple green bath mat
@@ -60,6 +62,7 @@ White message mat
 White rose rug
 White simple medium mat
 White simple small mat
+White wooden-deck rug
 Yellow Persian rug
 Yellow blocks rug
 Yellow checked rug

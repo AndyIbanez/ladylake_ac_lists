@@ -68,7 +68,6 @@ Kettle bathtub
 Large cardboard boxes
 Leo sculpture
 Libra scale
-Lily crown
 Lily wreath
 Lovely cosmos crown
 Mum crown
@@ -103,7 +102,6 @@ Snowflake wall
 Snowflake wreath
 Snowperson head
 Stacked-wood wall
-Star head
 Starry-sands flooring
 Stone axe
 Tabletop festive tree

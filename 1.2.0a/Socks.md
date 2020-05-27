@@ -28,7 +28,7 @@
 - [x] Bobby socks (Black) | 60498
 - [x] Bobby socks (Brown) | 60499
 - [x] Color-blocked socks (Purple) | 60500
-- [ ] Color-blocked socks (Green) | 60501
+- [x] Color-blocked socks (Green) | 60501
 - [x] Color-blocked socks (Brown) | 60502
 - [x] Color-blocked socks (Blue) | 60503
 - [ ] Color-blocked socks (Beige) | 60504
@@ -36,7 +36,7 @@
 - [x] Color-blocked socks (Lime) | 60506
 - [ ] Color-blocked socks (Pink) | 60507
 - [ ] Compression tights (Yellow) | 60508
-- [ ] Compression tights (Pink) | 60509
+- [x] Compression tights (Pink) | 60509
 - [x] Compression tights (Mint) | 60510
 - [ ] Compression tights (Red) | 60511
 - [ ] Compression tights (Blue) | 60512

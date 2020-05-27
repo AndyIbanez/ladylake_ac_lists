@@ -4,7 +4,6 @@ Black blocks rug
 Black-design kitchen mat
 Blue dotted rug
 Blue kilim-style carpet
-Blue medium round mat
 Blue message mat
 Blue small round mat
 Blue stripes rug
@@ -42,7 +41,6 @@ Red vinyl sheet
 Red wedding rug
 Red-and-blue checked rug
 Red-design kitchen mat
-Rough rug
 Shell rug
 Simple medium avocado mat
 Simple medium red mat
@@ -54,7 +52,6 @@ Tropical rug
 Turquoise heart rug
 White heart rug
 White wedding rug
-White wooden-deck rug
 Yellow argyle rug
 Yellow kilim-style carpet
 Yellow medium round mat

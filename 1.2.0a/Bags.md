@@ -20,7 +20,7 @@
 - [x] Evening bag (Pink) | 61268
 - [x] Evening bag (Blue) | 61269
 - [x] Evening bag (Black) | 61270
-- [ ] Extra-large backpack (Red) | 61271
+- [x] Extra-large backpack (Red) | 61271
 - [ ] Extra-large backpack (Green) | 61272
 - [ ] Extra-large backpack (Black) | 61273
 - [x] Extra-large backpack (Blue) | 61274

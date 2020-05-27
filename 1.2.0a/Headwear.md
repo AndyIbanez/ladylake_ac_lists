@@ -261,14 +261,14 @@
 - [x] Heart hairpin (Blue) | 59891
 - [x] Heart hairpin (Black) | 59892
 - [x] Heart hairpin (Pink) | 59893
-- [ ] Helmet with goggles (Pink) | 59894
-- [ ] Helmet with goggles (Green) | 59895
-- [ ] Helmet with goggles (Purple) | 59896
-- [ ] Helmet with goggles (Blue) | 59897
-- [ ] Helmet with goggles (Red) | 59898
-- [ ] Helmet with goggles (Light blue) | 59899
-- [ ] Helmet with goggles (Black) | 59900
-- [ ] Helmet with goggles (Yellow) | 59901
+- [x] Helmet with goggles (Pink) | 59894
+- [x] Helmet with goggles (Green) | 59895
+- [x] Helmet with goggles (Purple) | 59896
+- [x] Helmet with goggles (Blue) | 59897
+- [x] Helmet with goggles (Red) | 59898
+- [x] Helmet with goggles (Light blue) | 59899
+- [x] Helmet with goggles (Black) | 59900
+- [x] Helmet with goggles (Yellow) | 59901
 - [ ] Hibiscus hairpin (Yellow) | 59902
 - [x] Hibiscus hairpin (White) | 59903
 - [x] Hibiscus hairpin (Red) | 59904
@@ -327,7 +327,7 @@
 - [x] Labelle hat (Love) | 59951
 - [ ] Leaf mask (Green) | 24727
 - [x] Leaf-egg shell (None) | 24728
-- [ ] Lettered cap (Beige) | 59952
+- [x] Lettered cap (Beige) | 59952
 - [ ] Lettered cap (Olive) | 59953
 - [ ] Lettered cap (Red) | 59954
 - [ ] Lily crown (Colorful) | 24730

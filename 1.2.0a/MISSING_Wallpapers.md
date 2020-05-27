@@ -28,15 +28,12 @@ Peach two-toned tile wall
 Peach wall
 Pear wall
 Pink diner wall
-Rice-paddy wall
 Ruins wall
 Ski-slope wall
-Sky wall
 Snowflake wall
 Stacked-wood wall
 Steel-frame wall
 Street-art wall
-Tree-lined wall
 Tropical vista
 Underwater wall
 Wedding-party wall

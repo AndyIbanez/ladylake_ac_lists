@@ -301,7 +301,7 @@
 - [ ] Leo sculpture | 25781
 - [ ] Libra scale | 25637
 - [x] Light bamboo rug | 25680
-- [ ] Lily crown | 25353
+- [x] Lily crown | 25353
 - [x] Lily record player | 25487
 - [x] Lily wand | 25716
 - [ ] Lily wreath | 25782
@@ -476,7 +476,7 @@
 - [x] Stall | 25557
 - [x] Standard umbrella stand | 25558
 - [x] Star clock | 25654
-- [ ] Star head | 25367
+- [x] Star head | 25367
 - [x] Star pochette | 25270
 - [x] Star wand | 25727
 - [x] Starry garland | 25801

@@ -127,7 +127,7 @@
 - [x] Red dot flooring | 22869
 - [x] Red-and-black vinyl flooring | 22870
 - [x] Red-brick flooring | 22871
-- [ ] Rocky-mountain flooring | 22872
+- [x] Rocky-mountain flooring | 22872
 - [x] Rose flooring | 22873
 - [x] Rosewood flooring | 22874
 - [x] Rubber-tile flooring | 22875

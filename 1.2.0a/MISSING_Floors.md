@@ -18,7 +18,6 @@ Money flooring
 Natural-block flooring
 Nook Inc. flooring
 Party flooring
-Rocky-mountain flooring
 Rush tatami flooring
 Sandy-beach flooring
 Sci-fi flooring

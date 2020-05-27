@@ -151,6 +151,7 @@ Red perforated-board wall
 Red two-toned tile wall
 Red-brick wall
 Retro flower-print wall
+Rice-paddy wall
 Ringside seating
 Rock-climbing wall
 Rose wall
@@ -165,6 +166,7 @@ Server-room wall
 Shoji screen
 Shutter wall
 Skull wall
+Sky wall
 Skyscraper wall
 Soothing tearoom wall
 Stadium wall
@@ -177,6 +179,7 @@ Stormy-night wall
 Straw wall
 Strawberry-chocolate wall
 Summit wall
+Tree-lined wall
 Wavy-tile wall
 Western vista
 White botanical-tile wall
