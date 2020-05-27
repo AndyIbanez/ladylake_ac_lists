@@ -51,6 +51,7 @@ Dark wood-pattern flooring
 Dark-block flooring
 Dark-chocolates flooring
 Dig-site flooring
+Field flooring
 Flagstone flooring
 Floral rush-mat flooring
 Flowing-river flooring

@@ -142,6 +142,7 @@ Forest flooring
 Forest wall
 Fossil doorplate
 Fountain
+Fruit basket
 Fruit wreath
 Frying pan
 Galaxy flooring
@@ -248,6 +249,7 @@ Lucky gold cat
 Lunar lander
 Lunar rover
 Lunar surface
+Magazine rack
 Manga-library wall
 Manhole cover
 Maple-leaf pochette
@@ -418,6 +420,7 @@ Tulip crown
 Tulip surprise box
 Tulip wand
 Ukulele
+Underwater flooring
 Unglazed dish set
 Vaulting pole
 Vertical-board fence

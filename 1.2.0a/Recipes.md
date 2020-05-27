@@ -189,7 +189,7 @@
 - [ ] Frozen table | 25444
 - [ ] Frozen tree | 25445
 - [ ] Frozen-treat set | 25625
-- [ ] Fruit basket | 25626
+- [x] Fruit basket | 25626
 - [x] Fruit wreath | 25771
 - [x] Frying pan | 25627
 - [x] Galaxy flooring | 25311
@@ -322,7 +322,7 @@
 - [x] Lunar lander | 25498
 - [x] Lunar rover | 25499
 - [x] Lunar surface | 25318
-- [ ] Magazine rack | 25639
+- [x] Magazine rack | 25639
 - [x] Manga-library wall | 25830
 - [x] Manhole cover | 25500
 - [x] Maple-leaf pochette | 25267
@@ -532,7 +532,7 @@
 - [x] Tulip wand | 25730
 - [ ] Tulip wreath | 25805
 - [x] Ukulele | 25663
-- [ ] Underwater flooring | 25326
+- [x] Underwater flooring | 25326
 - [ ] Underwater wall | 25847
 - [x] Unglazed dish set | 25664
 - [x] Vaulting pole | 25731

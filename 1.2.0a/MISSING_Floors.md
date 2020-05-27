@@ -4,7 +4,6 @@ Brown wedding flooring
 Concrete flooring
 Dark parquet flooring
 Dirt flooring
-Field flooring
 Floral mosaic-tile flooring
 Garbage-heap flooring
 Golden flooring

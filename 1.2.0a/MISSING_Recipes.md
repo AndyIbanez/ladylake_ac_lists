@@ -45,7 +45,6 @@ Frozen sculpture
 Frozen table
 Frozen tree
 Frozen-treat set
-Fruit basket
 Garden rock
 Gold rose wreath
 Golden net
@@ -72,7 +71,6 @@ Libra scale
 Lily crown
 Lily wreath
 Lovely cosmos crown
-Magazine rack
 Mum crown
 Natural mum wreath
 Ornament mobile
@@ -112,7 +110,6 @@ Tabletop festive tree
 Three-tiered snowperson
 Tropical vista
 Tulip wreath
-Underwater flooring
 Underwater wall
 Virgo harp
 Wand

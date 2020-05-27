@@ -57,7 +57,7 @@
 - [x] Dark-chocolates flooring | 22800
 - [x] Dig-site flooring | 22801
 - [ ] Dirt flooring | 22802
-- [ ] Field flooring | 22803
+- [x] Field flooring | 22803
 - [x] Flagstone flooring | 22804
 - [ ] Floral mosaic-tile flooring | 22805
 - [x] Floral rush-mat flooring | 22806
