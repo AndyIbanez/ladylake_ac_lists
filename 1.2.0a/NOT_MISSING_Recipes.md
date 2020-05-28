@@ -382,6 +382,7 @@ Steamer-basket set
 Steel flooring
 Steel-frame wall
 Stone arch
+Stone axe
 Stone fence
 Stone lion-dog
 Stone stool
@@ -426,6 +427,7 @@ Underwater flooring
 Unglazed dish set
 Vaulting pole
 Vertical-board fence
+Wand
 Water pump
 Water-egg outfit
 Water-egg shell

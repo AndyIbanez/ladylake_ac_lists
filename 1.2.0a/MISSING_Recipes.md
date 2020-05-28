@@ -103,14 +103,12 @@ Snowflake wreath
 Snowperson head
 Stacked-wood wall
 Starry-sands flooring
-Stone axe
 Tabletop festive tree
 Three-tiered snowperson
 Tropical vista
 Tulip wreath
 Underwater wall
 Virgo harp
-Wand
 Water flooring
 Wedding fence
 Wedding wand
