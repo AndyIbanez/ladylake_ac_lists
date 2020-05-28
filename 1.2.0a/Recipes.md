@@ -487,7 +487,7 @@
 - [x] Steel flooring | 25325
 - [x] Steel-frame wall | 25844
 - [x] Stone arch | 25559
-- [ ] Stone axe | 25728
+- [x] Stone axe | 25728
 - [x] Stone fence | 25300
 - [x] Stone lion-dog | 25560
 - [x] Stone stool | 25561
@@ -538,7 +538,7 @@
 - [x] Vaulting pole | 25731
 - [x] Vertical-board fence | 25302
 - [ ] Virgo harp | 25580
-- [ ] Wand | 25732
+- [x] Wand | 25732
 - [ ] Water flooring | 25327
 - [x] Water pump | 25581
 - [x] Water-egg outfit | 25285
