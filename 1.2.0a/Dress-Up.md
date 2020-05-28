@@ -13,7 +13,7 @@
 - [x] Ancient belted robe (Blue) | 58812
 - [x] Ancient belted robe (White) | 58813
 - [x] Ancient belted robe (Purple) | 58814
-- [ ] Ancient sashed robe (Pink) | 58815
+- [x] Ancient sashed robe (Pink) | 58815
 - [ ] Ancient sashed robe (Red) | 58816
 - [ ] Ancient sashed robe (Blue) | 58817
 - [ ] Ancient sashed robe (Purple) | 58818
@@ -406,13 +406,13 @@
 - [x] Judogi (White) | 59190
 - [x] Judogi (Blue) | 59191
 - [x] Jumper work suit (Red) | 59192
-- [ ] Jumper work suit (Orange) | 59193
-- [ ] Jumper work suit (Blue) | 59194
-- [ ] Jumper work suit (Yellow) | 59195
-- [ ] Jumper work suit (Green) | 59196
-- [ ] Jumper work suit (Pink) | 59197
+- [x] Jumper work suit (Orange) | 59193
+- [x] Jumper work suit (Blue) | 59194
+- [x] Jumper work suit (Yellow) | 59195
+- [x] Jumper work suit (Green) | 59196
+- [x] Jumper work suit (Pink) | 59197
 - [x] Jumper work suit (Brown) | 59198
-- [ ] Jumper work suit (Black) | 59199
+- [x] Jumper work suit (Black) | 59199
 - [x] Junihitoe kimono (Red) | 24503
 - [ ] Kabuki-actor yukata (Gray) | 59200
 - [ ] Kabuki-actor yukata (Fuchsia) | 59201

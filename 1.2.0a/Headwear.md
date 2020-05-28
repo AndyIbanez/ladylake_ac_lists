@@ -73,9 +73,9 @@
 - [x] Bun wig (Blue) | 59734
 - [x] Bun wig (Mustard) | 59735
 - [x] Bunny Day crown | 24648
-- [ ] Bunny ears (Pink) | 59736
+- [x] Bunny ears (Pink) | 59736
 - [x] Bunny ears (Red) | 59737
-- [ ] Bunny ears (Light blue) | 59738
+- [x] Bunny ears (Light blue) | 59738
 - [x] Bunny ears (Black) | 59739
 - [x] Bunny hood (Yellow) | 59740
 - [x] Bunny hood (White) | 59741
@@ -218,7 +218,7 @@
 - [x] Frog cap (Blue) | 59855
 - [x] Frog cap (Red) | 59856
 - [x] Frog cap (Yellow) | 59857
-- [ ] Frugal hat (Brown) | 59858
+- [x] Frugal hat (Brown) | 59858
 - [x] Frugal hat (Green) | 59859
 - [ ] Frugal hat (Blue-gray) | 59860
 - [x] Geisha wig (Pink) | 59861
@@ -367,14 +367,14 @@
 - [ ] New Year's silk hat (Blue) | 59982
 - [ ] New Year's silk hat (Yellow) | 59983
 - [ ] New Year's silk hat (Green) | 59984
-- [ ] Ninja hood (Dark blue) | 59985
+- [x] Ninja hood (Dark blue) | 59985
 - [x] Ninja hood (Gray) | 59986
-- [ ] Ninja hood (Red) | 59987
-- [ ] Ninja hood (Purple) | 59988
-- [ ] Ninja hood (Aqua) | 59989
-- [ ] Ninja hood (Green) | 59990
-- [ ] Ninja hood (Yellow) | 59991
-- [ ] Ninja hood (Orange) | 59992
+- [x] Ninja hood (Red) | 59987
+- [x] Ninja hood (Purple) | 59988
+- [x] Ninja hood (Aqua) | 59989
+- [x] Ninja hood (Green) | 59990
+- [x] Ninja hood (Yellow) | 59991
+- [x] Ninja hood (Orange) | 59992
 - [ ] Noh mask (White) | 24743
 - [x] Nook Inc. bandanna (Yellow) | 24744
 - [ ] Nook Inc. cap (Green) | 24745
