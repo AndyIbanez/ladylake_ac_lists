@@ -129,10 +129,10 @@
 - [x] DJ cap (Black) | 59786
 - [x] Dandy hat (Blue) | 59770
 - [x] Dandy hat (Green) | 59771
-- [ ] Dandy hat (Purple) | 59772
+- [x] Dandy hat (Purple) | 59772
 - [x] Dandy hat (Gray) | 59773
 - [x] Dandy hat (White) | 59774
-- [ ] Dandy hat (Camel) | 59775
+- [x] Dandy hat (Camel) | 59775
 - [ ] Dark cosmos crown (Dark red) | 24674
 - [ ] Dark lily crown (Dark red) | 24675
 - [ ] Dark tulip crown (Dark red) | 24676

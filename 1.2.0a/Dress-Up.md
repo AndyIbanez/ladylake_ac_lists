@@ -116,7 +116,7 @@
 - [x] Bunny dress (Pink) | 58917
 - [ ] Butterfly visiting kimono (Black) | 58918
 - [x] Butterfly visiting kimono (Indigo blue) | 58919
-- [ ] Butterfly visiting kimono (Fuchsia) | 58920
+- [x] Butterfly visiting kimono (Fuchsia) | 58920
 - [ ] Cake dress | 27115
 - [ ] Casual chic dress (Light blue) | 58921
 - [ ] Casual chic dress (Pink) | 58922
@@ -689,10 +689,10 @@
 - [x] Rumba dress (Orange) | 59461
 - [ ] Rumba dress (Pink) | 59462
 - [x] Rumba dress (Red) | 59463
-- [ ] Sailor-collar dress (Navy blue) | 59464
-- [ ] Sailor-collar dress (Blue) | 59465
-- [ ] Sailor-collar dress (Pink) | 59466
-- [ ] Sailor-collar dress (White) | 59467
+- [x] Sailor-collar dress (Navy blue) | 59464
+- [x] Sailor-collar dress (Blue) | 59465
+- [x] Sailor-collar dress (Pink) | 59466
+- [x] Sailor-collar dress (White) | 59467
 - [x] Sari (Aquamarine) | 59468
 - [x] Sari (Garnet) | 59469
 - [x] Sari (Topaz) | 59470

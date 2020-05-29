@@ -114,6 +114,7 @@ DIY workbench
 Dark bamboo rug
 Dark lily wreath
 Dark rose wreath
+Dark tulip wreath
 Dark wooden-mosaic wall
 Decoy duck
 Deer decoration

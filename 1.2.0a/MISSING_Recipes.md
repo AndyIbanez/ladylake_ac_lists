@@ -28,7 +28,6 @@ Cute rose crown
 Dark cosmos crown
 Dark lily crown
 Dark tulip crown
-Dark tulip wreath
 Fancy lily wreath
 Fancy mum wreath
 Fancy rose wreath

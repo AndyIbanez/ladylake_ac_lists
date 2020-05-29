@@ -144,7 +144,7 @@
 - [x] Dark lily wreath | 25762
 - [x] Dark rose wreath | 25763
 - [ ] Dark tulip crown | 25344
-- [ ] Dark tulip wreath | 25764
+- [x] Dark tulip wreath | 25764
 - [x] Dark wooden-mosaic wall | 25820
 - [x] Decoy duck | 25621
 - [x] Deer decoration | 25765

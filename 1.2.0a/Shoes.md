@@ -45,7 +45,7 @@
 - [ ] Cleats (Yellow) | 60863
 - [x] Cleats (Black) | 60864
 - [ ] Cleats (Orange) | 60865
-- [ ] Cleats (Green) | 60866
+- [x] Cleats (Green) | 60866
 - [ ] Cleats (Purple) | 60867
 - [ ] Comfy sandals (Brown) | 60868
 - [ ] Comfy sandals (White) | 60869
@@ -139,10 +139,10 @@
 - [x] House slippers (Red) | 60954
 - [x] House slippers (Beige) | 60955
 - [ ] Jester's shoes (Purple) | 60956
-- [ ] Jester's shoes (Black) | 60957
+- [x] Jester's shoes (Black) | 60957
 - [x] Jester's shoes (Red) | 60958
 - [ ] Jester's shoes (Green) | 60959
-- [ ] Kiddie sneakers (Red) | 60960
+- [x] Kiddie sneakers (Red) | 60960
 - [ ] Kiddie sneakers (Blue) | 60961
 - [x] Kiddie sneakers (Green) | 60962
 - [x] Kiddie sneakers (Purple) | 60963
@@ -394,13 +394,13 @@
 - [x] Walking shoes (Beige) | 61201
 - [x] Walking shoes (Red) | 61202
 - [x] Water sandals (Pink) | 61203
-- [ ] Water sandals (Navy blue) | 61204
-- [ ] Water sandals (Red) | 61205
-- [ ] Water sandals (Light blue) | 61206
-- [ ] Water sandals (Orange) | 61207
-- [ ] Water sandals (Purple) | 61208
-- [ ] Water sandals (Green) | 61209
-- [ ] Water sandals (Yellow) | 61210
+- [x] Water sandals (Navy blue) | 61204
+- [x] Water sandals (Red) | 61205
+- [x] Water sandals (Light blue) | 61206
+- [x] Water sandals (Orange) | 61207
+- [x] Water sandals (Purple) | 61208
+- [x] Water sandals (Green) | 61209
+- [x] Water sandals (Yellow) | 61210
 - [x] Water shoes (Pink) | 61211
 - [x] Water shoes (Light blue) | 61212
 - [x] Water shoes (Orange) | 61213
@@ -428,7 +428,7 @@
 - [ ] Wooden clogs (Blue) | 61231
 - [ ] Wooden clogs (Red) | 61232
 - [ ] Wooden clogs (Green) | 61233
-- [ ] Wooden clogs (Brown) | 61234
+- [x] Wooden clogs (Brown) | 61234
 - [ ] Work boots (Red) | 61235
 - [ ] Work boots (Purple) | 61236
 - [ ] Work boots (Pink) | 61237
