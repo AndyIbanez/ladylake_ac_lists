@@ -72,7 +72,6 @@ Mum crown
 Natural mum wreath
 Ornament mobile
 Ornament wreath
-Pansy crown
 Pear umbrella
 Pile of zen cushions
 Pisces lamp
@@ -104,7 +103,6 @@ Starry-sands flooring
 Tabletop festive tree
 Three-tiered snowperson
 Tropical vista
-Tulip wreath
 Underwater wall
 Virgo harp
 Water flooring

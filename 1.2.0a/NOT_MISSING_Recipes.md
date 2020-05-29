@@ -301,6 +301,7 @@ Outdoor bath
 Outdoor picnic set
 Palm-tree lamp
 Pan flute
+Pansy crown
 Pansy table
 Pansy wand
 Pansy wreath
@@ -424,6 +425,7 @@ Trophy case
 Tulip crown
 Tulip surprise box
 Tulip wand
+Tulip wreath
 Ukulele
 Underwater flooring
 Unglazed dish set

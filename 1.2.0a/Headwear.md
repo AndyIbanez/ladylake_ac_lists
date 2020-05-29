@@ -291,7 +291,7 @@
 - [x] Jockey's helmet (Red) | 59917
 - [x] Jockey's helmet (Black) | 59918
 - [x] Jockey's helmet (White) | 59919
-- [ ] Kaffiyeh (White) | 59920
+- [x] Kaffiyeh (White) | 59920
 - [ ] Kaffiyeh (Red) | 59921
 - [ ] Kaffiyeh (Black) | 59922
 - [ ] Kappa cap (Green) | 59923
@@ -563,10 +563,10 @@
 - [x] Sports cap (White & red) | 60154
 - [x] Sports cap (Blue) | 60155
 - [x] Stagehand hat (Black) | 24799
-- [ ] Star hairpin (Purple) | 60156
-- [ ] Star hairpin (Mint) | 60157
-- [ ] Star hairpin (Black) | 60158
-- [ ] Star hairpin (Pink) | 60159
+- [x] Star hairpin (Purple) | 60156
+- [x] Star hairpin (Mint) | 60157
+- [x] Star hairpin (Black) | 60158
+- [x] Star hairpin (Pink) | 60159
 - [x] Star hairpin (Yellow) | 60160
 - [ ] Star head (Yellow) | 24801
 - [x] Stone-egg shell (None) | 24802

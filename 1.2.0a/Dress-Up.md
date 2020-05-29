@@ -47,7 +47,7 @@
 - [x] Ballet outfit (Black) | 58850
 - [x] Ballet outfit (White) | 58851
 - [x] Ballet outfit (Yellow) | 58852
-- [ ] Ballet outfit (Red) | 58853
+- [x] Ballet outfit (Red) | 58853
 - [ ] Balmacaan coat (Avocado) | 58854
 - [ ] Balmacaan coat (Beige) | 58855
 - [ ] Balmacaan coat (Navy blue) | 58856

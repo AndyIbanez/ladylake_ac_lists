@@ -375,7 +375,7 @@
 - [x] Outdoor picnic set | 25521
 - [x] Palm-tree lamp | 25522
 - [x] Pan flute | 25721
-- [ ] Pansy crown | 25357
+- [x] Pansy crown | 25357
 - [x] Pansy table | 25523
 - [x] Pansy wand | 25722
 - [x] Pansy wreath | 25790
@@ -530,7 +530,7 @@
 - [x] Tulip crown | 25370
 - [x] Tulip surprise box | 25579
 - [x] Tulip wand | 25730
-- [ ] Tulip wreath | 25805
+- [x] Tulip wreath | 25805
 - [x] Ukulele | 25663
 - [x] Underwater flooring | 25326
 - [ ] Underwater wall | 25847
