@@ -16,7 +16,7 @@
 - [x] Autumn wall | 25810
 - [x] Axe | 25694
 - [x] Backyard lawn | 25304
-- [ ] Bamboo basket | 25381
+- [x] Bamboo basket | 25381
 - [x] Bamboo bench | 25382
 - [x] Bamboo candleholder | 25610
 - [x] Bamboo doll | 25383

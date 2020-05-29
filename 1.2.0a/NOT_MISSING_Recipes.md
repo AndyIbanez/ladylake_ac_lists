@@ -14,6 +14,7 @@ Astronaut suit
 Autumn wall
 Axe
 Backyard lawn
+Bamboo basket
 Bamboo bench
 Bamboo candleholder
 Bamboo doll
