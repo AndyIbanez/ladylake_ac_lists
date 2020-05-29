@@ -92,7 +92,7 @@
 - [x] Cavalier hat (Red) | 59751
 - [x] Cavalier hat (Green) | 59752
 - [x] Cavalier hat (Blue) | 59753
-- [ ] Chef's hat (White) | 24655
+- [x] Chef's hat (White) | 24655
 - [x] Cherry hat (Red) | 24656
 - [ ] Chic mum crown (Colorful) | 24657
 - [ ] Chic rose crown (Purple) | 24658
@@ -130,7 +130,7 @@
 - [x] Dandy hat (Blue) | 59770
 - [x] Dandy hat (Green) | 59771
 - [ ] Dandy hat (Purple) | 59772
-- [ ] Dandy hat (Gray) | 59773
+- [x] Dandy hat (Gray) | 59773
 - [x] Dandy hat (White) | 59774
 - [ ] Dandy hat (Camel) | 59775
 - [ ] Dark cosmos crown (Dark red) | 24674
