@@ -510,8 +510,8 @@
 - [x] Shallow knit cap (Brown) | 60106
 - [x] Sheep hood (White) | 60107
 - [x] Sheep hood (Pink) | 60108
-- [ ] Sheep hood (Light blue) | 60109
-- [ ] Sheep hood (Brown) | 60110
+- [x] Sheep hood (Light blue) | 60109
+- [x] Sheep hood (Brown) | 60110
 - [ ] Silk hat (Green) | 60111
 - [ ] Silk hat (Yellow) | 60112
 - [ ] Silk hat (Black) | 60113
