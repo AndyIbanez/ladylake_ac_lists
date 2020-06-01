@@ -108,9 +108,9 @@
 - [ ] Cherry-blossom-trees wall | 25817
 - [ ] Chic cosmos wreath | 25754
 - [ ] Chic mum crown | 25333
-- [ ] Chic rose crown | 25334
+- [x] Chic rose crown | 25334
 - [x] Chic tulip crown | 25335
-- [ ] Chic windflower wreath | 25755
+- [x] Chic windflower wreath | 25755
 - [x] Chocolate herringbone wall | 25818
 - [x] Clackercart | 25422
 - [x] Classic pitcher | 25618

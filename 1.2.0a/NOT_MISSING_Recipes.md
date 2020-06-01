@@ -87,7 +87,9 @@ Cherry speakers
 Cherry umbrella
 Cherry wall
 Cherry-blossom-petal pile
+Chic rose crown
 Chic tulip crown
+Chic windflower wreath
 Chocolate herringbone wall
 Clackercart
 Classic pitcher

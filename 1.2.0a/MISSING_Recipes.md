@@ -19,8 +19,6 @@ Cherry-blossom wand
 Cherry-blossom-trees wall
 Chic cosmos wreath
 Chic mum crown
-Chic rose crown
-Chic windflower wreath
 Cool hyacinth wreath
 Cool windflower crown
 Cool windflower wreath

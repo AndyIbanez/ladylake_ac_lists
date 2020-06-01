@@ -30,7 +30,7 @@
 - [x] Butterfly shades (Brown) | 60304
 - [ ] Candy-skull mask (Purple) | 60305
 - [x] Candy-skull mask (Orange) | 60306
-- [ ] Candy-skull mask (Blue) | 60307
+- [x] Candy-skull mask (Blue) | 60307
 - [x] Cat nose (White) | 60308
 - [x] Cat nose (Brown) | 60309
 - [x] Cat nose (Navy blue) | 60310

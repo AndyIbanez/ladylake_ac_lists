@@ -1,7 +1,6 @@
 Birthday shades (Pink)
 Birthday shades (Red)
 Candy-skull mask (Purple)
-Candy-skull mask (Blue)
 Goggles (Blue)
 Goggles (Pink)
 Goggles (Green)

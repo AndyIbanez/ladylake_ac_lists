@@ -1,4 +1,4 @@
-- [ ] Academy uniform (Gray) | 58801
+- [x] Academy uniform (Gray) | 58801
 - [x] Academy uniform (Red) | 58802
 - [x] Academy uniform (Navy blue) | 58803
 - [x] Adventure dress (Blue) | 24397
@@ -14,7 +14,7 @@
 - [x] Ancient belted robe (White) | 58813
 - [x] Ancient belted robe (Purple) | 58814
 - [x] Ancient sashed robe (Pink) | 58815
-- [ ] Ancient sashed robe (Red) | 58816
+- [x] Ancient sashed robe (Red) | 58816
 - [ ] Ancient sashed robe (Blue) | 58817
 - [ ] Ancient sashed robe (Purple) | 58818
 - [x] Ancient sashed robe (Green) | 58819
@@ -892,13 +892,13 @@
 - [x] Wrestling singlet (Red) | 59651
 - [x] Wrestling singlet (Blue) | 59652
 - [ ] Wrestling singlet (Green) | 59653
-- [ ] Zap suit (Blue) | 59654
+- [x] Zap suit (Blue) | 59654
 - [x] Zap suit (Green) | 59655
 - [x] Zap suit (Red) | 59656
 - [x] Zap suit (Yellow) | 59657
 - [x] Zap suit (Black) | 59658
-- [ ] Zap suit (Silver) | 59659
-- [ ] Zap suit (White) | 59660
+- [x] Zap suit (Silver) | 59659
+- [x] Zap suit (White) | 59660
 - [x] Zap suit (Pink) | 59661
 - [ ] Zigzag-print dress (Purple) | 59662
 - [ ] Zigzag-print dress (Green) | 59663

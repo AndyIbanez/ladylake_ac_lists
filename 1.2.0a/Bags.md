@@ -9,10 +9,10 @@
 - [x] Cloth shoulder bag (Orange) | 61258
 - [ ] Cloth shoulder bag (Ivory) | 61259
 - [ ] Crossbody bag (Green) | 61260
-- [ ] Crossbody bag (Yellow) | 61261
+- [x] Crossbody bag (Yellow) | 61261
 - [x] Crossbody bag (White) | 61262
 - [x] Crossbody bag (Pink) | 61263
-- [ ] Crossbody boston bag (Red) | 61264
+- [x] Crossbody boston bag (Red) | 61264
 - [x] Crossbody boston bag (Blue) | 61265
 - [ ] DAL backpack (Blue) | 25063
 - [x] Dry bag (Yellow) | 61266
