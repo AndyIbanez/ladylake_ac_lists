@@ -140,9 +140,9 @@
 - [x] Denim cap (Light blue) | 59777
 - [x] Denim cap (Black) | 59778
 - [x] Denim cap (White) | 59779
-- [ ] Detective hat (Brown) | 59780
-- [ ] Detective hat (Gray) | 59781
-- [ ] Detective hat (Beige) | 59782
+- [x] Detective hat (Brown) | 59780
+- [x] Detective hat (Gray) | 59781
+- [x] Detective hat (Beige) | 59782
 - [x] Do-rag (Blue) | 59787
 - [x] Do-rag (Red) | 59788
 - [x] Do-rag (Pink) | 59789
@@ -175,12 +175,12 @@
 - [ ] Fairy-tale hood (Light green) | 59812
 - [ ] Fairy-tale hood (Orange) | 59813
 - [x] Faux-fur hat (Beige) | 59814
-- [ ] Faux-fur hat (Brown) | 59815
-- [ ] Faux-fur hat (Gray) | 59816
-- [ ] Faux-fur hat (Black) | 59817
+- [x] Faux-fur hat (Brown) | 59815
+- [x] Faux-fur hat (Gray) | 59816
+- [x] Faux-fur hat (Black) | 59817
 - [x] Faux-fur hat (Pink) | 59818
-- [ ] Faux-fur hat (White) | 59819
-- [ ] Faux-fur hat (Red) | 59820
+- [x] Faux-fur hat (White) | 59819
+- [x] Faux-fur hat (Red) | 59820
 - [x] Fedora (Beige) | 59821
 - [x] Fedora (Black) | 59822
 - [x] Fedora (Green) | 59823

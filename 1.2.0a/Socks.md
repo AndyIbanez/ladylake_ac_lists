@@ -198,11 +198,11 @@
 - [ ] Nordic socks (Light blue) | 60667
 - [x] Patterned stockings (Black) | 60668
 - [x] Patterned stockings (White) | 60669
-- [ ] Pom-pom socks (Blue) | 60670
-- [ ] Pom-pom socks (Green) | 60671
-- [ ] Pom-pom socks (Orange) | 60672
-- [ ] Pom-pom socks (Purple) | 60673
-- [ ] Pom-pom socks (Pink) | 60674
+- [x] Pom-pom socks (Blue) | 60670
+- [x] Pom-pom socks (Green) | 60671
+- [x] Pom-pom socks (Orange) | 60672
+- [x] Pom-pom socks (Purple) | 60673
+- [x] Pom-pom socks (Pink) | 60674
 - [x] Puckered socks (Red) | 60675
 - [x] Puckered socks (Blue) | 60676
 - [x] Puckered socks (Mustard) | 60677

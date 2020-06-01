@@ -15,8 +15,8 @@
 - [x] Ancient belted robe (Purple) | 58814
 - [x] Ancient sashed robe (Pink) | 58815
 - [x] Ancient sashed robe (Red) | 58816
-- [ ] Ancient sashed robe (Blue) | 58817
-- [ ] Ancient sashed robe (Purple) | 58818
+- [x] Ancient sashed robe (Blue) | 58817
+- [x] Ancient sashed robe (Purple) | 58818
 - [x] Ancient sashed robe (Green) | 58819
 - [x] Apple dress (Red) | 24403
 - [x] Astro dress (Green) | 58825
@@ -356,8 +356,8 @@
 - [ ] Gizzard-shad-sushi costume (White) | 24484
 - [ ] Gold armor (Gold) | 24485
 - [x] Grape dress (Purple) | 24486
-- [ ] Gumdrop dress (Cool) | 59147
-- [ ] Gumdrop dress (Pop) | 59148
+- [x] Gumdrop dress (Cool) | 59147
+- [x] Gumdrop dress (Pop) | 59148
 - [x] Hakama (Plum) | 59149
 - [x] Hakama (Green) | 59150
 - [x] Hakama (Dark blue) | 59151
@@ -456,11 +456,11 @@
 - [x] Long denim cardigan (Gray) | 59236
 - [x] Long denim cardigan (Pink) | 59237
 - [x] Long denim cardigan (Yellow) | 59238
-- [ ] Long down coat (Beige) | 59239
-- [ ] Long down coat (Black) | 59240
-- [ ] Long down coat (Green) | 59241
-- [ ] Long down coat (White) | 59242
-- [ ] Long down coat (Purple) | 59243
+- [x] Long down coat (Beige) | 59239
+- [x] Long down coat (Black) | 59240
+- [x] Long down coat (Green) | 59241
+- [x] Long down coat (White) | 59242
+- [x] Long down coat (Purple) | 59243
 - [ ] Long pleather coat (Black) | 59244
 - [ ] Long pleather coat (Purple) | 59245
 - [ ] Long pleather coat (Brown) | 59246
@@ -704,10 +704,10 @@
 - [x] Satin dress (Green) | 59476
 - [x] School smock (Blue) | 24577
 - [x] Security uniform (Navy blue) | 24578
-- [ ] Shawl-and-dress combo (Black) | 59477
+- [x] Shawl-and-dress combo (Black) | 59477
 - [x] Shawl-and-dress combo (Ochre) | 59478
-- [ ] Shawl-and-dress combo (Green) | 59479
-- [ ] Shawl-and-dress combo (Red) | 59480
+- [x] Shawl-and-dress combo (Green) | 59479
+- [x] Shawl-and-dress combo (Red) | 59480
 - [ ] Sheep costume (Pink) | 59481
 - [ ] Sheep costume (Light blue) | 59482
 - [ ] Sheep costume (Brown) | 59483

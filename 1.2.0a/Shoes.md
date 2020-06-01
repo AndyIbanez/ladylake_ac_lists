@@ -82,11 +82,11 @@
 - [x] Faux-fur ankle booties (Beige) | 60898
 - [x] Faux-fur ankle booties (Ruby red) | 60899
 - [x] Faux-fur ankle booties (Navy blue) | 60900
-- [ ] Faux-shearling boots (Beige) | 60901
-- [ ] Faux-shearling boots (Pink) | 60902
-- [ ] Faux-shearling boots (Green) | 60903
-- [ ] Faux-shearling boots (Black) | 60904
-- [ ] Faux-shearling boots (Gray) | 60905
+- [x] Faux-shearling boots (Beige) | 60901
+- [x] Faux-shearling boots (Pink) | 60902
+- [x] Faux-shearling boots (Green) | 60903
+- [x] Faux-shearling boots (Black) | 60904
+- [x] Faux-shearling boots (Gray) | 60905
 - [x] Faux-suede sneakers (Green) | 60906
 - [x] Faux-suede sneakers (Navy blue) | 60907
 - [x] Faux-suede sneakers (Beige) | 60908
@@ -429,14 +429,14 @@
 - [ ] Wooden clogs (Red) | 61232
 - [ ] Wooden clogs (Green) | 61233
 - [x] Wooden clogs (Brown) | 61234
-- [ ] Work boots (Red) | 61235
-- [ ] Work boots (Purple) | 61236
-- [ ] Work boots (Pink) | 61237
-- [ ] Work boots (Yellow) | 61238
-- [ ] Work boots (White) | 61239
-- [ ] Work boots (Blue) | 61240
-- [ ] Work boots (Green) | 61241
-- [ ] Work boots (Gray) | 61242
+- [x] Work boots (Red) | 61235
+- [x] Work boots (Purple) | 61236
+- [x] Work boots (Pink) | 61237
+- [x] Work boots (Yellow) | 61238
+- [x] Work boots (White) | 61239
+- [x] Work boots (Blue) | 61240
+- [x] Work boots (Green) | 61241
+- [x] Work boots (Gray) | 61242
 - [ ] Wrestling shoes (Red) | 61243
 - [ ] Wrestling shoes (Blue) | 61244
 - [ ] Wrestling shoes (Green) | 61245
