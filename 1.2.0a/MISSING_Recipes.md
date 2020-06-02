@@ -22,7 +22,6 @@ Chic mum crown
 Cool hyacinth wreath
 Cool windflower crown
 Cool windflower wreath
-Cute rose crown
 Dark cosmos crown
 Dark lily crown
 Dark tulip crown
@@ -46,7 +45,6 @@ Gold rose wreath
 Golden net
 Golden rod
 Golden shovel
-Hanging terrarium
 Holiday candle
 Hyacinth crown
 Ice flooring
@@ -67,7 +65,6 @@ Libra scale
 Lily wreath
 Lovely cosmos crown
 Mum crown
-Natural mum wreath
 Ornament mobile
 Ornament wreath
 Pear umbrella
@@ -86,7 +83,6 @@ Scorpio lamp
 Shell lamp
 Shell partition
 Shell wand
-Shell wreath
 Shellfish pochette
 Signpost
 Ski-slope flooring
@@ -97,7 +93,6 @@ Snowflake wall
 Snowflake wreath
 Snowperson head
 Stacked-wood wall
-Starry-sands flooring
 Tabletop festive tree
 Three-tiered snowperson
 Tropical vista

@@ -111,6 +111,7 @@ Crescent-moon chair
 Crest doorplate
 Crewed spaceship
 Cute lily crown
+Cute rose crown
 Cutting board
 DIY workbench
 Dark bamboo rug
@@ -181,6 +182,7 @@ Grass skirt
 Grass standee
 Green grass skirt
 Green-leaf pile
+Hanging terrarium
 Hay bed
 Hearth
 Hedge
@@ -286,6 +288,7 @@ Mushroom wreath
 Music stand
 Natural garden chair
 Natural garden table
+Natural mum wreath
 Natural square table
 Net
 Nova light
@@ -358,6 +361,7 @@ Shell rug
 Shell speaker
 Shell stool
 Shell table
+Shell wreath
 Shovel
 Silo
 Simple DIY workbench
@@ -382,6 +386,7 @@ Star pochette
 Star wand
 Starry garland
 Starry wall
+Starry-sands flooring
 Starry-sky wall
 Steamer-basket set
 Steel flooring
