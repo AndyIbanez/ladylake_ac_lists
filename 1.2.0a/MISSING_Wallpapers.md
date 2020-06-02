@@ -6,7 +6,6 @@ Brown-brick wall
 Butterflies wall
 Camo wall
 Cherry wall
-Cityscape wall
 Classic-library wall
 Future-tech wall
 Garbage-heap wall
@@ -36,8 +35,6 @@ Steel-frame wall
 Street-art wall
 Tropical vista
 Underwater wall
-Wedding-party wall
 White painted-wood wall
-White wedding wall
 Wild-wood wall
 Woodland wall

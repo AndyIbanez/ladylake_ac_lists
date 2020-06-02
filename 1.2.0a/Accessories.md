@@ -206,8 +206,8 @@
 - [x] Sticky rice (White) | 24902
 - [x] Superhero mask (Black) | 24903
 - [x] Tiny shades (Gold) | 60456
-- [ ] Tiny shades (Black) | 60457
-- [ ] Tiny shades (Berry red) | 60458
+- [x] Tiny shades (Black) | 60457
+- [x] Tiny shades (Berry red) | 60458
 - [x] Tortoise specs (Brown) | 60459
 - [x] Tortoise specs (Beige) | 60460
 - [x] Tortoise specs (Black) | 60461

@@ -159,7 +159,7 @@
 - [x] Tatami flooring | 22901
 - [x] Terra-cotta flooring | 22902
 - [x] Tiger-print flooring | 22903
-- [ ] Train-station flooring | 22904
+- [x] Train-station flooring | 22904
 - [ ] Underwater flooring | 22905
 - [ ] Water flooring | 22906
 - [x] Western desert | 22907

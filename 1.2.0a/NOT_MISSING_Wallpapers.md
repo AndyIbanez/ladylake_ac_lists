@@ -57,6 +57,7 @@ Chic wall
 Chocolate hallway wall
 Chocolate herringbone wall
 Circuit-board wall
+Cityscape wall
 Colorful puzzle wall
 Colorful-tile wall
 Common wall
@@ -181,6 +182,7 @@ Strawberry-chocolate wall
 Summit wall
 Tree-lined wall
 Wavy-tile wall
+Wedding-party wall
 Western vista
 White botanical-tile wall
 White delicate-blooms wall
@@ -189,6 +191,7 @@ White honeycomb-tile wall
 White perforated-board wall
 White simple-cloth wall
 White subway-tile wall
+White wedding wall
 White-brick wall
 White-chocolate wall
 White-rose wall

@@ -7,8 +7,10 @@ Blue kitchen mat
 Blue medium round mat
 Blue shaggy rug
 Blue wavy rug
+Blue wedding rug
 Blue-design kitchen mat
 Brown shaggy rug
+Brown wooden-deck rug
 Bunny Day rug
 Earth rug
 Fish rug
@@ -16,6 +18,7 @@ Fluffy rug
 Fossil rug
 Green checked rug
 Green kilim-style carpet
+Green kitchen mat
 Green shaggy rug
 Green stripes rug
 Iron entrance mat

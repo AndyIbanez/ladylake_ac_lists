@@ -24,7 +24,6 @@ Sci-fi flooring
 Simple blue flooring
 Ski-slope flooring
 Starry-sands flooring
-Train-station flooring
 Underwater flooring
 Water flooring
 White wedding flooring

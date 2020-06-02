@@ -65,7 +65,7 @@
 - [x] Chocolate hallway wall | 22565
 - [x] Chocolate herringbone wall | 22566
 - [x] Circuit-board wall | 22567
-- [ ] Cityscape wall | 22568
+- [x] Cityscape wall | 22568
 - [ ] Classic-library wall | 22569
 - [x] Colorful puzzle wall | 22570
 - [x] Colorful-tile wall | 22571
@@ -219,7 +219,7 @@
 - [ ] Tropical vista | 22718
 - [ ] Underwater wall | 22719
 - [x] Wavy-tile wall | 22720
-- [ ] Wedding-party wall | 27098
+- [x] Wedding-party wall | 27098
 - [x] Western vista | 22721
 - [x] White botanical-tile wall | 22722
 - [x] White delicate-blooms wall | 22723
@@ -229,7 +229,7 @@
 - [x] White perforated-board wall | 22727
 - [x] White simple-cloth wall | 22728
 - [x] White subway-tile wall | 22729
-- [ ] White wedding wall | 27099
+- [x] White wedding wall | 27099
 - [x] White-brick wall | 22730
 - [x] White-chocolate wall | 22731
 - [x] White-rose wall | 22732

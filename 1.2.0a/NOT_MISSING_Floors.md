@@ -133,6 +133,7 @@ Tatami
 Tatami flooring
 Terra-cotta flooring
 Tiger-print flooring
+Train-station flooring
 Western desert
 White honeycomb tile
 White iron-parquet flooring

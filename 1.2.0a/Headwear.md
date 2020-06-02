@@ -204,14 +204,14 @@
 - [ ] Floral hairpin (Purple) | 59841
 - [x] Floral hairpin (Pink) | 59842
 - [ ] Floral hairpin (Blue) | 59843
-- [ ] Football helmet (White) | 59844
-- [ ] Football helmet (Yellow) | 59845
-- [ ] Football helmet (Berry red) | 59846
-- [ ] Football helmet (Blue) | 59847
-- [ ] Football helmet (Turquoise) | 59848
-- [ ] Football helmet (Red) | 59849
-- [ ] Football helmet (Green) | 59850
-- [ ] Football helmet (Black) | 59851
+- [x] Football helmet (White) | 59844
+- [x] Football helmet (Yellow) | 59845
+- [x] Football helmet (Berry red) | 59846
+- [x] Football helmet (Blue) | 59847
+- [x] Football helmet (Turquoise) | 59848
+- [x] Football helmet (Red) | 59849
+- [x] Football helmet (Green) | 59850
+- [x] Football helmet (Black) | 59851
 - [x] Fox mask (White) | 59852
 - [x] Fox mask (Black) | 59853
 - [x] Frog cap (Green) | 59854

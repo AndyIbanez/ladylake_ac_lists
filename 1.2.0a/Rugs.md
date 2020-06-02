@@ -17,13 +17,13 @@
 - [ ] Blue stripes rug | 22933
 - [ ] Blue vinyl sheet | 22934
 - [x] Blue wavy rug | 22935
-- [ ] Blue wedding rug | 27104
+- [x] Blue wedding rug | 27104
 - [x] Blue-design kitchen mat | 22936
 - [ ] Botanical rug | 22937
 - [ ] Brown argyle rug | 22938
 - [ ] Brown kitchen mat | 22939
 - [x] Brown shaggy rug | 22940
-- [ ] Brown wooden-deck rug | 22941
+- [x] Brown wooden-deck rug | 22941
 - [x] Bunny Day rug | 22942
 - [ ] Cherry rug | 22943
 - [ ] Colorful vinyl sheet | 22944
@@ -34,7 +34,7 @@
 - [x] Fossil rug | 22949
 - [x] Green checked rug | 22950
 - [x] Green kilim-style carpet | 22951
-- [ ] Green kitchen mat | 22952
+- [x] Green kitchen mat | 22952
 - [x] Green shaggy rug | 22953
 - [x] Green stripes rug | 22954
 - [x] Iron entrance mat | 22955

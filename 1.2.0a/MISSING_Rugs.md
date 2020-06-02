@@ -8,15 +8,12 @@ Blue message mat
 Blue small round mat
 Blue stripes rug
 Blue vinyl sheet
-Blue wedding rug
 Botanical rug
 Brown argyle rug
 Brown kitchen mat
-Brown wooden-deck rug
 Cherry rug
 Colorful vinyl sheet
 Dark bamboo rug
-Green kitchen mat
 Ivory simple bath mat
 Ivory small round mat
 Lacy rug
