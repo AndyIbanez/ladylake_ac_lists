@@ -427,7 +427,7 @@
 - [ ] Pilot's hat (Navy blue) | 60032
 - [ ] Pilot's hat (Black) | 60033
 - [ ] Pilot's hat (Light blue) | 60034
-- [ ] Pineapple cap (Yellow) | 24762
+- [x] Pineapple cap (Yellow) | 24762
 - [x] Plain cap (Gray) | 60035
 - [x] Plain cap (Beige) | 60036
 - [x] Plain cap (Red) | 60037
@@ -488,7 +488,7 @@
 - [x] Safety helmet (Blue) | 60085
 - [x] Sailor's hat (White) | 60086
 - [x] Sailor's hat (Navy blue) | 60087
-- [ ] Sailor's hat (Blue) | 60088
+- [x] Sailor's hat (Blue) | 60088
 - [x] Samurai helmet (Golden yellow) | 60089
 - [x] Samurai helmet (Black) | 60090
 - [x] Samurai helmet (Blue) | 60091
