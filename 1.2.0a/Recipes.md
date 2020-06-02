@@ -135,7 +135,7 @@
 - [x] Crest doorplate | 25761
 - [x] Crewed spaceship | 25426
 - [x] Cute lily crown | 25340
-- [ ] Cute rose crown | 25341
+- [x] Cute rose crown | 25341
 - [x] Cutting board | 25620
 - [x] DIY workbench | 25429
 - [x] Dark bamboo rug | 25679
@@ -229,7 +229,7 @@
 - [x] Grass standee | 25455
 - [x] Green grass skirt | 25272
 - [x] Green-leaf pile | 25456
-- [ ] Hanging terrarium | 25774
+- [x] Hanging terrarium | 25774
 - [x] Hay bed | 25457
 - [x] Hearth | 25458
 - [x] Hedge | 27122
@@ -355,7 +355,7 @@
 - [x] Music stand | 25514
 - [x] Natural garden chair | 25515
 - [x] Natural garden table | 25516
-- [ ] Natural mum wreath | 25786
+- [x] Natural mum wreath | 25786
 - [x] Natural square table | 25517
 - [x] Net | 25719
 - [x] Nova light | 25642
@@ -446,7 +446,7 @@
 - [x] Shell stool | 25548
 - [x] Shell table | 25549
 - [ ] Shell wand | 25724
-- [ ] Shell wreath | 25798
+- [x] Shell wreath | 25798
 - [ ] Shellfish pochette | 25268
 - [x] Shovel | 25725
 - [ ] Signpost | 25550
@@ -481,7 +481,7 @@
 - [x] Star wand | 25727
 - [x] Starry garland | 25801
 - [x] Starry wall | 25842
-- [ ] Starry-sands flooring | 25324
+- [x] Starry-sands flooring | 25324
 - [x] Starry-sky wall | 25843
 - [x] Steamer-basket set | 25655
 - [x] Steel flooring | 25325
