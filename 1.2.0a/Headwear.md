@@ -199,8 +199,8 @@
 - [x] Flashy hairpin (Green) | 59836
 - [x] Flashy hairpin (White) | 59837
 - [x] Flashy hairpin (Pink) | 59838
-- [ ] Floral hairpin (Green) | 59839
-- [ ] Floral hairpin (Yellow) | 59840
+- [x] Floral hairpin (Green) | 59839
+- [x] Floral hairpin (Yellow) | 59840
 - [ ] Floral hairpin (Purple) | 59841
 - [x] Floral hairpin (Pink) | 59842
 - [ ] Floral hairpin (Blue) | 59843
