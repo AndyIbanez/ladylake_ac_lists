@@ -208,13 +208,13 @@
 - [x] Diner uniform (Aquamarine) | 59005
 - [x] Diner uniform (Cream) | 59006
 - [x] Diner uniform (Black) | 59007
-- [ ] Dollhouse dress (Yellow) | 59008
-- [ ] Dollhouse dress (Red) | 59009
-- [ ] Dollhouse dress (Green) | 59010
-- [ ] Dollhouse dress (Pink) | 59011
-- [ ] Dollhouse dress (Purple) | 59012
-- [ ] Dollhouse dress (Sky blue) | 59013
-- [ ] Dollhouse dress (Light blue) | 59014
+- [x] Dollhouse dress (Yellow) | 59008
+- [x] Dollhouse dress (Red) | 59009
+- [x] Dollhouse dress (Green) | 59010
+- [x] Dollhouse dress (Pink) | 59011
+- [x] Dollhouse dress (Purple) | 59012
+- [x] Dollhouse dress (Sky blue) | 59013
+- [x] Dollhouse dress (Light blue) | 59014
 - [x] Dragon suit (Yellow) | 24452
 - [x] Dreamy dress (Pink) | 59015
 - [x] Dreamy dress (Yellow) | 59016

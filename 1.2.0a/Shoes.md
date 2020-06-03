@@ -108,8 +108,8 @@
 - [ ] Flower sandals (Green) | 60924
 - [ ] Flower sandals (Purple) | 60925
 - [ ] Flower sandals (Blue) | 60926
-- [ ] Flower sandals (Black) | 60927
-- [ ] Flower sandals (White) | 60928
+- [x] Flower sandals (Black) | 60927
+- [x] Flower sandals (White) | 60928
 - [x] Ghillie brogues (Brown) | 60929
 - [x] Ghillie brogues (Black) | 60930
 - [ ] Ghillie brogues (White) | 60931
@@ -272,14 +272,14 @@
 - [ ] Ribbon sandals (Berry red) | 61083
 - [ ] Ribbon sandals (Black) | 61084
 - [x] Ribbon sandals (Beige) | 61085
-- [ ] Rubber-toe high tops (Blue) | 61086
-- [ ] Rubber-toe high tops (Olive) | 61087
-- [ ] Rubber-toe high tops (Beige) | 61088
-- [ ] Rubber-toe high tops (Pink) | 61089
-- [ ] Rubber-toe high tops (Berry red) | 61090
-- [ ] Rubber-toe high tops (Coral) | 61091
-- [ ] Rubber-toe high tops (Ivory) | 61092
-- [ ] Rubber-toe high tops (Black) | 61093
+- [x] Rubber-toe high tops (Blue) | 61086
+- [x] Rubber-toe high tops (Olive) | 61087
+- [x] Rubber-toe high tops (Beige) | 61088
+- [x] Rubber-toe high tops (Pink) | 61089
+- [x] Rubber-toe high tops (Berry red) | 61090
+- [x] Rubber-toe high tops (Coral) | 61091
+- [x] Rubber-toe high tops (Ivory) | 61092
+- [x] Rubber-toe high tops (Black) | 61093
 - [x] Rubber-toe sneakers (Purple) | 61094
 - [x] Rubber-toe sneakers (Green) | 61095
 - [x] Rubber-toe sneakers (Yellow) | 61096
