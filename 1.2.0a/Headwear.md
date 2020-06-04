@@ -9,10 +9,10 @@
 - [ ] Alpinist hat (Green) | 59676
 - [ ] Ancient administrator hat (Black) | 24632
 - [x] Apple hat (Red) | 24633
-- [ ] Aran-knit cap (Red) | 59677
-- [ ] Aran-knit cap (Blue) | 59678
-- [ ] Aran-knit cap (Green) | 59679
-- [ ] Aran-knit cap (White) | 59680
+- [x] Aran-knit cap (Red) | 59677
+- [x] Aran-knit cap (Blue) | 59678
+- [x] Aran-knit cap (Green) | 59679
+- [x] Aran-knit cap (White) | 59680
 - [x] Baby's hat (Baby purple) | 59681
 - [x] Baby's hat (Baby yellow) | 59682
 - [x] Baby's hat (Baby green) | 59683
@@ -201,9 +201,9 @@
 - [x] Flashy hairpin (Pink) | 59838
 - [x] Floral hairpin (Green) | 59839
 - [x] Floral hairpin (Yellow) | 59840
-- [ ] Floral hairpin (Purple) | 59841
+- [x] Floral hairpin (Purple) | 59841
 - [x] Floral hairpin (Pink) | 59842
-- [ ] Floral hairpin (Blue) | 59843
+- [x] Floral hairpin (Blue) | 59843
 - [x] Football helmet (White) | 59844
 - [x] Football helmet (Yellow) | 59845
 - [x] Football helmet (Berry red) | 59846
@@ -252,9 +252,9 @@
 - [x] Headband (Purple) | 59883
 - [x] Headband (Green) | 59884
 - [x] Headband (Pink) | 59885
-- [ ] Headgear (Red) | 59886
-- [ ] Headgear (Blue) | 59887
-- [ ] Headgear (Green) | 59888
+- [x] Headgear (Red) | 59886
+- [x] Headgear (Blue) | 59887
+- [x] Headgear (Green) | 59888
 - [x] Headkerchief (Green) | 24708
 - [x] Heart hairpin (Red) | 59889
 - [x] Heart hairpin (Green) | 59890
@@ -340,11 +340,11 @@
 - [x] Matanpushi (Red) | 59960
 - [x] Matanpushi (Blue) | 59961
 - [ ] Matronly bun (Hair Color) | 24734
-- [ ] Mesh cap (Red) | 59962
+- [x] Mesh cap (Red) | 59962
 - [x] Mesh cap (Pink) | 59963
 - [x] Mesh cap (Green) | 59964
-- [ ] Mesh cap (Orange) | 59965
-- [ ] Mesh cap (Purple) | 59966
+- [x] Mesh cap (Orange) | 59965
+- [x] Mesh cap (Purple) | 59966
 - [x] Mesh cap (Yellow) | 59967
 - [x] Mesh cap (Black) | 59968
 - [x] Milkmaid hat (White) | 24736
@@ -570,14 +570,14 @@
 - [x] Star hairpin (Yellow) | 60160
 - [ ] Star head (Yellow) | 24801
 - [x] Stone-egg shell (None) | 24802
-- [ ] Straw boater (Beige) | 60161
-- [ ] Straw boater (Light brown) | 60162
+- [x] Straw boater (Beige) | 60161
+- [x] Straw boater (Light brown) | 60162
 - [x] Straw boater (Brown) | 60163
-- [ ] Straw boater (Dark brown) | 60164
-- [ ] Straw boater (Monotone) | 60165
-- [ ] Straw boater (Cream) | 60166
-- [ ] Straw boater (Light blue) | 60167
-- [ ] Straw boater (Pink) | 60168
+- [x] Straw boater (Dark brown) | 60164
+- [x] Straw boater (Monotone) | 60165
+- [x] Straw boater (Cream) | 60166
+- [x] Straw boater (Light blue) | 60167
+- [x] Straw boater (Pink) | 60168
 - [ ] Straw hat (Blue) | 60169
 - [ ] Straw hat (Red) | 60170
 - [ ] Straw hat (Brown) | 60171

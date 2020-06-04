@@ -104,10 +104,10 @@
 - [ ] Flip-flops (Pink) | 60920
 - [ ] Flip-flops (Red) | 60921
 - [x] Flower sandals (Yellow) | 60922
-- [ ] Flower sandals (Pink) | 60923
-- [ ] Flower sandals (Green) | 60924
-- [ ] Flower sandals (Purple) | 60925
-- [ ] Flower sandals (Blue) | 60926
+- [x] Flower sandals (Pink) | 60923
+- [x] Flower sandals (Green) | 60924
+- [x] Flower sandals (Purple) | 60925
+- [x] Flower sandals (Blue) | 60926
 - [x] Flower sandals (Black) | 60927
 - [x] Flower sandals (White) | 60928
 - [x] Ghillie brogues (Brown) | 60929
@@ -143,7 +143,7 @@
 - [x] Jester's shoes (Red) | 60958
 - [ ] Jester's shoes (Green) | 60959
 - [x] Kiddie sneakers (Red) | 60960
-- [ ] Kiddie sneakers (Blue) | 60961
+- [x] Kiddie sneakers (Blue) | 60961
 - [x] Kiddie sneakers (Green) | 60962
 - [x] Kiddie sneakers (Purple) | 60963
 - [ ] Kiddie sneakers (Silver) | 60964

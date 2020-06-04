@@ -26,4 +26,3 @@ Ski-slope flooring
 Starry-sands flooring
 Underwater flooring
 Water flooring
-White wedding flooring

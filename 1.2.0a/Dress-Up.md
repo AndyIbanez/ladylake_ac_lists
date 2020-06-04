@@ -105,8 +105,8 @@
 - [ ] Bolero coat (Green) | 58907
 - [ ] Bone costume (White) | 24424
 - [x] Box-skirt uniform (Black) | 58908
-- [ ] Box-skirt uniform (Light blue) | 58909
-- [ ] Box-skirt uniform (Green) | 58910
+- [x] Box-skirt uniform (Light blue) | 58909
+- [x] Box-skirt uniform (Green) | 58910
 - [x] Box-skirt uniform (Gray) | 58911
 - [ ] Box-skirt uniform (Red) | 58912
 - [x] Box-skirt uniform (Brown) | 58913
@@ -114,7 +114,7 @@
 - [x] Bunny dress (Yellow) | 58915
 - [x] Bunny dress (White) | 58916
 - [x] Bunny dress (Pink) | 58917
-- [ ] Butterfly visiting kimono (Black) | 58918
+- [x] Butterfly visiting kimono (Black) | 58918
 - [x] Butterfly visiting kimono (Indigo blue) | 58919
 - [x] Butterfly visiting kimono (Fuchsia) | 58920
 - [ ] Cake dress | 27115
@@ -124,9 +124,9 @@
 - [ ] Casual chic dress (Navy blue) | 58924
 - [ ] Casual chic dress (Purple) | 58925
 - [ ] Casual chic dress (Yellow) | 58926
-- [ ] Casual kimono (Dark blue) | 58927
-- [ ] Casual kimono (Aqua) | 58928
-- [ ] Casual kimono (Green) | 58929
+- [x] Casual kimono (Dark blue) | 58927
+- [x] Casual kimono (Aqua) | 58928
+- [x] Casual kimono (Green) | 58929
 - [x] Casual kimono (Mustard) | 58930
 - [ ] Cat dress (Brown) | 58931
 - [x] Cat dress (White) | 58932
@@ -241,14 +241,14 @@
 - [x] Fairy-tale dress (Red) | 59034
 - [x] Fairy-tale dress (Yellow) | 59035
 - [ ] Fairy-tale dress (Green) | 59036
-- [ ] Fancy kimono (Vermilion) | 59037
-- [ ] Fancy kimono (Parrot green) | 59038
-- [ ] Fancy kimono (Green) | 59039
-- [ ] Fancy kimono (Indigo blue) | 59040
-- [ ] Fancy kimono (Pink) | 59041
-- [ ] Fancy kimono (Purple) | 59042
-- [ ] Fancy kimono (Aqua) | 59043
-- [ ] Fancy kimono (Pale orange) | 59044
+- [x] Fancy kimono (Vermilion) | 59037
+- [x] Fancy kimono (Parrot green) | 59038
+- [x] Fancy kimono (Green) | 59039
+- [x] Fancy kimono (Indigo blue) | 59040
+- [x] Fancy kimono (Pink) | 59041
+- [x] Fancy kimono (Purple) | 59042
+- [x] Fancy kimono (Aqua) | 59043
+- [x] Fancy kimono (Pale orange) | 59044
 - [ ] Fancy party dress (Blue) | 59045
 - [x] Fancy party dress (Pink) | 59046
 - [x] Fancy party dress (Green) | 59047
@@ -414,9 +414,9 @@
 - [x] Jumper work suit (Brown) | 59198
 - [x] Jumper work suit (Black) | 59199
 - [x] Junihitoe kimono (Red) | 24503
-- [ ] Kabuki-actor yukata (Gray) | 59200
-- [ ] Kabuki-actor yukata (Fuchsia) | 59201
-- [ ] Kabuki-actor yukata (Dark blue) | 59202
+- [x] Kabuki-actor yukata (Gray) | 59200
+- [x] Kabuki-actor yukata (Fuchsia) | 59201
+- [x] Kabuki-actor yukata (Dark blue) | 59202
 - [ ] Kandoora (Brown) | 59203
 - [ ] Kandoora (Gray) | 59204
 - [ ] Kandoora (White) | 59205
@@ -508,15 +508,15 @@
 - [x] Maxi shirtdress (Pink) | 59288
 - [x] Maxi shirtdress (Green) | 59289
 - [x] Miko attire (Vermilion) | 59290
-- [ ] Miko attire (Aqua) | 59291
+- [x] Miko attire (Aqua) | 59291
 - [x] Milkmaid dress (Green) | 59292
 - [x] Milkmaid dress (Blue) | 59293
 - [x] Milkmaid dress (Red) | 59294
 - [x] Moldy dress (Beige) | 24530
-- [ ] Morning-glory yukata (Aqua) | 59295
-- [ ] Morning-glory yukata (Pale green) | 59296
+- [x] Morning-glory yukata (Aqua) | 59295
+- [x] Morning-glory yukata (Pale green) | 59296
 - [x] Morning-glory yukata (Dark blue) | 59297
-- [ ] Morning-glory yukata (White) | 59298
+- [x] Morning-glory yukata (White) | 59298
 - [x] Mummy outfit (White) | 24532
 - [x] Mysterious dress (Red) | 59299
 - [x] Mysterious dress (Purple) | 59300
@@ -556,10 +556,10 @@
 - [x] Office uniform (Blue) | 59334
 - [x] Office uniform (Pink) | 59335
 - [x] Office uniform (Gray) | 59336
-- [ ] Old commoner's kimono (Blue) | 59337
-- [ ] Old commoner's kimono (Green) | 59338
-- [ ] Old commoner's kimono (Red) | 59339
-- [ ] Old commoner's kimono (Golden yellow) | 59340
+- [x] Old commoner's kimono (Blue) | 59337
+- [x] Old commoner's kimono (Green) | 59338
+- [x] Old commoner's kimono (Red) | 59339
+- [x] Old commoner's kimono (Golden yellow) | 59340
 - [x] Orange dress (Orange) | 24541
 - [x] Overall dress (Yellow) | 59341
 - [x] Overall dress (Beige) | 59342
@@ -729,11 +729,11 @@
 - [ ] Simple checkered dress (Green) | 59499
 - [ ] Simple checkered dress (Beige) | 59500
 - [ ] Simple checkered dress (Pink) | 59501
-- [ ] Simple visiting kimono (Pale green) | 59502
+- [x] Simple visiting kimono (Pale green) | 59502
 - [x] Simple visiting kimono (Gray) | 59503
 - [x] Simple visiting kimono (Wisteria) | 59504
 - [x] Simple visiting kimono (Pink) | 59505
-- [ ] Simple visiting kimono (Indigo blue) | 59506
+- [x] Simple visiting kimono (Indigo blue) | 59506
 - [x] Simple visiting kimono (Orange) | 59507
 - [x] Simple visiting kimono (Aqua) | 59508
 - [x] Simple visiting kimono (Yellow) | 59509

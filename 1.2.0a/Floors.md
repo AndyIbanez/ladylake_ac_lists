@@ -166,7 +166,7 @@
 - [x] White honeycomb tile | 22908
 - [x] White iron-parquet flooring | 22909
 - [x] White mosaic-tile flooring | 22910
-- [ ] White wedding flooring | 27102
+- [x] White wedding flooring | 27102
 - [x] White-brick flooring | 22911
 - [x] White-chocolates flooring | 22912
 - [x] White-paint flooring | 22913

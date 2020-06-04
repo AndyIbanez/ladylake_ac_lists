@@ -247,17 +247,17 @@
 - [x] Simple knee-high socks (Blue) | 60716
 - [ ] Simple knee-high socks (Pink) | 60717
 - [x] Simple-accent socks (Black) | 60718
-- [ ] Simple-accent socks (White) | 60719
-- [ ] Simple-accent socks (Gray) | 60720
-- [ ] Simple-accent socks (Blue) | 60721
-- [ ] Simple-accent socks (Orange) | 60722
-- [ ] Simple-accent socks (Red) | 60723
-- [ ] Simple-accent socks (Pink) | 60724
-- [ ] Simple-accent socks (Navy blue) | 60725
+- [x] Simple-accent socks (White) | 60719
+- [x] Simple-accent socks (Gray) | 60720
+- [x] Simple-accent socks (Blue) | 60721
+- [x] Simple-accent socks (Orange) | 60722
+- [x] Simple-accent socks (Red) | 60723
+- [x] Simple-accent socks (Pink) | 60724
+- [x] Simple-accent socks (Navy blue) | 60725
 - [ ] Soccer socks (Red) | 60726
 - [ ] Soccer socks (Green) | 60727
 - [ ] Soccer socks (Light blue) | 60728
-- [ ] Soccer socks (Black) | 60729
+- [x] Soccer socks (Black) | 60729
 - [ ] Soccer socks (Orange) | 60730
 - [ ] Soccer socks (White) | 60731
 - [x] Soccer socks (Blue) | 60732
@@ -327,14 +327,14 @@
 - [x] Vivid leggings (Green) | 60796
 - [x] Vivid leggings (Orange) | 60797
 - [x] Vivid leggings (Light blue) | 60798
-- [ ] Vivid socks (Red) | 60799
-- [ ] Vivid socks (Green) | 60800
-- [ ] Vivid socks (Light blue) | 60801
-- [ ] Vivid socks (Blue) | 60802
-- [ ] Vivid socks (Purple) | 60803
-- [ ] Vivid socks (Pink) | 60804
-- [ ] Vivid socks (Orange) | 60805
-- [ ] Vivid socks (Yellow) | 60806
+- [x] Vivid socks (Red) | 60799
+- [x] Vivid socks (Green) | 60800
+- [x] Vivid socks (Light blue) | 60801
+- [x] Vivid socks (Blue) | 60802
+- [x] Vivid socks (Purple) | 60803
+- [x] Vivid socks (Pink) | 60804
+- [x] Vivid socks (Orange) | 60805
+- [x] Vivid socks (Yellow) | 60806
 - [x] Vivid tights (Blue) | 60807
 - [x] Vivid tights (Yellow) | 60808
 - [x] Vivid tights (Green) | 60809

@@ -138,6 +138,7 @@ Western desert
 White honeycomb tile
 White iron-parquet flooring
 White mosaic-tile flooring
+White wedding flooring
 White-brick flooring
 White-chocolates flooring
 White-paint flooring
