@@ -57,8 +57,8 @@
 - [x] Baseball uniform (Yellow) | 58860
 - [x] Baseball uniform (Red) | 58861
 - [x] Bath-towel wrap (Pink) | 58862
-- [ ] Bath-towel wrap (White) | 58863
-- [ ] Bath-towel wrap (Blue) | 58864
+- [x] Bath-towel wrap (White) | 58863
+- [x] Bath-towel wrap (Blue) | 58864
 - [x] Bath-towel wrap (Green) | 58865
 - [x] Bath-towel wrap (Purple) | 58866
 - [ ] Bath-towel wrap (Black) | 58867

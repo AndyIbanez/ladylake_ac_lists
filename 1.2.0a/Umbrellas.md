@@ -12,7 +12,7 @@
 - [x] Candy umbrella | 25109
 - [x] Cherry umbrella | 25110
 - [x] Cherry-blossom umbrella | 25111
-- [ ] DAL umbrella | 25112
+- [x] DAL umbrella | 25112
 - [x] Eggy parasol | 25113
 - [x] Exquisite parasol | 25114
 - [x] Fairy-tale umbrella | 25115
