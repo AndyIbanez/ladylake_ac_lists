@@ -10,6 +10,7 @@ Busted umbrella
 Candy umbrella
 Cherry umbrella
 Cherry-blossom umbrella
+DAL umbrella
 Eggy parasol
 Exquisite parasol
 Fairy-tale umbrella
