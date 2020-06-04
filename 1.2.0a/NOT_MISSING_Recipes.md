@@ -131,6 +131,7 @@ Earth-egg shell
 Earth-egg shoes
 Egg party dress
 Egg party hat
+Fancy lily wreath
 Firewood
 Fish bait
 Fishing rod
@@ -272,6 +273,7 @@ Money flooring
 Moon
 Mossy garden rock
 Mountain standee
+Mum crown
 Mum cushion
 Mum wreath
 Mums wand
@@ -378,6 +380,7 @@ Space shuttle
 Spiky fence
 Stack of books
 Stacked magazines
+Stacked-wood wall
 Stall
 Standard umbrella stand
 Star clock

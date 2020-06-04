@@ -25,7 +25,6 @@ Cool windflower wreath
 Dark cosmos crown
 Dark lily crown
 Dark tulip crown
-Fancy lily wreath
 Fancy mum wreath
 Fancy rose wreath
 Festive top set
@@ -64,7 +63,6 @@ Leo sculpture
 Libra scale
 Lily wreath
 Lovely cosmos crown
-Mum crown
 Ornament mobile
 Ornament wreath
 Pear umbrella
@@ -92,7 +90,6 @@ Snowflake pochette
 Snowflake wall
 Snowflake wreath
 Snowperson head
-Stacked-wood wall
 Tabletop festive tree
 Three-tiered snowperson
 Tropical vista

@@ -158,7 +158,7 @@
 - [x] Earth-egg shoes | 25686
 - [x] Egg party dress | 25276
 - [x] Egg party hat | 25346
-- [ ] Fancy lily wreath | 25766
+- [x] Fancy lily wreath | 25766
 - [ ] Fancy mum wreath | 25767
 - [ ] Fancy rose wreath | 25768
 - [ ] Festive top set | 25623
@@ -338,7 +338,7 @@
 - [x] Moon | 25504
 - [x] Mossy garden rock | 25505
 - [x] Mountain standee | 25506
-- [ ] Mum crown | 25355
+- [x] Mum crown | 25355
 - [x] Mum cushion | 25507
 - [x] Mum wreath | 25784
 - [x] Mums wand | 25717
@@ -472,7 +472,7 @@
 - [x] Spiky fence | 25299
 - [x] Stack of books | 25652
 - [x] Stacked magazines | 25653
-- [ ] Stacked-wood wall | 25841
+- [x] Stacked-wood wall | 25841
 - [x] Stall | 25557
 - [x] Standard umbrella stand | 25558
 - [x] Star clock | 25654
