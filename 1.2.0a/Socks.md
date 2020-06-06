@@ -296,13 +296,13 @@
 - [x] Tabi (Navy blue) | 60765
 - [x] Tabi (White) | 60766
 - [x] Tabi (Black) | 60767
-- [ ] Terry-cloth socks (Purple) | 60768
-- [ ] Terry-cloth socks (Pink) | 60769
-- [ ] Terry-cloth socks (Blue) | 60770
-- [ ] Terry-cloth socks (Green) | 60771
-- [ ] Terry-cloth socks (Beige) | 60772
-- [ ] Terry-cloth socks (Red) | 60773
-- [ ] Terry-cloth socks (Gray) | 60774
+- [x] Terry-cloth socks (Purple) | 60768
+- [x] Terry-cloth socks (Pink) | 60769
+- [x] Terry-cloth socks (Blue) | 60770
+- [x] Terry-cloth socks (Green) | 60771
+- [x] Terry-cloth socks (Beige) | 60772
+- [x] Terry-cloth socks (Red) | 60773
+- [x] Terry-cloth socks (Gray) | 60774
 - [x] Tube socks (Blue) | 60775
 - [x] Tube socks (Orange) | 60776
 - [x] Tube socks (Green) | 60777

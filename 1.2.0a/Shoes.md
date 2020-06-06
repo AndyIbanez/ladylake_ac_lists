@@ -239,13 +239,13 @@
 - [x] Pleather sneakers (Yellow) | 61051
 - [x] Pleather sneakers (Light blue) | 61052
 - [x] Pleather sneakers (Orange) | 61053
-- [ ] Pom-pom boots (Pink) | 61054
-- [ ] Pom-pom boots (Red) | 61055
-- [ ] Pom-pom boots (Yellow) | 61056
-- [ ] Pom-pom boots (Purple) | 61057
+- [x] Pom-pom boots (Pink) | 61054
+- [x] Pom-pom boots (Red) | 61055
+- [x] Pom-pom boots (Yellow) | 61056
+- [x] Pom-pom boots (Purple) | 61057
 - [x] Pom-pom boots (Green) | 61058
-- [ ] Pom-pom boots (Blue) | 61059
-- [ ] Pom-pom boots (Black) | 61060
+- [x] Pom-pom boots (Blue) | 61059
+- [x] Pom-pom boots (Black) | 61060
 - [ ] Power boots (Red) | 61061
 - [ ] Power boots (Blue) | 61062
 - [ ] Power boots (Green) | 61063
