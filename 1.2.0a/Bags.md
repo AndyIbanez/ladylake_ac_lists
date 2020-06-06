@@ -7,7 +7,7 @@
 - [x] Cherry-blossom pochette (Pink) | 25059
 - [x] Cloth shoulder bag (Blue) | 61257
 - [x] Cloth shoulder bag (Orange) | 61258
-- [ ] Cloth shoulder bag (Ivory) | 61259
+- [x] Cloth shoulder bag (Ivory) | 61259
 - [ ] Crossbody bag (Green) | 61260
 - [x] Crossbody bag (Yellow) | 61261
 - [x] Crossbody bag (White) | 61262
@@ -47,7 +47,7 @@
 - [x] Messenger bag (Orange) | 61291
 - [x] Messenger bag (Black) | 61292
 - [x] Mini pleather bag (Black) | 61293
-- [ ] Mini pleather bag (White) | 61294
+- [x] Mini pleather bag (White) | 61294
 - [ ] Mom's knapsack (Polka dots) | 61295
 - [ ] Mom's knapsack (Colorful quilt design) | 61296
 - [x] Mom's knapsack (Cherries) | 61297

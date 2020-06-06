@@ -499,7 +499,7 @@
 - [x] Scholar's hat (Green) | 60095
 - [x] Scholar's hat (Blue) | 60096
 - [x] Scholar's hat (Yellow) | 60097
-- [ ] School hat (Navy blue) | 60098
+- [x] School hat (Navy blue) | 60098
 - [x] School hat (Yellow) | 60099
 - [x] Shallow knit cap (Green) | 60100
 - [x] Shallow knit cap (Beige) | 60101

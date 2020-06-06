@@ -78,7 +78,6 @@ Sagittarius arrow
 Sakura-wood flooring
 Sakura-wood wall
 Scorpio lamp
-Shell lamp
 Shell partition
 Shell wand
 Shellfish pochette
@@ -99,4 +98,3 @@ Water flooring
 Wedding fence
 Wedding wand
 Windflower wreath
-Wooden-plank sign

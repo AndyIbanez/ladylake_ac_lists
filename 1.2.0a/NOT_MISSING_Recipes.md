@@ -359,6 +359,7 @@ Sci-fi wall
 Shell arch
 Shell bed
 Shell fountain
+Shell lamp
 Shell rug
 Shell speaker
 Shell stool
@@ -487,6 +488,7 @@ Wooden-block toy
 Wooden-block wall clock
 Wooden-knot wall
 Wooden-mosaic wall
+Wooden-plank sign
 Woodland wall
 Yellow-leaf pile
 Zen fence

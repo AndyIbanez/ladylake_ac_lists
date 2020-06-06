@@ -439,7 +439,7 @@
 - [x] Shell arch | 25544
 - [x] Shell bed | 25545
 - [x] Shell fountain | 25546
-- [ ] Shell lamp | 25650
+- [x] Shell lamp | 25650
 - [ ] Shell partition | 25547
 - [x] Shell rug | 25684
 - [x] Shell speaker | 25651
@@ -588,7 +588,7 @@
 - [x] Wooden-block wall clock | 25807
 - [x] Wooden-knot wall | 25849
 - [x] Wooden-mosaic wall | 25850
-- [ ] Wooden-plank sign | 25808
+- [x] Wooden-plank sign | 25808
 - [x] Woodland wall | 25851
 - [x] Yellow-leaf pile | 25607
 - [x] Zen fence | 25303

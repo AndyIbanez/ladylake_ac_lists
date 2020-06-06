@@ -199,13 +199,13 @@
 - [x] Mary janes (Blue) | 61012
 - [x] Mary janes (Green) | 61013
 - [x] Mary janes (Pink) | 61014
-- [ ] Moccasin boots (Camel) | 61015
-- [ ] Moccasin boots (Olive) | 61016
-- [ ] Moccasin boots (Beige) | 61017
-- [ ] Moccasin boots (Pink) | 61018
-- [ ] Moccasin boots (Black) | 61019
-- [ ] Moccasin boots (Blue) | 61020
-- [ ] Moccasin boots (Orange) | 61021
+- [x] Moccasin boots (Camel) | 61015
+- [x] Moccasin boots (Olive) | 61016
+- [x] Moccasin boots (Beige) | 61017
+- [x] Moccasin boots (Pink) | 61018
+- [x] Moccasin boots (Black) | 61019
+- [x] Moccasin boots (Blue) | 61020
+- [x] Moccasin boots (Orange) | 61021
 - [x] Moccasins (Camel) | 61022
 - [x] Moccasins (Red) | 61023
 - [x] Moccasins (Light blue) | 61024
