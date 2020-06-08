@@ -72,7 +72,6 @@ Pretty cosmos wreath
 Purple hyacinth crown
 Purple hyacinth wreath
 Purple pansy crown
-Purple windflower crown
 Rose crown
 Sagittarius arrow
 Sakura-wood flooring

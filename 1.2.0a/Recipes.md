@@ -409,7 +409,7 @@
 - [ ] Purple hyacinth crown | 25360
 - [ ] Purple hyacinth wreath | 25795
 - [ ] Purple pansy crown | 25361
-- [ ] Purple windflower crown | 25362
+- [x] Purple windflower crown | 25362
 - [x] Raccoon figurine | 25533
 - [x] Recycled boots | 25689
 - [x] Recycled-can thumb piano | 25647

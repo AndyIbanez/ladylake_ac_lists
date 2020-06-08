@@ -90,10 +90,10 @@
 - [x] Blossom dress (Purple) | 58892
 - [x] Blossoming kimono (Pink) | 58893
 - [x] Blossoming kimono (Green tea) | 58894
-- [ ] Boa parka (Purple) | 58895
-- [ ] Boa parka (Gray) | 58896
-- [ ] Boa parka (Pink) | 58897
-- [ ] Boa parka (Mint) | 58898
+- [x] Boa parka (Purple) | 58895
+- [x] Boa parka (Gray) | 58896
+- [x] Boa parka (Pink) | 58897
+- [x] Boa parka (Mint) | 58898
 - [ ] Bohemian tunic dress (Navy blue) | 58899
 - [ ] Bohemian tunic dress (Green) | 58900
 - [ ] Bohemian tunic dress (Red) | 58901
@@ -389,9 +389,9 @@
 - [x] Instant-muscles suit (Yellow) | 59174
 - [ ] Iron armor (Gray) | 24497
 - [x] Jester costume (Black & white) | 59175
-- [ ] Jester costume (Red & blue) | 59176
-- [ ] Jester costume (Green & red) | 59177
-- [ ] Jester costume (Purple & yellow) | 59178
+- [x] Jester costume (Red & blue) | 59176
+- [x] Jester costume (Green & red) | 59177
+- [x] Jester costume (Purple & yellow) | 59178
 - [ ] Jinbei (Fuchsia) | 59179
 - [ ] Jinbei (Gray) | 59180
 - [x] Jinbei (Dark blue) | 59181
