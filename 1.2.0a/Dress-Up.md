@@ -61,7 +61,7 @@
 - [x] Bath-towel wrap (Blue) | 58864
 - [x] Bath-towel wrap (Green) | 58865
 - [x] Bath-towel wrap (Purple) | 58866
-- [ ] Bath-towel wrap (Black) | 58867
+- [x] Bath-towel wrap (Black) | 58867
 - [x] Bath-towel wrap (Brown) | 58868
 - [x] Bathrobe (White) | 58869
 - [x] Bathrobe (Purple) | 58870
