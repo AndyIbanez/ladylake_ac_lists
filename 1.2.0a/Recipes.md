@@ -546,8 +546,8 @@
 - [x] Water-egg shoes | 25692
 - [x] Watering can | 25733
 - [x] Wave breaker | 25582
-- [ ] Wedding fence | 27123
-- [ ] Wedding wand | 27124
+- [x] Wedding fence | 27123
+- [x] Wedding wand | 27124
 - [x] Western-style stone | 25583
 - [x] Wild log bench | 25584
 - [x] Wild-wood wall | 25848

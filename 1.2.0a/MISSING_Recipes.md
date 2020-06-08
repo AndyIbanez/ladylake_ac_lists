@@ -95,6 +95,4 @@ Tropical vista
 Underwater wall
 Virgo harp
 Water flooring
-Wedding fence
-Wedding wand
 Windflower wreath

@@ -185,22 +185,22 @@
 - [ ] Dazed dress (Blue) | 58982
 - [ ] Dazed dress (Green) | 58983
 - [ ] Dazed dress (Pink) | 58984
-- [ ] Denim overalls (Beige) | 58985
-- [ ] Denim overalls (Avocado) | 58986
-- [ ] Denim overalls (White) | 58987
-- [ ] Denim overalls (Orange) | 58988
-- [ ] Denim overalls (Blue) | 58989
-- [ ] Denim overalls (Red) | 58990
-- [ ] Denim overalls (Black) | 58991
-- [ ] Denim overalls (Brown) | 58992
+- [x] Denim overalls (Beige) | 58985
+- [x] Denim overalls (Avocado) | 58986
+- [x] Denim overalls (White) | 58987
+- [x] Denim overalls (Orange) | 58988
+- [x] Denim overalls (Blue) | 58989
+- [x] Denim overalls (Red) | 58990
+- [x] Denim overalls (Black) | 58991
+- [x] Denim overalls (Brown) | 58992
 - [ ] Desert outfit (Pink) | 58993
 - [ ] Desert outfit (Yellow) | 58994
 - [ ] Desert outfit (Purple) | 58995
 - [ ] Desert outfit (Blue) | 58996
 - [x] Desert-princess outfit (Purple) | 58997
 - [x] Desert-princess outfit (Pink) | 58998
-- [ ] Desert-princess outfit (Yellow) | 58999
-- [ ] Desert-princess outfit (Blue) | 59000
+- [x] Desert-princess outfit (Yellow) | 58999
+- [x] Desert-princess outfit (Blue) | 59000
 - [x] Diner uniform (Red) | 59001
 - [x] Diner uniform (Blue) | 59002
 - [x] Diner uniform (Pink) | 59003
@@ -600,8 +600,8 @@
 - [x] Parka dress (Green) | 59371
 - [x] Parka dress (Pink) | 59372
 - [x] Peach dress (Peach) | 24550
-- [ ] Peacoat-and-skirt combo (Blue) | 59373
-- [ ] Peacoat-and-skirt combo (Red) | 59374
+- [x] Peacoat-and-skirt combo (Blue) | 59373
+- [x] Peacoat-and-skirt combo (Red) | 59374
 - [x] Pear dress (Beige) | 24552
 - [x] Pharaoh's outfit (White) | 24553
 - [x] Pilot's uniform (Light blue) | 59375

@@ -16,8 +16,8 @@
 - [ ] Ballet slippers (Purple) | 60834
 - [ ] Ballet slippers (Black) | 60835
 - [x] Ballet slippers (White) | 60836
-- [ ] Ballet slippers (Yellow) | 60837
-- [ ] Ballet slippers (Red) | 60838
+- [x] Ballet slippers (Yellow) | 60837
+- [x] Ballet slippers (Red) | 60838
 - [x] Basketball shoes (Red) | 60839
 - [x] Basketball shoes (Green) | 60840
 - [x] Basketball shoes (Beige) | 60841

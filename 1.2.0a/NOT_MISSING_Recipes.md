@@ -449,6 +449,8 @@ Water-egg shell
 Water-egg shoes
 Watering can
 Wave breaker
+Wedding fence
+Wedding wand
 Western-style stone
 Wild log bench
 Wild-wood wall
