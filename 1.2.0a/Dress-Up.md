@@ -759,12 +759,12 @@
 - [x] Sleeveless silk dress (Pink) | 59528
 - [x] Sleeveless silk dress (Light blue) | 59529
 - [x] Sleeveless silk dress (Yellow) | 59530
-- [ ] Sleeveless sweater dress (Gray) | 59531
-- [ ] Sleeveless sweater dress (Black) | 59532
-- [ ] Sleeveless sweater dress (White) | 59533
-- [ ] Sleeveless sweater dress (Purple) | 59534
-- [ ] Sleeveless sweater dress (Light blue) | 59535
-- [ ] Sleeveless sweater dress (Lime) | 59536
+- [x] Sleeveless sweater dress (Gray) | 59531
+- [x] Sleeveless sweater dress (Black) | 59532
+- [x] Sleeveless sweater dress (White) | 59533
+- [x] Sleeveless sweater dress (Purple) | 59534
+- [x] Sleeveless sweater dress (Light blue) | 59535
+- [x] Sleeveless sweater dress (Lime) | 59536
 - [x] Space suit (White) | 24592
 - [x] Sprite costume (Red) | 59537
 - [x] Sprite costume (Brown) | 59538

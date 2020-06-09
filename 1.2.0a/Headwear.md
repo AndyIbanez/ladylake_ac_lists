@@ -37,10 +37,10 @@
 - [x] Batter's helmet (Orange) | 59700
 - [x] Batter's helmet (Yellow) | 59701
 - [x] Batter's helmet (Red) | 59702
-- [ ] Bear cap (Brown) | 59703
-- [ ] Bear cap (Black) | 59704
-- [ ] Bear cap (Pink) | 59705
-- [ ] Bear cap (Blue) | 59706
+- [x] Bear cap (Brown) | 59703
+- [x] Bear cap (Black) | 59704
+- [x] Bear cap (Pink) | 59705
+- [x] Bear cap (Blue) | 59706
 - [x] Beret (Berry red) | 59707
 - [x] Beret (Blue) | 59708
 - [x] Beret (Green) | 59709
@@ -170,7 +170,7 @@
 - [ ] Fairy-tale hood (Yellow) | 59807
 - [ ] Fairy-tale hood (Green) | 59808
 - [ ] Fairy-tale hood (Blue) | 59809
-- [ ] Fairy-tale hood (Red) | 59810
+- [x] Fairy-tale hood (Red) | 59810
 - [ ] Fairy-tale hood (Light blue) | 59811
 - [ ] Fairy-tale hood (Light green) | 59812
 - [ ] Fairy-tale hood (Orange) | 59813
@@ -557,7 +557,7 @@
 - [ ] Sombrero (Orange) | 60149
 - [ ] Sombrero (Natural & green) | 60150
 - [ ] Sombrero (Navy blue) | 60151
-- [ ] Space helmet (White) | 24797
+- [x] Space helmet (White) | 24797
 - [x] Sports cap (White & blue) | 60152
 - [x] Sports cap (Red) | 60153
 - [x] Sports cap (White & red) | 60154
@@ -646,7 +646,7 @@
 - [x] Tulip hat (Camel) | 60230
 - [ ] Turban (Blue) | 60231
 - [ ] Turban (Pink) | 60232
-- [ ] Turban (Yellow) | 60233
+- [x] Turban (Yellow) | 60233
 - [ ] Turban (Purple) | 60234
 - [x] Tweed cap (Brown) | 60235
 - [x] Tweed cap (Blue) | 60236
@@ -654,7 +654,7 @@
 - [ ] Veil (Blue) | 60238
 - [ ] Veil (Purple) | 60239
 - [ ] Veil (Pink) | 60240
-- [ ] Veil (Yellow) | 60241
+- [x] Veil (Yellow) | 60241
 - [x] Veiled gardening hat (Pink) | 60242
 - [x] Veiled gardening hat (Blue) | 60243
 - [x] Veiled gardening hat (Orange) | 60244
