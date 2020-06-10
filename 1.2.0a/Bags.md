@@ -22,7 +22,7 @@
 - [x] Evening bag (Black) | 61270
 - [x] Extra-large backpack (Red) | 61271
 - [ ] Extra-large backpack (Green) | 61272
-- [ ] Extra-large backpack (Black) | 61273
+- [x] Extra-large backpack (Black) | 61273
 - [x] Extra-large backpack (Blue) | 61274
 - [x] Faux-fur bag (Pink) | 61275
 - [x] Faux-fur bag (Purple) | 61276
@@ -66,9 +66,9 @@
 - [x] Pleather fringe bag (White) | 61309
 - [x] Pleather shoulder bag (Brown) | 61310
 - [x] Pleather shoulder bag (Navy blue) | 61311
-- [ ] Retro sports bag (Red) | 61312
+- [x] Retro sports bag (Red) | 61312
 - [x] Retro sports bag (Black) | 61313
-- [ ] Retro sports bag (Blue) | 61314
+- [x] Retro sports bag (Blue) | 61314
 - [ ] Sacoche bag (Blue) | 61315
 - [ ] Sacoche bag (Red) | 61316
 - [x] Sacoche bag (Black) | 61317
