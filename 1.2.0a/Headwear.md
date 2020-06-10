@@ -64,7 +64,7 @@
 - [x] Bowler hat with ribbon (Red) | 59726
 - [x] Bowler hat with ribbon (Pink) | 59727
 - [x] Bowler hat with ribbon (Blue) | 59728
-- [ ] Bridal veil () | 27117
+- [x] Bridal veil () | 27117
 - [x] Bun wig (Pink) | 59729
 - [x] Bun wig (White) | 59730
 - [x] Bun wig (Purple) | 59731
@@ -220,7 +220,7 @@
 - [x] Frog cap (Yellow) | 59857
 - [x] Frugal hat (Brown) | 59858
 - [x] Frugal hat (Green) | 59859
-- [ ] Frugal hat (Blue-gray) | 59860
+- [x] Frugal hat (Blue-gray) | 59860
 - [x] Geisha wig (Pink) | 59861
 - [ ] Geisha wig (Golden yellow) | 59862
 - [ ] Geisha wig (Green) | 59863
@@ -410,11 +410,11 @@
 - [x] Paisley bandanna (Red) | 60020
 - [ ] Pansy crown (Colorful) | 24753
 - [x] Paper bag (Beige) | 24754
-- [ ] Paperboy cap (Brown) | 60021
-- [ ] Paperboy cap (Gray) | 60022
+- [x] Paperboy cap (Brown) | 60021
+- [x] Paperboy cap (Gray) | 60022
 - [x] Paperboy cap (Green) | 60023
-- [ ] Paperboy cap (Blue) | 60024
-- [ ] Paperboy cap (Red) | 60025
+- [x] Paperboy cap (Blue) | 60024
+- [x] Paperboy cap (Red) | 60025
 - [x] Patchwork tulip hat (Pink) | 60026
 - [ ] Patchwork tulip hat (Blue) | 60027
 - [ ] Patchwork tulip hat (Yellow) | 60028

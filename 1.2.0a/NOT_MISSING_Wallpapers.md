@@ -87,6 +87,7 @@ Green intricate wall
 Green molded-panel wall
 Green painted-wood wall
 Green playroom wall
+Green wedding wall
 Green-paint wall
 Groovy wall
 Harmonious wall
@@ -156,6 +157,7 @@ Rice-paddy wall
 Ringside seating
 Rock-climbing wall
 Rose wall
+Ruins wall
 Rustic-stone wall
 Sakura-wood wall
 Sci-fi wall

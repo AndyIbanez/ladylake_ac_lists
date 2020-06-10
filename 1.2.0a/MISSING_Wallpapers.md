@@ -13,7 +13,6 @@ Gold-screen wall
 Golden wall
 Gray molded-panel wall
 Green honeycomb-tile wall
-Green wedding wall
 Honeycomb wall
 Ice wall
 Iceberg wall
@@ -27,7 +26,6 @@ Peach two-toned tile wall
 Peach wall
 Pear wall
 Pink diner wall
-Ruins wall
 Ski-slope wall
 Snowflake wall
 Stacked-wood wall

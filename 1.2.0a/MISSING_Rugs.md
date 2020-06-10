@@ -8,7 +8,6 @@ Blue message mat
 Blue small round mat
 Blue stripes rug
 Blue vinyl sheet
-Botanical rug
 Brown argyle rug
 Brown kitchen mat
 Cherry rug
@@ -35,7 +34,6 @@ Red Persian rug
 Red argyle rug
 Red medium round mat
 Red vinyl sheet
-Red wedding rug
 Red-and-blue checked rug
 Red-design kitchen mat
 Shell rug

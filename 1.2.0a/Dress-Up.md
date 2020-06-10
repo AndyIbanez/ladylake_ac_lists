@@ -117,7 +117,7 @@
 - [x] Butterfly visiting kimono (Black) | 58918
 - [x] Butterfly visiting kimono (Indigo blue) | 58919
 - [x] Butterfly visiting kimono (Fuchsia) | 58920
-- [ ] Cake dress | 27115
+- [x] Cake dress | 27115
 - [ ] Casual chic dress (Light blue) | 58921
 - [ ] Casual chic dress (Pink) | 58922
 - [ ] Casual chic dress (Green) | 58923
@@ -591,8 +591,8 @@
 - [ ] Pajama dress (Brown) | 59363
 - [ ] Pajama dress (Navy blue) | 59364
 - [ ] Palatial tank dress (White) | 24547
-- [ ] Parka and shirtdress (Yellow) | 59365
-- [ ] Parka and shirtdress (Red) | 59366
+- [x] Parka and shirtdress (Yellow) | 59365
+- [x] Parka and shirtdress (Red) | 59366
 - [x] Parka and shirtdress (Blue) | 59367
 - [x] Parka dress (Yellow) | 59368
 - [x] Parka dress (Orange) | 59369
@@ -615,7 +615,7 @@
 - [ ] Pintuck-pleated dress (Lime) | 59382
 - [ ] Pintuck-pleated dress (Green) | 59383
 - [ ] Pintuck-pleated dress (Purple) | 59384
-- [ ] Pintuck-pleated dress (Light blue) | 59385
+- [x] Pintuck-pleated dress (Light blue) | 59385
 - [ ] Pintuck-pleated dress (Brown) | 59386
 - [ ] Plaid-print dress (Energetic plaid) | 59392
 - [ ] Plaid-print dress (Fancy plaid) | 59393
@@ -879,7 +879,7 @@
 - [ ] Visual-punk outfit (Black) | 24621
 - [x] Water-egg outfit (None) | 24622
 - [ ] Watermelon dress (Red) | 24623
-- [ ] Wedding tuxedo | 27116
+- [x] Wedding tuxedo | 27116
 - [x] Wizard's robe (Purple) | 59643
 - [x] Wizard's robe (Blue) | 59644
 - [x] Wood-egg outfit (None) | 24625

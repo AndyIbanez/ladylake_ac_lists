@@ -24,7 +24,7 @@
 - [x] Brown floral flooring | 22768
 - [x] Brown honeycomb tile | 22769
 - [x] Brown iron-parquet flooring | 22770
-- [ ] Brown wedding flooring | 27100
+- [x] Brown wedding flooring | 27100
 - [x] Brown-brick flooring | 22771
 - [x] Bunny Day flooring | 22772
 - [x] Camo flooring | 22773
@@ -56,7 +56,7 @@
 - [x] Dark-block flooring | 22799
 - [x] Dark-chocolates flooring | 22800
 - [x] Dig-site flooring | 22801
-- [ ] Dirt flooring | 22802
+- [x] Dirt flooring | 22802
 - [x] Field flooring | 22803
 - [x] Flagstone flooring | 22804
 - [ ] Floral mosaic-tile flooring | 22805
@@ -77,7 +77,7 @@
 - [x] Green retro flooring | 22820
 - [x] Green rubber flooring | 22821
 - [x] Green vinyl flooring | 22822
-- [ ] Green wedding flooring | 27101
+- [x] Green wedding flooring | 27101
 - [x] Green-paint flooring | 22823
 - [x] Hexagonal floral flooring | 22824
 - [x] Highway flooring | 22825

@@ -22,6 +22,7 @@ Brown argyle-tile flooring
 Brown floral flooring
 Brown honeycomb tile
 Brown iron-parquet flooring
+Brown wedding flooring
 Brown-brick flooring
 Bunny Day flooring
 Camo flooring
@@ -51,6 +52,7 @@ Dark wood-pattern flooring
 Dark-block flooring
 Dark-chocolates flooring
 Dig-site flooring
+Dirt flooring
 Field flooring
 Flagstone flooring
 Floral rush-mat flooring
@@ -68,6 +70,7 @@ Green honeycomb tile
 Green retro flooring
 Green rubber flooring
 Green vinyl flooring
+Green wedding flooring
 Green-paint flooring
 Hexagonal floral flooring
 Highway flooring

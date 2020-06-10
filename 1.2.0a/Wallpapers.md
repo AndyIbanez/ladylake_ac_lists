@@ -102,7 +102,7 @@
 - [x] Green molded-panel wall | 22602
 - [x] Green painted-wood wall | 22603
 - [x] Green playroom wall | 22604
-- [ ] Green wedding wall | 27097
+- [x] Green wedding wall | 27097
 - [x] Green-paint wall | 22605
 - [x] Groovy wall | 22606
 - [x] Harmonious wall | 22607
@@ -185,7 +185,7 @@
 - [x] Ringside seating | 22684
 - [x] Rock-climbing wall | 22685
 - [x] Rose wall | 22686
-- [ ] Ruins wall | 22687
+- [x] Ruins wall | 22687
 - [x] Rustic-stone wall | 22688
 - [x] Sakura-wood wall | 22689
 - [x] Sci-fi wall | 22690

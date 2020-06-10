@@ -79,11 +79,11 @@
 - [x] Glass-bottle glasses (Black) | 24864
 - [x] Goatee (Black) | 24865
 - [x] Goggles (Black) | 60344
-- [ ] Goggles (Blue) | 60345
-- [ ] Goggles (Pink) | 60346
-- [ ] Goggles (Green) | 60347
+- [x] Goggles (Blue) | 60345
+- [x] Goggles (Pink) | 60346
+- [x] Goggles (Green) | 60347
 - [x] Goggles (Purple) | 60348
-- [ ] Goggles (Red) | 60349
+- [x] Goggles (Red) | 60349
 - [x] HMD (White) | 24869
 - [x] Handlebar mustache (Black) | 24867
 - [x] Heart shades (Pink) | 60350

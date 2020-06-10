@@ -19,7 +19,7 @@
 - [x] Blue wavy rug | 22935
 - [x] Blue wedding rug | 27104
 - [x] Blue-design kitchen mat | 22936
-- [ ] Botanical rug | 22937
+- [x] Botanical rug | 22937
 - [ ] Brown argyle rug | 22938
 - [ ] Brown kitchen mat | 22939
 - [x] Brown shaggy rug | 22940
@@ -80,7 +80,7 @@
 - [x] Red small round mat | 22995
 - [ ] Red vinyl sheet | 22996
 - [x] Red wavy rug | 22997
-- [ ] Red wedding rug | 27105
+- [x] Red wedding rug | 27105
 - [ ] Red-and-blue checked rug | 22998
 - [ ] Red-design kitchen mat | 22999
 - [x] Retro dotted rug | 23000

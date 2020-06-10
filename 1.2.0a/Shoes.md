@@ -4,7 +4,7 @@
 - [ ] Armor shoes (Gray) | 24969
 - [ ] Babouches (Blue) | 60823
 - [x] Babouches (Orange) | 60824
-- [ ] Babouches (Pink) | 60825
+- [x] Babouches (Pink) | 60825
 - [ ] Babouches (Yellow) | 60826
 - [ ] Babouches (Gray) | 60827
 - [ ] Babouches (Purple) | 60828
@@ -138,7 +138,7 @@
 - [x] House slippers (Blue) | 60953
 - [x] House slippers (Red) | 60954
 - [x] House slippers (Beige) | 60955
-- [ ] Jester's shoes (Purple) | 60956
+- [x] Jester's shoes (Purple) | 60956
 - [x] Jester's shoes (Black) | 60957
 - [x] Jester's shoes (Red) | 60958
 - [ ] Jester's shoes (Green) | 60959
@@ -331,8 +331,8 @@
 - [x] Slip-on school shoes (Red) | 61141
 - [x] Slip-on school shoes (Blue) | 61142
 - [ ] Slip-on school shoes (Green) | 61143
-- [ ] Slip-on school shoes (Yellow) | 61144
-- [ ] Slip-on school shoes (Pink) | 61145
+- [x] Slip-on school shoes (Yellow) | 61144
+- [x] Slip-on school shoes (Pink) | 61145
 - [x] Slippers (Gray) | 61146
 - [x] Slippers (Black) | 61147
 - [x] Slippers (White) | 61148
@@ -365,7 +365,7 @@
 - [x] Strappy heels (Pink) | 61173
 - [x] Strappy heels (Green) | 61174
 - [x] Strappy heels (Purple) | 61175
-- [ ] Traditional flower shoes (Red) | 61176
+- [x] Traditional flower shoes (Red) | 61176
 - [ ] Traditional flower shoes (Pink) | 61177
 - [ ] Traditional flower shoes (Blue) | 61178
 - [x] Traditional flower shoes (Yellow) | 61179
@@ -410,8 +410,8 @@
 - [x] Water shoes (Red) | 61217
 - [x] Water shoes (Black) | 61218
 - [x] Water-egg shoes (None) | 25044
-- [ ] Wedding pumps | 27120
-- [ ] Wedding shoes | 27121
+- [x] Wedding pumps | 27120
+- [x] Wedding shoes | 27121
 - [x] Wingtip shoes (Black & white) | 61219
 - [x] Wingtip shoes (Brown) | 61220
 - [x] Wingtip shoes (Greige) | 61221

@@ -9,6 +9,7 @@ Blue shaggy rug
 Blue wavy rug
 Blue wedding rug
 Blue-design kitchen mat
+Botanical rug
 Brown shaggy rug
 Brown wooden-deck rug
 Bunny Day rug
@@ -43,6 +44,7 @@ Red message mat
 Red rose rug
 Red small round mat
 Red wavy rug
+Red wedding rug
 Retro dotted rug
 Rough rug
 Rubber mud mat
