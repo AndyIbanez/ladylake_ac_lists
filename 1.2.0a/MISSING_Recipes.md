@@ -4,8 +4,6 @@ Big festive tree
 Blossom-viewing lantern
 Blue rose crown
 Brick fence
-Bridge construction kit
-Campsite construction kit
 Cancer table
 Capricorn ornament
 Cherry-blossom bonsai
@@ -49,7 +47,6 @@ Hyacinth crown
 Ice flooring
 Ice wall
 Ice wand
-Iceberg flooring
 Iceberg wall
 Illuminated present
 Illuminated reindeer
@@ -57,7 +54,6 @@ Illuminated snowflakes
 Illuminated tree
 Iron garden bench
 Jingle wall
-Kettle bathtub
 Large cardboard boxes
 Leo sculpture
 Libra scale
@@ -81,16 +77,13 @@ Shell partition
 Shell wand
 Shellfish pochette
 Signpost
-Ski-slope flooring
 Ski-slope wall
 Snazzy pansy wreath
 Snowflake pochette
 Snowflake wall
 Snowflake wreath
-Snowperson head
 Tabletop festive tree
 Three-tiered snowperson
-Tropical vista
 Underwater wall
 Virgo harp
 Water flooring

@@ -52,6 +52,7 @@ Bonsai shelf
 Boomerang
 Brick oven
 Brick well
+Bridge construction kit
 Brown herringbone wall
 Bunny Day arch
 Bunny Day bag
@@ -75,6 +76,7 @@ Bunny Day wreath
 Butter churn
 Cabin wall
 Campfire
+Campsite construction kit
 Cardboard bed
 Cardboard chair
 Cardboard sofa
@@ -193,6 +195,7 @@ Honeycomb wall
 Hyacinth lamp
 Hyacinth wand
 Hyacinth wreath
+Iceberg flooring
 Imperial fence
 Infused-water dispenser
 Iron armor
@@ -223,6 +226,7 @@ Jail bars
 Juicy-apple TV
 Jungle flooring
 Jungle wall
+Kettle bathtub
 Kettlebell
 Key holder
 Knight's helmet
@@ -372,12 +376,14 @@ Simple DIY workbench
 Simple mum crown
 Simple well
 Simple wooden fence
+Ski-slope flooring
 Sky-egg outfit
 Sky-egg shell
 Sky-egg shoes
 Sleigh
 Slingshot
 Small cardboard boxes
+Snowperson head
 Space shuttle
 Spiky fence
 Stack of books
@@ -434,6 +440,7 @@ Tree's bounty little tree
 Tree's bounty mobile
 Tree-branch wand
 Trophy case
+Tropical vista
 Tulip crown
 Tulip surprise box
 Tulip wand

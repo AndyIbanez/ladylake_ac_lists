@@ -58,7 +58,7 @@
 - [ ] Brick fence | 25289
 - [x] Brick oven | 25401
 - [x] Brick well | 25402
-- [ ] Bridge construction kit | 25671
+- [x] Bridge construction kit | 25671
 - [x] Brown herringbone wall | 25813
 - [x] Bunny Day arch | 25403
 - [x] Bunny Day bag | 25263
@@ -82,7 +82,7 @@
 - [x] Butter churn | 25411
 - [x] Cabin wall | 25815
 - [x] Campfire | 25412
-- [ ] Campsite construction kit | 25672
+- [x] Campsite construction kit | 25672
 - [ ] Cancer table | 25413
 - [ ] Capricorn ornament | 25414
 - [x] Cardboard bed | 25415
@@ -244,7 +244,7 @@
 - [ ] Ice flooring | 25315
 - [ ] Ice wall | 25826
 - [ ] Ice wand | 25713
-- [ ] Iceberg flooring | 25316
+- [x] Iceberg flooring | 25316
 - [ ] Iceberg wall | 25827
 - [ ] Illuminated present | 25460
 - [ ] Illuminated reindeer | 25461
@@ -282,7 +282,7 @@
 - [x] Juicy-apple TV | 25482
 - [x] Jungle flooring | 25317
 - [x] Jungle wall | 25829
-- [ ] Kettle bathtub | 25483
+- [x] Kettle bathtub | 25483
 - [x] Kettlebell | 25636
 - [x] Key holder | 25780
 - [x] Knight's helmet | 25350
@@ -455,7 +455,7 @@
 - [x] Simple mum crown | 25364
 - [x] Simple well | 25553
 - [x] Simple wooden fence | 25298
-- [ ] Ski-slope flooring | 25323
+- [x] Ski-slope flooring | 25323
 - [ ] Ski-slope wall | 25839
 - [x] Sky-egg outfit | 25283
 - [x] Sky-egg shell | 25365
@@ -467,7 +467,7 @@
 - [ ] Snowflake pochette | 25269
 - [ ] Snowflake wall | 25840
 - [ ] Snowflake wreath | 25800
-- [ ] Snowperson head | 25366
+- [x] Snowperson head | 25366
 - [x] Space shuttle | 25556
 - [x] Spiky fence | 25299
 - [x] Stack of books | 25652
@@ -526,7 +526,7 @@
 - [x] Tree's bounty mobile | 25804
 - [x] Tree-branch wand | 25729
 - [x] Trophy case | 25578
-- [ ] Tropical vista | 25846
+- [x] Tropical vista | 25846
 - [x] Tulip crown | 25370
 - [x] Tulip surprise box | 25579
 - [x] Tulip wand | 25730
