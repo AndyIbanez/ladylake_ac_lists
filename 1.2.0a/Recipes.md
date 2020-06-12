@@ -391,7 +391,7 @@
 - [x] Pear dress | 25282
 - [x] Pear hat | 25359
 - [x] Pear rug | 25683
-- [ ] Pear umbrella | 25744
+- [x] Pear umbrella | 25744
 - [x] Pear wall | 25835
 - [x] Pear wardrobe | 25526
 - [x] Pile of leaves | 25527
@@ -533,7 +533,7 @@
 - [x] Tulip wreath | 25805
 - [x] Ukulele | 25663
 - [x] Underwater flooring | 25326
-- [ ] Underwater wall | 25847
+- [x] Underwater wall | 25847
 - [x] Unglazed dish set | 25664
 - [x] Vaulting pole | 25731
 - [x] Vertical-board fence | 25302
