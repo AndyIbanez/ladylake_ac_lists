@@ -3,7 +3,6 @@ Aries rocking chair
 Big festive tree
 Blossom-viewing lantern
 Blue rose crown
-Brick fence
 Cancer table
 Capricorn ornament
 Cherry-blossom bonsai
@@ -47,14 +46,12 @@ Hyacinth crown
 Ice flooring
 Ice wall
 Ice wand
-Iceberg wall
 Illuminated present
 Illuminated reindeer
 Illuminated snowflakes
 Illuminated tree
 Iron garden bench
 Jingle wall
-Large cardboard boxes
 Leo sculpture
 Libra scale
 Lily wreath
@@ -74,8 +71,6 @@ Sakura-wood flooring
 Sakura-wood wall
 Scorpio lamp
 Shell partition
-Shell wand
-Shellfish pochette
 Signpost
 Ski-slope wall
 Snazzy pansy wreath
@@ -86,5 +81,4 @@ Tabletop festive tree
 Three-tiered snowperson
 Underwater wall
 Virgo harp
-Water flooring
 Windflower wreath

@@ -55,7 +55,7 @@
 - [x] Bonfire | 25399
 - [x] Bonsai shelf | 25400
 - [x] Boomerang | 25748
-- [ ] Brick fence | 25289
+- [x] Brick fence | 25289
 - [x] Brick oven | 25401
 - [x] Brick well | 25402
 - [x] Bridge construction kit | 25671
@@ -245,7 +245,7 @@
 - [ ] Ice wall | 25826
 - [ ] Ice wand | 25713
 - [x] Iceberg flooring | 25316
-- [ ] Iceberg wall | 25827
+- [x] Iceberg wall | 25827
 - [ ] Illuminated present | 25460
 - [ ] Illuminated reindeer | 25461
 - [ ] Illuminated snowflakes | 25462
@@ -288,7 +288,7 @@
 - [x] Knight's helmet | 25350
 - [x] Knitted-grass backpack | 25265
 - [x] Ladder | 25715
-- [ ] Large cardboard boxes | 25484
+- [x] Large cardboard boxes | 25484
 - [x] Lattice fence | 25296
 - [x] Leaf | 25260
 - [x] Leaf campfire | 25485
@@ -445,9 +445,9 @@
 - [x] Shell speaker | 25651
 - [x] Shell stool | 25548
 - [x] Shell table | 25549
-- [ ] Shell wand | 25724
+- [x] Shell wand | 25724
 - [x] Shell wreath | 25798
-- [ ] Shellfish pochette | 25268
+- [x] Shellfish pochette | 25268
 - [x] Shovel | 25725
 - [ ] Signpost | 25550
 - [x] Silo | 25551
@@ -539,7 +539,7 @@
 - [x] Vertical-board fence | 25302
 - [ ] Virgo harp | 25580
 - [x] Wand | 25732
-- [ ] Water flooring | 25327
+- [x] Water flooring | 25327
 - [x] Water pump | 25581
 - [x] Water-egg outfit | 25285
 - [x] Water-egg shell | 25371

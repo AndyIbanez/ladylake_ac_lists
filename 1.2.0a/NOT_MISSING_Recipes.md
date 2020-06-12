@@ -50,6 +50,7 @@ Bone doorplate
 Bonfire
 Bonsai shelf
 Boomerang
+Brick fence
 Brick oven
 Brick well
 Bridge construction kit
@@ -196,6 +197,7 @@ Hyacinth lamp
 Hyacinth wand
 Hyacinth wreath
 Iceberg flooring
+Iceberg wall
 Imperial fence
 Infused-water dispenser
 Iron armor
@@ -232,6 +234,7 @@ Key holder
 Knight's helmet
 Knitted-grass backpack
 Ladder
+Large cardboard boxes
 Lattice fence
 Leaf
 Leaf campfire
@@ -369,7 +372,9 @@ Shell rug
 Shell speaker
 Shell stool
 Shell table
+Shell wand
 Shell wreath
+Shellfish pochette
 Shovel
 Silo
 Simple DIY workbench
@@ -451,6 +456,7 @@ Unglazed dish set
 Vaulting pole
 Vertical-board fence
 Wand
+Water flooring
 Water pump
 Water-egg outfit
 Water-egg shell

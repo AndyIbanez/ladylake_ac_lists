@@ -70,12 +70,12 @@
 - [x] Retro sports bag (Black) | 61313
 - [x] Retro sports bag (Blue) | 61314
 - [ ] Sacoche bag (Blue) | 61315
-- [ ] Sacoche bag (Red) | 61316
+- [x] Sacoche bag (Red) | 61316
 - [x] Sacoche bag (Black) | 61317
 - [ ] Shellfish pochette (White) | 25087
 - [ ] Snowflake pochette (White) | 25088
 - [x] Square backpack (Pink) | 61318
-- [ ] Square backpack (Green) | 61319
+- [x] Square backpack (Green) | 61319
 - [x] Square backpack (Yellow) | 61320
 - [ ] Star pochette (Yellow) | 25090
 - [x] Straw pochette (Brown) | 25091
