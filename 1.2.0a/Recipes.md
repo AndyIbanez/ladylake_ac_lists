@@ -107,7 +107,7 @@
 - [x] Cherry-blossom-petal pile | 25421
 - [ ] Cherry-blossom-trees wall | 25817
 - [ ] Chic cosmos wreath | 25754
-- [ ] Chic mum crown | 25333
+- [x] Chic mum crown | 25333
 - [x] Chic rose crown | 25334
 - [x] Chic tulip crown | 25335
 - [x] Chic windflower wreath | 25755
@@ -139,7 +139,7 @@
 - [x] Cutting board | 25620
 - [x] DIY workbench | 25429
 - [x] Dark bamboo rug | 25679
-- [ ] Dark cosmos crown | 25342
+- [x] Dark cosmos crown | 25342
 - [ ] Dark lily crown | 25343
 - [x] Dark lily wreath | 25762
 - [x] Dark rose wreath | 25763
@@ -186,7 +186,7 @@
 - [ ] Frozen partition | 25441
 - [ ] Frozen pillar | 25442
 - [ ] Frozen sculpture | 25443
-- [ ] Frozen table | 25444
+- [x] Frozen table | 25444
 - [ ] Frozen tree | 25445
 - [ ] Frozen-treat set | 25625
 - [x] Fruit basket | 25626
@@ -196,7 +196,7 @@
 - [x] Garbage-heap flooring | 25312
 - [x] Garbage-heap wall | 25822
 - [x] Garden bench | 25446
-- [ ] Garden rock | 25447
+- [x] Garden rock | 25447
 - [x] Garden wagon | 25448
 - [x] Gemini closet | 25449
 - [x] Giant teddy bear | 25450
@@ -456,7 +456,7 @@
 - [x] Simple well | 25553
 - [x] Simple wooden fence | 25298
 - [x] Ski-slope flooring | 25323
-- [ ] Ski-slope wall | 25839
+- [x] Ski-slope wall | 25839
 - [x] Sky-egg outfit | 25283
 - [x] Sky-egg shell | 25365
 - [x] Sky-egg shoes | 25690
@@ -464,8 +464,8 @@
 - [x] Slingshot | 25726
 - [x] Small cardboard boxes | 25555
 - [ ] Snazzy pansy wreath | 25799
-- [ ] Snowflake pochette | 25269
-- [ ] Snowflake wall | 25840
+- [x] Snowflake pochette | 25269
+- [x] Snowflake wall | 25840
 - [ ] Snowflake wreath | 25800
 - [x] Snowperson head | 25366
 - [x] Space shuttle | 25556
@@ -554,7 +554,7 @@
 - [x] Windflower crown | 25372
 - [x] Windflower fan | 25665
 - [x] Windflower wand | 25734
-- [ ] Windflower wreath | 25806
+- [x] Windflower wreath | 25806
 - [x] Wobbling Zipper toy | 25666
 - [x] Wood-egg outfit | 25286
 - [x] Wood-egg shell | 25373

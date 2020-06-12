@@ -90,6 +90,7 @@ Cherry speakers
 Cherry umbrella
 Cherry wall
 Cherry-blossom-petal pile
+Chic mum crown
 Chic rose crown
 Chic tulip crown
 Chic windflower wreath
@@ -118,6 +119,7 @@ Cute rose crown
 Cutting board
 DIY workbench
 Dark bamboo rug
+Dark cosmos crown
 Dark lily wreath
 Dark rose wreath
 Dark tulip wreath
@@ -151,6 +153,7 @@ Forest flooring
 Forest wall
 Fossil doorplate
 Fountain
+Frozen table
 Fruit basket
 Fruit wreath
 Frying pan
@@ -158,6 +161,7 @@ Galaxy flooring
 Garbage-heap flooring
 Garbage-heap wall
 Garden bench
+Garden rock
 Garden wagon
 Gemini closet
 Giant teddy bear
@@ -383,12 +387,15 @@ Simple mum crown
 Simple well
 Simple wooden fence
 Ski-slope flooring
+Ski-slope wall
 Sky-egg outfit
 Sky-egg shell
 Sky-egg shoes
 Sleigh
 Slingshot
 Small cardboard boxes
+Snowflake pochette
+Snowflake wall
 Snowperson head
 Space shuttle
 Spiky fence
@@ -473,6 +480,7 @@ Wild-wood wall
 Windflower crown
 Windflower fan
 Windflower wand
+Windflower wreath
 Wobbling Zipper toy
 Wood-egg outfit
 Wood-egg shell

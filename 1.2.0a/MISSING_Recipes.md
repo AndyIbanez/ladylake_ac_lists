@@ -15,11 +15,9 @@ Cherry-blossom umbrella
 Cherry-blossom wand
 Cherry-blossom-trees wall
 Chic cosmos wreath
-Chic mum crown
 Cool hyacinth wreath
 Cool windflower crown
 Cool windflower wreath
-Dark cosmos crown
 Dark lily crown
 Dark tulip crown
 Fancy mum wreath
@@ -33,10 +31,8 @@ Frozen counter
 Frozen partition
 Frozen pillar
 Frozen sculpture
-Frozen table
 Frozen tree
 Frozen-treat set
-Garden rock
 Gold rose wreath
 Golden net
 Golden rod
@@ -71,12 +67,8 @@ Sakura-wood wall
 Scorpio lamp
 Shell partition
 Signpost
-Ski-slope wall
 Snazzy pansy wreath
-Snowflake pochette
-Snowflake wall
 Snowflake wreath
 Tabletop festive tree
 Three-tiered snowperson
 Virgo harp
-Windflower wreath
