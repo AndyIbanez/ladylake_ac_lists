@@ -60,12 +60,12 @@
 - [x] Cowboy boots (Ivory) | 60878
 - [x] Cowboy boots (Pink) | 60879
 - [x] Cowboy boots (Blue) | 60880
-- [ ] Cross-belt sandals (Green) | 60881
-- [ ] Cross-belt sandals (Pink) | 60882
-- [ ] Cross-belt sandals (Gray) | 60883
-- [ ] Cross-belt sandals (Brown) | 60884
-- [ ] Cross-belt sandals (Black) | 60885
-- [ ] Cross-belt sandals (Purple) | 60886
+- [x] Cross-belt sandals (Green) | 60881
+- [x] Cross-belt sandals (Pink) | 60882
+- [x] Cross-belt sandals (Gray) | 60883
+- [x] Cross-belt sandals (Brown) | 60884
+- [x] Cross-belt sandals (Black) | 60885
+- [x] Cross-belt sandals (Purple) | 60886
 - [x] Cute sneakers (Light blue) | 60887
 - [x] Cute sneakers (Green) | 60888
 - [x] Cute sneakers (Pink) | 60889
@@ -154,7 +154,7 @@
 - [ ] Kimono sandals (Dark blue) | 60969
 - [x] Kimono sandals (Gray) | 60970
 - [x] Kimono sandals (Purple) | 60971
-- [ ] Kimono sandals (Yellow) | 60972
+- [x] Kimono sandals (Yellow) | 60972
 - [ ] Kimono sandals (Green) | 60973
 - [ ] Kung-fu shoes (Black) | 24998
 - [ ] Labelle pumps (Twilight) | 60974
@@ -214,14 +214,14 @@
 - [x] Moccasins (Gray) | 61027
 - [x] Moccasins (Black) | 61028
 - [ ] Nook Inc. slippers (White) | 25009
-- [ ] Outdoor sandals (Green) | 61029
-- [ ] Outdoor sandals (Red) | 61030
-- [ ] Outdoor sandals (Blue) | 61031
-- [ ] Outdoor sandals (Purple) | 61032
-- [ ] Outdoor sandals (Yellow) | 61033
-- [ ] Outdoor sandals (Orange) | 61034
-- [ ] Outdoor sandals (White) | 61035
-- [ ] Outdoor sandals (Black) | 61036
+- [x] Outdoor sandals (Green) | 61029
+- [x] Outdoor sandals (Red) | 61030
+- [x] Outdoor sandals (Blue) | 61031
+- [x] Outdoor sandals (Purple) | 61032
+- [x] Outdoor sandals (Yellow) | 61033
+- [x] Outdoor sandals (Orange) | 61034
+- [x] Outdoor sandals (White) | 61035
+- [x] Outdoor sandals (Black) | 61036
 - [x] Paw slippers (Pink) | 61037
 - [ ] Paw slippers (Brown) | 61038
 - [ ] Paw slippers (White) | 61039
@@ -299,7 +299,7 @@
 - [x] Shiny bow platform shoes (Purple) | 61110
 - [x] Shiny bow platform shoes (Light blue) | 61111
 - [x] Shiny bow platform shoes (White) | 61112
-- [ ] Shiny bow platform shoes (Light purple) | 61113
+- [x] Shiny bow platform shoes (Light purple) | 61113
 - [x] Shower sandals (Black) | 61114
 - [x] Shower sandals (White) | 61115
 - [x] Shower sandals (Gold) | 61116
@@ -307,7 +307,7 @@
 - [x] Shower sandals (Blue) | 61118
 - [ ] Ski boots (White) | 61119
 - [ ] Ski boots (Orange) | 61120
-- [ ] Ski boots (Red) | 61121
+- [x] Ski boots (Red) | 61121
 - [ ] Ski boots (Lime) | 61122
 - [ ] Ski boots (Light blue) | 61123
 - [ ] Ski boots (Purple) | 61124
@@ -427,7 +427,7 @@
 - [ ] Wooden clogs (Yellow) | 61230
 - [ ] Wooden clogs (Blue) | 61231
 - [ ] Wooden clogs (Red) | 61232
-- [ ] Wooden clogs (Green) | 61233
+- [x] Wooden clogs (Green) | 61233
 - [x] Wooden clogs (Brown) | 61234
 - [x] Work boots (Red) | 61235
 - [x] Work boots (Purple) | 61236

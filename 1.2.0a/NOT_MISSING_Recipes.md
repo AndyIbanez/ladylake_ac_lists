@@ -331,6 +331,7 @@ Pear bed
 Pear dress
 Pear hat
 Pear rug
+Pear umbrella
 Pear wall
 Pear wardrobe
 Pile of leaves
@@ -452,6 +453,7 @@ Tulip wand
 Tulip wreath
 Ukulele
 Underwater flooring
+Underwater wall
 Unglazed dish set
 Vaulting pole
 Vertical-board fence

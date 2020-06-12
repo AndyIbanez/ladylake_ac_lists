@@ -58,7 +58,6 @@ Lily wreath
 Lovely cosmos crown
 Ornament mobile
 Ornament wreath
-Pear umbrella
 Pile of zen cushions
 Pisces lamp
 Pretty cosmos wreath
@@ -79,6 +78,5 @@ Snowflake wall
 Snowflake wreath
 Tabletop festive tree
 Three-tiered snowperson
-Underwater wall
 Virgo harp
 Windflower wreath

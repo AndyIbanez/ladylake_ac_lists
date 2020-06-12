@@ -193,10 +193,10 @@
 - [x] Denim overalls (Red) | 58990
 - [x] Denim overalls (Black) | 58991
 - [x] Denim overalls (Brown) | 58992
-- [ ] Desert outfit (Pink) | 58993
-- [ ] Desert outfit (Yellow) | 58994
-- [ ] Desert outfit (Purple) | 58995
-- [ ] Desert outfit (Blue) | 58996
+- [x] Desert outfit (Pink) | 58993
+- [x] Desert outfit (Yellow) | 58994
+- [x] Desert outfit (Purple) | 58995
+- [x] Desert outfit (Blue) | 58996
 - [x] Desert-princess outfit (Purple) | 58997
 - [x] Desert-princess outfit (Pink) | 58998
 - [x] Desert-princess outfit (Yellow) | 58999
@@ -362,9 +362,9 @@
 - [x] Hakama (Green) | 59150
 - [x] Hakama (Dark blue) | 59151
 - [x] Hakama with crest (Black) | 24489
-- [ ] Hibiscus muumuu (Yellow) | 59152
-- [ ] Hibiscus muumuu (Pink) | 59153
-- [ ] Hibiscus muumuu (Red) | 59154
+- [x] Hibiscus muumuu (Yellow) | 59152
+- [x] Hibiscus muumuu (Pink) | 59153
+- [x] Hibiscus muumuu (Red) | 59154
 - [x] Hot-dog costume (Mustard) | 24491
 - [ ] House-print dress (White) | 59155
 - [ ] House-print dress (Yellow) | 59156
@@ -525,7 +525,7 @@
 - [x] Nightgown (Blue) | 59303
 - [ ] Nightgown (Purple) | 59304
 - [ ] Nightgown (Beige) | 59305
-- [ ] Nightgown (White) | 59306
+- [x] Nightgown (White) | 59306
 - [x] Ninja costume (Aqua) | 59307
 - [x] Ninja costume (Green) | 59308
 - [x] Ninja costume (Yellow) | 59309
@@ -797,7 +797,7 @@
 - [ ] Striped dress (Pink) | 59563
 - [ ] Striped halter dress (Green) | 59564
 - [ ] Striped halter dress (Orange) | 59565
-- [ ] Striped halter dress (Light blue) | 59566
+- [x] Striped halter dress (Light blue) | 59566
 - [ ] Striped halter dress (Pink) | 59567
 - [ ] Striped maxi dress (Red) | 59568
 - [ ] Striped maxi dress (Blue) | 59569
@@ -808,7 +808,7 @@
 - [x] Stylish jumpsuit (Beige) | 59574
 - [ ] Stylish jumpsuit (Avocado) | 59575
 - [ ] Stylish jumpsuit (Pink) | 59576
-- [ ] Suit of lights (Green) | 59577
+- [x] Suit of lights (Green) | 59577
 - [x] Suit of lights (Pink) | 59578
 - [x] Suit of lights (Black) | 59579
 - [ ] Suit of lights (Red) | 59580
@@ -900,12 +900,12 @@
 - [x] Zap suit (Silver) | 59659
 - [x] Zap suit (White) | 59660
 - [x] Zap suit (Pink) | 59661
-- [ ] Zigzag-print dress (Purple) | 59662
-- [ ] Zigzag-print dress (Green) | 59663
-- [ ] Zigzag-print dress (Orange) | 59664
-- [ ] Zigzag-print dress (Coral) | 59665
+- [x] Zigzag-print dress (Purple) | 59662
+- [x] Zigzag-print dress (Green) | 59663
+- [x] Zigzag-print dress (Orange) | 59664
+- [x] Zigzag-print dress (Coral) | 59665
 - [x] Zigzag-print dress (Lime) | 59666
-- [ ] Zigzag-print dress (Brown) | 59667
+- [x] Zigzag-print dress (Brown) | 59667
 - [ ] áo dài (White) | 58820
 - [ ] áo dài (Navy blue) | 58821
 - [ ] áo dài (Yellow) | 58822
