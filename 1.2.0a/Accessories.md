@@ -187,9 +187,9 @@
 - [ ] Ski goggles (Orange) | 60437
 - [x] Sporty shades (Black) | 60438
 - [x] Sporty shades (White) | 60439
-- [ ] Sporty shades (Pink) | 60440
-- [ ] Sporty shades (Lime) | 60441
-- [ ] Sporty shades (Light blue) | 60442
+- [x] Sporty shades (Pink) | 60440
+- [x] Sporty shades (Lime) | 60441
+- [x] Sporty shades (Light blue) | 60442
 - [x] Square glasses (Brown) | 60443
 - [x] Square glasses (Black) | 60444
 - [x] Square glasses (Gray) | 60445

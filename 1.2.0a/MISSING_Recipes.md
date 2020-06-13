@@ -2,7 +2,6 @@ Aquarius urn
 Aries rocking chair
 Big festive tree
 Blossom-viewing lantern
-Blue rose crown
 Cancer table
 Capricorn ornament
 Cherry-blossom bonsai
@@ -60,15 +59,10 @@ Pretty cosmos wreath
 Purple hyacinth crown
 Purple hyacinth wreath
 Purple pansy crown
-Rose crown
 Sagittarius arrow
 Sakura-wood flooring
 Sakura-wood wall
 Scorpio lamp
-Shell partition
-Signpost
-Snazzy pansy wreath
-Snowflake wreath
 Tabletop festive tree
 Three-tiered snowperson
 Virgo harp

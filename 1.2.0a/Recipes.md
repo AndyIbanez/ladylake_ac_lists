@@ -49,7 +49,7 @@
 - [x] Birdcage | 25396
 - [x] Birdhouse | 25397
 - [ ] Blossom-viewing lantern | 25398
-- [ ] Blue rose crown | 25330
+- [x] Blue rose crown | 25330
 - [x] Blue rose wreath | 25746
 - [x] Bone doorplate | 25747
 - [x] Bonfire | 25399
@@ -179,7 +179,7 @@
 - [x] Forest wall | 25821
 - [x] Fossil doorplate | 25770
 - [x] Fountain | 25436
-- [ ] Frozen arch | 25437
+- [x] Frozen arch | 25437
 - [ ] Frozen bed | 25438
 - [ ] Frozen chair | 25439
 - [ ] Frozen counter | 25440
@@ -421,7 +421,7 @@
 - [x] Rocking horse | 25538
 - [x] Rope fence | 25297
 - [x] Rose bed | 25539
-- [ ] Rose crown | 25363
+- [x] Rose crown | 25363
 - [x] Rose wand | 25723
 - [x] Rose wreath | 25796
 - [x] Rustic-stone wall | 25836
@@ -440,7 +440,7 @@
 - [x] Shell bed | 25545
 - [x] Shell fountain | 25546
 - [x] Shell lamp | 25650
-- [ ] Shell partition | 25547
+- [x] Shell partition | 25547
 - [x] Shell rug | 25684
 - [x] Shell speaker | 25651
 - [x] Shell stool | 25548
@@ -449,7 +449,7 @@
 - [x] Shell wreath | 25798
 - [x] Shellfish pochette | 25268
 - [x] Shovel | 25725
-- [ ] Signpost | 25550
+- [x] Signpost | 25550
 - [x] Silo | 25551
 - [x] Simple DIY workbench | 25552
 - [x] Simple mum crown | 25364
@@ -463,10 +463,10 @@
 - [x] Sleigh | 25554
 - [x] Slingshot | 25726
 - [x] Small cardboard boxes | 25555
-- [ ] Snazzy pansy wreath | 25799
+- [x] Snazzy pansy wreath | 25799
 - [x] Snowflake pochette | 25269
 - [x] Snowflake wall | 25840
-- [ ] Snowflake wreath | 25800
+- [x] Snowflake wreath | 25800
 - [x] Snowperson head | 25366
 - [x] Space shuttle | 25556
 - [x] Spiky fence | 25299

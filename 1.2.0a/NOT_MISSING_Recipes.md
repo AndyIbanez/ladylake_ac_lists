@@ -45,6 +45,7 @@ Beekeeper's hive
 Birdbath
 Birdcage
 Birdhouse
+Blue rose crown
 Blue rose wreath
 Bone doorplate
 Bonfire
@@ -359,6 +360,7 @@ Rocking chair
 Rocking horse
 Rope fence
 Rose bed
+Rose crown
 Rose wand
 Rose wreath
 Rustic-stone wall
@@ -373,6 +375,7 @@ Shell arch
 Shell bed
 Shell fountain
 Shell lamp
+Shell partition
 Shell rug
 Shell speaker
 Shell stool
@@ -381,6 +384,7 @@ Shell wand
 Shell wreath
 Shellfish pochette
 Shovel
+Signpost
 Silo
 Simple DIY workbench
 Simple mum crown
@@ -394,8 +398,10 @@ Sky-egg shoes
 Sleigh
 Slingshot
 Small cardboard boxes
+Snazzy pansy wreath
 Snowflake pochette
 Snowflake wall
+Snowflake wreath
 Snowperson head
 Space shuttle
 Spiky fence
