@@ -91,6 +91,7 @@ Cherry speakers
 Cherry umbrella
 Cherry wall
 Cherry-blossom-petal pile
+Chic cosmos wreath
 Chic mum crown
 Chic rose crown
 Chic tulip crown
@@ -107,6 +108,8 @@ Cool hyacinth crown
 Cool hyacinth wreath
 Cool pansy crown
 Cool pansy wreath
+Cool windflower crown
+Cool windflower wreath
 Corral fence
 Cosmos crown
 Cosmos shower
@@ -203,6 +206,7 @@ Hedge
 Hedge standee
 Honeycomb flooring
 Honeycomb wall
+Hyacinth crown
 Hyacinth lamp
 Hyacinth wand
 Hyacinth wreath
@@ -355,6 +359,7 @@ Plain wooden shop sign
 Pond stone
 Pot
 Potted ivy
+Pretty cosmos wreath
 Pretty tulip wreath
 Purple pansy crown
 Purple windflower crown

@@ -106,7 +106,7 @@
 - [ ] Cherry-blossom wand | 25697
 - [x] Cherry-blossom-petal pile | 25421
 - [ ] Cherry-blossom-trees wall | 25817
-- [ ] Chic cosmos wreath | 25754
+- [x] Chic cosmos wreath | 25754
 - [x] Chic mum crown | 25333
 - [x] Chic rose crown | 25334
 - [x] Chic tulip crown | 25335
@@ -123,8 +123,8 @@
 - [x] Cool hyacinth wreath | 25757
 - [x] Cool pansy crown | 25337
 - [x] Cool pansy wreath | 25758
-- [ ] Cool windflower crown | 25338
-- [ ] Cool windflower wreath | 25759
+- [x] Cool windflower crown | 25338
+- [x] Cool windflower wreath | 25759
 - [x] Corral fence | 25291
 - [x] Cosmos crown | 25339
 - [x] Cosmos shower | 25424
@@ -237,7 +237,7 @@
 - [ ] Holiday candle | 25633
 - [x] Honeycomb flooring | 25314
 - [x] Honeycomb wall | 25825
-- [ ] Hyacinth crown | 25349
+- [x] Hyacinth crown | 25349
 - [x] Hyacinth lamp | 25634
 - [x] Hyacinth wand | 25712
 - [x] Hyacinth wreath | 25775
@@ -404,7 +404,7 @@
 - [x] Pond stone | 25532
 - [x] Pot | 25646
 - [x] Potted ivy | 25792
-- [ ] Pretty cosmos wreath | 25793
+- [x] Pretty cosmos wreath | 25793
 - [x] Pretty tulip wreath | 25794
 - [ ] Purple hyacinth crown | 25360
 - [ ] Purple hyacinth wreath | 25795

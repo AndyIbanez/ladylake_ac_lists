@@ -13,9 +13,6 @@ Cherry-blossom pond stone
 Cherry-blossom umbrella
 Cherry-blossom wand
 Cherry-blossom-trees wall
-Chic cosmos wreath
-Cool windflower crown
-Cool windflower wreath
 Dark tulip crown
 Fancy mum wreath
 Festive top set
@@ -32,7 +29,6 @@ Golden net
 Golden rod
 Golden shovel
 Holiday candle
-Hyacinth crown
 Ice flooring
 Ice wall
 Ice wand
@@ -47,7 +43,6 @@ Libra scale
 Ornament mobile
 Ornament wreath
 Pisces lamp
-Pretty cosmos wreath
 Purple hyacinth crown
 Purple hyacinth wreath
 Sagittarius arrow
