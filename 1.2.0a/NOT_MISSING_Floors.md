@@ -3,6 +3,7 @@ Arabesque flooring
 Arched-brick flooring
 Argyle tile flooring
 Artsy parquet flooring
+Backyard lawn
 Basement flooring
 Beige desert-tile flooring
 Berry-chocolates flooring
@@ -55,6 +56,7 @@ Dig-site flooring
 Dirt flooring
 Field flooring
 Flagstone flooring
+Floral mosaic-tile flooring
 Floral rush-mat flooring
 Flowing-river flooring
 Forest flooring

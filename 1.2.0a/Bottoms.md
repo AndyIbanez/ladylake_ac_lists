@@ -228,10 +228,10 @@
 - [x] Draped skirt (Pink) | 58306
 - [x] Draped skirt (Purple) | 58307
 - [x] Draped skirt (Light blue) | 58308
-- [ ] Dreamy pants (Pink) | 58309
-- [ ] Dreamy pants (Green) | 58310
-- [ ] Dreamy pants (Yellow) | 58311
-- [ ] Dreamy pants (Blue) | 58312
+- [x] Dreamy pants (Pink) | 58309
+- [x] Dreamy pants (Green) | 58310
+- [x] Dreamy pants (Yellow) | 58311
+- [x] Dreamy pants (Blue) | 58312
 - [x] Dress pants (Green) | 58313
 - [x] Dress pants (Navy blue) | 58314
 - [x] Dress pants (Beige) | 58315
@@ -339,12 +339,12 @@
 - [ ] Geometric-print pants (Orange) | 58417
 - [x] Gingham picnic skirt (Red) | 58418
 - [x] Gingham picnic skirt (Green) | 58419
-- [ ] Gingham picnic skirt (Blue) | 58420
+- [x] Gingham picnic skirt (Blue) | 58420
 - [x] Gingham picnic skirt (Gray) | 58421
 - [x] Gingham picnic skirt (Orange) | 58422
-- [ ] Gingham picnic skirt (Pink) | 58423
+- [x] Gingham picnic skirt (Pink) | 58423
 - [x] Gingham picnic skirt (Purple) | 58424
-- [ ] Gingham picnic skirt (Light blue) | 58425
+- [x] Gingham picnic skirt (Light blue) | 58425
 - [x] Gobelin shorts (Beige) | 58426
 - [x] Gobelin shorts (Black) | 58427
 - [x] Grass skirt (Brown) | 24320
@@ -488,10 +488,10 @@
 - [x] Pineapple aloha shorts (Purple) | 58563
 - [x] Pineapple aloha shorts (Pink) | 58564
 - [x] Pineapple aloha shorts (Orange) | 58565
-- [ ] Plaid shorts (Light blue) | 58566
+- [x] Plaid shorts (Light blue) | 58566
 - [x] Plaid shorts (Brown) | 58567
-- [ ] Plaid shorts (Light green) | 58568
-- [ ] Plaid shorts (Red) | 58569
+- [x] Plaid shorts (Light green) | 58568
+- [x] Plaid shorts (Red) | 58569
 - [x] Pleather flare skirt (Brown) | 58570
 - [x] Pleather flare skirt (Black) | 58571
 - [x] Pleather flare skirt (Pink) | 58572

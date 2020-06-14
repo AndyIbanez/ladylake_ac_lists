@@ -834,11 +834,11 @@
 - [x] Sweater dress (Beige) | 59600
 - [x] Sweet dress (Purple) | 59601
 - [x] Sweet dress (White) | 59602
-- [ ] Sweetheart dress (Navy blue) | 59603
-- [ ] Sweetheart dress (Peacock blue) | 59604
+- [x] Sweetheart dress (Navy blue) | 59603
+- [x] Sweetheart dress (Peacock blue) | 59604
 - [x] Sweetheart dress (Beige) | 59605
-- [ ] Sweetheart dress (Greige) | 59606
-- [ ] Sweetheart dress (Moss green) | 59607
+- [x] Sweetheart dress (Greige) | 59606
+- [x] Sweetheart dress (Moss green) | 59607
 - [x] Tango dress (Red) | 59608
 - [x] Tango dress (Black) | 59609
 - [x] Tango dress (Pink) | 59610

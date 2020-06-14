@@ -158,6 +158,7 @@ Forest wall
 Fossil doorplate
 Fountain
 Frozen arch
+Frozen counter
 Frozen table
 Fruit basket
 Fruit wreath

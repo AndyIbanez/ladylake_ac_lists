@@ -67,6 +67,7 @@ White message mat
 White rose rug
 White simple medium mat
 White simple small mat
+White wedding rug
 White wooden-deck rug
 Yellow Persian rug
 Yellow blocks rug

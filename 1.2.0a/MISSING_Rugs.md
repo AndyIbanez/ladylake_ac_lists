@@ -46,7 +46,6 @@ Simple small red mat
 Tropical rug
 Turquoise heart rug
 White heart rug
-White wedding rug
 Yellow argyle rug
 Yellow kilim-style carpet
 Yellow medium round mat

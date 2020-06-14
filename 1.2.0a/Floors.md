@@ -3,7 +3,7 @@
 - [x] Arched-brick flooring | 22747
 - [x] Argyle tile flooring | 22748
 - [x] Artsy parquet flooring | 22749
-- [ ] Backyard lawn | 22750
+- [x] Backyard lawn | 22750
 - [ ] Bamboo flooring | 22751
 - [x] Basement flooring | 22752
 - [x] Beige desert-tile flooring | 22753
@@ -59,7 +59,7 @@
 - [x] Dirt flooring | 22802
 - [x] Field flooring | 22803
 - [x] Flagstone flooring | 22804
-- [ ] Floral mosaic-tile flooring | 22805
+- [x] Floral mosaic-tile flooring | 22805
 - [x] Floral rush-mat flooring | 22806
 - [x] Flowing-river flooring | 22807
 - [x] Forest flooring | 22808

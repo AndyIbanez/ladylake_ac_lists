@@ -115,7 +115,7 @@
 - [x] White rose rug | 23029
 - [x] White simple medium mat | 23030
 - [x] White simple small mat | 23031
-- [ ] White wedding rug | 27106
+- [x] White wedding rug | 27106
 - [x] White wooden-deck rug | 23032
 - [x] Yellow Persian rug | 23040
 - [ ] Yellow argyle rug | 23033

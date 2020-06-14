@@ -182,7 +182,7 @@
 - [x] Frozen arch | 25437
 - [ ] Frozen bed | 25438
 - [ ] Frozen chair | 25439
-- [ ] Frozen counter | 25440
+- [x] Frozen counter | 25440
 - [ ] Frozen partition | 25441
 - [ ] Frozen pillar | 25442
 - [ ] Frozen sculpture | 25443

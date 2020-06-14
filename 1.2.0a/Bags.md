@@ -21,7 +21,7 @@
 - [x] Evening bag (Blue) | 61269
 - [x] Evening bag (Black) | 61270
 - [x] Extra-large backpack (Red) | 61271
-- [ ] Extra-large backpack (Green) | 61272
+- [x] Extra-large backpack (Green) | 61272
 - [x] Extra-large backpack (Black) | 61273
 - [x] Extra-large backpack (Blue) | 61274
 - [x] Faux-fur bag (Pink) | 61275
@@ -73,7 +73,7 @@
 - [x] Sacoche bag (Red) | 61316
 - [x] Sacoche bag (Black) | 61317
 - [ ] Shellfish pochette (White) | 25087
-- [ ] Snowflake pochette (White) | 25088
+- [x] Snowflake pochette (White) | 25088
 - [x] Square backpack (Pink) | 61318
 - [x] Square backpack (Green) | 61319
 - [x] Square backpack (Yellow) | 61320

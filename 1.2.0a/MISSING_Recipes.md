@@ -22,7 +22,6 @@ Festive top set
 Festive tree
 Frozen bed
 Frozen chair
-Frozen counter
 Frozen partition
 Frozen pillar
 Frozen sculpture

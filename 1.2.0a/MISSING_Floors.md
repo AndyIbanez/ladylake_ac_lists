@@ -1,8 +1,6 @@
-Backyard lawn
 Bamboo flooring
 Concrete flooring
 Dark parquet flooring
-Floral mosaic-tile flooring
 Garbage-heap flooring
 Golden flooring
 Honeycomb flooring
