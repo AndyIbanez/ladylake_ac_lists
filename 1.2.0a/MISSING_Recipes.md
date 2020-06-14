@@ -24,7 +24,6 @@ Frozen pillar
 Frozen sculpture
 Frozen tree
 Frozen-treat set
-Gold rose wreath
 Golden net
 Golden rod
 Golden shovel
@@ -43,7 +42,6 @@ Libra scale
 Ornament mobile
 Ornament wreath
 Pisces lamp
-Purple hyacinth crown
 Purple hyacinth wreath
 Sagittarius arrow
 Sakura-wood flooring

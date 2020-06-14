@@ -204,7 +204,7 @@
 - [x] Gold bars | 25628
 - [x] Gold helmet | 25347
 - [x] Gold rose crown | 25348
-- [ ] Gold rose wreath | 25772
+- [x] Gold rose wreath | 25772
 - [x] Gold-armor shoes | 25687
 - [x] Gold-screen wall | 25823
 - [x] Golden arowana model | 25629
@@ -406,7 +406,7 @@
 - [x] Potted ivy | 25792
 - [x] Pretty cosmos wreath | 25793
 - [x] Pretty tulip wreath | 25794
-- [ ] Purple hyacinth crown | 25360
+- [x] Purple hyacinth crown | 25360
 - [ ] Purple hyacinth wreath | 25795
 - [x] Purple pansy crown | 25361
 - [x] Purple windflower crown | 25362

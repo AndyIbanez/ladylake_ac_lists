@@ -178,6 +178,7 @@ Gold armor
 Gold bars
 Gold helmet
 Gold rose crown
+Gold rose wreath
 Gold-armor shoes
 Gold-screen wall
 Golden arowana model
@@ -361,6 +362,7 @@ Pot
 Potted ivy
 Pretty cosmos wreath
 Pretty tulip wreath
+Purple hyacinth crown
 Purple pansy crown
 Purple windflower crown
 Raccoon figurine
