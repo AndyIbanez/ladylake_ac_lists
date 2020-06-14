@@ -120,7 +120,7 @@
 - [x] Coconut wall planter | 25756
 - [x] Colored-leaves flooring | 25309
 - [x] Cool hyacinth crown | 25336
-- [ ] Cool hyacinth wreath | 25757
+- [x] Cool hyacinth wreath | 25757
 - [x] Cool pansy crown | 25337
 - [x] Cool pansy wreath | 25758
 - [ ] Cool windflower crown | 25338
@@ -140,7 +140,7 @@
 - [x] DIY workbench | 25429
 - [x] Dark bamboo rug | 25679
 - [x] Dark cosmos crown | 25342
-- [ ] Dark lily crown | 25343
+- [x] Dark lily crown | 25343
 - [x] Dark lily wreath | 25762
 - [x] Dark rose wreath | 25763
 - [ ] Dark tulip crown | 25344
@@ -160,7 +160,7 @@
 - [x] Egg party hat | 25346
 - [x] Fancy lily wreath | 25766
 - [ ] Fancy mum wreath | 25767
-- [ ] Fancy rose wreath | 25768
+- [x] Fancy rose wreath | 25768
 - [ ] Festive top set | 25623
 - [ ] Festive tree | 25432
 - [x] Firewood | 25624
@@ -304,7 +304,7 @@
 - [x] Lily crown | 25353
 - [x] Lily record player | 25487
 - [x] Lily wand | 25716
-- [ ] Lily wreath | 25782
+- [x] Lily wreath | 25782
 - [x] Log bed | 25488
 - [x] Log bench | 25489
 - [x] Log chair | 25495
@@ -317,7 +317,7 @@
 - [x] Log stakes | 25496
 - [x] Log stool | 25497
 - [x] Log wall-mounted clock | 25783
-- [ ] Lovely cosmos crown | 25354
+- [x] Lovely cosmos crown | 25354
 - [x] Lucky gold cat | 25638
 - [x] Lunar lander | 25498
 - [x] Lunar rover | 25499
@@ -395,7 +395,7 @@
 - [x] Pear wall | 25835
 - [x] Pear wardrobe | 25526
 - [x] Pile of leaves | 25527
-- [ ] Pile of zen cushions | 25528
+- [x] Pile of zen cushions | 25528
 - [x] Pine bonsai tree | 25645
 - [ ] Pisces lamp | 25529
 - [x] Pitfall seed | 25675
@@ -408,7 +408,7 @@
 - [x] Pretty tulip wreath | 25794
 - [ ] Purple hyacinth crown | 25360
 - [ ] Purple hyacinth wreath | 25795
-- [ ] Purple pansy crown | 25361
+- [x] Purple pansy crown | 25361
 - [x] Purple windflower crown | 25362
 - [x] Raccoon figurine | 25533
 - [x] Recycled boots | 25689

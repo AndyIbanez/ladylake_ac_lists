@@ -104,6 +104,7 @@ Coconut juice
 Coconut wall planter
 Colored-leaves flooring
 Cool hyacinth crown
+Cool hyacinth wreath
 Cool pansy crown
 Cool pansy wreath
 Corral fence
@@ -121,6 +122,7 @@ Cutting board
 DIY workbench
 Dark bamboo rug
 Dark cosmos crown
+Dark lily crown
 Dark lily wreath
 Dark rose wreath
 Dark tulip wreath
@@ -138,6 +140,7 @@ Earth-egg shoes
 Egg party dress
 Egg party hat
 Fancy lily wreath
+Fancy rose wreath
 Firewood
 Fish bait
 Fishing rod
@@ -154,6 +157,7 @@ Forest flooring
 Forest wall
 Fossil doorplate
 Fountain
+Frozen arch
 Frozen table
 Fruit basket
 Fruit wreath
@@ -253,6 +257,7 @@ Light bamboo rug
 Lily crown
 Lily record player
 Lily wand
+Lily wreath
 Log bed
 Log bench
 Log chair
@@ -265,6 +270,7 @@ Log round table
 Log stakes
 Log stool
 Log wall-mounted clock
+Lovely cosmos crown
 Lucky gold cat
 Lunar lander
 Lunar rover
@@ -340,6 +346,7 @@ Pear umbrella
 Pear wall
 Pear wardrobe
 Pile of leaves
+Pile of zen cushions
 Pine bonsai tree
 Pitfall seed
 Plain sink
@@ -348,6 +355,7 @@ Pond stone
 Pot
 Potted ivy
 Pretty tulip wreath
+Purple pansy crown
 Purple windflower crown
 Raccoon figurine
 Recycled boots

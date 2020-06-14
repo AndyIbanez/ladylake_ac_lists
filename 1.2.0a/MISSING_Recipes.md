@@ -14,16 +14,12 @@ Cherry-blossom umbrella
 Cherry-blossom wand
 Cherry-blossom-trees wall
 Chic cosmos wreath
-Cool hyacinth wreath
 Cool windflower crown
 Cool windflower wreath
-Dark lily crown
 Dark tulip crown
 Fancy mum wreath
-Fancy rose wreath
 Festive top set
 Festive tree
-Frozen arch
 Frozen bed
 Frozen chair
 Frozen counter
@@ -49,16 +45,12 @@ Iron garden bench
 Jingle wall
 Leo sculpture
 Libra scale
-Lily wreath
-Lovely cosmos crown
 Ornament mobile
 Ornament wreath
-Pile of zen cushions
 Pisces lamp
 Pretty cosmos wreath
 Purple hyacinth crown
 Purple hyacinth wreath
-Purple pansy crown
 Sagittarius arrow
 Sakura-wood flooring
 Sakura-wood wall
