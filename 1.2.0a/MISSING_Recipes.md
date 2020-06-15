@@ -13,8 +13,6 @@ Cherry-blossom pond stone
 Cherry-blossom umbrella
 Cherry-blossom wand
 Cherry-blossom-trees wall
-Dark tulip crown
-Fancy mum wreath
 Festive top set
 Festive tree
 Frozen bed
@@ -42,7 +40,6 @@ Libra scale
 Ornament mobile
 Ornament wreath
 Pisces lamp
-Purple hyacinth wreath
 Sagittarius arrow
 Sakura-wood flooring
 Sakura-wood wall

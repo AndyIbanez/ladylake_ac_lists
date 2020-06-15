@@ -128,6 +128,7 @@ Dark cosmos crown
 Dark lily crown
 Dark lily wreath
 Dark rose wreath
+Dark tulip crown
 Dark tulip wreath
 Dark wooden-mosaic wall
 Decoy duck
@@ -143,6 +144,7 @@ Earth-egg shoes
 Egg party dress
 Egg party hat
 Fancy lily wreath
+Fancy mum wreath
 Fancy rose wreath
 Firewood
 Fish bait
@@ -363,6 +365,7 @@ Potted ivy
 Pretty cosmos wreath
 Pretty tulip wreath
 Purple hyacinth crown
+Purple hyacinth wreath
 Purple pansy crown
 Purple windflower crown
 Raccoon figurine

@@ -143,7 +143,7 @@
 - [x] Dark lily crown | 25343
 - [x] Dark lily wreath | 25762
 - [x] Dark rose wreath | 25763
-- [ ] Dark tulip crown | 25344
+- [x] Dark tulip crown | 25344
 - [x] Dark tulip wreath | 25764
 - [x] Dark wooden-mosaic wall | 25820
 - [x] Decoy duck | 25621
@@ -159,7 +159,7 @@
 - [x] Egg party dress | 25276
 - [x] Egg party hat | 25346
 - [x] Fancy lily wreath | 25766
-- [ ] Fancy mum wreath | 25767
+- [x] Fancy mum wreath | 25767
 - [x] Fancy rose wreath | 25768
 - [ ] Festive top set | 25623
 - [ ] Festive tree | 25432
@@ -407,7 +407,7 @@
 - [x] Pretty cosmos wreath | 25793
 - [x] Pretty tulip wreath | 25794
 - [x] Purple hyacinth crown | 25360
-- [ ] Purple hyacinth wreath | 25795
+- [x] Purple hyacinth wreath | 25795
 - [x] Purple pansy crown | 25361
 - [x] Purple windflower crown | 25362
 - [x] Raccoon figurine | 25533
