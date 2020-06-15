@@ -33,7 +33,6 @@ Illuminated present
 Illuminated reindeer
 Illuminated snowflakes
 Illuminated tree
-Iron garden bench
 Jingle wall
 Leo sculpture
 Libra scale

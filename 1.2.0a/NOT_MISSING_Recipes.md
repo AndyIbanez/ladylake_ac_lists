@@ -222,6 +222,7 @@ Iron closet
 Iron doorplate
 Iron fence
 Iron frame
+Iron garden bench
 Iron garden chair
 Iron garden table
 Iron hanger stand

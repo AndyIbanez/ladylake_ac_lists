@@ -257,7 +257,7 @@
 - [x] Iron doorplate | 25776
 - [x] Iron fence | 25294
 - [x] Iron frame | 25465
-- [ ] Iron garden bench | 25466
+- [x] Iron garden bench | 25466
 - [x] Iron garden chair | 25467
 - [x] Iron garden table | 25468
 - [x] Iron hanger stand | 25469
