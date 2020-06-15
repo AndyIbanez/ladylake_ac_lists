@@ -26,7 +26,6 @@ Golden net
 Golden rod
 Golden shovel
 Holiday candle
-Ice flooring
 Ice wall
 Ice wand
 Illuminated present

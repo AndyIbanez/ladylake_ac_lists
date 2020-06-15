@@ -213,6 +213,7 @@ Hyacinth crown
 Hyacinth lamp
 Hyacinth wand
 Hyacinth wreath
+Ice flooring
 Iceberg flooring
 Iceberg wall
 Imperial fence

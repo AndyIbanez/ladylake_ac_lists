@@ -241,7 +241,7 @@
 - [x] Hyacinth lamp | 25634
 - [x] Hyacinth wand | 25712
 - [x] Hyacinth wreath | 25775
-- [ ] Ice flooring | 25315
+- [x] Ice flooring | 25315
 - [ ] Ice wall | 25826
 - [ ] Ice wand | 25713
 - [x] Iceberg flooring | 25316
