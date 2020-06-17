@@ -86,7 +86,7 @@
 - [x] Dungeon wall | 22586
 - [x] Exquisite wall | 22587
 - [x] Forest wall | 22588
-- [ ] Future-tech wall | 22589
+- [x] Future-tech wall | 22589
 - [ ] Garbage-heap wall | 22590
 - [ ] Gold-screen wall | 22591
 - [ ] Golden wall | 22592
@@ -123,7 +123,7 @@
 - [x] Manga-library wall | 22622
 - [x] Mangrove wall | 22623
 - [x] Marine pop wall | 22624
-- [ ] Meadow vista | 22625
+- [x] Meadow vista | 22625
 - [x] Misty-garden wall | 22626
 - [x] Mod wall | 22627
 - [x] Modern shoji-screen wall | 22628

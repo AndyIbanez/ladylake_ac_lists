@@ -77,6 +77,7 @@ Dojo wall
 Dungeon wall
 Exquisite wall
 Forest wall
+Future-tech wall
 Gray diner wall
 Gray shanty wall
 Gray-striped wall
@@ -103,6 +104,7 @@ Magma-cavern wall
 Manga-library wall
 Mangrove wall
 Marine pop wall
+Meadow vista
 Misty-garden wall
 Mod wall
 Modern shoji-screen wall

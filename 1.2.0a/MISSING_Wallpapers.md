@@ -7,7 +7,6 @@ Butterflies wall
 Camo wall
 Cherry wall
 Classic-library wall
-Future-tech wall
 Garbage-heap wall
 Gold-screen wall
 Golden wall
@@ -18,7 +17,6 @@ Ice wall
 Iceberg wall
 Jingle wall
 Jungle wall
-Meadow vista
 Nook Inc. wall
 Orange wall
 Party wall
