@@ -245,9 +245,9 @@
 - [x] Gothic headdress (Blue) | 59879
 - [x] Gothic headdress (Light purple) | 59880
 - [x] Gothic headdress (Purple) | 59881
-- [ ] Grape hat (Purple) | 24704
+- [x] Grape hat (Purple) | 24704
 - [x] Halo (Gold) | 24705
-- [ ] Handmade crown | 27118
+- [x] Handmade crown | 27118
 - [x] Headband (Blue) | 59882
 - [x] Headband (Purple) | 59883
 - [x] Headband (Green) | 59884
@@ -273,7 +273,7 @@
 - [x] Hibiscus hairpin (White) | 59903
 - [x] Hibiscus hairpin (Red) | 59904
 - [x] Hibiscus hairpin (Pink) | 59905
-- [ ] Hockey mask (White) | 24712
+- [x] Hockey mask (White) | 24712
 - [x] Hot-dog hood (Red) | 24713
 - [ ] Hyacinth crown (Red) | 24714
 - [ ] Imitation cow skull (White) | 24715
@@ -298,13 +298,13 @@
 - [ ] Kappa cap (Pink) | 59924
 - [x] Kiwi hat (Green) | 24721
 - [ ] Knight's helmet (Gray) | 24722
-- [ ] Knit cap with earflaps (Ruby red) | 59925
-- [ ] Knit cap with earflaps (Moss green) | 59926
-- [ ] Knit cap with earflaps (Gray) | 59927
-- [ ] Knit cap with earflaps (Beige) | 59928
-- [ ] Knit cap with earflaps (Blue) | 59929
-- [ ] Knit cap with earflaps (Pink) | 59930
-- [ ] Knit cap with earflaps (Green) | 59931
+- [x] Knit cap with earflaps (Ruby red) | 59925
+- [x] Knit cap with earflaps (Moss green) | 59926
+- [x] Knit cap with earflaps (Gray) | 59927
+- [x] Knit cap with earflaps (Beige) | 59928
+- [x] Knit cap with earflaps (Blue) | 59929
+- [x] Knit cap with earflaps (Pink) | 59930
+- [x] Knit cap with earflaps (Green) | 59931
 - [x] Knit hat (White) | 59932
 - [x] Knit hat (Gray) | 59933
 - [x] Knit hat (Ochre) | 59934

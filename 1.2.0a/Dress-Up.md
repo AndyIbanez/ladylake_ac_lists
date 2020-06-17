@@ -94,9 +94,9 @@
 - [x] Boa parka (Gray) | 58896
 - [x] Boa parka (Pink) | 58897
 - [x] Boa parka (Mint) | 58898
-- [ ] Bohemian tunic dress (Navy blue) | 58899
+- [x] Bohemian tunic dress (Navy blue) | 58899
 - [ ] Bohemian tunic dress (Green) | 58900
-- [ ] Bohemian tunic dress (Red) | 58901
+- [x] Bohemian tunic dress (Red) | 58901
 - [ ] Bold muumuu (Navy blue) | 58902
 - [ ] Bold muumuu (Pink) | 58903
 - [ ] Bolero coat (Pink) | 58904
@@ -317,8 +317,8 @@
 - [ ] Floral lace dress (Orange) | 59109
 - [ ] Floral lace dress (Green) | 59110
 - [ ] Floral lace dress (Purple) | 59111
-- [ ] Floral lace dress (Black) | 59112
-- [ ] Floral lace dress (Light blue) | 59113
+- [x] Floral lace dress (Black) | 59112
+- [x] Floral lace dress (Light blue) | 59113
 - [x] Flower-print dress (Green) | 59114
 - [x] Flower-print dress (Pink) | 59115
 - [x] Folk-dance outfit (Red) | 24476
@@ -392,8 +392,8 @@
 - [x] Jester costume (Red & blue) | 59176
 - [x] Jester costume (Green & red) | 59177
 - [x] Jester costume (Purple & yellow) | 59178
-- [ ] Jinbei (Fuchsia) | 59179
-- [ ] Jinbei (Gray) | 59180
+- [x] Jinbei (Fuchsia) | 59179
+- [x] Jinbei (Gray) | 59180
 - [x] Jinbei (Dark blue) | 59181
 - [x] Jockey uniform (Sash) | 59182
 - [x] Jockey uniform (Checkered) | 59183
