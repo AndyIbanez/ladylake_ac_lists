@@ -38,5 +38,4 @@ Sakura-wood flooring
 Sakura-wood wall
 Scorpio lamp
 Tabletop festive tree
-Three-tiered snowperson
 Virgo harp

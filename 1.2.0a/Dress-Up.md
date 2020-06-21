@@ -166,9 +166,9 @@
 - [ ] Cold-country bunad (Green) | 58963
 - [ ] Cold-country bunad (Red) | 58964
 - [ ] Cold-country bunad (Blue) | 58965
-- [ ] Cold-country dress (Blue) | 58966
+- [x] Cold-country dress (Blue) | 58966
 - [ ] Cold-country dress (Green) | 58967
-- [ ] Cold-country dress (Red) | 58968
+- [x] Cold-country dress (Red) | 58968
 - [ ] Concierge uniform (Red) | 58969
 - [x] Concierge uniform (Green) | 58970
 - [x] Concierge uniform (White) | 58971

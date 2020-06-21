@@ -508,7 +508,7 @@
 - [x] Taurus bathtub | 25568
 - [x] Tea table | 25569
 - [x] Terrarium | 25658
-- [ ] Three-tiered snowperson | 25570
+- [x] Three-tiered snowperson | 25570
 - [x] Tiki torch | 25571
 - [x] Timber doorplate | 25802
 - [x] Tiny library | 25572

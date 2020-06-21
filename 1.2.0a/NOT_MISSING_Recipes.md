@@ -468,6 +468,7 @@ Tall lantern
 Taurus bathtub
 Tea table
 Terrarium
+Three-tiered snowperson
 Tiki torch
 Timber doorplate
 Tiny library
