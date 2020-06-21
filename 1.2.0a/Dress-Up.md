@@ -71,9 +71,9 @@
 - [ ] Bathrobe (Blue) | 58874
 - [ ] Bathrobe (Green) | 58875
 - [x] Bear costume (Black) | 58876
-- [ ] Bear costume (Pink) | 58877
-- [ ] Bear costume (Brown) | 58878
-- [ ] Bear costume (Blue) | 58879
+- [x] Bear costume (Pink) | 58877
+- [x] Bear costume (Brown) | 58878
+- [x] Bear costume (Blue) | 58879
 - [x] Bekasab robe (Blue) | 58880
 - [x] Bekasab robe (Camel) | 58881
 - [x] Bekasab robe (Purple) | 58882
@@ -118,12 +118,12 @@
 - [x] Butterfly visiting kimono (Indigo blue) | 58919
 - [x] Butterfly visiting kimono (Fuchsia) | 58920
 - [x] Cake dress | 27115
-- [ ] Casual chic dress (Light blue) | 58921
-- [ ] Casual chic dress (Pink) | 58922
-- [ ] Casual chic dress (Green) | 58923
-- [ ] Casual chic dress (Navy blue) | 58924
-- [ ] Casual chic dress (Purple) | 58925
-- [ ] Casual chic dress (Yellow) | 58926
+- [x] Casual chic dress (Light blue) | 58921
+- [x] Casual chic dress (Pink) | 58922
+- [x] Casual chic dress (Green) | 58923
+- [x] Casual chic dress (Navy blue) | 58924
+- [x] Casual chic dress (Purple) | 58925
+- [x] Casual chic dress (Yellow) | 58926
 - [x] Casual kimono (Dark blue) | 58927
 - [x] Casual kimono (Aqua) | 58928
 - [x] Casual kimono (Green) | 58929

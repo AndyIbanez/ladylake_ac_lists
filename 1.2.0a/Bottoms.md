@@ -60,11 +60,11 @@
 - [x] Box-pleated skirt (Beige) | 58139
 - [x] Box-pleated skirt (Red) | 58140
 - [x] Box-pleated skirt (Green) | 58141
-- [ ] Buttoned lace skirt (Yellow) | 58142
-- [ ] Buttoned lace skirt (White) | 58143
-- [ ] Buttoned lace skirt (Pink) | 58144
-- [ ] Buttoned lace skirt (Green) | 58145
-- [ ] Buttoned lace skirt (Purple) | 58146
+- [x] Buttoned lace skirt (Yellow) | 58142
+- [x] Buttoned lace skirt (White) | 58143
+- [x] Buttoned lace skirt (Pink) | 58144
+- [x] Buttoned lace skirt (Green) | 58145
+- [x] Buttoned lace skirt (Purple) | 58146
 - [x] Buttoned wraparound skirt (Gray) | 58147
 - [x] Buttoned wraparound skirt (Blue) | 58148
 - [x] Buttoned wraparound skirt (Orange) | 58149
@@ -500,12 +500,12 @@
 - [x] Pleather flare skirt (Orange) | 58575
 - [x] Pleather flare skirt (Light blue) | 58576
 - [x] Pleather flare skirt (White) | 58577
-- [ ] Pleather pants (Black) | 58578
-- [ ] Pleather pants (Brown) | 58579
-- [ ] Pleather pants (Beige) | 58580
-- [ ] Pleather pants (Red) | 58581
-- [ ] Pleather pants (Blue) | 58582
-- [ ] Pleather pants (Yellow) | 58583
+- [x] Pleather pants (Black) | 58578
+- [x] Pleather pants (Brown) | 58579
+- [x] Pleather pants (Beige) | 58580
+- [x] Pleather pants (Red) | 58581
+- [x] Pleather pants (Blue) | 58582
+- [x] Pleather pants (Yellow) | 58583
 - [x] Pleather patch skirt (Red) | 58584
 - [x] Pleather patch skirt (Green) | 58585
 - [x] Pleather patch skirt (Purple) | 58586

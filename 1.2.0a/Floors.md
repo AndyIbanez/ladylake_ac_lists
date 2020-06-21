@@ -83,7 +83,7 @@
 - [x] Highway flooring | 22825
 - [ ] Honeycomb flooring | 22826
 - [ ] Ice flooring | 22827
-- [ ] Iceberg flooring | 22828
+- [x] Iceberg flooring | 22828
 - [x] Imperial tile | 22829
 - [x] Jointed-mat flooring | 22830
 - [ ] Jungle flooring | 22831
@@ -146,7 +146,7 @@
 - [x] Simple purple flooring | 22888
 - [x] Simple red flooring | 22889
 - [x] Simple white flooring | 22890
-- [ ] Ski-slope flooring | 22891
+- [x] Ski-slope flooring | 22891
 - [x] Skull-print flooring | 22892
 - [x] Slate flooring | 22893
 - [ ] Starry-sands flooring | 22894

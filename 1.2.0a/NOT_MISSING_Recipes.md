@@ -164,7 +164,10 @@ Fossil doorplate
 Fountain
 Frozen arch
 Frozen counter
+Frozen partition
+Frozen sculpture
 Frozen table
+Frozen-treat set
 Fruit basket
 Fruit wreath
 Frying pan
@@ -214,6 +217,8 @@ Hyacinth lamp
 Hyacinth wand
 Hyacinth wreath
 Ice flooring
+Ice wall
+Ice wand
 Iceberg flooring
 Iceberg wall
 Imperial fence

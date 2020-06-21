@@ -14,7 +14,6 @@ Gray molded-panel wall
 Green honeycomb-tile wall
 Honeycomb wall
 Ice wall
-Iceberg wall
 Jingle wall
 Jungle wall
 Nook Inc. wall
@@ -24,8 +23,6 @@ Peach two-toned tile wall
 Peach wall
 Pear wall
 Pink diner wall
-Ski-slope wall
-Snowflake wall
 Stacked-wood wall
 Steel-frame wall
 Street-art wall

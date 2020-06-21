@@ -183,12 +183,12 @@
 - [ ] Frozen bed | 25438
 - [ ] Frozen chair | 25439
 - [x] Frozen counter | 25440
-- [ ] Frozen partition | 25441
+- [x] Frozen partition | 25441
 - [ ] Frozen pillar | 25442
-- [ ] Frozen sculpture | 25443
+- [x] Frozen sculpture | 25443
 - [x] Frozen table | 25444
 - [ ] Frozen tree | 25445
-- [ ] Frozen-treat set | 25625
+- [x] Frozen-treat set | 25625
 - [x] Fruit basket | 25626
 - [x] Fruit wreath | 25771
 - [x] Frying pan | 25627
@@ -242,8 +242,8 @@
 - [x] Hyacinth wand | 25712
 - [x] Hyacinth wreath | 25775
 - [x] Ice flooring | 25315
-- [ ] Ice wall | 25826
-- [ ] Ice wand | 25713
+- [x] Ice wall | 25826
+- [x] Ice wand | 25713
 - [x] Iceberg flooring | 25316
 - [x] Iceberg wall | 25827
 - [ ] Illuminated present | 25460

@@ -84,10 +84,10 @@
 - [x] Cat cap (Brown) | 59743
 - [x] Cat cap (White) | 59744
 - [x] Cat cap (Navy blue) | 59745
-- [ ] Catcher's mask (Navy blue) | 59746
-- [ ] Catcher's mask (Green) | 59747
-- [ ] Catcher's mask (Orange) | 59748
-- [ ] Catcher's mask (Yellow) | 59749
+- [x] Catcher's mask (Navy blue) | 59746
+- [x] Catcher's mask (Green) | 59747
+- [x] Catcher's mask (Orange) | 59748
+- [x] Catcher's mask (Yellow) | 59749
 - [x] Catcher's mask (Red) | 59750
 - [x] Cavalier hat (Red) | 59751
 - [x] Cavalier hat (Green) | 59752
@@ -434,7 +434,7 @@
 - [x] Plain cap (Blue) | 60038
 - [x] Plain cap (Green) | 60039
 - [ ] Police cap (Navy blue) | 24764
-- [ ] Pom casquette (White) | 60040
+- [x] Pom casquette (White) | 60040
 - [ ] Pom casquette (Brown) | 60041
 - [ ] Pom casquette (Red) | 60042
 - [ ] Pom casquette (Green) | 60043

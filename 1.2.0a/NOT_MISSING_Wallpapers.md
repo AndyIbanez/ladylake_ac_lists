@@ -94,6 +94,7 @@ Groovy wall
 Harmonious wall
 Heavy-curtain wall
 Honeycomb-tile wall
+Iceberg wall
 Imperial wall
 Industrial wall
 Ivy wall
@@ -170,9 +171,11 @@ Sepia puzzle wall
 Server-room wall
 Shoji screen
 Shutter wall
+Ski-slope wall
 Skull wall
 Sky wall
 Skyscraper wall
+Snowflake wall
 Soothing tearoom wall
 Stadium wall
 Standard tearoom wall

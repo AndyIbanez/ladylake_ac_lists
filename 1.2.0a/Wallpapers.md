@@ -110,7 +110,7 @@
 - [ ] Honeycomb wall | 22609
 - [x] Honeycomb-tile wall | 22610
 - [ ] Ice wall | 22611
-- [ ] Iceberg wall | 22612
+- [x] Iceberg wall | 22612
 - [x] Imperial wall | 22613
 - [x] Industrial wall | 22614
 - [x] Ivy wall | 22615
@@ -196,11 +196,11 @@
 - [x] Server-room wall | 22695
 - [x] Shoji screen | 22696
 - [x] Shutter wall | 22697
-- [ ] Ski-slope wall | 22698
+- [x] Ski-slope wall | 22698
 - [x] Skull wall | 22699
 - [x] Sky wall | 22700
 - [x] Skyscraper wall | 22701
-- [ ] Snowflake wall | 22702
+- [x] Snowflake wall | 22702
 - [x] Soothing tearoom wall | 22703
 - [ ] Stacked-wood wall | 22704
 - [x] Stadium wall | 22705

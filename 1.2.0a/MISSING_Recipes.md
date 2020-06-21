@@ -17,17 +17,12 @@ Festive top set
 Festive tree
 Frozen bed
 Frozen chair
-Frozen partition
 Frozen pillar
-Frozen sculpture
 Frozen tree
-Frozen-treat set
 Golden net
 Golden rod
 Golden shovel
 Holiday candle
-Ice wall
-Ice wand
 Illuminated present
 Illuminated reindeer
 Illuminated snowflakes

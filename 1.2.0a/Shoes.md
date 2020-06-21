@@ -14,7 +14,7 @@
 - [x] Ballet slippers (Mint) | 60832
 - [ ] Ballet slippers (Blue) | 60833
 - [ ] Ballet slippers (Purple) | 60834
-- [ ] Ballet slippers (Black) | 60835
+- [x] Ballet slippers (Black) | 60835
 - [x] Ballet slippers (White) | 60836
 - [x] Ballet slippers (Yellow) | 60837
 - [x] Ballet slippers (Red) | 60838
@@ -26,12 +26,12 @@
 - [x] Basketball shoes (Purple) | 60844
 - [x] Basketball shoes (Light blue) | 60845
 - [x] Basketball shoes (Pink) | 60846
-- [ ] Beaded sandals (Orange) | 60847
-- [ ] Beaded sandals (Purple) | 60848
-- [ ] Beaded sandals (Yellow) | 60849
-- [ ] Beaded sandals (Red) | 60850
-- [ ] Beaded sandals (Green) | 60851
-- [ ] Beaded sandals (Beige) | 60852
+- [x] Beaded sandals (Orange) | 60847
+- [x] Beaded sandals (Purple) | 60848
+- [x] Beaded sandals (Yellow) | 60849
+- [x] Beaded sandals (Red) | 60850
+- [x] Beaded sandals (Green) | 60851
+- [x] Beaded sandals (Beige) | 60852
 - [x] Boots (Green) | 60853
 - [x] Boots (Black) | 60854
 - [x] Boots (Blue) | 60855
@@ -113,9 +113,9 @@
 - [x] Ghillie brogues (Brown) | 60929
 - [x] Ghillie brogues (Black) | 60930
 - [ ] Ghillie brogues (White) | 60931
-- [ ] Gladiator sandals (Brown) | 60932
-- [ ] Gladiator sandals (Black) | 60933
-- [ ] Gladiator sandals (Red) | 60934
+- [x] Gladiator sandals (Brown) | 60932
+- [x] Gladiator sandals (Black) | 60933
+- [x] Gladiator sandals (Red) | 60934
 - [ ] Gold-armor shoes (Gold) | 24991
 - [x] Hi-tech sneakers (Orange) | 60935
 - [x] Hi-tech sneakers (Pink) | 60936
@@ -378,11 +378,11 @@
 - [x] Trekking shoes (Purple) | 61186
 - [x] Trekking shoes (White) | 61187
 - [x] Trekking shoes (Brown) | 61188
-- [ ] Velour boots (Ruby red) | 61189
-- [ ] Velour boots (Gray) | 61190
-- [ ] Velour boots (Brown) | 61191
-- [ ] Velour boots (Blue) | 61192
-- [ ] Velour boots (Mustard) | 61193
+- [x] Velour boots (Ruby red) | 61189
+- [x] Velour boots (Gray) | 61190
+- [x] Velour boots (Brown) | 61191
+- [x] Velour boots (Blue) | 61192
+- [x] Velour boots (Mustard) | 61193
 - [x] Vinyl round-toed pumps (Beige) | 61194
 - [x] Vinyl round-toed pumps (Mint) | 61195
 - [x] Vinyl round-toed pumps (Brown) | 61196
@@ -441,7 +441,7 @@
 - [ ] Wrestling shoes (Blue) | 61244
 - [ ] Wrestling shoes (Green) | 61245
 - [x] Wrestling shoes (Pink) | 61246
-- [ ] Wrestling shoes (Black) | 61247
+- [x] Wrestling shoes (Black) | 61247
 - [x] Wrestling shoes (Yellow) | 61248
 - [x] Zap boots (White) | 25051
 - [x] Zori (Black) | 61249

@@ -76,6 +76,7 @@ Green wedding flooring
 Green-paint flooring
 Hexagonal floral flooring
 Highway flooring
+Iceberg flooring
 Imperial tile
 Jointed-mat flooring
 Kitschy tile
@@ -127,6 +128,7 @@ Sidewalk flooring
 Simple purple flooring
 Simple red flooring
 Simple white flooring
+Ski-slope flooring
 Skull-print flooring
 Slate flooring
 Steel flooring

@@ -179,12 +179,12 @@
 - [x] Round tinted shades (Green) | 60431
 - [x] Rounded beard (Black) | 24894
 - [ ] Shattered glasses (Black) | 24895
-- [ ] Ski goggles (White) | 60432
-- [ ] Ski goggles (Yellow) | 60433
-- [ ] Ski goggles (Purple) | 60434
-- [ ] Ski goggles (Pink) | 60435
-- [ ] Ski goggles (Green) | 60436
-- [ ] Ski goggles (Orange) | 60437
+- [x] Ski goggles (White) | 60432
+- [x] Ski goggles (Yellow) | 60433
+- [x] Ski goggles (Purple) | 60434
+- [x] Ski goggles (Pink) | 60435
+- [x] Ski goggles (Green) | 60436
+- [x] Ski goggles (Orange) | 60437
 - [x] Sporty shades (Black) | 60438
 - [x] Sporty shades (White) | 60439
 - [x] Sporty shades (Pink) | 60440

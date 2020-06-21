@@ -35,7 +35,7 @@
 - [ ] Color-blocked socks (White) | 60505
 - [x] Color-blocked socks (Lime) | 60506
 - [ ] Color-blocked socks (Pink) | 60507
-- [ ] Compression tights (Yellow) | 60508
+- [x] Compression tights (Yellow) | 60508
 - [x] Compression tights (Pink) | 60509
 - [x] Compression tights (Mint) | 60510
 - [ ] Compression tights (Red) | 60511
@@ -130,7 +130,7 @@
 - [ ] Kiddie socks (Lime & pink) | 60600
 - [x] Kiddie socks (Yellow & purple) | 60601
 - [ ] Kiddie socks (Light blue & red) | 60602
-- [ ] Kiddie socks (Purple & green) | 60603
+- [x] Kiddie socks (Purple & green) | 60603
 - [x] Kiddie socks (Pink & yellow) | 60604
 - [x] Kiddie socks (Black & gray) | 60605
 - [ ] Labelle socks (Midnight) | 60606

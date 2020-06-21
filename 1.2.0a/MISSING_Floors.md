@@ -5,7 +5,6 @@ Garbage-heap flooring
 Golden flooring
 Honeycomb flooring
 Ice flooring
-Iceberg flooring
 Jungle flooring
 Light wood-pattern flooring
 Lunar surface
@@ -17,7 +16,6 @@ Rush tatami flooring
 Sandy-beach flooring
 Sci-fi flooring
 Simple blue flooring
-Ski-slope flooring
 Starry-sands flooring
 Underwater flooring
 Water flooring
