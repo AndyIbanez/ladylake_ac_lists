@@ -8,7 +8,7 @@
 - [x] Cloth shoulder bag (Blue) | 61257
 - [x] Cloth shoulder bag (Orange) | 61258
 - [x] Cloth shoulder bag (Ivory) | 61259
-- [ ] Crossbody bag (Green) | 61260
+- [x] Crossbody bag (Green) | 61260
 - [x] Crossbody bag (Yellow) | 61261
 - [x] Crossbody bag (White) | 61262
 - [x] Crossbody bag (Pink) | 61263
@@ -58,7 +58,7 @@
 - [ ] Mom's knapsack (Chick) | 61302
 - [x] Nook Inc. knapsack (Brown) | 25080
 - [x] Outdoor backpack (Navy blue) | 61303
-- [ ] Outdoor backpack (Orange) | 61304
+- [x] Outdoor backpack (Orange) | 61304
 - [x] Outdoor backpack (Avocado) | 61305
 - [x] Pleather crossbody bag (Navy blue) | 61306
 - [x] Pleather crossbody bag (Black) | 61307

@@ -13,7 +13,7 @@
 - [x] Ballet slippers (Pink) | 60831
 - [x] Ballet slippers (Mint) | 60832
 - [ ] Ballet slippers (Blue) | 60833
-- [ ] Ballet slippers (Purple) | 60834
+- [x] Ballet slippers (Purple) | 60834
 - [x] Ballet slippers (Black) | 60835
 - [x] Ballet slippers (White) | 60836
 - [x] Ballet slippers (Yellow) | 60837
@@ -143,10 +143,10 @@
 - [x] Jester's shoes (Red) | 60958
 - [ ] Jester's shoes (Green) | 60959
 - [x] Kiddie sneakers (Red) | 60960
-- [x] Kiddie sneakers (Blue) | 60961
+- [ ] Kiddie sneakers (Blue) | 60961
 - [x] Kiddie sneakers (Green) | 60962
 - [x] Kiddie sneakers (Purple) | 60963
-- [ ] Kiddie sneakers (Silver) | 60964
+- [x] Kiddie sneakers (Silver) | 60964
 - [x] Kiddie sneakers (Black) | 60965
 - [ ] Kimono sandals (Black) | 60966
 - [ ] Kimono sandals (Red) | 60967
@@ -246,7 +246,7 @@
 - [x] Pom-pom boots (Green) | 61058
 - [x] Pom-pom boots (Blue) | 61059
 - [x] Pom-pom boots (Black) | 61060
-- [ ] Power boots (Red) | 61061
+- [x] Power boots (Red) | 61061
 - [ ] Power boots (Blue) | 61062
 - [ ] Power boots (Green) | 61063
 - [ ] Power boots (Black) | 61064
