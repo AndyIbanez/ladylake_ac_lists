@@ -189,13 +189,13 @@
 - [x] No-show socks (Yellow) | 60659
 - [x] No-show socks (Gray) | 60660
 - [ ] Nook Inc. socks (Yellow) | 24942
-- [ ] Nordic socks (Ivory) | 60661
+- [x] Nordic socks (Ivory) | 60661
 - [x] Nordic socks (Navy blue) | 60662
-- [ ] Nordic socks (Red) | 60663
-- [ ] Nordic socks (Blue) | 60664
-- [ ] Nordic socks (Gray) | 60665
-- [ ] Nordic socks (Green) | 60666
-- [ ] Nordic socks (Light blue) | 60667
+- [x] Nordic socks (Red) | 60663
+- [x] Nordic socks (Blue) | 60664
+- [x] Nordic socks (Gray) | 60665
+- [x] Nordic socks (Green) | 60666
+- [x] Nordic socks (Light blue) | 60667
 - [x] Patterned stockings (Black) | 60668
 - [x] Patterned stockings (White) | 60669
 - [x] Pom-pom socks (Blue) | 60670

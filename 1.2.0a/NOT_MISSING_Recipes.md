@@ -163,6 +163,8 @@ Forest wall
 Fossil doorplate
 Fountain
 Frozen arch
+Frozen bed
+Frozen chair
 Frozen counter
 Frozen partition
 Frozen sculpture

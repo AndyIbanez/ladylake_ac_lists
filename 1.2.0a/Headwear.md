@@ -294,8 +294,8 @@
 - [x] Kaffiyeh (White) | 59920
 - [ ] Kaffiyeh (Red) | 59921
 - [ ] Kaffiyeh (Black) | 59922
-- [ ] Kappa cap (Green) | 59923
-- [ ] Kappa cap (Pink) | 59924
+- [x] Kappa cap (Green) | 59923
+- [x] Kappa cap (Pink) | 59924
 - [x] Kiwi hat (Green) | 24721
 - [ ] Knight's helmet (Gray) | 24722
 - [x] Knit cap with earflaps (Ruby red) | 59925
@@ -435,11 +435,11 @@
 - [x] Plain cap (Green) | 60039
 - [ ] Police cap (Navy blue) | 24764
 - [x] Pom casquette (White) | 60040
-- [ ] Pom casquette (Brown) | 60041
-- [ ] Pom casquette (Red) | 60042
-- [ ] Pom casquette (Green) | 60043
-- [ ] Pom casquette (Blue) | 60044
-- [ ] Pom casquette (Gray) | 60045
+- [x] Pom casquette (Brown) | 60041
+- [x] Pom casquette (Red) | 60042
+- [x] Pom casquette (Green) | 60043
+- [x] Pom casquette (Blue) | 60044
+- [x] Pom casquette (Gray) | 60045
 - [x] Pompadour wig (Hair Color) | 24766
 - [x] Power helmet (Red) | 60046
 - [x] Power helmet (Blue) | 60047

@@ -180,8 +180,8 @@
 - [x] Fossil doorplate | 25770
 - [x] Fountain | 25436
 - [x] Frozen arch | 25437
-- [ ] Frozen bed | 25438
-- [ ] Frozen chair | 25439
+- [x] Frozen bed | 25438
+- [x] Frozen chair | 25439
 - [x] Frozen counter | 25440
 - [x] Frozen partition | 25441
 - [ ] Frozen pillar | 25442

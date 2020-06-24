@@ -366,8 +366,8 @@
 - [x] Hibiscus muumuu (Pink) | 59153
 - [x] Hibiscus muumuu (Red) | 59154
 - [x] Hot-dog costume (Mustard) | 24491
-- [ ] House-print dress (White) | 59155
-- [ ] House-print dress (Yellow) | 59156
+- [x] House-print dress (White) | 59155
+- [x] House-print dress (Yellow) | 59156
 - [ ] Ice-hockey uniform (White & blue) | 59157
 - [ ] Ice-hockey uniform (Berry red) | 59158
 - [ ] Ice-hockey uniform (Blue) | 59159
@@ -667,7 +667,7 @@
 - [x] Retro dress (Yellow) | 59439
 - [x] Retro dress (Light blue) | 59440
 - [x] Retro dress (Green) | 59441
-- [ ] Retro sleeveless dress (Blue) | 59442
+- [x] Retro sleeveless dress (Blue) | 59442
 - [x] Retro sleeveless dress (Yellow) | 59443
 - [x] Retro sleeveless dress (Green) | 59444
 - [x] Retro sleeveless dress (Red) | 59445
@@ -773,11 +773,11 @@
 - [x] Sprite costume (Pink) | 59541
 - [x] Sprite costume (Mint) | 59542
 - [x] Sprite costume (Green) | 59543
-- [ ] Star costume (White) | 59544
-- [ ] Star costume (Black) | 59545
-- [ ] Star costume (Red) | 59546
-- [ ] Star costume (Navy blue) | 59547
-- [ ] Star costume (Yellow) | 59548
+- [x] Star costume (White) | 59544
+- [x] Star costume (Black) | 59545
+- [x] Star costume (Red) | 59546
+- [x] Star costume (Navy blue) | 59547
+- [x] Star costume (Yellow) | 59548
 - [x] Steampunk costume (Purple) | 59549
 - [x] Steampunk costume (Red) | 59550
 - [ ] Stellar jumpsuit (Blue) | 59551

@@ -15,8 +15,6 @@ Cherry-blossom wand
 Cherry-blossom-trees wall
 Festive top set
 Festive tree
-Frozen bed
-Frozen chair
 Frozen pillar
 Frozen tree
 Golden net
