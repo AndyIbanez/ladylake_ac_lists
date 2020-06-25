@@ -12,7 +12,7 @@
 - [ ] Babouches (Red) | 60830
 - [x] Ballet slippers (Pink) | 60831
 - [x] Ballet slippers (Mint) | 60832
-- [ ] Ballet slippers (Blue) | 60833
+- [x] Ballet slippers (Blue) | 60833
 - [x] Ballet slippers (Purple) | 60834
 - [x] Ballet slippers (Black) | 60835
 - [x] Ballet slippers (White) | 60836
@@ -76,7 +76,7 @@
 - [x] Earth-egg shoes (None) | 24982
 - [ ] Embroidered shoes (Red) | 60893
 - [x] Embroidered shoes (White) | 60894
-- [ ] Embroidered shoes (Black) | 60895
+- [x] Embroidered shoes (Black) | 60895
 - [ ] Embroidered shoes (Blue) | 60896
 - [x] Faux-fur ankle booties (Olive) | 60897
 - [x] Faux-fur ankle booties (Beige) | 60898
@@ -157,12 +157,12 @@
 - [x] Kimono sandals (Yellow) | 60972
 - [ ] Kimono sandals (Green) | 60973
 - [ ] Kung-fu shoes (Black) | 24998
-- [ ] Labelle pumps (Twilight) | 60974
-- [ ] Labelle pumps (Midnight) | 60975
-- [ ] Labelle pumps (Passion) | 60976
-- [ ] Labelle pumps (Ocean) | 60977
-- [ ] Labelle pumps (Sunset) | 60978
-- [ ] Labelle pumps (Love) | 60979
+- [x] Labelle pumps (Twilight) | 60974
+- [x] Labelle pumps (Midnight) | 60975
+- [x] Labelle pumps (Passion) | 60976
+- [x] Labelle pumps (Ocean) | 60977
+- [x] Labelle pumps (Sunset) | 60978
+- [x] Labelle pumps (Love) | 60979
 - [ ] Labelle sneakers (Twilight) | 60980
 - [ ] Labelle sneakers (Midnight) | 60981
 - [ ] Labelle sneakers (Passion) | 60982
@@ -290,7 +290,7 @@
 - [x] Rubber-toe sneakers (Black) | 61101
 - [ ] Samurai greaves (Red) | 61102
 - [x] Samurai greaves (Black) | 61103
-- [ ] Samurai greaves (Blue) | 61104
+- [x] Samurai greaves (Blue) | 61104
 - [x] Samurai greaves (White) | 61105
 - [ ] Samurai greaves (Golden yellow) | 61106
 - [ ] Shiny bow platform shoes (Pink) | 61107
@@ -439,7 +439,7 @@
 - [x] Work boots (Gray) | 61242
 - [ ] Wrestling shoes (Red) | 61243
 - [ ] Wrestling shoes (Blue) | 61244
-- [ ] Wrestling shoes (Green) | 61245
+- [x] Wrestling shoes (Green) | 61245
 - [x] Wrestling shoes (Pink) | 61246
 - [x] Wrestling shoes (Black) | 61247
 - [x] Wrestling shoes (Yellow) | 61248

@@ -606,11 +606,11 @@
 - [x] Tam-o'-shanter (Green) | 60191
 - [ ] Tam-o'-shanter (Red) | 60192
 - [x] Terry-cloth do-rag (White) | 60193
-- [ ] Terry-cloth do-rag (Black) | 60194
-- [ ] Terry-cloth do-rag (Blue) | 60195
-- [ ] Terry-cloth do-rag (Brown) | 60196
-- [ ] Terry-cloth do-rag (Yellow) | 60197
-- [ ] Terry-cloth do-rag (Berry red) | 60198
+- [x] Terry-cloth do-rag (Black) | 60194
+- [x] Terry-cloth do-rag (Blue) | 60195
+- [x] Terry-cloth do-rag (Brown) | 60196
+- [x] Terry-cloth do-rag (Yellow) | 60197
+- [x] Terry-cloth do-rag (Berry red) | 60198
 - [x] Terry-cloth nightcap (Blue) | 60199
 - [x] Terry-cloth nightcap (Green) | 60200
 - [x] Terry-cloth nightcap (Orange) | 60201
