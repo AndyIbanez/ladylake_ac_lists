@@ -186,6 +186,7 @@ Stone wall
 Stormy-night wall
 Straw wall
 Strawberry-chocolate wall
+Street-art wall
 Summit wall
 Tree-lined wall
 Wavy-tile wall

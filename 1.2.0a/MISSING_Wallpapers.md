@@ -25,7 +25,6 @@ Pear wall
 Pink diner wall
 Stacked-wood wall
 Steel-frame wall
-Street-art wall
 Tropical vista
 Underwater wall
 White painted-wood wall

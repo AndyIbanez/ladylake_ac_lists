@@ -213,7 +213,7 @@
 - [x] Stormy-night wall | 22712
 - [x] Straw wall | 22713
 - [x] Strawberry-chocolate wall | 22714
-- [ ] Street-art wall | 22715
+- [x] Street-art wall | 22715
 - [x] Summit wall | 22716
 - [x] Tree-lined wall | 22717
 - [ ] Tropical vista | 22718
