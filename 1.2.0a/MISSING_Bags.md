@@ -1,6 +1,5 @@
 Bug cage (Green)
 Butterfly backpack (Pink)
-DAL backpack (Blue)
 Mom's knapsack (Polka dots)
 Mom's knapsack (Colorful quilt design)
 Mom's knapsack (M)

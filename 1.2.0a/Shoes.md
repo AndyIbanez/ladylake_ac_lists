@@ -305,7 +305,7 @@
 - [x] Shower sandals (Gold) | 61116
 - [x] Shower sandals (Red) | 61117
 - [x] Shower sandals (Blue) | 61118
-- [ ] Ski boots (White) | 61119
+- [x] Ski boots (White) | 61119
 - [ ] Ski boots (Orange) | 61120
 - [x] Ski boots (Red) | 61121
 - [ ] Ski boots (Lime) | 61122
@@ -367,7 +367,7 @@
 - [x] Strappy heels (Purple) | 61175
 - [x] Traditional flower shoes (Red) | 61176
 - [ ] Traditional flower shoes (Pink) | 61177
-- [ ] Traditional flower shoes (Blue) | 61178
+- [x] Traditional flower shoes (Blue) | 61178
 - [x] Traditional flower shoes (Yellow) | 61179
 - [ ] Traditional flower shoes (Lime) | 61180
 - [x] Trekking shoes (Orange) | 61181
@@ -426,7 +426,7 @@
 - [x] Wood-egg shoes (None) | 25047
 - [ ] Wooden clogs (Yellow) | 61230
 - [ ] Wooden clogs (Blue) | 61231
-- [ ] Wooden clogs (Red) | 61232
+- [x] Wooden clogs (Red) | 61232
 - [x] Wooden clogs (Green) | 61233
 - [x] Wooden clogs (Brown) | 61234
 - [x] Work boots (Red) | 61235

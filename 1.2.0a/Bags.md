@@ -14,7 +14,7 @@
 - [x] Crossbody bag (Pink) | 61263
 - [x] Crossbody boston bag (Red) | 61264
 - [x] Crossbody boston bag (Blue) | 61265
-- [ ] DAL backpack (Blue) | 25063
+- [x] DAL backpack (Blue) | 25063
 - [x] Dry bag (Yellow) | 61266
 - [x] Dry bag (Blue) | 61267
 - [x] Evening bag (Pink) | 61268

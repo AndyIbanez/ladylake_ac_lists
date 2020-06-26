@@ -131,9 +131,9 @@
 - [ ] Cat dress (Brown) | 58931
 - [x] Cat dress (White) | 58932
 - [ ] Cat dress (Navy blue) | 58933
-- [ ] Caterpillar costume (Yellow) | 58934
-- [ ] Caterpillar costume (Rainbow) | 58935
-- [ ] Caterpillar costume (Green) | 58936
+- [x] Caterpillar costume (Yellow) | 58934
+- [x] Caterpillar costume (Rainbow) | 58935
+- [x] Caterpillar costume (Green) | 58936
 - [x] Caveman tank (Yellow) | 58937
 - [x] Caveman tank (Gray) | 58938
 - [x] Caveman tank (Orange) | 58939
@@ -552,7 +552,7 @@
 - [x] Noble zap suit (White) | 59330
 - [x] Nurse's dress uniform (White) | 59331
 - [x] Nurse's dress uniform (Blue) | 59332
-- [ ] Nurse's dress uniform (Pink) | 59333
+- [x] Nurse's dress uniform (Pink) | 59333
 - [x] Office uniform (Blue) | 59334
 - [x] Office uniform (Pink) | 59335
 - [x] Office uniform (Gray) | 59336
