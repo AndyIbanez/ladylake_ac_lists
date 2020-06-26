@@ -269,7 +269,7 @@
 - [x] Helmet with goggles (Light blue) | 59899
 - [x] Helmet with goggles (Black) | 59900
 - [x] Helmet with goggles (Yellow) | 59901
-- [ ] Hibiscus hairpin (Yellow) | 59902
+- [x] Hibiscus hairpin (Yellow) | 59902
 - [x] Hibiscus hairpin (White) | 59903
 - [x] Hibiscus hairpin (Red) | 59904
 - [x] Hibiscus hairpin (Pink) | 59905
@@ -396,10 +396,10 @@
 - [x] Outdoor hat (Orange) | 60006
 - [x] Outdoor hat (Blue) | 60007
 - [x] Outdoor hat (Purple) | 60008
-- [ ] Paintball mask (Black) | 60009
-- [ ] Paintball mask (White) | 60010
-- [ ] Paintball mask (Olive) | 60011
-- [ ] Paintball mask (Yellow) | 60012
+- [x] Paintball mask (Black) | 60009
+- [x] Paintball mask (White) | 60010
+- [x] Paintball mask (Olive) | 60011
+- [x] Paintball mask (Yellow) | 60012
 - [x] Paisley bandanna (Blue) | 60013
 - [x] Paisley bandanna (Yellow) | 60014
 - [x] Paisley bandanna (Black) | 60015

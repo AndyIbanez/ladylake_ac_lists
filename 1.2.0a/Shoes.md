@@ -48,8 +48,8 @@
 - [x] Cleats (Green) | 60866
 - [ ] Cleats (Purple) | 60867
 - [ ] Comfy sandals (Brown) | 60868
-- [ ] Comfy sandals (White) | 60869
-- [ ] Comfy sandals (Green) | 60870
+- [x] Comfy sandals (White) | 60869
+- [x] Comfy sandals (Green) | 60870
 - [ ] Comfy sandals (Blue) | 60871
 - [ ] Comfy sandals (Red) | 60872
 - [ ] Comfy sandals (Orange) | 60873
@@ -95,14 +95,14 @@
 - [x] Faux-suede sneakers (Light blue) | 60911
 - [x] Faux-suede sneakers (Purple) | 60912
 - [x] Faux-suede sneakers (Berry red) | 60913
-- [ ] Flip-flops (Blue) | 60914
-- [ ] Flip-flops (Green) | 60915
-- [ ] Flip-flops (Yellow) | 60916
-- [ ] Flip-flops (White) | 60917
-- [ ] Flip-flops (Orange) | 60918
-- [ ] Flip-flops (Light blue) | 60919
-- [ ] Flip-flops (Pink) | 60920
-- [ ] Flip-flops (Red) | 60921
+- [x] Flip-flops (Blue) | 60914
+- [x] Flip-flops (Green) | 60915
+- [x] Flip-flops (Yellow) | 60916
+- [x] Flip-flops (White) | 60917
+- [x] Flip-flops (Orange) | 60918
+- [x] Flip-flops (Light blue) | 60919
+- [x] Flip-flops (Pink) | 60920
+- [x] Flip-flops (Red) | 60921
 - [x] Flower sandals (Yellow) | 60922
 - [x] Flower sandals (Pink) | 60923
 - [x] Flower sandals (Green) | 60924
@@ -112,7 +112,7 @@
 - [x] Flower sandals (White) | 60928
 - [x] Ghillie brogues (Brown) | 60929
 - [x] Ghillie brogues (Black) | 60930
-- [ ] Ghillie brogues (White) | 60931
+- [x] Ghillie brogues (White) | 60931
 - [x] Gladiator sandals (Brown) | 60932
 - [x] Gladiator sandals (Black) | 60933
 - [x] Gladiator sandals (Red) | 60934
@@ -148,14 +148,14 @@
 - [x] Kiddie sneakers (Purple) | 60963
 - [x] Kiddie sneakers (Silver) | 60964
 - [x] Kiddie sneakers (Black) | 60965
-- [ ] Kimono sandals (Black) | 60966
-- [ ] Kimono sandals (Red) | 60967
+- [x] Kimono sandals (Black) | 60966
+- [x] Kimono sandals (Red) | 60967
 - [ ] Kimono sandals (Pink) | 60968
 - [ ] Kimono sandals (Dark blue) | 60969
 - [x] Kimono sandals (Gray) | 60970
 - [x] Kimono sandals (Purple) | 60971
 - [x] Kimono sandals (Yellow) | 60972
-- [ ] Kimono sandals (Green) | 60973
+- [x] Kimono sandals (Green) | 60973
 - [ ] Kung-fu shoes (Black) | 24998
 - [x] Labelle pumps (Twilight) | 60974
 - [x] Labelle pumps (Midnight) | 60975
@@ -213,7 +213,7 @@
 - [x] Moccasins (Pink) | 61026
 - [x] Moccasins (Gray) | 61027
 - [x] Moccasins (Black) | 61028
-- [ ] Nook Inc. slippers (White) | 25009
+- [x] Nook Inc. slippers (White) | 25009
 - [x] Outdoor sandals (Green) | 61029
 - [x] Outdoor sandals (Red) | 61030
 - [x] Outdoor sandals (Blue) | 61031
@@ -224,7 +224,7 @@
 - [x] Outdoor sandals (Black) | 61036
 - [x] Paw slippers (Pink) | 61037
 - [ ] Paw slippers (Brown) | 61038
-- [ ] Paw slippers (White) | 61039
+- [x] Paw slippers (White) | 61039
 - [ ] Paw slippers (Blue) | 61040
 - [ ] Paw slippers (Black) | 61041
 - [x] Pleather ankle booties (Brown) | 61042
@@ -268,7 +268,7 @@
 - [ ] Ribbon sandals (White) | 61079
 - [ ] Ribbon sandals (Pink) | 61080
 - [ ] Ribbon sandals (Yellow) | 61081
-- [ ] Ribbon sandals (Green) | 61082
+- [x] Ribbon sandals (Green) | 61082
 - [ ] Ribbon sandals (Berry red) | 61083
 - [ ] Ribbon sandals (Black) | 61084
 - [x] Ribbon sandals (Beige) | 61085

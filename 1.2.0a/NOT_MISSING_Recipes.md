@@ -167,8 +167,10 @@ Frozen bed
 Frozen chair
 Frozen counter
 Frozen partition
+Frozen pillar
 Frozen sculpture
 Frozen table
+Frozen tree
 Frozen-treat set
 Fruit basket
 Fruit wreath

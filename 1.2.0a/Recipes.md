@@ -184,10 +184,10 @@
 - [x] Frozen chair | 25439
 - [x] Frozen counter | 25440
 - [x] Frozen partition | 25441
-- [ ] Frozen pillar | 25442
+- [x] Frozen pillar | 25442
 - [x] Frozen sculpture | 25443
 - [x] Frozen table | 25444
-- [ ] Frozen tree | 25445
+- [x] Frozen tree | 25445
 - [x] Frozen-treat set | 25625
 - [x] Fruit basket | 25626
 - [x] Fruit wreath | 25771

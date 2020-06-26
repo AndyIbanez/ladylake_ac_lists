@@ -34,14 +34,14 @@
 - [x] Belted wraparound skirt (Red) | 58113
 - [x] Belted wraparound skirt (Green) | 58114
 - [x] Belted wraparound skirt (Blue) | 58115
-- [ ] Boa shorts (Purple) | 58116
-- [ ] Boa shorts (Avocado) | 58117
-- [ ] Boa shorts (Beige) | 58118
+- [x] Boa shorts (Purple) | 58116
+- [x] Boa shorts (Avocado) | 58117
+- [x] Boa shorts (Beige) | 58118
 - [x] Boa shorts (Blue) | 58119
-- [ ] Boa shorts (Red) | 58120
+- [x] Boa shorts (Red) | 58120
 - [x] Boa shorts (Orange) | 58121
-- [ ] Boa shorts (Peacock blue) | 58122
-- [ ] Boa shorts (Black) | 58123
+- [x] Boa shorts (Peacock blue) | 58122
+- [x] Boa shorts (Black) | 58123
 - [x] Boa skirt (Green) | 58124
 - [x] Boa skirt (Blue) | 58125
 - [ ] Boa skirt (Purple) | 58126
@@ -606,10 +606,10 @@
 - [x] Sporty skirt (Pink) | 58681
 - [x] Sporty skirt (Blue) | 58682
 - [x] Sporty skirt (Green) | 58683
-- [ ] Striped bell-bottoms (Yellow) | 58684
-- [ ] Striped bell-bottoms (Red) | 58685
-- [ ] Striped bell-bottoms (Green) | 58686
-- [ ] Striped bell-bottoms (Orange) | 58687
+- [x] Striped bell-bottoms (Yellow) | 58684
+- [x] Striped bell-bottoms (Red) | 58685
+- [x] Striped bell-bottoms (Green) | 58686
+- [x] Striped bell-bottoms (Orange) | 58687
 - [x] Striped pants (Blue) | 58688
 - [x] Striped pants (Orange) | 58689
 - [x] Striped pants (Green) | 58690
