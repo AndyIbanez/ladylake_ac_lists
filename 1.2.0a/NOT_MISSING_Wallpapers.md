@@ -46,8 +46,10 @@ Brown diner wall
 Brown hallway wall
 Brown herringbone wall
 Brown shanty wall
+Brown wedding wall
 Brown-crown wall
 Bunny Day wall
+Butterflies wall
 Cabin wall
 Café-curtain wall
 Chain-link fence

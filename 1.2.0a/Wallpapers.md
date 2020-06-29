@@ -49,11 +49,11 @@
 - [x] Brown hallway wall | 22550
 - [x] Brown herringbone wall | 22551
 - [x] Brown shanty wall | 22552
-- [ ] Brown wedding wall | 27096
+- [x] Brown wedding wall | 27096
 - [ ] Brown-brick wall | 22553
 - [x] Brown-crown wall | 22554
 - [x] Bunny Day wall | 22555
-- [ ] Butterflies wall | 22556
+- [x] Butterflies wall | 22556
 - [x] Cabin wall | 22557
 - [x] Café-curtain wall | 22558
 - [ ] Camo wall | 22559

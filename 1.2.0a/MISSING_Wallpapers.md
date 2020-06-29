@@ -1,9 +1,7 @@
 Bamboo-grove wall
 Blue simple-cloth wall
 Brown botanical-tile wall
-Brown wedding wall
 Brown-brick wall
-Butterflies wall
 Camo wall
 Cherry wall
 Classic-library wall

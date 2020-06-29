@@ -27,7 +27,7 @@
 - [x] Kabuki umbrella | 25124
 - [x] Kiwi umbrella | 25125
 - [x] Lacy parasol | 25126
-- [ ] Ladybug umbrella | 25127
+- [x] Ladybug umbrella | 25127
 - [x] Leaf umbrella | 25128
 - [x] Lemon umbrella | 25129
 - [x] Logo umbrella | 25130

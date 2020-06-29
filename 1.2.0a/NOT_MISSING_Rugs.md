@@ -24,6 +24,7 @@ Green shaggy rug
 Green stripes rug
 Iron entrance mat
 Ivory medium round mat
+Ladybug rug
 Magic-circle rug
 Mom's lively kitchen mat
 Mom's reliable kitchen mat

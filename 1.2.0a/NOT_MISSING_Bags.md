@@ -1,6 +1,8 @@
 Acorn pochette (Brown)
 Basket pack (Green)
+Bug cage (Green)
 Bunny Day bag (None)
+Butterfly backpack (Pink)
 Canvas backpack (White)
 Cherry-blossom pochette (Pink)
 Cloth shoulder bag (Blue)

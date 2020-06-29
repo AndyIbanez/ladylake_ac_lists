@@ -42,7 +42,7 @@
 - [ ] Ivory simple bath mat | 22957
 - [ ] Ivory small round mat | 22958
 - [ ] Lacy rug | 22959
-- [ ] Ladybug rug | 22960
+- [x] Ladybug rug | 22960
 - [ ] Light bamboo rug | 22961
 - [x] Magic-circle rug | 22962
 - [ ] Modern wavy rug | 22963

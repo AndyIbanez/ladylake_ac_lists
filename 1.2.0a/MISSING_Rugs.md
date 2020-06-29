@@ -16,7 +16,6 @@ Dark bamboo rug
 Ivory simple bath mat
 Ivory small round mat
 Lacy rug
-Ladybug rug
 Light bamboo rug
 Modern wavy rug
 Mom's cool kitchen mat

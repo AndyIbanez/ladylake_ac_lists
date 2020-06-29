@@ -1,5 +1,3 @@
-Bug cage (Green)
-Butterfly backpack (Pink)
 Mom's knapsack (Polka dots)
 Mom's knapsack (Colorful quilt design)
 Mom's knapsack (M)

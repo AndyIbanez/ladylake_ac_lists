@@ -6,7 +6,7 @@
 - [x] Babouches (Orange) | 60824
 - [x] Babouches (Pink) | 60825
 - [ ] Babouches (Yellow) | 60826
-- [ ] Babouches (Gray) | 60827
+- [x] Babouches (Gray) | 60827
 - [ ] Babouches (Purple) | 60828
 - [ ] Babouches (Mint) | 60829
 - [ ] Babouches (Red) | 60830
@@ -47,14 +47,14 @@
 - [ ] Cleats (Orange) | 60865
 - [x] Cleats (Green) | 60866
 - [ ] Cleats (Purple) | 60867
-- [ ] Comfy sandals (Brown) | 60868
+- [x] Comfy sandals (Brown) | 60868
 - [x] Comfy sandals (White) | 60869
 - [x] Comfy sandals (Green) | 60870
-- [ ] Comfy sandals (Blue) | 60871
-- [ ] Comfy sandals (Red) | 60872
-- [ ] Comfy sandals (Orange) | 60873
-- [ ] Comfy sandals (Yellow) | 60874
-- [ ] Comfy sandals (Purple) | 60875
+- [x] Comfy sandals (Blue) | 60871
+- [x] Comfy sandals (Red) | 60872
+- [x] Comfy sandals (Orange) | 60873
+- [x] Comfy sandals (Yellow) | 60874
+- [x] Comfy sandals (Purple) | 60875
 - [x] Cowboy boots (Brown) | 60876
 - [x] Cowboy boots (Black) | 60877
 - [x] Cowboy boots (Ivory) | 60878
@@ -141,7 +141,7 @@
 - [x] Jester's shoes (Purple) | 60956
 - [x] Jester's shoes (Black) | 60957
 - [x] Jester's shoes (Red) | 60958
-- [ ] Jester's shoes (Green) | 60959
+- [x] Jester's shoes (Green) | 60959
 - [x] Kiddie sneakers (Red) | 60960
 - [ ] Kiddie sneakers (Blue) | 60961
 - [x] Kiddie sneakers (Green) | 60962
@@ -166,7 +166,7 @@
 - [ ] Labelle sneakers (Twilight) | 60980
 - [ ] Labelle sneakers (Midnight) | 60981
 - [ ] Labelle sneakers (Passion) | 60982
-- [ ] Labelle sneakers (Ocean) | 60983
+- [x] Labelle sneakers (Ocean) | 60983
 - [ ] Labelle sneakers (Sunset) | 60984
 - [ ] Labelle sneakers (Love) | 60985
 - [x] Lace-up boots (Black) | 60986
@@ -189,8 +189,8 @@
 - [x] Loafers (Red) | 61002
 - [ ] Mage's booties (Black) | 61003
 - [x] Mage's booties (Blue) | 61004
-- [ ] Mage's booties (White) | 61005
-- [ ] Mage's booties (Red) | 61006
+- [x] Mage's booties (White) | 61005
+- [x] Mage's booties (Red) | 61006
 - [x] Mary janes (Black) | 61007
 - [x] Mary janes (Red) | 61008
 - [x] Mary janes (White) | 61009
@@ -225,7 +225,7 @@
 - [x] Paw slippers (Pink) | 61037
 - [ ] Paw slippers (Brown) | 61038
 - [x] Paw slippers (White) | 61039
-- [ ] Paw slippers (Blue) | 61040
+- [x] Paw slippers (Blue) | 61040
 - [ ] Paw slippers (Black) | 61041
 - [x] Pleather ankle booties (Brown) | 61042
 - [x] Pleather ankle booties (Black) | 61043
@@ -341,7 +341,7 @@
 - [ ] Slippers (Blue) | 61151
 - [ ] Slippers (Red) | 61152
 - [ ] Slippers (Yellow) | 61153
-- [ ] Space boots (White) | 25031
+- [x] Space boots (White) | 25031
 - [x] Sporty sandals (Red) | 61154
 - [x] Sporty sandals (Olive) | 61155
 - [x] Sporty sandals (Blue) | 61156

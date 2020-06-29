@@ -1,8 +1,8 @@
 - [x] Acorn pochette (Brown) | 25053
 - [x] Basket pack (Green) | 25054
-- [ ] Bug cage (Green) | 25055
+- [x] Bug cage (Green) | 25055
 - [x] Bunny Day bag (None) | 25056
-- [ ] Butterfly backpack (Pink) | 25057
+- [x] Butterfly backpack (Pink) | 25057
 - [x] Canvas backpack (White) | 25058
 - [x] Cherry-blossom pochette (Pink) | 25059
 - [x] Cloth shoulder bag (Blue) | 61257

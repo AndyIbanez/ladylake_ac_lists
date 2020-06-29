@@ -25,6 +25,7 @@ Hydrangea umbrella
 Kabuki umbrella
 Kiwi umbrella
 Lacy parasol
+Ladybug umbrella
 Leaf umbrella
 Lemon umbrella
 Logo umbrella

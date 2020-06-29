@@ -94,10 +94,10 @@
 - [ ] Career skirt (Blue) | 58173
 - [x] Career skirt (Red) | 58174
 - [x] Cargo pants (Avocado) | 58175
-- [ ] Cargo pants (Beige) | 58176
-- [ ] Cargo pants (Navy blue) | 58177
-- [ ] Cargo pants (Mustard) | 58178
-- [ ] Cargo pants (Brown) | 58179
+- [x] Cargo pants (Beige) | 58176
+- [x] Cargo pants (Navy blue) | 58177
+- [x] Cargo pants (Mustard) | 58178
+- [x] Cargo pants (Brown) | 58179
 - [ ] Cargo shorts (Beige) | 58180
 - [ ] Cargo shorts (Navy blue) | 58181
 - [ ] Cargo shorts (Avocado) | 58182
@@ -135,18 +135,18 @@
 - [x] Comedian's pants (Aquamarine) | 58214
 - [x] Comedian's pants (White) | 58215
 - [x] Comic shorts (Black) | 24279
-- [ ] Corduroy pants (Camel) | 58216
-- [ ] Corduroy pants (Brown) | 58217
+- [x] Corduroy pants (Camel) | 58216
+- [x] Corduroy pants (Brown) | 58217
 - [x] Corduroy pants (Pink) | 58218
-- [ ] Corduroy pants (Green) | 58219
-- [ ] Corduroy pants (Light gray) | 58220
-- [ ] Corduroy pants (Black) | 58221
-- [ ] Corduroy skirt (Brown) | 58222
-- [ ] Corduroy skirt (Camel) | 58223
-- [ ] Corduroy skirt (Pink) | 58224
-- [ ] Corduroy skirt (Green) | 58225
-- [ ] Corduroy skirt (Light gray) | 58226
-- [ ] Corduroy skirt (Black) | 58227
+- [x] Corduroy pants (Green) | 58219
+- [x] Corduroy pants (Light gray) | 58220
+- [x] Corduroy pants (Black) | 58221
+- [x] Corduroy skirt (Brown) | 58222
+- [x] Corduroy skirt (Camel) | 58223
+- [x] Corduroy skirt (Pink) | 58224
+- [x] Corduroy skirt (Green) | 58225
+- [x] Corduroy skirt (Light gray) | 58226
+- [x] Corduroy skirt (Black) | 58227
 - [x] Corte skirt (Blue) | 58228
 - [x] Corte skirt (Magenta) | 58229
 - [x] Corte skirt (Green) | 58230
@@ -240,7 +240,7 @@
 - [ ] Elephant-print pants (Blue) | 58318
 - [x] Elephant-print pants (Orange) | 58319
 - [ ] Elephant-print pants (Green) | 58320
-- [ ] Elephant-print pants (Purple) | 58321
+- [x] Elephant-print pants (Purple) | 58321
 - [ ] Elephant-print pants (Black) | 58322
 - [x] Embellished denim pants (Blue) | 58323
 - [x] Embellished denim pants (Light blue) | 58324
@@ -709,9 +709,9 @@
 - [x] Wide chino pants (Navy blue) | 58783
 - [x] Wide chino pants (Avocado) | 58784
 - [x] Wide chino pants (Gray) | 58785
-- [ ] Workout pants (Lime) | 58786
-- [ ] Workout pants (Pink) | 58787
-- [ ] Workout pants (Orange) | 58788
+- [x] Workout pants (Lime) | 58786
+- [x] Workout pants (Pink) | 58787
+- [x] Workout pants (Orange) | 58788
 - [ ] Worn-out cutoffs (Light blue) | 58789
 - [ ] Worn-out cutoffs (Blue) | 58790
 - [ ] Worn-out cutoffs (White) | 58791
