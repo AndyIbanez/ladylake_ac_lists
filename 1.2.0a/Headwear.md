@@ -339,7 +339,7 @@
 - [x] Matanpushi (Brown) | 59959
 - [x] Matanpushi (Red) | 59960
 - [x] Matanpushi (Blue) | 59961
-- [ ] Matronly bun (Hair Color) | 24734
+- [x] Matronly bun (Hair Color) | 24734
 - [x] Mesh cap (Red) | 59962
 - [x] Mesh cap (Pink) | 59963
 - [x] Mesh cap (Green) | 59964

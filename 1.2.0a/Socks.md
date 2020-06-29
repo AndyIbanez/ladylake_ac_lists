@@ -31,7 +31,7 @@
 - [x] Color-blocked socks (Green) | 60501
 - [x] Color-blocked socks (Brown) | 60502
 - [x] Color-blocked socks (Blue) | 60503
-- [ ] Color-blocked socks (Beige) | 60504
+- [x] Color-blocked socks (Beige) | 60504
 - [ ] Color-blocked socks (White) | 60505
 - [x] Color-blocked socks (Lime) | 60506
 - [ ] Color-blocked socks (Pink) | 60507
@@ -150,12 +150,12 @@
 - [x] Lace socks (Green) | 60620
 - [x] Lace socks (Black) | 60621
 - [x] Lace socks (Beige) | 60622
-- [ ] Layered socks (Blue) | 60623
-- [ ] Layered socks (Yellow) | 60624
-- [ ] Layered socks (Green) | 60625
-- [ ] Layered socks (Red) | 60626
-- [ ] Layered socks (Orange) | 60627
-- [ ] Layered socks (Purple) | 60628
+- [x] Layered socks (Blue) | 60623
+- [x] Layered socks (Yellow) | 60624
+- [x] Layered socks (Green) | 60625
+- [x] Layered socks (Red) | 60626
+- [x] Layered socks (Orange) | 60627
+- [x] Layered socks (Purple) | 60628
 - [ ] Leg warmers (Purple) | 60629
 - [ ] Leg warmers (Black) | 60630
 - [ ] Leg warmers (Gray) | 60631
@@ -343,7 +343,7 @@
 - [x] Vivid tights (Red) | 60812
 - [x] Vivid tights (Pink) | 60813
 - [x] Vivid tights (Light blue) | 60814
-- [ ] Wave-print socks (Blue) | 60815
+- [x] Wave-print socks (Blue) | 60815
 - [x] Wave-print socks (Brown) | 60816
 - [ ] Wave-print socks (Purple) | 60817
 - [x] Wave-print socks (Green) | 60818

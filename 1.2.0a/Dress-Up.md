@@ -95,7 +95,7 @@
 - [x] Boa parka (Pink) | 58897
 - [x] Boa parka (Mint) | 58898
 - [x] Bohemian tunic dress (Navy blue) | 58899
-- [ ] Bohemian tunic dress (Green) | 58900
+- [x] Bohemian tunic dress (Green) | 58900
 - [x] Bohemian tunic dress (Red) | 58901
 - [ ] Bold muumuu (Navy blue) | 58902
 - [ ] Bold muumuu (Pink) | 58903
@@ -401,8 +401,8 @@
 - [x] Jockey uniform (Ring) | 59185
 - [x] Jockey uniform (Stars) | 59186
 - [x] Jockey uniform (Double sash) | 59187
-- [ ] Jockey uniform (Vertical stripes) | 59188
-- [ ] Jockey uniform (Zigzag) | 59189
+- [x] Jockey uniform (Vertical stripes) | 59188
+- [x] Jockey uniform (Zigzag) | 59189
 - [x] Judogi (White) | 59190
 - [x] Judogi (Blue) | 59191
 - [x] Jumper work suit (Red) | 59192
@@ -910,4 +910,4 @@
 - [ ] áo dài (Navy blue) | 58821
 - [ ] áo dài (Yellow) | 58822
 - [ ] áo dài (Green) | 58823
-- [ ] áo dài (Pink) | 58824
+- [x] áo dài (Pink) | 58824
