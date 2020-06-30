@@ -1,8 +1,8 @@
 - [x] Antique boots (Brown) | 60820
 - [x] Antique boots (Black) | 60821
 - [x] Antique boots (Greige) | 60822
-- [ ] Armor shoes (Gray) | 24969
-- [ ] Babouches (Blue) | 60823
+- [x] Armor shoes (Gray) | 24969
+- [x] Babouches (Blue) | 60823
 - [x] Babouches (Orange) | 60824
 - [x] Babouches (Pink) | 60825
 - [ ] Babouches (Yellow) | 60826
@@ -41,7 +41,7 @@
 - [x] Business shoes (Brown) | 60859
 - [x] Cleats (Blue) | 60860
 - [ ] Cleats (Light blue) | 60861
-- [ ] Cleats (Red) | 60862
+- [x] Cleats (Red) | 60862
 - [ ] Cleats (Yellow) | 60863
 - [x] Cleats (Black) | 60864
 - [ ] Cleats (Orange) | 60865
@@ -74,7 +74,7 @@
 - [x] Cute sneakers (Blue) | 60892
 - [x] DAL slippers (Blue) | 24981
 - [x] Earth-egg shoes (None) | 24982
-- [ ] Embroidered shoes (Red) | 60893
+- [x] Embroidered shoes (Red) | 60893
 - [x] Embroidered shoes (White) | 60894
 - [x] Embroidered shoes (Black) | 60895
 - [ ] Embroidered shoes (Blue) | 60896
@@ -116,7 +116,7 @@
 - [x] Gladiator sandals (Brown) | 60932
 - [x] Gladiator sandals (Black) | 60933
 - [x] Gladiator sandals (Red) | 60934
-- [ ] Gold-armor shoes (Gold) | 24991
+- [x] Gold-armor shoes (Gold) | 24991
 - [x] Hi-tech sneakers (Orange) | 60935
 - [x] Hi-tech sneakers (Pink) | 60936
 - [x] Hi-tech sneakers (Green) | 60937
@@ -248,7 +248,7 @@
 - [x] Pom-pom boots (Black) | 61060
 - [x] Power boots (Red) | 61061
 - [ ] Power boots (Blue) | 61062
-- [ ] Power boots (Green) | 61063
+- [x] Power boots (Green) | 61063
 - [ ] Power boots (Black) | 61064
 - [x] Rain boots (Yellow) | 61065
 - [x] Rain boots (Green) | 61066
@@ -260,7 +260,7 @@
 - [x] Rain boots (Black) | 61072
 - [x] Recycled boots (Brown) | 25017
 - [x] Restroom slippers (Navy blue) | 61073
-- [ ] Restroom slippers (Red) | 61074
+- [x] Restroom slippers (Red) | 61074
 - [ ] Restroom slippers (Green) | 61075
 - [x] Restroom slippers (Light blue) | 61076
 - [ ] Restroom slippers (Pink) | 61077
@@ -340,7 +340,7 @@
 - [ ] Slippers (Green) | 61150
 - [ ] Slippers (Blue) | 61151
 - [ ] Slippers (Red) | 61152
-- [ ] Slippers (Yellow) | 61153
+- [x] Slippers (Yellow) | 61153
 - [x] Space boots (White) | 25031
 - [x] Sporty sandals (Red) | 61154
 - [x] Sporty sandals (Olive) | 61155
