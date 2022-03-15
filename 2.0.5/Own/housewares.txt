@@ -786,6 +786,8 @@ Hedge Standee (Hydrangea)
 Hedge Standee (Hibiscus)
 Hedge Standee (Fall)
 Hedge Standee (Winter)
+Hello Kitty Drawers
+Hello Kitty Table
 Hi-Fi Stereo
 High-End Stereo
 Hinaningyo
@@ -1334,6 +1336,7 @@ Punching Bag (Blue)
 Punching Bag (Black)
 Pyramid
 Raccoon Figurine
+Ranch Bed (Pink)
 Ranch Chair (Green)
 Ranch Cupboard (Pink)
 Ranch Cupboard (Green)
@@ -1413,6 +1416,7 @@ Retro Gas Pump (Yellow)
 Retro Massage Chair
 Retro Stereo (Black)
 Retro Stereo (Brown)
+Retro TV (Brown)
 Robot Hero (Red)
 Robot Hero (Blue)
 Robot Hero (Yellow)

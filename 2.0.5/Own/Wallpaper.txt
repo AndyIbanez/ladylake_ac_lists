@@ -119,6 +119,7 @@ Green-Paint Wall
 Groovy Wall
 Harmonious Wall
 Heavy-Curtain Wall
+Hello Kitty Wall
 Honeycomb Wall
 Honeycomb-Tile Wall
 Ice Wall

@@ -212,6 +212,7 @@ Cutting Board (Cherry Brown)
 Cutting Board (Dark)
 Cutting Board (Natural)
 Dab Model
+Dace Model
 DAL Model Plane (Orange)
 DAL Mug
 Dala Horse (Red)
@@ -419,6 +420,7 @@ Heart-Shaped Bouquet (Purple)
 Heart-Shaped Bouquet (White)
 Heart-Shaped Bouquet (Black)
 Hearty Ramen
+Hello Kitty Planter
 Holiday Candle (Red)
 Holiday Candle (Blue)
 Holiday Candle (Gold)

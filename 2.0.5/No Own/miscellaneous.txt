@@ -164,7 +164,6 @@ Crawfish Model
 Cricket Model
 Cucumber Horse
 Cyclommatus Stag Model
-Dace Model
 DAL Model Plane (Blue)
 DAL Model Plane (Yellow)
 DAL Model Plane (Green)
@@ -337,7 +336,6 @@ Hamster Cage (Yellow)
 Handy Water Cooler (Blue)
 Handy Water Cooler (Yellow)
 Handy Water Cooler (Avocado)
-Hello Kitty Planter
 Hermit Crab Model
 Honeybee Model
 Horned Atlas Model
