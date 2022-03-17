@@ -663,8 +663,6 @@ Harp (Brown)
 Harp (Dark Brown)
 Hay Bed (Pale Green)
 Hay Bed (Green)
-Hello Kitty Bed
-Hello Kitty Chair
 High Chair (Natural Wood)
 High Chair (Dark Wood)
 High Chair (White)
@@ -741,7 +739,6 @@ Kerokerokeroppi Bridge
 Kerokerokeroppi Hallway
 Kerokerokeroppi Lantern
 Kerokerokeroppi Tray
-Kiki & Lala Bed
 Kiki & Lala Cloud Maker
 Kiki & Lala Sofa
 Kiki & Lala Table

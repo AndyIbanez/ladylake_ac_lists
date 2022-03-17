@@ -386,6 +386,7 @@ Glowing-Moss Jar (Pink)
 Glowing-Moss Jar (White)
 Glowing-Moss Jar (Gray)
 Gnocchi di Carote
+Gnocchi di Patate
 Gnocchi di Zucca
 Gold Bars
 Gold Bug Trophy

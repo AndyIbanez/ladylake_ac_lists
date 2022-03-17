@@ -127,6 +127,7 @@ Hanging Terrarium (Gold)
 Hanging Terrarium (Brown)
 Heart Doorplate (Pink)
 Heart Doorplate (Light Blue)
+Hello Kitty Clock
 HHA Pennant
 Horseshoe Door Decoration
 Hyacinth Wreath
@@ -152,6 +153,7 @@ Key Holder (Dark Wood)
 Key Holder (Brown Wood)
 Key Holder (White)
 Key Holder (Black)
+Kiki & Lala Clock
 Leo Sculpture
 Light Switch (Silver)
 Light Switch (Gold)
@@ -251,6 +253,7 @@ Shower Set (Silver)
 Shower Set (Copper)
 Shower Set (Black)
 Silver HHA Plaque
+Simple Wall Shelf (White)
 Skull Doorplate (Brown)
 Snazzy Pansy Wreath
 Snowflake Wreath

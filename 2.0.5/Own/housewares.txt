@@ -786,6 +786,8 @@ Hedge Standee (Hydrangea)
 Hedge Standee (Hibiscus)
 Hedge Standee (Fall)
 Hedge Standee (Winter)
+Hello Kitty Bed
+Hello Kitty Chair
 Hello Kitty Drawers
 Hello Kitty Table
 Hi-Fi Stereo
@@ -920,6 +922,7 @@ Kids' Tent (Floral)
 Kids' Tent (Blue)
 Kids' Tent (Brown)
 Kids' Tent (Colorful)
+Kiki & Lala Bed
 Kimono Stand
 Kitchen Counter
 Kitchen Dishwasher
