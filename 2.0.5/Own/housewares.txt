@@ -141,7 +141,10 @@ Birdcage (White)
 Birdhouse (Natural)
 Birthday Sign (Colorful)
 Birthday Table (Colorful)
+Bistro Table (Light Wood)
 Bistro Table (Natural Wood)
+Bistro Table (Black)
+Bistro Table (White)
 Block
 Blossom-Viewing Lantern (Dark Wood)
 Bonfire
@@ -283,6 +286,7 @@ Cool Dining Table (White)
 Cool Side Table (Black)
 Copy Machine (White)
 Corner Clothing Rack (Light Wood)
+Corner Clothing Rack (Colorful)
 Cosmos Shower (Pink)
 Cosmos Shower (Red)
 Cosmos Shower (White)
@@ -923,6 +927,9 @@ Kids' Tent (Blue)
 Kids' Tent (Brown)
 Kids' Tent (Colorful)
 Kiki & Lala Bed
+Kiki & Lala Cloud Maker
+Kiki & Lala Sofa
+Kiki & Lala Table
 Kimono Stand
 Kitchen Counter
 Kitchen Dishwasher
@@ -1059,6 +1066,9 @@ Mermaid Shelf
 Mermaid Sofa
 Mermaid Table
 Mermaid Vanity
+Metal-and-Wood Table (Light Wood)
+Metal-and-Wood Table (Natural Wood)
+Metal-and-Wood Table (Dark Wood)
 Meter and Pipes (Copper)
 Meter and Pipes (Black)
 Mic Stand

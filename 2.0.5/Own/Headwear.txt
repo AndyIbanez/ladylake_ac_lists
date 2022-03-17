@@ -340,6 +340,7 @@ Kaffiyeh (Black)
 Kaffiyeh (Red)
 Kappa Cap (Green)
 Kappa Cap (Pink)
+Kiki & Lala Pin
 King Tut Mask
 Kiwi Hat
 Knight's Helmet
@@ -401,7 +402,9 @@ Magic-Academy Hood (Orange)
 Magic-Academy Hood (Green)
 Magic-Academy Hood (Purple)
 Mario Hat
+Market Auctioneer's Cap (Blue)
 Market Auctioneer's Cap (Green)
+Market Auctioneer's Cap (Brown)
 Matanpushi (Red)
 Matanpushi (Blue)
 Matanpushi (Brown)
@@ -721,6 +724,7 @@ Tiara Hair (Silver)
 Tiara Hair (Rose Gold)
 Tiara Hair (Gold)
 Tiny Party Cap (Orange)
+Tiny Party Cap (Yellow)
 Tiny Party Cap (Green)
 Tiny Party Cap (Purple)
 Tiny Party Cap (Red)

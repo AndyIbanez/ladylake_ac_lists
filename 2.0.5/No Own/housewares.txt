@@ -116,9 +116,6 @@ Birthday Table (Blue)
 Birthday Table (Green)
 Birthday Table (Orange)
 Birthday Table (Gorgeous)
-Bistro Table (Light Wood)
-Bistro Table (Black)
-Bistro Table (White)
 Blossom-Viewing Lantern (Light Wood)
 Blue Corner
 Bow (Black)
@@ -263,7 +260,6 @@ Copy Machine (Black)
 Corner Clothing Rack (Natural Wood)
 Corner Clothing Rack (Dark Wood)
 Corner Clothing Rack (Pastel)
-Corner Clothing Rack (Colorful)
 Cotton-Candy Stall (Pink)
 Cotton-Candy Stall (Black)
 Counter Chair (Natural Wood)
@@ -739,9 +735,6 @@ Kerokerokeroppi Bridge
 Kerokerokeroppi Hallway
 Kerokerokeroppi Lantern
 Kerokerokeroppi Tray
-Kiki & Lala Cloud Maker
-Kiki & Lala Sofa
-Kiki & Lala Table
 Kitty Litter Box (Orange)
 Kitty Litter Box (Green)
 Kitty Litter Box (Light Blue)
@@ -840,9 +833,6 @@ Merchandise Table (Wooden)
 Metal-and-Wood Chair (Light Wood)
 Metal-and-Wood Chair (Natural Wood)
 Metal-and-Wood Chair (Dark Wood)
-Metal-and-Wood Table (Light Wood)
-Metal-and-Wood Table (Natural Wood)
-Metal-and-Wood Table (Dark Wood)
 Meter and Pipes (Silver)
 Meter and Pipes (White)
 Meter and Pipes (Rust)
