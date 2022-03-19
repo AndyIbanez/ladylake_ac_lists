@@ -298,7 +298,12 @@ Essay Set (Writer's Block)
 Essay Set (In Progress)
 Extinguisher
 Extravagant Meal
+Fancy Tea Set (Blue)
+Fancy Tea Set (Green)
+Fancy Tea Set (Yellow)
+Fancy Tea Set (Red)
 Fancy Tea Set (Light Blue)
+Fancy Tea Set (Pink)
 Fancy Violin (Natural)
 Fancy Violin (White)
 Fancy Violin (Black)
