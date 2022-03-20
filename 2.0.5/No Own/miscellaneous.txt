@@ -170,12 +170,6 @@ DAL Model Plane (Green)
 Dala Horse (White)
 Damselfly Model
 Dango
-Decorative Bottles (Green)(Happy Home Paradise)
-Decorative Bottles (Brown)(Happy Home Paradise)
-Decorative Bottles (Blue)(Happy Home Paradise)
-Decorative Bottles (Light Green)(Happy Home Paradise)
-Decorative Bottles (Pink)(Happy Home Paradise)
-Decorative Bottles (White)(Happy Home Paradise)
 Decorative Plate (Black)(Happy Home Paradise)
 Decorative Plate (Light Brown)(Happy Home Paradise)
 Decorative Plate (Silver)(Happy Home Paradise)
@@ -514,7 +508,6 @@ Pocket Vintage Camper (Patched Together)
 Pocket Vintage Camper (Painter's Palette)
 Pocket Vintage Camper (Retro Ride)
 Pocket Vintage Camper (Southwestern Flair)
-Pompompurin Pudding
 Pond Smelt Model
 Pondskater Model
 Pop-Eyed Goldfish Model
