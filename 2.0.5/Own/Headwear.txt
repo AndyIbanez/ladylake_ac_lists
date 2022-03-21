@@ -536,6 +536,7 @@ Pom Casquette (Green)
 Pom Casquette (Blue)
 Pom Casquette (Brown)
 Pompadour Wig
+Pompompurin Hat
 Power Helmet (Black)
 Power Helmet (Red)
 Power Helmet (Green)
