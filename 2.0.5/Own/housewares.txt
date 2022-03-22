@@ -414,6 +414,9 @@ Checkout Counter (Green & Black)(Happy Home Paradise)
 Cherry-Blossom Branches
 Cherry-Blossom Pond Stone
 Cherry-Blossom-Petal Pile
+Cinnamoroll Parasol
+Cinnamoroll Signage
+Cinnamoroll Sofa
 Clackercart (Natural)(Crafting)
 Clackercart (Colorful)(Crafting)
 Clackercart (Pop)(Crafting)
@@ -1766,6 +1769,14 @@ Natural Square Table (Oak)(Crafting)
 Natural Square Table (Shabby)(Crafting)
 Neutral Corner
 Nook Inc. Yoga Mat
+Nordic Chair (Light Wood)(Happy Home Paradise)
+Nordic Chair (Natural Wood)(Happy Home Paradise)
+Nordic Chair (Dark Wood)(Happy Home Paradise)
+Nordic Chair (White)(Happy Home Paradise)
+Nordic Chair (Red)(Happy Home Paradise)
+Nordic Chair (Blue)(Happy Home Paradise)
+Nordic Chair (Gray)(Happy Home Paradise)
+Nordic Chair (Black)(Happy Home Paradise)
 Nordic Low Table (Light Wood)(Happy Home Paradise)
 Nordic Low Table (Natural Wood)(Happy Home Paradise)
 Nordic Low Table (Dark Wood)(Happy Home Paradise)
@@ -3142,7 +3153,19 @@ Winnowing Machine (Red)(Happy Home Paradise)
 Winnowing Machine (Light Green)(Happy Home Paradise)
 Winnowing Machine (Silver)(Happy Home Paradise)
 Winnowing Machine (Black)(Happy Home Paradise)
+Wood Partition (Light Wood)(Happy Home Paradise)
+Wood Partition (Natural Wood)(Happy Home Paradise)
+Wood Partition (Dark Wood)(Happy Home Paradise)
+Wood Partition (White)(Happy Home Paradise)
+Wood Partition (Black)(Happy Home Paradise)
+Wood Partition (Pink)(Happy Home Paradise)
+Wood Partition (Blue Stripes)(Happy Home Paradise)
+Wood Partition (Vintage Wood)(Happy Home Paradise)
 Wood-Burning Stove
+Wood-Plank Table (Light Wood)(Happy Home Paradise)
+Wood-Plank Table (Orange Wood)(Happy Home Paradise)
+Wood-Plank Table (Dark Wood)(Happy Home Paradise)
+Wood-Plank Table (Bark Edged)(Happy Home Paradise)
 Wooden Bookshelf (Light Brown)(Crafting)
 Wooden Bookshelf (Brown)(Crafting)
 Wooden Bookshelf (Dark Brown)(Crafting)
@@ -3203,6 +3226,9 @@ Wooden Full-Length Mirror (Black)(Crafting)
 Wooden Full-Length Mirror (Green)(Crafting)
 Wooden Full-Length Mirror (Blue)(Crafting)
 Wooden Full-Length Mirror (Pink Wood)(Crafting)
+Wooden Locker (Light Brown)(Happy Home Paradise)
+Wooden Locker (Natural)(Happy Home Paradise)
+Wooden Locker (Dark Brown)(Happy Home Paradise)
 Wooden Low Table (Light Wood)(Crafting)
 Wooden Low Table (White Wood)(Crafting)
 Wooden Low Table (Cherry Wood)(Crafting)
@@ -3312,6 +3338,7 @@ Yacht (Yellow & White)(Happy Home Paradise)
 Yacht (Brown)(Happy Home Paradise)
 Yacht (Damaged)(Happy Home Paradise)
 Yellow-Leaf Pile
+Yoga Mat
 Yucca (White)
 Yucca (Brown)
 Zen Cushion

@@ -38,9 +38,6 @@ Changing Room (Dark Brown)
 Changing Room (Black)
 Changing Room (Green)
 Checkout Counter (Light Brown)(Happy Home Paradise)
-Cinnamoroll Parasol
-Cinnamoroll Signage
-Cinnamoroll Sofa
 Cinnamoroll Stool
 Cinnamoroll Table
 Clarinet
@@ -308,14 +305,6 @@ My Melody Bed
 My Melody Chair
 My Melody Dresser
 My Melody Table
-Nordic Chair (Light Wood)
-Nordic Chair (Natural Wood)
-Nordic Chair (Dark Wood)
-Nordic Chair (White)
-Nordic Chair (Red)
-Nordic Chair (Blue)
-Nordic Chair (Gray)
-Nordic Chair (Black)
 Office Desk (Brown & Black)
 OK Motors Sign
 Orange End Table (Blood Orange)(Crafting)
@@ -591,22 +580,6 @@ Whiteboard (Blank)
 Whiteboard (Schedule)
 Whiteboard (Strategy Meeting)
 Whiteboard (Brainstorming Meeting)
-Wood Partition (Light Wood)
-Wood Partition (Natural Wood)
-Wood Partition (Dark Wood)
-Wood Partition (White)
-Wood Partition (Black)
-Wood Partition (Pink)
-Wood Partition (Blue Stripes)
-Wood Partition (Vintage Wood)
-Wood-Plank Table (Light Wood)
-Wood-Plank Table (Orange Wood)
-Wood-Plank Table (Dark Wood)
-Wood-Plank Table (Bark Edged)
-Wooden Locker (Light Brown)
-Wooden Locker (Natural)
-Wooden Locker (Dark Brown)
-Yoga Mat
 Yucca (Green)
 Yucca (Blue)
 Yucca (Black)
