@@ -192,6 +192,7 @@ Chimayo Vest (Light Blue)
 Chimayo Vest (Navy Blue)
 Ciao Tee
 Cinnamoroll Jacket
+Cinnamoroll Puffy Blouse
 Coatigan (Gray)
 Coatigan (Pink)
 Coatigan (Green)
@@ -875,6 +876,7 @@ Rubber Apron (White)
 Rubber Apron (Black)
 Safety Vest (Black)
 Safety Vest (Orange)
+Sailor's Shirt (Pink)
 Sailor's Shirt (Light Blue)
 Sailor's Shirt (Brown)
 Sailor's Tee (Navy Blue)

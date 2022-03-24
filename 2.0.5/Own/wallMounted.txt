@@ -5,6 +5,8 @@ Antique Phone (Black)
 Art Plaque
 Autograph Cards (Signature)
 Autograph Cards (Handprints)
+Autograph Cards (Illustration)
+Autograph Cards (Words of Wisdom)
 Bamboo Wall Decoration (Green Bamboo)(Crafting)
 Bamboo Wall Decoration (Dried Bamboo)(Crafting)
 Bamboo Wall Decoration (Smoke-Cured Bamboo)(Crafting)
@@ -21,11 +23,15 @@ Boomerang (Red & Black)(Crafting)
 Boomerang (White & Blue)(Crafting)
 Breaker
 Bronze HHA Plaque
+Broom and Dustpan (Natural)
 Broom and Dustpan (White)
 Broom and Dustpan (Dark Brown)
+Broom and Dustpan (Colorful)
 Bug Plaque
 Bug Poster
+Bulletin Board (Standard)(Happy Home Paradise)
 Bulletin Board (Bright)(Happy Home Paradise)
+Bulletin Board (Happy)(Happy Home Paradise)
 Bunny Day Glowy Garland
 Bunny Day Wall Clock
 Bunny Day Wreath
@@ -33,6 +39,7 @@ Butterfly-Fish Model
 Cherry Lamp (Cherry)(Crafting)
 Cherry Lamp (Black Cherry)(Crafting)
 Cherry-Blossom Clock (Pink)(Crafting)
+Cherry-Blossom Clock (Pink-White)(Crafting)
 Chic Cosmos Wreath
 Chic Windflower Wreath
 Coconut Wall Planter
@@ -40,6 +47,7 @@ Cool Hyacinth Wreath
 Cool Pansy Wreath
 Cool Windflower Wreath
 Corkboard (Natural)
+Corkboard (White)
 Corkboard (Blue)
 Cosmos Wreath
 Crest Doorplate (Silver)(Crafting)
@@ -50,6 +58,11 @@ Crest Doorplate (Silver & Green)(Crafting)
 Crest Doorplate (Colorful)(Crafting)
 Cuckoo Clock (Natural)
 Cuckoo Clock (Green)
+Cuckoo Clock (Blue)
+Cuckoo Clock (Yellow)
+Cuckoo Clock (Red)
+Cuckoo Clock (White)
+Cuckoo Clock (Black)
 Cute Wall-Mounted Clock (White)
 Cute Wall-Mounted Clock (Sky Blue)
 Cute Wall-Mounted Clock (Yellow)
@@ -73,10 +86,15 @@ Diner Neon Clock (Purple)
 Double-Sided Wall Clock (Black)
 Double-Sided Wall Clock (White)
 Double-Sided Wall Clock (Silver)
+Double-Sided Wall Clock (Green)
 Double-Sided Wall Clock (Red)
 Double-Sided Wall Clock (Yellow)
 Dreamy Wall Rack (Pink)(Happy Home Paradise)
 Dreamy Wall Rack (Blue)(Happy Home Paradise)
+Dreamy Wall Rack (Green)(Happy Home Paradise)
+Dreamy Wall Rack (Yellow)(Happy Home Paradise)
+Dreamy Wall Rack (White)(Happy Home Paradise)
+Dreamy Wall Rack (Black)(Happy Home Paradise)
 Dried-Flower Garland (Orange)(Happy Home Paradise)
 Dried-Flower Garland (Yellow)(Happy Home Paradise)
 Dried-Flower Garland (Pink)(Happy Home Paradise)
@@ -85,12 +103,26 @@ Dried-Flower Garland (White)(Happy Home Paradise)
 Dried-Flower Garland (Colorful)(Happy Home Paradise)
 Exit Sign (→)
 Exit Sign (Red Exit)
+Fancy Frame (Gold)(Happy Home Paradise)
 Fancy Frame (Silver)(Happy Home Paradise)
+Fancy Frame (Brown)(Happy Home Paradise)
+Fancy Frame (White)(Happy Home Paradise)
+Fancy Frame (Black)(Happy Home Paradise)
+Fancy Frame (Green)(Happy Home Paradise)
+Fancy Frame (Pink)(Happy Home Paradise)
+Fancy Frame (Light Brown)(Happy Home Paradise)
 Fancy Lily Wreath
 Fancy Mum Wreath
 Fancy Rose Wreath
 Festive Wreath
+Fish Doorplate (Light Blue)
+Fish Doorplate (Red)
+Fish Doorplate (Orange)
+Fish Doorplate (Yellow)
+Fish Doorplate (Green)
+Fish Doorplate (Blue)
 Fish Doorplate (Black)
+Fish Doorplate (Gray)
 Fish Plaque
 Fish Poster
 Fish Print (Giant Trevally)
@@ -276,7 +308,12 @@ Stylish Wall Spotlight (White)(Happy Home Paradise)
 Surveillance Camera
 Tapestry (Bird)
 Throwback Wall Clock (Yellow)
+Throwback Wall Clock (Red)
+Throwback Wall Clock (Green)
 Throwback Wall Clock (Blue)
+Throwback Wall Clock (White)
+Throwback Wall Clock (Gray)
+Throwback Wall Clock (Purple)
 Timber Doorplate (Natural Wood)(Crafting)
 Timber Doorplate (Brown)(Crafting)
 Timber Doorplate (Dark Brown)(Crafting)

@@ -405,27 +405,10 @@ Walker Cicada Model
 Walking Leaf Model
 Walking Stick Model
 Wasp Model
-Water Bird (Red)(Happy Home Paradise)
-Water Bird (Blue)(Happy Home Paradise)
-Water Bird (Pink)(Happy Home Paradise)
 Wharf Roach Model
 Whoopee Cushion (Red)
 Whoopee Cushion (Green)
 Whoopee Cushion (Yellow)
-Wooden Fish (Unfinished Wood)(Crafting)
-Wooden Fish (Zelkova Wood)(Crafting)
-Wristwatch (Silver)(Happy Home Paradise)
-Wristwatch (Black)(Happy Home Paradise)
-Wristwatch (White)(Happy Home Paradise)
-Wristwatch (Red)(Happy Home Paradise)
-Wristwatch (Yellow)(Happy Home Paradise)
 Yellow Perch Model
-Yunomi Teacup (Plain)(Happy Home Paradise)
-Yunomi Teacup (Brown)(Happy Home Paradise)
-Yunomi Teacup (Green)(Happy Home Paradise)
-Yunomi Teacup (Stripes)(Happy Home Paradise)
-Yunomi Teacup (Fish Kanji)(Happy Home Paradise)
-Yunomi Teacup (Blue & White)(Happy Home Paradise)
-Zodiac Monkey Figurine
 Zodiac Pig Figurine
 Zodiac Snake Figurine

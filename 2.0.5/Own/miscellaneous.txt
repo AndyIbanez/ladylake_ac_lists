@@ -1409,8 +1409,11 @@ Vine Lamp (Light Green)(Crafting)
 Vine Lamp (Dark Green)(Crafting)
 Vine Lamp (Brown)(Crafting)
 Vine Lamp (Gray)(Crafting)
+Water Bird (Red)(Happy Home Paradise)
+Water Bird (Blue)(Happy Home Paradise)
 Water Bird (Green)(Happy Home Paradise)
 Water Bird (Yellow)(Happy Home Paradise)
+Water Bird (Pink)(Happy Home Paradise)
 Wedding Cake (Cute)
 Wedding Cake (Chic)
 Wedding Cake (Garden)
@@ -1425,6 +1428,8 @@ Windflower Fan (Purple)(Crafting)
 Wobbling Zipper Toy
 Wooden Bucket
 Wooden Fish (Camphor-Tree Wood)(Crafting)
+Wooden Fish (Unfinished Wood)(Crafting)
+Wooden Fish (Zelkova Wood)(Crafting)
 Wooden Music Box (Light Wood)(Crafting)
 Wooden Music Box (White Wood)(Crafting)
 Wooden Music Box (Cherry Wood)(Crafting)
@@ -1450,21 +1455,33 @@ Wooden-Block Toy (Mixed Wood)(Crafting)
 Wooden-Block Toy (Colorful)(Crafting)
 Wooden-Block Toy (Pastel)(Crafting)
 Wooden-Block Toy (Vivid)(Crafting)
+Wristwatch (Silver)(Happy Home Paradise)
+Wristwatch (Black)(Happy Home Paradise)
+Wristwatch (White)(Happy Home Paradise)
+Wristwatch (Red)(Happy Home Paradise)
 Wristwatch (Blue)(Happy Home Paradise)
 Wristwatch (Brown)(Happy Home Paradise)
+Wristwatch (Yellow)(Happy Home Paradise)
 Yellow Butterfly Model
 Yule Log (Chocolate)
 Yule Log (Chestnut)
 Yule Log (Whipped-Cream Topping)
 Yule Log (Strawberry)
 Yule Log (Green Tea)
+Yunomi Teacup (Plain)(Happy Home Paradise)
+Yunomi Teacup (Brown)(Happy Home Paradise)
+Yunomi Teacup (Green)(Happy Home Paradise)
+Yunomi Teacup (Stripes)(Happy Home Paradise)
+Yunomi Teacup (Fish Kanji)(Happy Home Paradise)
 Yunomi Teacup (Plum Blossoms)(Happy Home Paradise)
+Yunomi Teacup (Blue & White)(Happy Home Paradise)
 Yut Nori
 Zebra Turkeyfish Model
 Zodiac Boar Figurine
 Zodiac Dog Figurine
 Zodiac Dragon Figurine
 Zodiac Horse Figurine
+Zodiac Monkey Figurine
 Zodiac Ox Figurine
 Zodiac Rabbit Figurine
 Zodiac Rat Figurine
