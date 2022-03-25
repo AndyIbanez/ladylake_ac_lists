@@ -126,21 +126,45 @@ Fish Doorplate (Gray)
 Fish Plaque
 Fish Poster
 Fish Print (Giant Trevally)
+Fish Print (Red Snapper)
+Fish Print (Blue Marlin)
+Fish Print (Squid)
+Fish Print (Black Bass)
 Fish Print (Carp)
+Fish Print (Giant Snakehead)
+Fishing-Boat Flag (Nintenmaru - Big Catch)
 Fishing-Boat Flag (Tsurukamemaru - Longevity)
+Fishing-Boat Flag (Marufukumaru - Bounty)
 Fishing-Boat Flag (Uomasamaru Iii - Launch)
 Floral Sconce (White)(Happy Home Paradise)
+Floral Sconce (Light Blue)(Happy Home Paradise)
+Floral Sconce (Pink)(Happy Home Paradise)
+Floral Sconce (Purple)(Happy Home Paradise)
+Floral Sconce (Yellow)(Happy Home Paradise)
+Floral Sconce (Damaged)(Happy Home Paradise)
 Formal Paper (Brown)
+Formal Paper (Light Brown)
 Formal Paper (Dark Brown)
 Fossil Doorplate (Gray)(Crafting)
+Fossil Doorplate (Blue)(Crafting)
 Fossil Plaque
 Framed Art Poster
 Framed Fossil Poster
+Framed Poster (Brown)(Happy Home Paradise)
+Framed Poster (Gray)(Happy Home Paradise)
+Framed Poster (White)(Happy Home Paradise)
+Framed Poster (Black)(Happy Home Paradise)
+Framed Poster (Red)(Happy Home Paradise)
+Framed Poster (Blue)(Happy Home Paradise)
 Framed Poster (Yellow)(Happy Home Paradise)
+Framed Poster (Green)(Happy Home Paradise)
 Framed Sea-Creature Poster
 Fruit Wreath
 Gears (Silver)
 Gears (Copper)
+Gears (Black)
+Gears (Colorful)
+Gears (Wooden)
 Glow-in-the-Dark Stickers
 Glowing-Moss Wreath (Green)(Crafting)
 Glowing-Moss Wreath (Turquoise)(Crafting)
@@ -154,12 +178,22 @@ Gold HHA Plaque
 Gold Rose Wreath
 Golden Gears
 Grasshopper-Head Model
+Hanging Scroll (Green)
+Hanging Scroll (Brown)
+Hanging Scroll (Pink)
 Hanging Scroll (Blue)
+Hanging Scroll (Purple)
 Hanging Terrarium (Black)(Crafting)
 Hanging Terrarium (Gold)(Crafting)
 Hanging Terrarium (Brown)(Crafting)
 Heart Doorplate (Pink)
+Heart Doorplate (Blue)
+Heart Doorplate (Monotone)
 Heart Doorplate (Light Blue)
+Heart Doorplate (Green)
+Heart Doorplate (Orange)
+Heart Doorplate (Red)
+Heart Doorplate (Purple)
 Hello Kitty Clock
 HHA Pennant
 Horseshoe Door Decoration
@@ -225,6 +259,7 @@ Mounted Black Bass
 Mounted Blue Marlin
 Mum Wreath
 Mushroom Wreath
+My Melody Clock
 Natural Mum Wreath
 New Year's Shimekazari
 Nuptial Doorplate (Blue)

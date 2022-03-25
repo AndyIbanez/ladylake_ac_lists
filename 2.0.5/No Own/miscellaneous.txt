@@ -277,11 +277,6 @@ Pot (White)(Crafting)
 Pot (Black)(Crafting)
 Pot (Beige)(Crafting)
 Pot (Gray)(Crafting)
-Potted Starter Plants (Black)(Happy Home Paradise)
-Potted Starter Plants (Green)(Happy Home Paradise)
-Potted Starter Plants (White)(Happy Home Paradise)
-Potted Starter Plants (Pink)(Happy Home Paradise)
-Potted Starter Plants (Gray)(Happy Home Paradise)
 Premium Nigirizushi
 Puffer Fish Model
 R. Brooke's Birdwing Model

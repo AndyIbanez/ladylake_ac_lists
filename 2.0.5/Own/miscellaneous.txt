@@ -976,7 +976,12 @@ Pot (Brown)(Crafting)
 Potato Curry
 Potato Galette
 Potato Potage
+Potted Starter Plants (Black)(Happy Home Paradise)
+Potted Starter Plants (Green)(Happy Home Paradise)
 Potted Starter Plants (Blue)(Happy Home Paradise)
+Potted Starter Plants (White)(Happy Home Paradise)
+Potted Starter Plants (Pink)(Happy Home Paradise)
+Potted Starter Plants (Gray)(Happy Home Paradise)
 Pound Cake
 Power Stone
 Pretzels
