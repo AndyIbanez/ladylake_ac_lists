@@ -662,6 +662,7 @@ Music-Fest Shirt (Black)
 Music-Fest Shirt (Red)
 Music-Fest Shirt (Light Blue)
 Music-Fest Shirt (Purple)
+My Melody Shirt
 Ni Hao Tee
 Nine-Ball Tee
 No. 1 Shirt
@@ -877,6 +878,7 @@ Rubber Apron (Black)
 Safety Vest (Black)
 Safety Vest (Orange)
 Sailor's Shirt (Pink)
+Sailor's Shirt (Orange)
 Sailor's Shirt (Light Blue)
 Sailor's Shirt (Brown)
 Sailor's Tee (Navy Blue)

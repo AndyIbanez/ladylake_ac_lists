@@ -281,6 +281,7 @@ Cordless Phone (Red)
 Cordless Phone (Light Blue)
 Cordless Phone (Yellow)
 Cornucopia
+Crawfish Model
 Cream and Sugar (Brown)
 Cream and Sugar (Silver)
 Cream and Sugar (White)
@@ -1492,5 +1493,6 @@ Zodiac Rabbit Figurine
 Zodiac Rat Figurine
 Zodiac Rooster Figurine
 Zodiac Sheep Figurine
+Zodiac Snake Figurine
 Zodiac Tiger Figurine
 π Pie

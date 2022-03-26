@@ -72,7 +72,6 @@ Cool Globe
 Cordless Phone (Black)
 Cordless Phone (Silver)
 Cordless Phone (Pink)
-Crawfish Model
 Cricket Model
 Cucumber Horse
 Cyclommatus Stag Model
@@ -406,4 +405,3 @@ Whoopee Cushion (Green)
 Whoopee Cushion (Yellow)
 Yellow Perch Model
 Zodiac Pig Figurine
-Zodiac Snake Figurine
