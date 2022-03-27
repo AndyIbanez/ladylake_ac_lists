@@ -1,4 +1,5 @@
 Abstract Wall
+Airplane Wall
 Ancient Wall
 Apparel-Shop Wall
 Apple Wall
@@ -36,6 +37,7 @@ Blue Honeycomb-Tile Wall
 Blue Intricate Wall
 Blue Molded-Panel Wall
 Blue Moroccan Wall
+Blue Moroccan-Style Wall
 Blue Painted-Wood Wall
 Blue Playroom Wall
 Blue Quilt Wall
@@ -49,6 +51,7 @@ Blue-Paint Wall
 Blue-Rose Wall
 Blue-Striped Wall
 Botanical-Tile Wall
+Brick Garden Wall
 Brown Botanical-Tile Wall
 Brown Diner Wall
 Brown Hallway Wall
@@ -62,6 +65,7 @@ Butterflies Wall
 Cabin Wall
 Café-Curtain Wall
 Camo Wall
+Candles Wall
 Chain-Link Fence
 Cherry Wall
 Cherry-Blossom-Trees Wall
@@ -74,6 +78,7 @@ Circuit-Board Wall
 Cityscape Wall
 Classic-Library Wall
 Club Wall
+Coffee-Shop Wall
 Colorful Puzzle Wall
 Colorful-Tile Wall
 Common Wall
@@ -245,6 +250,7 @@ Street-Art Wall
 Summit Wall
 Supermarket Wall
 Tent Wall
+Train-Window Wall
 Tree-Lined Wall
 Tropical Vista
 Turkey Day Wall

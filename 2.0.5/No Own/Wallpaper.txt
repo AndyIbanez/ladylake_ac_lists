@@ -1,10 +1,5 @@
-Airplane Wall
 Antique Brick Wall
-Blue Moroccan-Style Wall
-Brick Garden Wall
-Candles Wall
 Circus Wall
-Coffee-Shop Wall
 Falling-Snow Wall
 Frozen-Foods Freezer Wall
 Gray Locker-Room Wall
@@ -21,5 +16,4 @@ Pharmacy-Shelving Wall
 Red Locker-Room Wall
 Robo-Wall
 Room Sketch Wall
-Train-Window Wall
 Zen Architecture Wall

@@ -33,6 +33,7 @@ Camo Flooring
 Cherry-Blossom Flooring
 Cinnamoroll Flooring
 Circuit-Board Flooring
+Circus Flooring
 Cloud Flooring
 Colored-Leaves Flooring
 Colorful Mosaic-Tile Flooring
@@ -120,6 +121,7 @@ Natural-Block Flooring
 Nook Inc. Flooring
 Oasis Flooring
 Old Board Flooring
+Old Stone-Tile Flooring
 Olive Moroccan Flooring
 Operating-Room Flooring
 Orange Camo Flooring
