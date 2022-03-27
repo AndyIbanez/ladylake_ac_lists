@@ -116,10 +116,6 @@ Frozen Mini Snowperson (Ice Yellow)
 Frozen Mini Snowperson (Ice Orange)
 Frozen Mini Snowperson (Ice Green)
 Frozen Mini Snowperson (Ice Purple)
-Frying Pan (Veggie Sauté)(Crafting)
-Frying Pan (Pasta)(Crafting)
-Frying Pan (Ratatouille)(Crafting)
-Frying Pan (Failed Attempt)(Crafting)
 Gar Model
 Garden Gnome (Laid-Back Gnome)
 Giant Cicada Model
@@ -157,8 +153,6 @@ Horned Atlas Model
 Horned Dynastid Model
 Horned Elephant Model
 Horse Mackerel Model
-Hyacinth Lamp (Blue)(Crafting)
-Hyacinth Lamp (Yellow)(Crafting)
 Incense Burner (Sandalwood)
 Incense Burner (Cherry Blossoms)
 Incense Burner (Tea)
@@ -249,7 +243,6 @@ Paradise Planning Cushion
 Paradise Planning Mug
 Paradise Planning Planter
 Paradise Planning Tissues
-Peach Surprise Box (Yellow Peach)(Crafting)
 Peacock Butterfly Model
 Pike Model
 Pill Bug Model
@@ -272,10 +265,6 @@ Portable Radio (Green)
 Portable Record Player (Green)
 Portable Record Player (Pink)
 Portable Record Player (Black)
-Pot (White)(Crafting)
-Pot (Black)(Crafting)
-Pot (Beige)(Crafting)
-Pot (Gray)(Crafting)
 Premium Nigirizushi
 Puffer Fish Model
 R. Brooke's Birdwing Model
@@ -294,8 +283,6 @@ Red Dragonfly Model
 Red Snapper Model
 Ribbon Eel Model
 Rice Grasshopper Model
-Ringtoss (Pastel)(Crafting)
-Ringtoss (Cool)(Crafting)
 Robust Cicada Model
 Rosalia Batesi Beetle Model
 Saddled Bichir Model
@@ -346,12 +333,6 @@ Stacked Bottle Crates (Gray)
 Stacked Shoeboxes (Standard)(Happy Home Paradise)
 Stacked Shoeboxes (Chic)(Happy Home Paradise)
 Stacked Shoeboxes (Pastel)(Happy Home Paradise)
-Star Clock (Green)(Crafting)
-Star Clock (Blue)(Crafting)
-Star Clock (Purple)(Crafting)
-Star Clock (Pink)(Crafting)
-Star Clock (Orange)(Crafting)
-Star Clock (White)(Crafting)
 Stinkbug Model
 Strapped Books (Red)
 Strapped Books (Blue)
@@ -400,8 +381,5 @@ Walking Leaf Model
 Walking Stick Model
 Wasp Model
 Wharf Roach Model
-Whoopee Cushion (Red)
-Whoopee Cushion (Green)
-Whoopee Cushion (Yellow)
 Yellow Perch Model
 Zodiac Pig Figurine

@@ -543,7 +543,11 @@ Fruit Salad
 Fruit Scones
 Fruit-Topped Pancakes
 Frying Pan (None)(Crafting)
+Frying Pan (Veggie Sauté)(Crafting)
+Frying Pan (Pasta)(Crafting)
+Frying Pan (Ratatouille)(Crafting)
 Frying Pan (Pizza)(Crafting)
+Frying Pan (Failed Attempt)(Crafting)
 Futuristic Meal (White)(Happy Home Paradise)
 Futuristic Meal (Silver)(Happy Home Paradise)
 Futuristic Meal (Black)(Happy Home Paradise)
@@ -631,6 +635,8 @@ Humidifier (Green)
 Humidifier (Blue)
 Humidifier (Purple)
 Hyacinth Lamp (Purple)(Crafting)
+Hyacinth Lamp (Blue)(Crafting)
+Hyacinth Lamp (Yellow)(Crafting)
 Iced Caffè Latte
 Iced Coffee
 Iced Lemon Tea
@@ -896,6 +902,7 @@ Peach Jelly
 Peach Pie
 Peach Smoothie
 Peach Surprise Box (White Peach)(Crafting)
+Peach Surprise Box (Yellow Peach)(Crafting)
 Peach Tart
 Pear Jam
 Pear Jelly
@@ -974,6 +981,10 @@ Portable Record Player (Yellow)
 Portable Record Player (Blue)
 Portable Record Player (Orange)
 Pot (Brown)(Crafting)
+Pot (White)(Crafting)
+Pot (Black)(Crafting)
+Pot (Beige)(Crafting)
+Pot (Gray)(Crafting)
 Potato Curry
 Potato Galette
 Potato Potage
@@ -1077,6 +1088,8 @@ Ring Light (Green)(Happy Home Paradise)
 Ring-Con
 Ringtoss (Natural)(Crafting)
 Ringtoss (Colorful)(Crafting)
+Ringtoss (Pastel)(Crafting)
+Ringtoss (Cool)(Crafting)
 Risotto
 Roost Sablé Cookie
 Rotary Phone (Black)
@@ -1236,6 +1249,12 @@ Stand Mixer (Light Blue)
 Stand Mixer (Yellow)
 Stand Mixer (Black)
 Star Clock (Yellow)(Crafting)
+Star Clock (Green)(Crafting)
+Star Clock (Blue)(Crafting)
+Star Clock (Purple)(Crafting)
+Star Clock (Pink)(Crafting)
+Star Clock (Orange)(Crafting)
+Star Clock (White)(Crafting)
 Steamer-Basket Set
 Stewpot (None)(Happy Home Paradise)
 Stewpot (Cream Stew)(Happy Home Paradise)
@@ -1428,6 +1447,9 @@ Wedding Candle Set (Chic)
 Wedding Candle Set (Garden)
 Western-Style Meal
 Whale Shark Model
+Whoopee Cushion (Red)
+Whoopee Cushion (Green)
+Whoopee Cushion (Yellow)
 Windflower Fan (Red)(Crafting)
 Windflower Fan (Pink)(Crafting)
 Windflower Fan (Purple)(Crafting)
