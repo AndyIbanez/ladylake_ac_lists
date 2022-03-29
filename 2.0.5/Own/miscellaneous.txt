@@ -160,6 +160,8 @@ Camp Stove (Blue)
 Camp Stove (Green)
 Camp Stove (Brown)
 Camp Stove (Black)
+Candle (Gold)
+Candle (Silver)
 Candle (Copper)
 Candle (Black)
 Candle (White)
@@ -659,6 +661,7 @@ Judge's Bell
 Kabu Ankake
 Kagamimochi
 Kerokerokeroppi Doll
+Kerokerokeroppi Snack
 Ketchup Fried Rice
 Kettle
 Kettlebell (Black)(Crafting)

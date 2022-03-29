@@ -32,8 +32,6 @@ Bottle Crate (White)
 Bottle Crate (Gray)
 Brown Cicada Model
 Butterfly Fish Model
-Candle (Gold)
-Candle (Silver)
 Card Tower (Blue)(Happy Home Paradise)
 Cards (Blue)(Happy Home Paradise)
 Carp Model
@@ -164,7 +162,6 @@ Instant Noodles (Tom Yum Kung)
 Instant Noodles (Spicy Ramen)
 Jewel Beetle Model
 Karei no Nitsuke
-Kerokerokeroppi Snack
 Key Tray (Light Brown)
 Key Tray (Silver)
 Key Tray (Pink)

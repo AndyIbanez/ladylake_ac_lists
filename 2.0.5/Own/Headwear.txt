@@ -288,6 +288,11 @@ Gothic Headdress (Light Purple)
 Grape Hat
 Halo
 Handmade Crown
+Head Bandages (White)
+Head Bandages (Black)
+Head Bandages (Pink)
+Head Bandages (Green)
+Head Bandages (Blue)
 Headband (Pink)
 Headband (Green)
 Headband (Blue)
@@ -353,6 +358,7 @@ Kaffiyeh (Black)
 Kaffiyeh (Red)
 Kappa Cap (Green)
 Kappa Cap (Pink)
+Kerokerokeroppi Pin
 Kiki & Lala Pin
 King Tut Mask
 Kiwi Hat
