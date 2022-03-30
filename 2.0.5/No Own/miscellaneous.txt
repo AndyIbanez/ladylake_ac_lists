@@ -32,7 +32,6 @@ Bottle Crate (White)
 Bottle Crate (Gray)
 Brown Cicada Model
 Butterfly Fish Model
-Card Tower (Blue)(Happy Home Paradise)
 Cards (Blue)(Happy Home Paradise)
 Carp Model
 Carpaccio di Marlin Blu
@@ -67,9 +66,6 @@ Clipboard (Brown)
 Clown Fish Model
 Coelacanth Model
 Cool Globe
-Cordless Phone (Black)
-Cordless Phone (Silver)
-Cordless Phone (Pink)
 Cricket Model
 Cucumber Horse
 Cyclommatus Stag Model
@@ -302,14 +298,6 @@ Shopping Basket (Yellow)
 Shopping Basket (Pink)
 Shopping Basket (White)
 Shopping Basket (Black)
-Skateboard (Black)
-Skateboard (Yellow)
-Skateboard (Blue)
-Skateboard (Pink)
-Skateboard (Red)
-Skateboard (Purple)
-Skateboard (White)
-Skateboard (Damaged)
 Snail Model
 Snapping Turtle Model
 Soft-Shelled Turtle Model
