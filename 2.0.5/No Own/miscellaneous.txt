@@ -89,7 +89,6 @@ Dorado Model
 Drone Beetle Model
 Dung Beetle Model
 Earth-Boring Dung B. Model
-Emperor Butterfly Model
 Evening Cicada Model
 Fish Container (Yellow)(Happy Home Paradise)
 Fish Container (Green)(Happy Home Paradise)
@@ -220,7 +219,6 @@ Napoleonfish Model
 Neon Tetra Model
 Nibble Fish Model
 Nook Inc. Cushion
-Nook Inc. Toilet Paper
 Oarfish Model
 Olive Flounder Model
 Orchid Mantis Model
@@ -334,7 +332,6 @@ Table Setting (White)
 Table Setting (Yellow)
 Tadpole Model
 Tangyuan
-Tantanmen
 Tarantula Model
 Throwback Skull Radio (Black)
 Throwback Skull Radio (Green)
@@ -350,14 +347,6 @@ Toolbox (Pink)
 Touchscreen Cash Register (White)(Happy Home Paradise)
 Toy Box (Gray)
 Tuna Model
-Upright Speaker (Silver)
-Upright Speaker (White)
-Upright Speaker (Black)
-Upright Speaker (Wooden)
-Upright Speaker (Red)
-Upright Speaker (Yellow)
-Upright Speaker (Blue)
-Upright Speaker (Green)
 Veggie Basket
 Violin Beetle Model
 Walker Cicada Model
