@@ -198,8 +198,6 @@ Metronome (Blue)
 Microscope (Black)
 Microwave (Green)
 Migratory Locust Model
-Milkshake
-Miso Ramen
 Mitten Crab Model
 Miyama Stag Model
 Model Kits (Robots)
@@ -255,7 +253,6 @@ Portable Radio (Green)
 Portable Record Player (Green)
 Portable Record Player (Pink)
 Portable Record Player (Black)
-Premium Nigirizushi
 Puffer Fish Model
 R. Brooke's Birdwing Model
 Rainbowfish Model
@@ -288,14 +285,6 @@ Seafood Salad
 Seaweed Soup
 Shell (Green)
 Shell (Red)
-Shopping Basket (Orange)
-Shopping Basket (Green)
-Shopping Basket (Red)
-Shopping Basket (Blue)
-Shopping Basket (Yellow)
-Shopping Basket (Pink)
-Shopping Basket (White)
-Shopping Basket (Black)
 Snail Model
 Snapping Turtle Model
 Soft-Shelled Turtle Model
@@ -316,11 +305,6 @@ Stacked Shoeboxes (Standard)(Happy Home Paradise)
 Stacked Shoeboxes (Chic)(Happy Home Paradise)
 Stacked Shoeboxes (Pastel)(Happy Home Paradise)
 Stinkbug Model
-Strapped Books (Red)
-Strapped Books (Blue)
-Strapped Books (Dark Green)
-Strapped Books (Brown)
-Strapped Books (Green)
 Stringfish Model
 Sturgeon Model
 Super Mushroom

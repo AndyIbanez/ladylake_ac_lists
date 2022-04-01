@@ -266,6 +266,8 @@ Dance-Team Jacket (Purple)
 Danger Tank
 Delivery Jacket (Black)
 Delivery Jacket (Pink)
+Delivery Jacket (Orange)
+Delivery Jacket (Green)
 Delivery Jacket (Blue)
 Delivery Jacket (Brown)
 Denim Jacket (Blue)
@@ -286,6 +288,7 @@ Diner Apron (Aquamarine)
 Diner Apron (Blue)
 Diner Apron (Cream)
 Dirty Tank Top (Black)
+Dirty Tank Top (Light Brown)
 DJ KK Logo Tee (Neon Blue)
 DJ KK Logo Tee (Neon Orange)
 DJ KK Logo Tee (Neon Pink)
@@ -681,6 +684,7 @@ Noble Coat (Blue)
 Noble Coat (Purple)
 Nook Inc. Aloha Shirt
 Nook Inc. Blouson
+Nook Inc. Sweater
 Nook Inc. Tee
 Nurse's Jacket (White)
 Nurse's Jacket (Pink)

@@ -729,6 +729,7 @@ Microscope (Silver)
 Microwave (White)
 Microwave (Black)
 Microwave (Red)
+Milkshake
 Minestrone Soup
 Mini Circuit (Red & White)
 Mini Circuit (Blue & Yellow)
@@ -744,6 +745,7 @@ Mini Dharma (Yellow)
 Mini Dharma (Goukaku (Success))
 Mini Golden Dharma
 Mini-Cactus Set
+Miso Ramen
 Mixed-Fruits Bagel Sandwich
 Mixed-Fruits Crepe
 Mixed-Fruits Pie
@@ -1006,6 +1008,7 @@ Potted Starter Plants (Pink)(Happy Home Paradise)
 Potted Starter Plants (Gray)(Happy Home Paradise)
 Pound Cake
 Power Stone
+Premium Nigirizushi
 Pretzels
 Pro Coffee Grinder
 Pro Tape Recorder (Gray)
@@ -1174,6 +1177,14 @@ Shio Ramen
 Shopping Bag (Light Brown)(Happy Home Paradise)
 Shopping Bag (Dark Brown)(Happy Home Paradise)
 Shopping Bag (White)(Happy Home Paradise)
+Shopping Basket (Orange)(Happy Home Paradise)
+Shopping Basket (Green)(Happy Home Paradise)
+Shopping Basket (Red)(Happy Home Paradise)
+Shopping Basket (Blue)(Happy Home Paradise)
+Shopping Basket (Yellow)(Happy Home Paradise)
+Shopping Basket (Pink)(Happy Home Paradise)
+Shopping Basket (White)(Happy Home Paradise)
+Shopping Basket (Black)(Happy Home Paradise)
 Shoyu Ramen
 Silver Bug Trophy
 Silver Fish Trophy
@@ -1283,6 +1294,11 @@ Stewpot (Miso Broth)(Happy Home Paradise)
 Stovetop Espresso Maker (Silver)
 Stovetop Espresso Maker (Black)
 Stovetop Espresso Maker (Red)
+Strapped Books (Red)(Happy Home Paradise)
+Strapped Books (Blue)(Happy Home Paradise)
+Strapped Books (Dark Green)(Happy Home Paradise)
+Strapped Books (Brown)(Happy Home Paradise)
+Strapped Books (Green)(Happy Home Paradise)
 Strawberry Soda
 Sturdy Paper Bag
 Sturdy Sewing Box (Natural)

@@ -786,6 +786,14 @@ Satin Dress (Blue)
 Satin Dress (Purple)
 School Smock
 Security Uniform
+Sequin Dress (White)
+Sequin Dress (Black)
+Sequin Dress (Red)
+Sequin Dress (Pink)
+Sequin Dress (Yellow)
+Sequin Dress (Green)
+Sequin Dress (Blue)
+Sequin Dress (Purple)
 Shamrock Suit
 Shawl-and-Dress Combo (Black)
 Shawl-and-Dress Combo (Ochre)

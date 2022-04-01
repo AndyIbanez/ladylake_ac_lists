@@ -494,6 +494,11 @@ Paisley Bandanna (Green)
 Paisley Bandanna (Blue)
 Paisley Bandanna (Purple)
 Pansy Crown
+Paper Restaurant Cap (White & Red)
+Paper Restaurant Cap (White & Black)
+Paper Restaurant Cap (Pink)
+Paper Restaurant Cap (White & Green)
+Paper Restaurant Cap (White & Yellow)
 Paper Restaurant Cap (Brown)
 Paper-Bag Hood
 Paperboy Cap (Gray)
@@ -556,6 +561,8 @@ Power Helmet (Red)
 Power Helmet (Green)
 Power Helmet (Blue)
 Princess Peach Crown
+Prom Crown (Silver)
+Prom Crown (Gold)
 Punk Hair Wig (Blue)
 Purple Hyacinth Crown
 Purple Pansy Crown
