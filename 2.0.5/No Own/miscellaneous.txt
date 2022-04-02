@@ -77,13 +77,6 @@ Decorative Plate (Silver)(Happy Home Paradise)
 Dish-Drying Rack (Black)
 Dish-Drying Rack (Silver)
 Dish-Drying Rack (Blue)
-Dispenser (White)
-Dispenser (Brown)
-Dispenser (Green)
-Dispenser (Blue)
-Dispenser (Pink)
-Dispenser (Purple)
-Dispenser (Silver)
 Diving Beetle Model
 Dorado Model
 Drone Beetle Model
@@ -119,14 +112,6 @@ Giant Water Bug Model
 Glass Holder with Candle (White)
 Glass Holder with Candle (Red)
 Glass Holder with Candle (Green)
-Glass Jar (Salt)
-Glass Jar (Pasta)
-Glass Jar (Nuts)
-Glass Jar (Coffee Beans)
-Glass Jar (Fruit Syrup)
-Glass Jar (Cookies)
-Glass Jar (Marshmallows)
-Glass Jar (Yarn)
 Gold HHA Trophy
 Golden Stag Model
 Golden Trout Model
@@ -149,18 +134,8 @@ Horse Mackerel Model
 Incense Burner (Sandalwood)
 Incense Burner (Cherry Blossoms)
 Incense Burner (Tea)
-Instant Noodles (Shoyu Ramen)
-Instant Noodles (Shio Ramen)
-Instant Noodles (Miso Ramen)
-Instant Noodles (Green Curry)
-Instant Noodles (Tom Yum Kung)
-Instant Noodles (Spicy Ramen)
 Jewel Beetle Model
 Karei no Nitsuke
-Key Tray (Light Brown)
-Key Tray (Silver)
-Key Tray (Pink)
-Key Tray (Brass)
 Killifish Model
 King Salmon Model
 Koi Model
@@ -171,13 +146,6 @@ Lantern (Green)
 Lantern (Yellow)
 Lantern (Pink)
 Lantern (Gold)
-Laptop (Black)
-Laptop (Silver)
-Laptop (White)
-Laptop (Red)
-Laptop (Pink)
-Laptop (Blue)
-Laptop (Gold)
 LCD TV (20 in.) (Black)
 LCD TV (20 in.) (Silver)
 LCD TV (20 in.) (Yellow)
@@ -317,8 +285,6 @@ Table Setting (Yellow)
 Tadpole Model
 Tangyuan
 Tarantula Model
-Throwback Skull Radio (Black)
-Throwback Skull Radio (Green)
 Throwback Skull Radio (Gray)
 Throwback Wrestling Figure (Red)
 Throwback Wrestling Figure (Blue)
@@ -328,7 +294,6 @@ Tilapia Model
 Toolbox (Green)
 Toolbox (Blue)
 Toolbox (Pink)
-Touchscreen Cash Register (White)(Happy Home Paradise)
 Toy Box (Gray)
 Tuna Model
 Veggie Basket
