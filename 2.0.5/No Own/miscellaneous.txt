@@ -18,13 +18,6 @@ Black Bass Model
 Blowfish Model
 Blue Marlin Model
 Book Stands (Black)
-Bottle Crate (Yellow)
-Bottle Crate (Red)
-Bottle Crate (Green)
-Bottle Crate (Blue)
-Bottle Crate (Black)
-Bottle Crate (White)
-Bottle Crate (Gray)
 Brown Cicada Model
 Butterfly Fish Model
 Cards (Blue)(Happy Home Paradise)
