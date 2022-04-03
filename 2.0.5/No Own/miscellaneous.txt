@@ -5,14 +5,9 @@ Aloha-Edition Carrying Case
 Anchovy Model
 Angelfish Model
 Ant Model
-Anthurium Plant (Berry Red)
-Anthurium Plant (Green)
 Arapaima Model
 Arowana Model
 Bagworm Model
-Ball (Soccer Ball)
-Ball (Volleyball)
-Ball (Dodgeball)
 Barred Knifejaw Model
 Barreleye Model
 Bell Cricket Model
@@ -35,34 +30,15 @@ Butterfly Fish Model
 Cards (Blue)(Happy Home Paradise)
 Carp Model
 Carpaccio di Marlin Blu
-Cartoonist's Set (Silver)
-Cartoonist's Set (Pink)
-Cassette Player (Red)
-Cassette Player (Yellow)
-Cassette Player (Blue)
-Cassette Player (Pink)
-Cassette Player (Silver)
-Cassette Player (White)
 Cat Grass (Black)
 Cat Grass (Light Blue)
 Cat Grass (Pink)
 Catfish Model
-Celebratory Candles (Light Brown)
-Celebratory Candles (Black)
-Celebratory Candles (Blue)
-Celebratory Candles (White)
 Centipede Model
 Char Model
 Cherry Salmon Model
 Cicada Shell Model
 Citrus Long-Horned B. Model
-Clipboard (Blue)
-Clipboard (Black)
-Clipboard (Red)
-Clipboard (Yellow)
-Clipboard (Green)
-Clipboard (White)
-Clipboard (Brown)
 Clown Fish Model
 Coelacanth Model
 Cool Globe
@@ -71,9 +47,6 @@ Cucumber Horse
 Cyclommatus Stag Model
 Damselfly Model
 Dango
-Decorative Plate (Black)(Happy Home Paradise)
-Decorative Plate (Light Brown)(Happy Home Paradise)
-Decorative Plate (Silver)(Happy Home Paradise)
 Dish-Drying Rack (Black)
 Dish-Drying Rack (Silver)
 Dish-Drying Rack (Blue)
@@ -83,13 +56,6 @@ Drone Beetle Model
 Dung Beetle Model
 Earth-Boring Dung B. Model
 Evening Cicada Model
-Fish Container (Yellow)(Happy Home Paradise)
-Fish Container (Green)(Happy Home Paradise)
-Fish Container (Orange)(Happy Home Paradise)
-Fish Container (Gray)(Happy Home Paradise)
-Fish Container (White)(Happy Home Paradise)
-Fish Container (Red)(Happy Home Paradise)
-Fish Container (Blue)(Happy Home Paradise)
 Fish-and-Chips
 Fly Model
 Fragrance Diffuser (Yellow)
@@ -109,9 +75,6 @@ Giant Snakehead Model
 Giant Stag Model
 Giant Trevally Model
 Giant Water Bug Model
-Glass Holder with Candle (White)
-Glass Holder with Candle (Red)
-Glass Holder with Candle (Green)
 Gold HHA Trophy
 Golden Stag Model
 Golden Trout Model
@@ -131,21 +94,12 @@ Horned Atlas Model
 Horned Dynastid Model
 Horned Elephant Model
 Horse Mackerel Model
-Incense Burner (Sandalwood)
-Incense Burner (Cherry Blossoms)
-Incense Burner (Tea)
 Jewel Beetle Model
 Karei no Nitsuke
 Killifish Model
 King Salmon Model
 Koi Model
 Ladybug Model
-Lantern (Red)
-Lantern (Blue)
-Lantern (Green)
-Lantern (Yellow)
-Lantern (Pink)
-Lantern (Gold)
 LCD TV (20 in.) (Black)
 LCD TV (20 in.) (Silver)
 LCD TV (20 in.) (Yellow)
@@ -155,16 +109,12 @@ LCD TV (20 in.) (Light Blue)
 LCD TV (50 in.) (White)
 LCD TV (50 in.) (Silver)
 LCD TV (50 in.) (Blue)
-Life Ring (Yellow)
-Life Ring (Orange)
 Loach Model
 M. Sunset Moth Model
 Mahi-Mahi Model
 Man-Faced Stink Bug Model
 Mantis Model
 Metronome (Blue)
-Microscope (Black)
-Microwave (Green)
 Migratory Locust Model
 Mitten Crab Model
 Miyama Stag Model
@@ -184,15 +134,9 @@ Moth Model
 Napoleonfish Model
 Neon Tetra Model
 Nibble Fish Model
-Nook Inc. Cushion
 Oarfish Model
 Olive Flounder Model
 Orchid Mantis Model
-Osechi (Black)
-Osechi (Red)
-Osechi (White)
-Painting Set (Pink)
-Painting Set (Light Blue)
 Paper Kite Butterfly Model
 Paradise Planning Candles
 Paradise Planning Cushion
@@ -212,12 +156,6 @@ Pocket Modern Camper (Hot Dog)
 Pond Smelt Model
 Pondskater Model
 Pop-Eyed Goldfish Model
-Portable Radio (White)
-Portable Radio (Yellow)
-Portable Radio (Red)
-Portable Radio (Pink)
-Portable Radio (Blue)
-Portable Radio (Green)
 Portable Record Player (Green)
 Portable Record Player (Pink)
 Portable Record Player (Black)
@@ -226,14 +164,6 @@ R. Brooke's Birdwing Model
 Rainbowfish Model
 Ranchu Goldfish Model
 Ray Model
-Recycled-Paper Bundle (Japanese Newspapers)
-Recycled-Paper Bundle (Newspapers)
-Recycled-Paper Bundle (Guidebooks)
-Recycled-Paper Bundle (Fashion Magazines)
-Recycled-Paper Bundle (Dictionaries)
-Recycled-Paper Bundle (Comics)
-Recycled-Paper Bundle (Technical Books)
-Recycled-Paper Bundle (Old Books)
 Red Dragonfly Model
 Red Snapper Model
 Ribbon Eel Model
@@ -262,16 +192,6 @@ Squid Model
 Squid-Ink Spaghetti
 Stack of Books (Reference)(Crafting)
 Stack of Books (Old)(Crafting)
-Stacked Bottle Crates (Yellow)
-Stacked Bottle Crates (Red)
-Stacked Bottle Crates (Green)
-Stacked Bottle Crates (Blue)
-Stacked Bottle Crates (Black)
-Stacked Bottle Crates (White)
-Stacked Bottle Crates (Gray)
-Stacked Shoeboxes (Standard)(Happy Home Paradise)
-Stacked Shoeboxes (Chic)(Happy Home Paradise)
-Stacked Shoeboxes (Pastel)(Happy Home Paradise)
 Stinkbug Model
 Stringfish Model
 Sturgeon Model
@@ -280,8 +200,6 @@ Super Star
 Super-Premium Nigirizushi
 Surgeonfish Model
 Sweetfish Model
-Table Setting (White)
-Table Setting (Yellow)
 Tadpole Model
 Tangyuan
 Tarantula Model

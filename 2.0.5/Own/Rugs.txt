@@ -1,12 +1,15 @@
 Acorn Rug
+Aluminum Rug
 Apple Rug
 Bell-Bag Rug
 Black Blocks Rug
 Black Wooden-Deck Rug
+Black-Design Kitchen Mat
 Blue Argyle Rug
 Blue Blocks Rug
 Blue Dotted Rug
 Blue Exercise Mat
+Blue Kilim-Style Carpet
 Blue Kitchen Mat
 Blue Medium Round Mat
 Blue Message Mat
@@ -20,6 +23,7 @@ Blue Wedding Rug
 Blue-Design Kitchen Mat
 Botanical Rug
 Brown Argyle Rug
+Brown Kitchen Mat
 Brown Shaggy Rug
 Brown Wooden-Deck Rug
 Bunny Day Rug
@@ -31,8 +35,10 @@ Colorful Vinyl Sheet
 Cookie Rug
 Dark Bamboo Bath Mat
 Dark Bamboo Rug
+Dark Square Tile
 Dark Stones Rug
 Dark-Wood Flooring Sheet
+Dark-Wood Flooring Tile
 Earth Rug
 Elegant Beige Rug
 Elegant Blue Rug
@@ -41,6 +47,7 @@ Fish Rug
 Fluffy Rug
 Football Rug
 Fossil Rug
+Frozen Floor Tiles
 Glowing-Moss Rug
 Gray Brick Rug
 Green Bamboo Mat
@@ -56,8 +63,10 @@ Imperial Rug
 Iron Entrance Mat
 Ivory Medium Round Mat
 Ivory Simple Bath Mat
+Ivory Small Round Mat
 Kerokerokeroppi Rug
 Kiki & Lala Rug
+Lacy Rug
 Ladybug Rug
 Lakitu's Cloud Rug
 Large Paradise Planning Rug
@@ -75,20 +84,24 @@ Mom's Lively Kitchen Mat
 Mom's Playful Kitchen Mat
 Mom's Reliable Kitchen Mat
 Monochromatic Dotted Rug
+Monochromatic Wavy Rug
 Moon Rug
 Mush Rug
 My Melody Rug
 Natural Wooden-Deck Rug
 Natural-Wood Flooring Sheet
+Natural-Wood Flooring Tile
 Natural-Wood Square Tile
 Nook Inc. Botanical Rug
 Nook Inc. Rug
 Nook Inc. Silk Rug
 Orange Rug
+Oval Entrance Mat
 Peach Checked Rug
 Peach Rug
 Peach Stripes Rug
 Pear Rug
+Pink Heart Rug
 Pink Rose Rug
 Pirate Rug
 Pompompurin Rug
@@ -96,14 +109,19 @@ Purple Heart Rug
 Purple Persian Rug
 Purple Shaggy Rug
 Record Rug
+Red Argyle Rug
 Red Blocks Rug
+Red Brick Rug
 Red Carpet
 Red Dotted Rug
 Red Exquisite Rug
 Red Kilim-Style Carpet
+Red Medium Round Mat
 Red Message Mat
+Red Persian Rug
 Red Rose Rug
 Red Small Round Mat
+Red Vinyl Sheet
 Red Watermelon Rug
 Red Wavy Rug
 Red Wedding Rug
@@ -119,6 +137,7 @@ Shanty Mat
 Shell Rug
 Simple Entrance Mat
 Simple Green Bath Mat
+Simple Medium Avocado Mat
 Simple Medium Black Mat
 Simple Medium Blue Mat
 Simple Medium Brown Mat
@@ -128,10 +147,12 @@ Simple Medium Red Mat
 Simple Navy Bath Mat
 Simple Pink Bath Mat
 Simple Small Avocado Mat
+Simple Small Black Mat
 Simple Small Blue Mat
 Simple Small Brown Mat
 Simple Small Orange Mat
 Simple Small Purple Mat
+Simple Small Red Mat
 Sloppy Rug
 Snowflake Rug
 Spooky Rug
@@ -141,6 +162,7 @@ Summer-Shell Rug
 Sunflower Rug
 Tatami Mat
 Tree-Stump Rug
+Tropical Rug
 Turkey Day Rug
 Turquoise Heart Rug
 White Exercise Mat
@@ -153,6 +175,7 @@ White Wedding Rug
 White Wooden-Deck Rug
 White-Wood Flooring Sheet
 White-Wood Flooring Tile
+Yellow Argyle Rug
 Yellow Bamboo Mat
 Yellow Blocks Rug
 Yellow Checked Rug

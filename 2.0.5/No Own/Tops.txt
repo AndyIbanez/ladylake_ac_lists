@@ -1,8 +1,4 @@
-Animal-Stripes Tee (Zebra)
 Baggy Shirt (Brown)
-Cardigan School Uniform Top (Gray)
-Cardigan School Uniform Top (Navy Blue)
-Cardigan School Uniform Top (Beige)
 Coverall Coat (Red)
 Denim Vest (Navy Blue)
 Denim Vest (Washed Out)
@@ -11,12 +7,8 @@ Dirty Tank Top (White)
 Dirty Tank Top (Olive)
 DJ KK Logo Tee (Neon Green)
 Front-Tie Button-Down Shirt (Blue)
-Hoi Tee
-Lunch-Service Apron (Pink)
 Lunch-Service Apron (Green)
-Marble-Dots Tee (Black)
 Mom's Hand-Knit Sweater (Animal)
-MVP Tee
 Paradise Planning Aloha Top
 Paradise Planning Blazer
 Paradise Planning Jacket
@@ -30,7 +22,6 @@ Sailor's Shirt (Red)
 Sailor's Shirt (Green)
 Sailor's Shirt (Purple)
 Seven-Ball Tee
-Simple-Dots Tee (Light Blue)
 Sleeveless Dress Shirt (Pink)
 Striped Tee (Camel)
 Tank (Black)
@@ -38,15 +29,10 @@ Tank (White)
 Tank (Brown)
 Tank (Red)
 Tank (Navy Blue)
-Thank-You Dad Apron (Black)
-Thank-You Dad Apron (Red)
-Thank-You Dad Apron (Blue)
-Thank-You Dad Apron (Brown)
 Three-Ball Tee
 Tomato Festival Tee
 Tree Sweater
 Windbreaker (Black)
-Windbreaker (Berry Red)
 Windbreaker (Red)
 Windbreaker (Green)
 Windbreaker (Blue)
