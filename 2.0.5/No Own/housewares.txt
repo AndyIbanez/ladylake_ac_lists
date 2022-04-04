@@ -42,11 +42,6 @@ Giant Teddy Bear (Floral)(Crafting)
 Giant Teddy Bear (Checkered)(Crafting)
 Giant Teddy Bear (Tweed)(Crafting)
 Golden Samurai Suit
-Golf Bag (Red)
-Golf Bag (Green)
-Golf Bag (Multicolor)
-Golf Bag (Brown)
-Golf Bag (Silver)
 Grand Atlas Moth Model
 Grand B. Dragonfly Model
 Grand Q. A. Birdwing Model
@@ -93,11 +88,6 @@ Retro Transportation Stop (Green)
 Retro Transportation Stop (Blue)
 Retro Transportation Stop (Red)
 Retro Transportation Stop (Damaged)
-Safety Railing (Light Brown)(Happy Home Paradise)
-Safety Railing (Dark Brown)(Happy Home Paradise)
-Safety Railing (Yellow)(Happy Home Paradise)
-Safety Railing (Green)(Happy Home Paradise)
-Safety Railing (Black)(Happy Home Paradise)
 Sloppy Bed (Light Wood)
 Sloppy Bed (Natural Wood)
 Sloppy Bed (Dark Wood)
