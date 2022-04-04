@@ -1,12 +1,10 @@
 Baggy Shirt (Brown)
-Coverall Coat (Red)
 Denim Vest (Navy Blue)
 Denim Vest (Washed Out)
 Denim Vest (Blue)
 Dirty Tank Top (White)
 Dirty Tank Top (Olive)
 DJ KK Logo Tee (Neon Green)
-Front-Tie Button-Down Shirt (Blue)
 Lunch-Service Apron (Green)
 Mom's Hand-Knit Sweater (Animal)
 Paradise Planning Aloha Top
@@ -15,8 +13,6 @@ Paradise Planning Jacket
 Paradise Planning Shirt
 Paradise Planning Tank Top
 Paradise Planning Tee
-Rose-Print Jacket (Orange Roses on Blue)
-Rose-Print Jacket (Yellow Roses on White)
 Sailor's Shirt (Navy Blue)
 Sailor's Shirt (Red)
 Sailor's Shirt (Green)
