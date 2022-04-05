@@ -117,7 +117,6 @@ Model Kits (Space)
 Model Kits (Historical)
 Model Kits (Buildings)
 Mole Cricket Model
-Monarch Butterfly Model
 Moon Cakes
 Moray Eel Model
 Mosquito Model
@@ -129,10 +128,8 @@ Oarfish Model
 Olive Flounder Model
 Orchid Mantis Model
 Paper Kite Butterfly Model
-Paradise Planning Cushion
 Paradise Planning Mug
 Paradise Planning Planter
-Paradise Planning Tissues
 Peacock Butterfly Model
 Pike Model
 Pill Bug Model
