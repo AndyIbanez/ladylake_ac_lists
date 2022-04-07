@@ -7,8 +7,6 @@ Anchor Statue (Retro)
 Bathtub with Yuzu
 Creepy Skeleton (Plain)
 Creepy Skeleton (Mossy)
-Floor Seat (Light Wood)
-Floor Seat (Dark Wood)
 Flower Bed (Brown)
 Flower Bed (Pink-Beige)
 Flower Bed (White)
@@ -22,10 +20,6 @@ Golden Samurai Suit
 Grand Atlas Moth Model
 Grand B. Dragonfly Model
 Grand Q. A. Birdwing Model
-Handcart (Green)
-Handcart (Brown)
-Handcart (Yellow)
-Handcart (Red)
 Handcart (Black)
 Horizontal Organizer (White)
 Horizontal Organizer (Black)
