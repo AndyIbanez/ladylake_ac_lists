@@ -585,6 +585,7 @@ Fresh-Food Trays (Whitefish Block)(Happy Home Paradise)
 Fresh-Food Trays (Squid)(Happy Home Paradise)
 Fresh-Food Trays (Fatty Tuna)(Happy Home Paradise)
 Fried Rice
+Frog Model
 Frosted Cookies
 Frosted Pretzels
 Frozen-Treat Set (Soda)(Crafting)
