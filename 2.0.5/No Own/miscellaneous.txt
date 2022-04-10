@@ -15,15 +15,11 @@ Bitterling Model
 Black Bass Model
 Blowfish Model
 Blue Marlin Model
-Book Stands (Black)
 Brown Cicada Model
 Butterfly Fish Model
 Cards (Blue)(Happy Home Paradise)
 Carp Model
 Carpaccio di Marlin Blu
-Cat Grass (Black)
-Cat Grass (Light Blue)
-Cat Grass (Pink)
 Catfish Model
 Centipede Model
 Char Model
@@ -75,9 +71,6 @@ Grasshopper Model
 Guppy Model
 Hammerhead Shark Model
 Hamster Cage (Yellow)
-Handy Water Cooler (Blue)
-Handy Water Cooler (Yellow)
-Handy Water Cooler (Avocado)
 Hermit Crab Model
 Honeybee Model
 Horned Atlas Model
@@ -196,7 +189,6 @@ Tilapia Model
 Toolbox (Green)
 Toolbox (Blue)
 Toolbox (Pink)
-Toy Box (Gray)
 Tuna Model
 Veggie Basket
 Violin Beetle Model
