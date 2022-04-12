@@ -55,7 +55,6 @@ Frozen Mini Snowperson (Ice Orange)
 Frozen Mini Snowperson (Ice Green)
 Frozen Mini Snowperson (Ice Purple)
 Gar Model
-Garden Gnome (Laid-Back Gnome)
 Giant Cicada Model
 Giant Snakehead Model
 Giant Stag Model
@@ -124,12 +123,6 @@ Peacock Butterfly Model
 Pike Model
 Pill Bug Model
 Piranha Model
-Pocket Modern Camper (Ketchup And Mustard)
-Pocket Modern Camper (Lumberjack)
-Pocket Modern Camper (Classic Camo)
-Pocket Modern Camper (Playtime)
-Pocket Modern Camper (Splatter Up)
-Pocket Modern Camper (Hot Dog)
 Pond Smelt Model
 Pondskater Model
 Pop-Eyed Goldfish Model
@@ -171,7 +164,6 @@ Stack of Books (Reference)(Crafting)
 Stack of Books (Old)(Crafting)
 Stinkbug Model
 Stringfish Model
-Sturgeon Model
 Super Mushroom
 Super Star
 Super-Premium Nigirizushi
@@ -181,9 +173,6 @@ Tadpole Model
 Tangyuan
 Tarantula Model
 Throwback Skull Radio (Gray)
-Throwback Wrestling Figure (Red)
-Throwback Wrestling Figure (Blue)
-Throwback Wrestling Figure (Gold)
 Tiger Beetle Model
 Tilapia Model
 Toolbox (Green)
