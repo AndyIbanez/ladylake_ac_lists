@@ -441,6 +441,7 @@ Milkmaid Hat
 Mini Straw Boater
 Mohawk Wig
 Mum Crown
+Mummy Mask
 My Melody Hood
 New Year's Hat (Red)
 New Year's Hat (Pink)
@@ -512,6 +513,9 @@ Patchwork Tulip Hat (Yellow)
 Patchwork Tulip Hat (Blue)
 Peach Hat
 Pear Hat
+Phrygian Cap (Green)
+Phrygian Cap (Light Blue)
+Phrygian Cap (Purple)
 Pigtail
 Pilot's Cap (Black)
 Pilot's Cap (Avocado)
@@ -566,6 +570,9 @@ Prom Crown (Silver)
 Prom Crown (Gold)
 Prom Tiara (Silver)
 Prom Tiara (Gold)
+Punk Hair Wig (Pink)
+Punk Hair Wig (Yellow)
+Punk Hair Wig (Green)
 Punk Hair Wig (Blue)
 Purple Hyacinth Crown
 Purple Pansy Crown
@@ -778,6 +785,7 @@ Tropical Turban (Red)
 Tropical Turban (Purple)
 Tsunokakushi
 Tubeteika (Red)
+Tubeteika (Blue)
 Tubeteika (Purple)
 Tulip Crown
 Tulip Hat (Orange)
@@ -785,6 +793,7 @@ Tulip Hat (Camel)
 Tulip Hat (Brown)
 Turban (Pink)
 Turban (Yellow)
+Turban (Purple)
 Tweed Cap (Green)
 Tweed Cap (Blue)
 Tweed Cap (Brown)

@@ -17,7 +17,6 @@ Blowfish Model
 Blue Marlin Model
 Brown Cicada Model
 Butterfly Fish Model
-Cards (Blue)(Happy Home Paradise)
 Carp Model
 Carpaccio di Marlin Blu
 Catfish Model
@@ -30,13 +29,9 @@ Clown Fish Model
 Coelacanth Model
 Cool Globe
 Cricket Model
-Cucumber Horse
 Cyclommatus Stag Model
 Damselfly Model
-Dango
 Dish-Drying Rack (Black)
-Dish-Drying Rack (Silver)
-Dish-Drying Rack (Blue)
 Diving Beetle Model
 Dorado Model
 Drone Beetle Model
@@ -82,15 +77,11 @@ Killifish Model
 King Salmon Model
 Koi Model
 Ladybug Model
-LCD TV (20 in.) (Black)
 LCD TV (20 in.) (Silver)
-LCD TV (20 in.) (Yellow)
 LCD TV (20 in.) (Blue)
 LCD TV (20 in.) (Pink)
-LCD TV (20 in.) (Light Blue)
 LCD TV (50 in.) (White)
 LCD TV (50 in.) (Silver)
-LCD TV (50 in.) (Blue)
 Loach Model
 M. Sunset Moth Model
 Mahi-Mahi Model
@@ -100,15 +91,13 @@ Metronome (Blue)
 Migratory Locust Model
 Mitten Crab Model
 Miyama Stag Model
-Model Kits (Robots)
-Model Kits (Cars)
-Model Kits (Trains)
-Model Kits (Transportation)
-Model Kits (Space)
-Model Kits (Historical)
-Model Kits (Buildings)
+Model Kits (Robots)(Happy Home Paradise)
+Model Kits (Cars)(Happy Home Paradise)
+Model Kits (Trains)(Happy Home Paradise)
+Model Kits (Transportation)(Happy Home Paradise)
+Model Kits (Space)(Happy Home Paradise)
+Model Kits (Historical)(Happy Home Paradise)
 Mole Cricket Model
-Moon Cakes
 Moray Eel Model
 Mosquito Model
 Moth Model
@@ -126,9 +115,6 @@ Piranha Model
 Pond Smelt Model
 Pondskater Model
 Pop-Eyed Goldfish Model
-Portable Record Player (Green)
-Portable Record Player (Pink)
-Portable Record Player (Black)
 Puffer Fish Model
 R. Brooke's Birdwing Model
 Rainbowfish Model
@@ -151,12 +137,10 @@ Seafood Ajillo
 Seafood Pizza
 Seafood Salad
 Seaweed Soup
-Shell (Green)
 Shell (Red)
 Snail Model
 Snapping Turtle Model
 Soft-Shelled Turtle Model
-Songpyeon
 Spider Model
 Squid Model
 Squid-Ink Spaghetti
@@ -164,9 +148,6 @@ Stack of Books (Reference)(Crafting)
 Stack of Books (Old)(Crafting)
 Stinkbug Model
 Stringfish Model
-Super Mushroom
-Super Star
-Super-Premium Nigirizushi
 Surgeonfish Model
 Sweetfish Model
 Tadpole Model
@@ -175,9 +156,6 @@ Tarantula Model
 Throwback Skull Radio (Gray)
 Tiger Beetle Model
 Tilapia Model
-Toolbox (Green)
-Toolbox (Blue)
-Toolbox (Pink)
 Tuna Model
 Veggie Basket
 Violin Beetle Model

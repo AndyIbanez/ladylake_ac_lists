@@ -1,7 +1,3 @@
-Baggy Shirt (Brown)
-Denim Vest (Navy Blue)
-Denim Vest (Washed Out)
-Denim Vest (Blue)
 Dirty Tank Top (White)
 Dirty Tank Top (Olive)
 DJ KK Logo Tee (Neon Green)
@@ -13,22 +9,9 @@ Paradise Planning Jacket
 Paradise Planning Shirt
 Paradise Planning Tank Top
 Paradise Planning Tee
-Sailor's Shirt (Green)
-Sailor's Shirt (Purple)
-Striped Tee (Camel)
 Tank (Black)
 Tank (White)
 Tank (Brown)
 Tank (Red)
 Tank (Navy Blue)
-Three-Ball Tee
 Tomato Festival Tee
-Tree Sweater
-Windbreaker (Black)
-Windbreaker (Red)
-Windbreaker (Green)
-Windbreaker (Blue)
-Windbreaker (Navy Blue)
-Windbreaker (White)
-Work Shirt (Green-Striped Necktie)
-Work Shirt (Purple-Striped Necktie)

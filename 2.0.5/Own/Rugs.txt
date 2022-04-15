@@ -9,6 +9,7 @@ Blue Argyle Rug
 Blue Blocks Rug
 Blue Dotted Rug
 Blue Exercise Mat
+Blue Hawaiian Quilt Rug
 Blue Kilim-Style Carpet
 Blue Kitchen Mat
 Blue Medium Round Mat
@@ -21,6 +22,7 @@ Blue Vinyl Sheet
 Blue Wavy Rug
 Blue Wedding Rug
 Blue-Design Kitchen Mat
+Bone Entrance Mat
 Botanical Rug
 Brown Argyle Rug
 Brown Kitchen Mat
@@ -41,7 +43,9 @@ Dark-Wood Flooring Sheet
 Dark-Wood Flooring Tile
 Earth Rug
 Elegant Beige Rug
+Elegant Black Rug
 Elegant Blue Rug
+Elegant Brown Rug
 Festive Rug
 Fish Rug
 Fluffy Rug
@@ -50,9 +54,11 @@ Fossil Rug
 Frozen Floor Tiles
 Glowing-Moss Rug
 Gray Brick Rug
+Gray Floor Tiles
 Green Bamboo Mat
 Green Checked Rug
 Green Exercise Mat
+Green Exquisite Rug
 Green Hawaiian Quilt Rug
 Green Kilim-Style Carpet
 Green Kitchen Mat
@@ -74,6 +80,8 @@ Light Bamboo Bath Mat
 Light Bamboo Rug
 Light Square Tile
 Light Stones Rug
+Light-Brown Cow-Print Rug
+Light-Wood Flooring Sheet
 Light-Wood Flooring Tile
 Magic-Circle Rug
 Maple-Leaf Rug
@@ -101,6 +109,7 @@ Peach Checked Rug
 Peach Rug
 Peach Stripes Rug
 Pear Rug
+Pink Hawaiian Quilt Rug
 Pink Heart Rug
 Pink Rose Rug
 Pirate Rug
@@ -114,6 +123,7 @@ Red Blocks Rug
 Red Brick Rug
 Red Carpet
 Red Dotted Rug
+Red Exercise Mat
 Red Exquisite Rug
 Red Kilim-Style Carpet
 Red Medium Round Mat
@@ -153,7 +163,9 @@ Simple Small Brown Mat
 Simple Small Orange Mat
 Simple Small Purple Mat
 Simple Small Red Mat
+Skull Rug
 Sloppy Rug
+Small Paradise Planning Mat
 Snowflake Rug
 Spooky Rug
 Stage Rug
@@ -189,4 +201,6 @@ Yellow Small Round Mat
 Yellow Star Rug
 Yellow Stripes Rug
 Yellow Vinyl Sheet
+Yellow Watermelon Rug
+Yellow-Design Kitchen Mat
 Yoshi's Egg Rug

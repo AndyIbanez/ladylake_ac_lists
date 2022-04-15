@@ -194,6 +194,7 @@ Cardboard Box (Apples)
 Cardboard Box (Peaches)
 Cardboard Box (Pears)
 Cardboard Box (Cherries)
+Cards (Blue)(Happy Home Paradise)
 Cards (Red)(Happy Home Paradise)
 Cards (Green)(Happy Home Paradise)
 Carnations
@@ -331,6 +332,7 @@ Cream and Sugar (White)
 Cream and Sugar (Floral)
 Crucian Carp Model
 Cube Light
+Cucumber Horse
 Cup with Saucer
 Curry with Rice
 Cushion
@@ -353,6 +355,7 @@ DAL Mug
 Dala Horse (Red)
 Dala Horse (Blue)
 Dala Horse (White)
+Dango
 Darner Dragonfly Model
 Decorative Bottles (Green)(Happy Home Paradise)
 Decorative Bottles (Light Blue)(Happy Home Paradise)
@@ -423,7 +426,9 @@ Dinosaur Toy (Green)
 Dinosaur Toy (Blue)
 Dinosaur Toy (Red)
 Dish-Drying Rack (White)
+Dish-Drying Rack (Silver)
 Dish-Drying Rack (Red)
+Dish-Drying Rack (Blue)
 Dish-Drying Rack (Yellow)
 Dispenser (White)(Happy Home Paradise)
 Dispenser (Brown)(Happy Home Paradise)
@@ -777,10 +782,14 @@ Laptop (Red)
 Laptop (Pink)
 Laptop (Blue)
 Laptop (Gold)
+LCD TV (20 in.) (Black)
 LCD TV (20 in.) (White)
 LCD TV (20 in.) (Red)
+LCD TV (20 in.) (Yellow)
+LCD TV (20 in.) (Light Blue)
 LCD TV (50 in.) (Black)
 LCD TV (50 in.) (Red)
+LCD TV (50 in.) (Blue)
 Libra Scale
 Life Ring (Red)
 Life Ring (Blue)
@@ -866,6 +875,7 @@ Model Kit (Blue)(Happy Home Paradise)
 Model Kit (Green)(Happy Home Paradise)
 Model Kit (Black)(Happy Home Paradise)
 Model Kit (Unpainted)(Happy Home Paradise)
+Model Kits (Buildings)(Happy Home Paradise)
 Modeling Clay (Beginning Stages)(Crafting)
 Modeling Clay (Dinosaur)(Crafting)
 Modeling Clay (Cake)(Crafting)
@@ -918,6 +928,7 @@ Mom's Tissue Box (Fanciful Quilted Pattern)
 Mom's Tissue Box (Fruits)
 Mom's Tissue Box (Denim with Stripes)
 Monarch Butterfly Model
+Moon Cakes
 Moss Ball
 Mug (White)
 Mug (Yellow)
@@ -1115,6 +1126,9 @@ Portable Radio (Black)
 Portable Record Player (Red)
 Portable Record Player (Yellow)
 Portable Record Player (Blue)
+Portable Record Player (Green)
+Portable Record Player (Pink)
+Portable Record Player (Black)
 Portable Record Player (Orange)
 Pot (Brown)(Crafting)
 Pot (White)(Crafting)
@@ -1288,6 +1302,7 @@ Sewing Project (Pink)
 Sewing Project (Black)
 Shaved-Ice Maker (Green)
 Shaved-Ice Maker (Silver)
+Shell (Green)
 Shell Lamp (White)(Crafting)
 Shell Lamp (Brown)(Crafting)
 Shell Lamp (Pink)(Crafting)
@@ -1365,6 +1380,7 @@ Snack (Cheesy Snacks)(Happy Home Paradise)
 Snack (Spicy Snacks)(Happy Home Paradise)
 Snack Bread
 Snow Globe
+Songpyeon
 Soup Kettle (Corn Soup)
 Soup Kettle (Cream Stew)
 Soup Kettle (Curry)
@@ -1453,6 +1469,9 @@ Sturgeon Model
 Succulent Plant
 Suckerfish Model
 Sugar Crepe
+Super Mushroom
+Super Star
+Super-Premium Nigirizushi
 Surichwi Tteok
 Table Lamp
 Table Setting (White)
@@ -1545,8 +1564,11 @@ Tomato Curry
 Tomato Juice
 Tomato Puree
 Toolbox (Red)
+Toolbox (Green)
+Toolbox (Blue)
 Toolbox (Orange)
 Toolbox (Turquoise)
+Toolbox (Pink)
 Toothbrush-and-Cup Set (White)(Happy Home Paradise)
 Toothbrush-and-Cup Set (Yellow)(Happy Home Paradise)
 Toothbrush-and-Cup Set (Red)(Happy Home Paradise)

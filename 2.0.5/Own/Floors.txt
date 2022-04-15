@@ -35,6 +35,7 @@ Cinnamoroll Flooring
 Circuit-Board Flooring
 Circus Flooring
 Cloud Flooring
+Club Flooring
 Colored-Leaves Flooring
 Colorful Mosaic-Tile Flooring
 Colorful Puzzle Flooring
@@ -129,6 +130,7 @@ Orange Camo Flooring
 Orange Retro Flooring
 Paintball Flooring
 Palace Tile
+Paradise Planning Flooring
 Parking Flooring
 Party Flooring
 Pastel Puzzle Flooring
@@ -150,7 +152,10 @@ Rattan Flooring
 Red Dot Flooring
 Red-and-Black Vinyl Flooring
 Red-Brick Flooring
+Restaurant-Kitchen Flooring
+Robo-Flooring
 Rocky-Mountain Flooring
+Room Sketch Flooring
 Rope-Net Flooring
 Rose Flooring
 Rosewood Flooring

@@ -100,6 +100,7 @@ Dungeon Wall
 Exquisite Wall
 Fireworks-Show Wall
 Forest Wall
+Frozen-Foods Freezer Wall
 Future-Tech Wall
 Garbage-Heap Wall
 Glowing-Moss Cave Wall
@@ -109,6 +110,7 @@ Gold-Screen Wall
 Golden Wall
 Graveyard Wall
 Gray Diner Wall
+Gray Locker-Room Wall
 Gray Molded-Panel Wall
 Gray Shanty Wall
 Gray-Striped Wall
@@ -122,6 +124,7 @@ Green Painted-Wood Wall
 Green Playroom Wall
 Green Wedding Wall
 Green-Paint Wall
+Greenhouse Wall
 Groovy Wall
 Harmonious Wall
 Heavy-Curtain Wall
@@ -158,6 +161,7 @@ Monochromatic-Tile Wall
 Mortar Wall
 Mosaic-Tile Wall
 Mossy-Garden Wall
+Museum Wall
 Mush Wall
 Mushroom Mural
 My Melody Wall
@@ -166,13 +170,16 @@ Ocean-Horizon Wall
 Office Wall
 Old Wallpaper
 Olive Moroccan Wall
+Operating-Room Wall
 Orange Camo Wall
 Orange Molded-Panel Wall
+Orange Moroccan-Style Wall
 Orange Wall
 Orange-Paint Wall
 Outdoor-Window Wall
 Paintball Wall
 Palace Wall
+Paradise Planning Wall
 Party Wall
 Pastel Dotted Wall
 Pastel Puzzle Wall
@@ -180,6 +187,7 @@ Peach Two-Toned Tile Wall
 Peach Wall
 Pear Wall
 Perforated-Board Wall
+Pharmacy-Shelving Wall
 Pink Blossoming Wall
 Pink Diner Wall
 Pink Flower-Print Wall
@@ -207,6 +215,7 @@ Red Delicate-Blooms Wall
 Red Dotted Wall
 Red Heart-Pattern Wall
 Red Intricate Wall
+Red Locker-Room Wall
 Red Perforated-Board Wall
 Red Two-Toned Tile Wall
 Red-Brick Wall
@@ -214,7 +223,9 @@ Retro Flower-Print Wall
 Retro Restaurant Wall
 Rice-Paddy Wall
 Ringside Seating
+Robo-Wall
 Rock-Climbing Wall
+Room Sketch Wall
 Rope-Net Wall
 Rose Wall
 Ruins Wall
@@ -286,3 +297,4 @@ Yellow Quilt Wall
 Yellow Simple-Cloth Wall
 Yellow-Paint Wall
 Yellow-Striped Wall
+Zen Architecture Wall
