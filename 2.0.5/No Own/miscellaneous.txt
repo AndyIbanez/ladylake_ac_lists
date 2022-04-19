@@ -30,7 +30,6 @@ Coelacanth Model
 Cricket Model
 Cyclommatus Stag Model
 Damselfly Model
-Dish-Drying Rack (Black)
 Diving Beetle Model
 Dorado Model
 Drone Beetle Model
@@ -39,7 +38,6 @@ Earth-Boring Dung B. Model
 Evening Cicada Model
 Fish-and-Chips
 Fly Model
-Fragrance Diffuser (Yellow)
 Freshwater Goby Model
 Frozen Mini Snowperson (Ice)
 Frozen Mini Snowperson (Ice Blue)
@@ -63,7 +61,6 @@ Grand H. Hercules Model
 Grasshopper Model
 Guppy Model
 Hammerhead Shark Model
-Hamster Cage (Yellow)
 Hermit Crab Model
 Honeybee Model
 Horned Atlas Model
@@ -76,11 +73,6 @@ Killifish Model
 King Salmon Model
 Koi Model
 Ladybug Model
-LCD TV (20 in.) (Silver)
-LCD TV (20 in.) (Blue)
-LCD TV (20 in.) (Pink)
-LCD TV (50 in.) (White)
-LCD TV (50 in.) (Silver)
 Loach Model
 M. Sunset Moth Model
 Mahi-Mahi Model
