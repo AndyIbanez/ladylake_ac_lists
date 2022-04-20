@@ -39,13 +39,6 @@ Evening Cicada Model
 Fish-and-Chips
 Fly Model
 Freshwater Goby Model
-Frozen Mini Snowperson (Ice)
-Frozen Mini Snowperson (Ice Blue)
-Frozen Mini Snowperson (Ice Pink)
-Frozen Mini Snowperson (Ice Yellow)
-Frozen Mini Snowperson (Ice Orange)
-Frozen Mini Snowperson (Ice Green)
-Frozen Mini Snowperson (Ice Purple)
 Gar Model
 Giant Cicada Model
 Giant Snakehead Model
@@ -78,7 +71,6 @@ M. Sunset Moth Model
 Mahi-Mahi Model
 Man-Faced Stink Bug Model
 Mantis Model
-Metronome (Blue)
 Migratory Locust Model
 Mitten Crab Model
 Miyama Stag Model
@@ -128,7 +120,6 @@ Seafood Ajillo
 Seafood Pizza
 Seafood Salad
 Seaweed Soup
-Shell (Red)
 Snail Model
 Snapping Turtle Model
 Soft-Shelled Turtle Model
