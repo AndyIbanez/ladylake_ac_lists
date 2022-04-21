@@ -892,6 +892,12 @@ Model Kit (Blue)(Happy Home Paradise)
 Model Kit (Green)(Happy Home Paradise)
 Model Kit (Black)(Happy Home Paradise)
 Model Kit (Unpainted)(Happy Home Paradise)
+Model Kits (Robots)(Happy Home Paradise)
+Model Kits (Cars)(Happy Home Paradise)
+Model Kits (Trains)(Happy Home Paradise)
+Model Kits (Transportation)(Happy Home Paradise)
+Model Kits (Space)(Happy Home Paradise)
+Model Kits (Historical)(Happy Home Paradise)
 Model Kits (Buildings)(Happy Home Paradise)
 Modeling Clay (Beginning Stages)(Crafting)
 Modeling Clay (Dinosaur)(Crafting)
@@ -1433,6 +1439,8 @@ Spray Can
 Squid-Ink Curry
 Stack of Books (Literature)(Crafting)
 Stack of Books (Comics)(Crafting)
+Stack of Books (Reference)(Crafting)
+Stack of Books (Old)(Crafting)
 Stack of Clothes
 Stacked Bags
 Stacked Bottle Crates (Yellow)(Crafting)

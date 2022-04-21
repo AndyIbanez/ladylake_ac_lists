@@ -74,12 +74,6 @@ Mantis Model
 Migratory Locust Model
 Mitten Crab Model
 Miyama Stag Model
-Model Kits (Robots)(Happy Home Paradise)
-Model Kits (Cars)(Happy Home Paradise)
-Model Kits (Trains)(Happy Home Paradise)
-Model Kits (Transportation)(Happy Home Paradise)
-Model Kits (Space)(Happy Home Paradise)
-Model Kits (Historical)(Happy Home Paradise)
 Mole Cricket Model
 Moray Eel Model
 Mosquito Model
@@ -126,8 +120,6 @@ Soft-Shelled Turtle Model
 Spider Model
 Squid Model
 Squid-Ink Spaghetti
-Stack of Books (Reference)(Crafting)
-Stack of Books (Old)(Crafting)
 Stinkbug Model
 Stringfish Model
 Surgeonfish Model
