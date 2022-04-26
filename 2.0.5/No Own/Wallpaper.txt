@@ -3,4 +3,3 @@ Circus Wall
 Falling-Snow Wall
 Gray-Shelving Wall
 Hallway Wall
-Paw-Print Wall

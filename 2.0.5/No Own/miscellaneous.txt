@@ -116,7 +116,6 @@ Seafood Salad
 Seaweed Soup
 Snail Model
 Snapping Turtle Model
-Soft-Shelled Turtle Model
 Spider Model
 Squid Model
 Squid-Ink Spaghetti
