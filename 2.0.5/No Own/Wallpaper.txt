@@ -2,4 +2,3 @@ Antique Brick Wall
 Circus Wall
 Falling-Snow Wall
 Gray-Shelving Wall
-Hallway Wall

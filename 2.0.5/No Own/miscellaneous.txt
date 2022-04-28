@@ -83,7 +83,6 @@ Neon Tetra Model
 Nibble Fish Model
 Oarfish Model
 Olive Flounder Model
-Orchid Mantis Model
 Paper Kite Butterfly Model
 Peacock Butterfly Model
 Pike Model
