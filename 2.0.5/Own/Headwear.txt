@@ -660,6 +660,7 @@ Sheep Hood (Pink)
 Sheep Hood (Light Blue)
 Sheep Hood (Brown)
 Silk Hat (Black)
+Silk Hat (Green)
 Simple Mum Crown
 Skateboarding Helmet (White)
 Skateboarding Helmet (Gray)

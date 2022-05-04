@@ -202,6 +202,7 @@ Carp on a Cutting Board (Black)(Crafting)
 Carp on a Cutting Board (Yellow)(Crafting)
 Carp on a Cutting Board (Red)(Crafting)
 Carpaccio di Capesante
+Carpaccio di Marlin Blu
 Carpaccio di Salmone
 Carrot Bagel Sandwich
 Carrot Cake
@@ -554,6 +555,7 @@ Fish Container (Gray)(Happy Home Paradise)
 Fish Container (White)(Happy Home Paradise)
 Fish Container (Red)(Happy Home Paradise)
 Fish Container (Blue)(Happy Home Paradise)
+Fish-and-Chips
 Flea Model
 Floating-Biotope Planter (Brown)
 Floating-Biotope Planter (Artistic)
@@ -760,6 +762,7 @@ Jarred Mushrooms
 Judge's Bell
 Kabu Ankake
 Kagamimochi
+Karei no Nitsuke
 Kerokerokeroppi Doll
 Kerokerokeroppi Snack
 Ketchup Fried Rice
@@ -1439,6 +1442,7 @@ Spooky Trick Lamp (Green)(Crafting)
 Spooky Trick Lamp (Monochrome)(Crafting)
 Spray Can
 Squid-Ink Curry
+Squid-Ink Spaghetti
 Stack of Books (Literature)(Crafting)
 Stack of Books (Comics)(Crafting)
 Stack of Books (Reference)(Crafting)
@@ -1534,6 +1538,7 @@ Tangled Cords (Black & White)
 Tangled Cords (Red & Black)
 Tangled Cords (Blue & Red)
 Tangled Cords (Colorful)
+Tangyuan
 Tantanmen
 Tape Deck (Silver)
 Tape Deck (Orange)
@@ -1667,6 +1672,7 @@ Upright Speaker (Red)(Happy Home Paradise)
 Upright Speaker (Yellow)(Happy Home Paradise)
 Upright Speaker (Blue)(Happy Home Paradise)
 Upright Speaker (Green)(Happy Home Paradise)
+Veggie Basket
 Veggie Cookies
 Veggie Crepe
 Veggie Cupcakes

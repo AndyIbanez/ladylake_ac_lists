@@ -98,6 +98,7 @@ Dirt-Clod Wall
 Dojo Wall
 Dungeon Wall
 Exquisite Wall
+Falling-Snow Wall
 Fireworks-Show Wall
 Forest Wall
 Frozen-Foods Freezer Wall
