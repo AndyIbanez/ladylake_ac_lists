@@ -109,7 +109,6 @@ Sea Horse Model
 Seafood Ajillo
 Seafood Pizza
 Seafood Salad
-Seaweed Soup
 Snail Model
 Snapping Turtle Model
 Spider Model
