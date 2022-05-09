@@ -108,7 +108,6 @@ Sea Butterfly Model
 Sea Horse Model
 Seafood Ajillo
 Seafood Pizza
-Seafood Salad
 Snail Model
 Snapping Turtle Model
 Spider Model
