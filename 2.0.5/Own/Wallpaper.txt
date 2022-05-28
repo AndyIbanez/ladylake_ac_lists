@@ -1,6 +1,7 @@
 Abstract Wall
 Airplane Wall
 Ancient Wall
+Antique Brick Wall
 Apparel-Shop Wall
 Apple Wall
 Aqua Tile Wall
@@ -114,6 +115,7 @@ Gray Diner Wall
 Gray Locker-Room Wall
 Gray Molded-Panel Wall
 Gray Shanty Wall
+Gray-Shelving Wall
 Gray-Striped Wall
 Green Blossoming Wall
 Green Delicate-Blooms Wall

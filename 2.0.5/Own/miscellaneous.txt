@@ -198,6 +198,7 @@ Cards (Blue)(Happy Home Paradise)
 Cards (Red)(Happy Home Paradise)
 Cards (Green)(Happy Home Paradise)
 Carnations
+Carp Model
 Carp on a Cutting Board (Black)(Crafting)
 Carp on a Cutting Board (Yellow)(Crafting)
 Carp on a Cutting Board (Red)(Crafting)
@@ -777,6 +778,7 @@ Key Tray (Light Brown)(Happy Home Paradise)
 Key Tray (Silver)(Happy Home Paradise)
 Key Tray (Pink)(Happy Home Paradise)
 Key Tray (Brass)(Happy Home Paradise)
+King Salmon Model
 Knife Block (Natural)
 Knife Block (Silver)
 Knife Block (Black)
@@ -1210,6 +1212,7 @@ Puppy Plushie (Black)
 Puppy Plushie (Tricolored)
 Puppy Plushie (Gray & White)
 Puppy Plushie (Pink)
+R. Brooke's Birdwing Model
 Rainbow Stag Model
 Rattan Table Lamp (Brown)
 Rattan Table Lamp (Reddish Brown)
@@ -1245,6 +1248,7 @@ Recycled-Paper Bundle (Dictionaries)
 Recycled-Paper Bundle (Comics)
 Recycled-Paper Bundle (Technical Books)
 Recycled-Paper Bundle (Old Books)
+Red Dragonfly Model
 Reese & Cyrus Photo Plate
 Resetti Model
 Revolving Spice Rack (Brown)
@@ -1764,6 +1768,7 @@ Zodiac Dragon Figurine
 Zodiac Horse Figurine
 Zodiac Monkey Figurine
 Zodiac Ox Figurine
+Zodiac Pig Figurine
 Zodiac Rabbit Figurine
 Zodiac Rat Figurine
 Zodiac Rooster Figurine

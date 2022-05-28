@@ -17,7 +17,6 @@ Blowfish Model
 Blue Marlin Model
 Brown Cicada Model
 Butterfly Fish Model
-Carp Model
 Catfish Model
 Centipede Model
 Char Model
@@ -60,7 +59,6 @@ Horned Elephant Model
 Horse Mackerel Model
 Jewel Beetle Model
 Killifish Model
-King Salmon Model
 Koi Model
 Ladybug Model
 Loach Model
@@ -89,11 +87,9 @@ Pond Smelt Model
 Pondskater Model
 Pop-Eyed Goldfish Model
 Puffer Fish Model
-R. Brooke's Birdwing Model
 Rainbowfish Model
 Ranchu Goldfish Model
 Ray Model
-Red Dragonfly Model
 Red Snapper Model
 Ribbon Eel Model
 Rice Grasshopper Model
@@ -129,4 +125,3 @@ Walking Stick Model
 Wasp Model
 Wharf Roach Model
 Yellow Perch Model
-Zodiac Pig Figurine
