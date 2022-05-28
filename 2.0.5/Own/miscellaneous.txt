@@ -8,6 +8,7 @@ ACNH Nintendo Switch
 Afternoon-Tea Set (Silver)(Happy Home Paradise)
 Afternoon-Tea Set (Gold)(Happy Home Paradise)
 Afternoon-Tea Set (White)(Happy Home Paradise)
+Agrias Butterfly Model
 Air Circulator (White)
 Air Circulator (Black)
 Air Circulator (Pink)
@@ -25,7 +26,10 @@ Analog Kitchen Scale (Ivory)
 Analog Kitchen Scale (Light Blue)
 Analog Kitchen Scale (Silver)
 Anchoas al Ajillo
+Anchovy Model
+Angelfish Model
 Ant Farm
+Ant Model
 Anthurium Plant (Red)
 Anthurium Plant (Berry Red)
 Anthurium Plant (Green)
@@ -45,12 +49,14 @@ Apple Jelly
 Apple Pie
 Apple Smoothie
 Apple Tart
+Arapaima Model
 Aroma Pot (White)(Crafting)
 Aroma Pot (Brown)(Crafting)
 Aroma Pot (Green)(Crafting)
 Aroma Pot (Pink)(Crafting)
 Aroma Pot (Cream)(Crafting)
 Aroma Pot (Black)(Crafting)
+Arowana Model
 Baby Bear (Cream)
 Baby Bear (Caramel Mocha)
 Baby Bear (Choco)
@@ -61,6 +67,7 @@ Baby Panda
 Backlit Sign (Black)(Happy Home Paradise)
 Backlit Sign (Silver)(Happy Home Paradise)
 Backlit Sign (White)(Happy Home Paradise)
+Bagworm Model
 Baked Potatoes
 Ball (Basketball)
 Ball (Soccer Ball)
@@ -85,7 +92,9 @@ Banker's Lamp (Blue)(Happy Home Paradise)
 Banker's Lamp (White)(Happy Home Paradise)
 Banker's Lamp (Black)(Happy Home Paradise)
 Banker's Lamp (Orange)(Happy Home Paradise)
+Barred Knifejaw Model
 Barred-Knifejaw Carpaccio
+Barreleye Model
 Baseball Set (Red & Tan)(Happy Home Paradise)
 Baseball Set (Beige & Brown)(Happy Home Paradise)
 Baseball Set (Brown & Red)(Happy Home Paradise)
@@ -106,7 +115,9 @@ Beach Ball (Colorful)
 Beach Ball (Blue)
 Beach Ball (Red)
 Beach Ball (Watermelon)
+Bell Cricket Model
 Berliner
+Betta Model
 Bingo Wheel
 Birthday Cake (Whipped-Cream Topping)
 Birthday Cake (Chocolate Buttercream)
@@ -117,8 +128,12 @@ Birthday Candles (Green)
 Birthday Candles (Orange)
 Birthday Candles (Gorgeous)
 Biryani
+Bitterling Model
+Black Bass Model
 Blood-Orange Juice
 Blossom Lantern
+Blowfish Model
+Blue Marlin Model
 Blue Weevil Beetle Model
 Bluegill Model
 Board Game (Simple Path Game)
@@ -155,6 +170,7 @@ Brine-Shrimp Aquarium
 Bronze Bug Trophy
 Bronze Fish Trophy
 Bronze HHA Trophy
+Brown Cicada Model
 Brown-Sugar Cupcakes
 Brown-Sugar Pound Cake
 Bunny Day Basket
@@ -168,6 +184,7 @@ Bunny Garden Decoration (Black)(Happy Home Paradise)
 Bunny Garden Decoration (White)(Happy Home Paradise)
 Bunny Garden Decoration (Pink)(Happy Home Paradise)
 Bunny Garden Decoration (Blue)(Happy Home Paradise)
+Butterfly Fish Model
 Cake Salé
 Camp Stove (Yellow)
 Camp Stove (Red)
@@ -241,11 +258,13 @@ Cat Grass (Black)
 Cat Grass (Red)
 Cat Grass (Light Blue)
 Cat Grass (Pink)
+Catfish Model
 Celebratory Candles (Brown)
 Celebratory Candles (Light Brown)
 Celebratory Candles (Black)
 Celebratory Candles (Blue)
 Celebratory Candles (White)
+Centipede Model
 Chafing Dish (None)(Happy Home Paradise)
 Chafing Dish (Caprese Salad)(Happy Home Paradise)
 Chafing Dish (Cold Entrée with Sauce)(Happy Home Paradise)
@@ -260,9 +279,11 @@ Chainsaw (Orange)(Happy Home Paradise)
 Chainsaw (White)(Happy Home Paradise)
 Chainsaw (Green)(Happy Home Paradise)
 Champiñones al Ajillo
+Char Model
 Cherry Jam
 Cherry Jelly
 Cherry Pie
+Cherry Salmon Model
 Cherry Smoothie
 Cherry Speakers (Cherry)(Crafting)
 Cherry Speakers (Black Cherry)(Crafting)
@@ -275,7 +296,9 @@ Chocolate Heart (Milk Chocolate)
 Chocolate Heart (Dark Chocolate)
 Chocolate Heart (White Chocolate)
 Chocolate Heart (Strawberry Chocolate)
+Cicada Shell Model
 Cinnamoroll Tray
+Citrus Long-Horned B. Model
 Clam Chowder
 Classic Pitcher (Unglazed)(Crafting)
 Classic Pitcher (Simple)(Crafting)
@@ -290,12 +313,14 @@ Clipboard (Yellow)(Happy Home Paradise)
 Clipboard (Green)(Happy Home Paradise)
 Clipboard (White)(Happy Home Paradise)
 Clipboard (Brown)(Happy Home Paradise)
+Clown Fish Model
 Coconut Cookies
 Coconut Juice
 Coconut Milk
 Coconut Oil
 Coconut Pancakes
 Coconut Pudding
+Coelacanth Model
 Coffee Beans (Original Blend)
 Coffee Beans (Red (Mocha))
 Coffee Beans (Green (Kilimanjaro))
@@ -333,6 +358,7 @@ Cream and Sugar (Brown)
 Cream and Sugar (Silver)
 Cream and Sugar (White)
 Cream and Sugar (Floral)
+Cricket Model
 Crucian Carp Model
 Cube Light
 Cucumber Horse
@@ -348,6 +374,7 @@ Cutting Board (No Finish)(Crafting)
 Cutting Board (Cherry Brown)(Crafting)
 Cutting Board (Dark)(Crafting)
 Cutting Board (Natural)(Crafting)
+Cyclommatus Stag Model
 Dab Model
 Dace Model
 DAL Model Plane (Blue)
@@ -358,6 +385,7 @@ DAL Mug
 Dala Horse (Red)
 Dala Horse (Blue)
 Dala Horse (White)
+Damselfly Model
 Dango
 Darner Dragonfly Model
 Decorative Bottles (Green)(Happy Home Paradise)
@@ -441,6 +469,7 @@ Dispenser (Blue)(Happy Home Paradise)
 Dispenser (Pink)(Happy Home Paradise)
 Dispenser (Purple)(Happy Home Paradise)
 Dispenser (Silver)(Happy Home Paradise)
+Diving Beetle Model
 Document Stack
 Dollhouse (Red)
 Dollhouse (Brown)
@@ -458,6 +487,7 @@ Dolly (White)
 Donation Box (Light Brown)(Crafting)
 Donation Box (White)(Crafting)
 Donation Box (Brown)(Crafting)
+Dorado Model
 Double Gloucester Cheese
 Dreamy Bear Toy (Purple)(Happy Home Paradise)
 Dreamy Bear Toy (Blue)(Happy Home Paradise)
@@ -484,6 +514,9 @@ Dress-Up Doll (Medium-Length White)(Happy Home Paradise)
 Dress-Up Doll (Long Red)(Happy Home Paradise)
 Dress-Up Doll (Short Pink)(Happy Home Paradise)
 Dress-Up Doll (Medium-Length Black)(Happy Home Paradise)
+Drone Beetle Model
+Dung Beetle Model
+Earth-Boring Dung B. Model
 Eggplant Cow
 Electronics Kit (Green)
 Electronics Kit (Black)
@@ -570,6 +603,7 @@ Flower Tabletop Mirror (Purple)(Happy Home Paradise)
 Flower Tabletop Mirror (Pink)(Happy Home Paradise)
 Flower Tabletop Mirror (White)(Happy Home Paradise)
 Flower Tabletop Mirror (Black)(Happy Home Paradise)
+Fly Model
 Football
 Football Fish Model
 Fortune-Telling Set (Purple)
@@ -599,6 +633,7 @@ Fresh-Food Trays (Red-Fleshed Fish Block)(Happy Home Paradise)
 Fresh-Food Trays (Whitefish Block)(Happy Home Paradise)
 Fresh-Food Trays (Squid)(Happy Home Paradise)
 Fresh-Food Trays (Fatty Tuna)(Happy Home Paradise)
+Freshwater Goby Model
 Fried Rice
 Frog Model
 Frosted Cookies
@@ -632,6 +667,7 @@ Futuristic Meal (White)(Happy Home Paradise)
 Futuristic Meal (Silver)(Happy Home Paradise)
 Futuristic Meal (Black)(Happy Home Paradise)
 Futuristic Meal (Green)(Happy Home Paradise)
+Gar Model
 Garden Gnome (Sprightly Gnome)
 Garden Gnome (Sleepy Gnome)
 Garden Gnome (Surprised Gnome)
@@ -640,6 +676,10 @@ Garden Gnome (Hungry Gnome)
 Garden Gnome (Laid-Back Gnome)
 Garden Gnome (Passionate Gnome)
 Garden Gnome (Rebel Gnome)
+Giant Cicada Model
+Giant Snakehead Model
+Giant Stag Model
+Giant Trevally Model
 Glass Holder with Candle (White)
 Glass Holder with Candle (Red)
 Glass Holder with Candle (Pink)
@@ -680,13 +720,21 @@ Golden Dishes
 Golden Dung Beetle
 Golden Garden Bunny
 Golden Piggy Bank
+Golden Stag Model
+Golden Trout Model
 Golden Urn
 Golden Wristwatch
 Goldfish Model
+Grand Giraffe Stag Model
+Grand Goliath Beetle Model
+Grand H. Hercules Model
+Grasshopper Model
 Gratin
 Great Purple Emperor Model
 Great White Shark Model
 Grilled Sea Bass with Herbs
+Guppy Model
+Hammerhead Shark Model
 Hamster Cage (Blue)
 Hamster Cage (Pink)
 Hamster Cage (Yellow)
@@ -706,12 +754,18 @@ Heart-Shaped Bouquet (White)
 Heart-Shaped Bouquet (Black)
 Hearty Ramen
 Hello Kitty Planter
+Hermit Crab Model
 Holiday Candle (Red)(Crafting)
 Holiday Candle (Blue)(Crafting)
 Holiday Candle (Gold)(Crafting)
 Holiday Candle (Brown)(Crafting)
 Holiday Candle (Pink)(Crafting)
 Homework Set
+Honeybee Model
+Horned Atlas Model
+Horned Dynastid Model
+Horned Elephant Model
+Horse Mackerel Model
 Hourglass (Natural)
 Hourglass (White)
 Hourglass (Black)
@@ -760,6 +814,7 @@ Ironing Set
 Japanese-Style Meal
 Jarred Bamboo Shoots
 Jarred Mushrooms
+Jewel Beetle Model
 Judge's Bell
 Kabu Ankake
 Kagamimochi
@@ -778,11 +833,14 @@ Key Tray (Light Brown)(Happy Home Paradise)
 Key Tray (Silver)(Happy Home Paradise)
 Key Tray (Pink)(Happy Home Paradise)
 Key Tray (Brass)(Happy Home Paradise)
+Killifish Model
 King Salmon Model
 Knife Block (Natural)
 Knife Block (Silver)
 Knife Block (Black)
+Koi Model
 Lab-Experiments Set
+Ladybug Model
 Lantern (Red)
 Lantern (Blue)
 Lantern (Green)
@@ -816,11 +874,13 @@ Life Ring (Red)
 Life Ring (Blue)
 Life Ring (Yellow)
 Life Ring (Orange)
+Loach Model
 Long Locust Model
 Lucky Cat (White)
 Lucky Cat (Black)
 Lucky Gold Cat
 Luncheon Plate Meal
+M. Sunset Moth Model
 Magazine
 Magazine Rack (Natural)(Crafting)
 Magazine Rack (Orange)(Crafting)
@@ -832,10 +892,13 @@ Magazine Rack (Green)(Crafting)
 Magazine Rack (Red)(Crafting)
 Magic Kit (Red)
 Magic Kit (Blue)
+Mahi-Mahi Model
 Makeup Pouch (Orange)(Happy Home Paradise)
 Makeup Pouch (Red)(Happy Home Paradise)
 Makeup Pouch (Pink)(Happy Home Paradise)
 Makeup Pouch (Purple)(Happy Home Paradise)
+Man-Faced Stink Bug Model
+Mantis Model
 Marigold Decoration
 Matryoshka (Red)(Crafting)
 Matryoshka (Yellow)(Crafting)
@@ -860,6 +923,7 @@ Microwave (White)
 Microwave (Black)
 Microwave (Red)
 Microwave (Green)
+Migratory Locust Model
 Milkshake
 Minestrone Soup
 Mini Circuit (Red & White)
@@ -877,6 +941,7 @@ Mini Dharma (Goukaku (Success))
 Mini Golden Dharma
 Mini-Cactus Set
 Miso Ramen
+Mitten Crab Model
 Mixed-Fruits Bagel Sandwich
 Mixed-Fruits Crepe
 Mixed-Fruits Pie
@@ -890,6 +955,7 @@ Mixer (Blueberries)
 Mixer (Bananas)
 Mixer (Strawberries)
 Mixer (Kiwifruit)
+Miyama Stag Model
 Model Kit (Red)(Happy Home Paradise)
 Model Kit (White)(Happy Home Paradise)
 Model Kit (Yellow)(Happy Home Paradise)
@@ -913,6 +979,7 @@ Modeling Clay (Clay Dinosaur)(Crafting)
 Modeling Clay (Clay Cake)(Crafting)
 Modern Cash Register (White)(Happy Home Paradise)
 Modern Cash Register (Black)(Happy Home Paradise)
+Mole Cricket Model
 Mom's Candle Set (Cubes)
 Mom's Candle Set (Elegant Flowers)
 Mom's Candle Set (Chic Flowers)
@@ -957,7 +1024,10 @@ Mom's Tissue Box (Fruits)
 Mom's Tissue Box (Denim with Stripes)
 Monarch Butterfly Model
 Moon Cakes
+Moray Eel Model
+Mosquito Model
 Moss Ball
+Moth Model
 Mug (White)
 Mug (Yellow)
 Mug (Red)
@@ -974,14 +1044,17 @@ Mushroom Salad
 Nail-Art Set (Pink)
 Nail-Art Set (Black)
 Nanakusa Gayu
+Napoleonfish Model
 Nearly Busted Radio (Black)
 Nearly Busted Radio (Silver)
 Nearly Busted Radio (Red)
 Nearly Busted Radio (Yellow)
 Nearly Busted Radio (Blue)
 Nearly Busted Radio (Brown)
+Neon Tetra Model
 New Year's Noodles
 Newton's Cradle
+Nibble Fish Model
 Nigirizushi
 Nintendo Switch (Neon Blue & Neon Red)
 Nintendo Switch (Gray)
@@ -1003,6 +1076,7 @@ Nuptial Ring Pillow (Blue)
 Nuptial Ring Pillow (Red & White)
 Nutcracker (Red)
 Nutcracker (Blue)
+Oarfish Model
 Office Materials (Craft Tape)(Happy Home Paradise)
 Office Materials (Packing Tape)(Happy Home Paradise)
 Office Materials (Fabric Tape)(Happy Home Paradise)
@@ -1017,6 +1091,7 @@ Old-Fashioned Alarm Clock (Copper)
 Old-Fashioned Alarm Clock (Silver)
 Old-Fashioned Alarm Clock (Gold)
 Old-Fashioned Washtub
+Olive Flounder Model
 Olive-Flounder Meunière
 Olivier Salad
 Omurice
@@ -1054,6 +1129,7 @@ Painting Set (Light Blue)
 Painting Set (White)
 Pale Chub Model
 Pancakes
+Paper Kite Butterfly Model
 Paper Tiger
 Paradise Planning Candles
 Paradise Planning Cushion
@@ -1068,6 +1144,7 @@ Peach Smoothie
 Peach Surprise Box (White Peach)(Crafting)
 Peach Surprise Box (Yellow Peach)(Crafting)
 Peach Tart
+Peacock Butterfly Model
 Pear Jam
 Pear Jelly
 Pear Pie
@@ -1097,10 +1174,13 @@ Piggy Bank (White)(Happy Home Paradise)
 Piggy Bank (Brown)(Happy Home Paradise)
 Piggy Bank (Black)(Happy Home Paradise)
 Piggy Bank (Floral)(Happy Home Paradise)
+Pike Model
 Pilaf
 Pile of Cash (Gray)(Crafting)
 Pile of Cash (Yellow)(Crafting)
+Pill Bug Model
 Pine Bonsai Tree
+Piranha Model
 Pizza Margherita
 Plain Cupcakes
 Plain Scones
@@ -1124,6 +1204,9 @@ Pocket Vintage Camper (Retro Ride)
 Pocket Vintage Camper (Southwestern Flair)
 Poke
 Pompompurin Pudding
+Pond Smelt Model
+Pondskater Model
+Pop-Eyed Goldfish Model
 Pop-Up Book (The Ocean Blue)
 Pop-Up Book (The Mesozoic World)
 Pop-Up Book (Savannah)
@@ -1196,6 +1279,7 @@ Protein Shaker Bottle (Strawberry Flavored)
 Public Telephone (Pink)(Happy Home Paradise)
 Public Telephone (Red)(Happy Home Paradise)
 Public Telephone (Blue)(Happy Home Paradise)
+Puffer Fish Model
 Pull-Apart Bread
 Pumpkin Bagel Sandwich
 Pumpkin Cupcakes
@@ -1214,6 +1298,8 @@ Puppy Plushie (Gray & White)
 Puppy Plushie (Pink)
 R. Brooke's Birdwing Model
 Rainbow Stag Model
+Rainbowfish Model
+Ranchu Goldfish Model
 Rattan Table Lamp (Brown)
 Rattan Table Lamp (Reddish Brown)
 Rattan Table Lamp (Light Brown)
@@ -1226,6 +1312,7 @@ Rattan Towel Basket (Light Brown)
 Rattan Towel Basket (White)
 Rattan Towel Basket (Gray)
 Rattan Towel Basket (Black)
+Ray Model
 Record Box (Black)
 Record Box (White)
 Record Box (Red)
@@ -1249,16 +1336,19 @@ Recycled-Paper Bundle (Comics)
 Recycled-Paper Bundle (Technical Books)
 Recycled-Paper Bundle (Old Books)
 Red Dragonfly Model
+Red Snapper Model
 Reese & Cyrus Photo Plate
 Resetti Model
 Revolving Spice Rack (Brown)
 Revolving Spice Rack (Orange)
 Revolving Spice Rack (Silver)
+Ribbon Eel Model
 Rice Cooker (White)
 Rice Cooker (Silver)
 Rice Cooker (Brown)
 Rice Cooker (Berry Red)
 Rice Cooker (Black)
+Rice Grasshopper Model
 Ring (Red)
 Ring (Blue)
 Ring (Green)
@@ -1281,7 +1371,9 @@ Ringtoss (Colorful)(Crafting)
 Ringtoss (Pastel)(Crafting)
 Ringtoss (Cool)(Crafting)
 Risotto
+Robust Cicada Model
 Roost Sablé Cookie
+Rosalia Batesi Beetle Model
 Rotary Phone (Black)
 Rotary Phone (White)
 Rotary Phone (Green)
@@ -1291,10 +1383,12 @@ Rotary Phone (Yellow)
 Rotary Phone (Orange)
 Rotary Phone (Silver)
 Rover's Briefcase
+Saddled Bichir Model
 Salad
 Salad-Stuffed Tomato
 Salade de Carottes Râpées
 Salmon Bagel Sandwich
+Salmon Model
 Salmon Sandwich
 Sampler (Light Gray)(Happy Home Paradise)
 Sampler (Blue & Black)(Happy Home Paradise)
@@ -1305,6 +1399,9 @@ Sandwich Plate Meal
 Sardines in Oil
 Sautéed Olive Flounder
 Savory Bread
+Saw Shark Model
+Saw Stag Model
+Scarab Beetle Model
 Scorpio Lamp
 Scorpion Model
 Scrapbook (Brown)(Happy Home Paradise)
@@ -1316,7 +1413,9 @@ Scrapbook (Pink)(Happy Home Paradise)
 Scrapbook (Green)(Happy Home Paradise)
 Scrapbook (Beige)(Happy Home Paradise)
 Sea Bass Model
+Sea Butterfly Model
 Sea Globe
+Sea Horse Model
 Sea-Bass Pie
 Seafood Salad
 Seaweed Soup
@@ -1413,6 +1512,8 @@ Snack (Chocolates)(Happy Home Paradise)
 Snack (Cheesy Snacks)(Happy Home Paradise)
 Snack (Spicy Snacks)(Happy Home Paradise)
 Snack Bread
+Snail Model
+Snapping Turtle Model
 Snow Globe
 Soft-Shelled Turtle Model
 Songpyeon
@@ -1429,6 +1530,7 @@ Spaghetti Genovese
 Spaghetti Marinara
 Spaghetti Napolitan
 Spaghetti Peperoncino
+Spider Model
 Spooky Candy Set (Orange)(Crafting)
 Spooky Candy Set (Yellow)(Crafting)
 Spooky Candy Set (Green)(Crafting)
@@ -1447,6 +1549,7 @@ Spooky Trick Lamp (Yellow)(Crafting)
 Spooky Trick Lamp (Green)(Crafting)
 Spooky Trick Lamp (Monochrome)(Crafting)
 Spray Can
+Squid Model
 Squid-Ink Curry
 Squid-Ink Spaghetti
 Stack of Books (Literature)(Crafting)
@@ -1487,6 +1590,7 @@ Stewpot (Curry)(Happy Home Paradise)
 Stewpot (Chili)(Happy Home Paradise)
 Stewpot (Ramen Broth)(Happy Home Paradise)
 Stewpot (Miso Broth)(Happy Home Paradise)
+Stinkbug Model
 Stovetop Espresso Maker (Silver)
 Stovetop Espresso Maker (Black)
 Stovetop Espresso Maker (Red)
@@ -1496,6 +1600,7 @@ Strapped Books (Dark Green)(Happy Home Paradise)
 Strapped Books (Brown)(Happy Home Paradise)
 Strapped Books (Green)(Happy Home Paradise)
 Strawberry Soda
+Stringfish Model
 Sturdy Paper Bag
 Sturdy Sewing Box (Natural)
 Sturdy Sewing Box (Brown)
@@ -1510,7 +1615,9 @@ Sugar Crepe
 Super Mushroom
 Super Star
 Super-Premium Nigirizushi
+Surgeonfish Model
 Surichwi Tteok
+Sweetfish Model
 Table Lamp
 Table Setting (White)
 Table Setting (Pink)
@@ -1540,6 +1647,7 @@ Tabletop Record Player (Blue)(Happy Home Paradise)
 Tabletop Record Player (Yellow)(Happy Home Paradise)
 Tabletop Record Player (Pink)(Happy Home Paradise)
 Tabletop Record Player (Brown)(Happy Home Paradise)
+Tadpole Model
 Tangled Cords (Black & White)
 Tangled Cords (Red & Black)
 Tangled Cords (Blue & Red)
@@ -1550,6 +1658,7 @@ Tape Deck (Silver)
 Tape Deck (Orange)
 Tape Deck (White)
 Tape Deck (Black)
+Tarantula Model
 Tea Set (Green)
 Tea Set (Blue)
 Tea Set (Red)
@@ -1581,7 +1690,9 @@ Throwback Wrestling Figure (Pink)
 Throwback Wrestling Figure (Black)
 Throwback Wrestling Figure (Gold)
 Thumbprint Jam Cookies
+Tiger Beetle Model
 Tiger Butterfly Model
+Tilapia Model
 Tin Bucket
 Tin Robot (Silver)
 Tin Robot (Blue)
@@ -1638,6 +1749,7 @@ Tree's Bounty Lamp (Brown)(Crafting)
 Tree's Bounty Lamp (White)(Crafting)
 Tree's Bounty Little Tree (Brown)(Crafting)
 Tree's Bounty Little Tree (White)(Crafting)
+Tuna Model
 Turkey Day Casserole (Fall Harvest)(Crafting)
 Turkey Day Casserole (Spring Blooming)(Crafting)
 Turkey Day Decorations (Fall Harvest)(Crafting)
@@ -1691,6 +1803,11 @@ Vine Lamp (Light Green)(Crafting)
 Vine Lamp (Dark Green)(Crafting)
 Vine Lamp (Brown)(Crafting)
 Vine Lamp (Gray)(Crafting)
+Violin Beetle Model
+Walker Cicada Model
+Walking Leaf Model
+Walking Stick Model
+Wasp Model
 Water Bird (Red)(Happy Home Paradise)
 Water Bird (Blue)(Happy Home Paradise)
 Water Bird (Green)(Happy Home Paradise)
@@ -1704,6 +1821,7 @@ Wedding Candle Set (Chic)
 Wedding Candle Set (Garden)
 Western-Style Meal
 Whale Shark Model
+Wharf Roach Model
 Whoopee Cushion (Red)
 Whoopee Cushion (Green)
 Whoopee Cushion (Yellow)
@@ -1748,6 +1866,7 @@ Wristwatch (Blue)(Happy Home Paradise)
 Wristwatch (Brown)(Happy Home Paradise)
 Wristwatch (Yellow)(Happy Home Paradise)
 Yellow Butterfly Model
+Yellow Perch Model
 Yule Log (Chocolate)
 Yule Log (Chestnut)
 Yule Log (Whipped-Cream Topping)
